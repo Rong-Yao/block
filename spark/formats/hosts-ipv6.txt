@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.049
 # Release: 049
-# Entries: 60,935
+# Entries: 60,936
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:02:51
+# Updated: Tue, 18 Feb 20 01:49:49
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -11468,6 +11468,7 @@ ff02::3 ip6-allhosts
 :: bi.medscape.com
 :: bi.mgid.com
 :: bi.yeshen.com
+:: biartau.id
 :: biavgmpz.com
 :: bibei.uc.cn
 :: bibo.api.swiftkey.com

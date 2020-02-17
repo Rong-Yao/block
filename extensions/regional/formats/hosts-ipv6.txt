@@ -29,7 +29,7 @@
 # Entries: 63,262
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:07:04
+# Updated: Tue, 18 Feb 20 01:54:10
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #

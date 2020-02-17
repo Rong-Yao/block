@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 15151
+# Total Domains - 15137
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -241,7 +241,6 @@
 0.0.0.0 academy.bithumb.com
 0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 acc.cryptopool.eu
-0.0.0.0 access.next.exchange
 0.0.0.0 account.atomminer.com
 0.0.0.0 account.exchange.bitcoin.com
 0.0.0.0 account.sparkpool.com
@@ -649,7 +648,6 @@
 0.0.0.0 api.music.mypool.online
 0.0.0.0 api.nanopool.org
 0.0.0.0 api.newpool.cool
-0.0.0.0 api.next.exchange
 0.0.0.0 api.nicehash.com
 0.0.0.0 api.nimiq.watch
 0.0.0.0 api.nnc.mypool.online
@@ -750,7 +748,6 @@
 0.0.0.0 app.bixin.com
 0.0.0.0 app.magical.coffee
 0.0.0.0 app.minerpool.net
-0.0.0.0 app.next.exchange
 0.0.0.0 app.slushpool.com
 0.0.0.0 app.stex.com
 0.0.0.0 app.supportxmr.com
@@ -1180,8 +1177,6 @@
 0.0.0.0 beta.gulfcoastmining.com
 0.0.0.0 beta.luxor.tech
 0.0.0.0 beta.minerpool.net
-0.0.0.0 beta.namecoin.info
-0.0.0.0 beta.next.exchange
 0.0.0.0 beta.powermining.pw
 0.0.0.0 beta.slushpool.com
 0.0.0.0 beta.sparkpool.com
@@ -1241,7 +1236,6 @@
 0.0.0.0 bis-pool.io
 0.0.0.0 biserd.ethosdistro.com
 0.0.0.0 bismuth.eggpool.net
-0.0.0.0 bit.namecoin.info
 0.0.0.0 bit.nanopool.org
 0.0.0.0 bitaccess.co
 0.0.0.0 bitapool.com
@@ -1436,7 +1430,6 @@
 0.0.0.0 blog.minerpool.net
 0.0.0.0 blog.monerov.online
 0.0.0.0 blog.muxdux.com
-0.0.0.0 blog.next.exchange
 0.0.0.0 blog.nicehash.com
 0.0.0.0 blog.pickaxe.pro
 0.0.0.0 blog.poolin.com
@@ -1905,7 +1898,6 @@
 0.0.0.0 chain-vip-bj.api.btc.com
 0.0.0.0 chain.api.btc.com
 0.0.0.0 chain.btc.com
-0.0.0.0 chain.next.exchange
 0.0.0.0 chainlizard.kmd.dev
 0.0.0.0 chainz.ge
 0.0.0.0 challengecoin.io
@@ -3828,7 +3820,6 @@
 0.0.0.0 expcd.poolgpu.com
 0.0.0.0 explore.burstcoin.ro
 0.0.0.0 explore.dego.llama.horse
-0.0.0.0 explore.next.exchange
 0.0.0.0 explore.safex.io
 0.0.0.0 explore.siaprimestats.com
 0.0.0.0 explorer-api.esprezzo.io
@@ -8177,7 +8168,6 @@
 0.0.0.0 mx.mx.cryptopool.net
 0.0.0.0 mx.mx.mx.cryptopool.net
 0.0.0.0 mx.mx.mx.mx.cryptopool.net
-0.0.0.0 mx.namecoin.info
 0.0.0.0 mx.pirl.space
 0.0.0.0 mx.simplycoin.eu
 0.0.0.0 mx.switchercoin.com
@@ -8289,7 +8279,6 @@
 0.0.0.0 nalps.pickaxe.pro
 0.0.0.0 nam.coinfoundry.org
 0.0.0.0 name.nanopool.org
-0.0.0.0 namecoin.info
 0.0.0.0 nametraff.com
 0.0.0.0 napi.bcn.unipool.pro
 0.0.0.0 napi.bsod.pw
@@ -8547,7 +8536,6 @@
 0.0.0.0 newyorkcoin.mastermining.net
 0.0.0.0 nexious.com
 0.0.0.0 next.bitcore.io
-0.0.0.0 next.exchange
 0.0.0.0 nextbdom.ru
 0.0.0.0 nextcloud.easyhash.pro
 0.0.0.0 nextcloud.thenorb.com
@@ -9672,7 +9660,6 @@
 0.0.0.0 pool.musicoin.tw
 0.0.0.0 pool.myminers.org
 0.0.0.0 pool.nanopool.org
-0.0.0.0 pool.next.exchange
 0.0.0.0 pool.ngin.52hash.com
 0.0.0.0 pool.nilu.tech
 0.0.0.0 pool.no
@@ -13957,7 +13944,6 @@
 0.0.0.0 www.news.spotmecoin.com
 0.0.0.0 www.newyorkcoin.mastermining.net
 0.0.0.0 www.nexious.com
-0.0.0.0 www.next.exchange
 0.0.0.0 www.nexuspool.ru
 0.0.0.0 www.nibirupool.com
 0.0.0.0 www.nicepool.net

@@ -27,10 +27,10 @@
 ! Version: 20.02.049
 ! Release: 049
 ! Expires: 1 day (update frequency)
-! Entries: 120,879
+! Entries: 120,866
 ! Pack Code: E8LUG0-P
 ! License: MIT, https://energized.pro/license
-! Updated: Tue, 18 Feb 20 01:02:55
+! Updated: Tue, 18 Feb 20 01:49:53
 ! RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/filter
 ! --------------------------------------------
 !
@@ -4241,7 +4241,6 @@
 ||access.adblox.net^
 ||access.conversantmedia.com^
 ||access.inmobi.com^
-||access.next.exchange^
 ||access.open.uc.cn^
 ||accessa.club^
 ||accessi.it^
@@ -13706,7 +13705,6 @@
 ||api.newsfeed.intl.miui.com^
 ||api.newshub.uodoo.com^
 ||api.nexd.com^
-||api.next.exchange^
 ||api.nicehash.com^
 ||api.nimiq.watch^
 ||api.ning.com^
@@ -14348,7 +14346,6 @@
 ||app.netpark.us^
 ||app.networkad.net^
 ||app.nexd.com^
-||app.next.exchange^
 ||app.now.brightcove.com^
 ||app.ohchat.net^
 ||app.on-mall.net^
@@ -18382,8 +18379,6 @@
 ||beta.minerpool.net^
 ||beta.mybestmv.com^
 ||beta.mybetterdl.com^
-||beta.namecoin.info^
-||beta.next.exchange^
 ||beta.oneclick-beauty.com^
 ||beta.partners.adsterra.com^
 ||beta.powermining.pw^
@@ -18627,6 +18622,7 @@
 ||bia.brightinfo.com^
 ||biancamodaintima.com.br^
 ||bianchispizza.com^
+||biartau.id^
 ||biavgmpz.com^
 ||bibei.uc.cn^
 ||bibincom.com^
@@ -18945,7 +18941,6 @@
 ||bit-airdrop.com^
 ||bit-bork-boodle.com^
 ||bit-coin-trader.com^
-||bit.namecoin.info^
 ||bit.nanopool.org^
 ||bitaccess.co^
 ||bitadexchange.com^
@@ -19546,7 +19541,6 @@
 ||blog.muxdux.com^
 ||blog.myrenterhero.com^
 ||blog.newrelic.com^
-||blog.next.exchange^
 ||blog.nicehash.com^
 ||blog.northnowhere.com^
 ||blog.onadvertise.com^
@@ -24085,7 +24079,6 @@
 ||chain-vip-bj.api.btc.com^
 ||chain.api.btc.com^
 ||chain.btc.com^
-||chain.next.exchange^
 ||chainads.io^
 ||chainlizard.kmd.dev^
 ||chainsforchange.com^
@@ -38415,7 +38408,6 @@
 ||explore.burstcoin.ro^
 ||explore.dego.llama.horse^
 ||explore.mixpanel.com^
-||explore.next.exchange^
 ||explore.safex.io^
 ||explore.siaprimestats.com^
 ||exploremerida.com^
@@ -67027,7 +67019,6 @@
 ||mx.mx.cryptopool.net^
 ||mx.mx.mx.cryptopool.net^
 ||mx.mx.mx.mx.cryptopool.net^
-||mx.namecoin.info^
 ||mx.pirl.space^
 ||mx.simplycoin.eu^
 ||mx.switchercoin.com^
@@ -67768,7 +67759,6 @@
 ||name.nanopool.org^
 ||nameads.com^
 ||namecardcenter.net^
-||namecoin.info^
 ||nameguess.com^
 ||nameketathar.pro^
 ||namemaster46.net^
@@ -68932,7 +68922,6 @@
 ||next-post.com^
 ||next.adjust.com^
 ||next.bitcore.io^
-||next.exchange^
 ||next.lesvideosjaunes.eu^
 ||nextbdom.ru^
 ||nextclick.pl^
@@ -76978,7 +76967,6 @@
 ||pool.musicoin.tw^
 ||pool.myminers.org^
 ||pool.nanopool.org^
-||pool.next.exchange^
 ||pool.ngin.52hash.com^
 ||pool.nilu.tech^
 ||pool.no^
@@ -112998,7 +112986,6 @@
 ||www.newyorkcoin.mastermining.net^
 ||www.nexage.com^
 ||www.nexious.com^
-||www.next.exchange^
 ||www.nextgeninternational.co.uk^
 ||www.nextlnk1.com^
 ||www.nextlnk2.com^

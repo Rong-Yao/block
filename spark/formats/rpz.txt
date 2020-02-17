@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 60,935
+; Entries: 60,936
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 01:02:51
+; Updated: Tue, 18 Feb 20 01:49:49
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -11457,6 +11457,7 @@ bi-analytics.cloudapp.net CNAME .
 bi.medscape.com CNAME .
 bi.mgid.com CNAME .
 bi.yeshen.com CNAME .
+biartau.id CNAME .
 biavgmpz.com CNAME .
 bibei.uc.cn CNAME .
 bibo.api.swiftkey.com CNAME .

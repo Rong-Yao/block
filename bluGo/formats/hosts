@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 120,879
+# Entries: 120,866
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:02:55
+# Updated: Tue, 18 Feb 20 01:49:53
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -4259,7 +4259,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 access.adblox.net
 0.0.0.0 access.conversantmedia.com
 0.0.0.0 access.inmobi.com
-0.0.0.0 access.next.exchange
 0.0.0.0 access.open.uc.cn
 0.0.0.0 accessa.club
 0.0.0.0 accessi.it
@@ -13724,7 +13723,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.newshub.uodoo.com
 0.0.0.0 api.nexd.com
-0.0.0.0 api.next.exchange
 0.0.0.0 api.nicehash.com
 0.0.0.0 api.nimiq.watch
 0.0.0.0 api.ning.com
@@ -14366,7 +14364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.netpark.us
 0.0.0.0 app.networkad.net
 0.0.0.0 app.nexd.com
-0.0.0.0 app.next.exchange
 0.0.0.0 app.now.brightcove.com
 0.0.0.0 app.ohchat.net
 0.0.0.0 app.on-mall.net
@@ -18400,8 +18397,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 beta.minerpool.net
 0.0.0.0 beta.mybestmv.com
 0.0.0.0 beta.mybetterdl.com
-0.0.0.0 beta.namecoin.info
-0.0.0.0 beta.next.exchange
 0.0.0.0 beta.oneclick-beauty.com
 0.0.0.0 beta.partners.adsterra.com
 0.0.0.0 beta.powermining.pw
@@ -18645,6 +18640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bia.brightinfo.com
 0.0.0.0 biancamodaintima.com.br
 0.0.0.0 bianchispizza.com
+0.0.0.0 biartau.id
 0.0.0.0 biavgmpz.com
 0.0.0.0 bibei.uc.cn
 0.0.0.0 bibincom.com
@@ -18963,7 +18959,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bit-airdrop.com
 0.0.0.0 bit-bork-boodle.com
 0.0.0.0 bit-coin-trader.com
-0.0.0.0 bit.namecoin.info
 0.0.0.0 bit.nanopool.org
 0.0.0.0 bitaccess.co
 0.0.0.0 bitadexchange.com
@@ -19564,7 +19559,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blog.muxdux.com
 0.0.0.0 blog.myrenterhero.com
 0.0.0.0 blog.newrelic.com
-0.0.0.0 blog.next.exchange
 0.0.0.0 blog.nicehash.com
 0.0.0.0 blog.northnowhere.com
 0.0.0.0 blog.onadvertise.com
@@ -24103,7 +24097,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 chain-vip-bj.api.btc.com
 0.0.0.0 chain.api.btc.com
 0.0.0.0 chain.btc.com
-0.0.0.0 chain.next.exchange
 0.0.0.0 chainads.io
 0.0.0.0 chainlizard.kmd.dev
 0.0.0.0 chainsforchange.com
@@ -38433,7 +38426,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 explore.burstcoin.ro
 0.0.0.0 explore.dego.llama.horse
 0.0.0.0 explore.mixpanel.com
-0.0.0.0 explore.next.exchange
 0.0.0.0 explore.safex.io
 0.0.0.0 explore.siaprimestats.com
 0.0.0.0 exploremerida.com
@@ -67045,7 +67037,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mx.mx.cryptopool.net
 0.0.0.0 mx.mx.mx.cryptopool.net
 0.0.0.0 mx.mx.mx.mx.cryptopool.net
-0.0.0.0 mx.namecoin.info
 0.0.0.0 mx.pirl.space
 0.0.0.0 mx.simplycoin.eu
 0.0.0.0 mx.switchercoin.com
@@ -67786,7 +67777,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 name.nanopool.org
 0.0.0.0 nameads.com
 0.0.0.0 namecardcenter.net
-0.0.0.0 namecoin.info
 0.0.0.0 nameguess.com
 0.0.0.0 nameketathar.pro
 0.0.0.0 namemaster46.net
@@ -68950,7 +68940,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 next-post.com
 0.0.0.0 next.adjust.com
 0.0.0.0 next.bitcore.io
-0.0.0.0 next.exchange
 0.0.0.0 next.lesvideosjaunes.eu
 0.0.0.0 nextbdom.ru
 0.0.0.0 nextclick.pl
@@ -76996,7 +76985,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool.musicoin.tw
 0.0.0.0 pool.myminers.org
 0.0.0.0 pool.nanopool.org
-0.0.0.0 pool.next.exchange
 0.0.0.0 pool.ngin.52hash.com
 0.0.0.0 pool.nilu.tech
 0.0.0.0 pool.no
@@ -113016,7 +113004,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.newyorkcoin.mastermining.net
 0.0.0.0 www.nexage.com
 0.0.0.0 www.nexious.com
-0.0.0.0 www.next.exchange
 0.0.0.0 www.nextgeninternational.co.uk
 0.0.0.0 www.nextlnk1.com
 0.0.0.0 www.nextlnk2.com

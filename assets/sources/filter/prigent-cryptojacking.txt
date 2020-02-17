@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 18.02.2020
-# Total Domains - 5086
+# Total Domains - 5084
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3332,7 +3332,6 @@
 0.0.0.0 nablabee.com
 0.0.0.0 nahnoji.cz
 0.0.0.0 nahvyfyfpffm.com
-0.0.0.0 namecoin.info
 0.0.0.0 nametraff.com
 0.0.0.0 namjixxurjam.com
 0.0.0.0 nasdapool.com
@@ -3378,7 +3377,6 @@
 0.0.0.0 newpool.cool
 0.0.0.0 newpool.pw
 0.0.0.0 nexious.com
-0.0.0.0 next.exchange
 0.0.0.0 nextbdom.ru
 0.0.0.0 nexttime.ovh
 0.0.0.0 nexuspool.ru

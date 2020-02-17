@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 18.02.2020
-# Total Domains - 59185
+# Total Domains - 59184
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2574,7 +2574,6 @@
 0.0.0.0 acoxcv.cn
 0.0.0.0 acquireattention.com
 0.0.0.0 acquireinsight.net
-0.0.0.0 acquisition-1.americanexpress.com
 0.0.0.0 acr.izooto.com
 0.0.0.0 acrabakasaka.com
 0.0.0.0 acrididae.com

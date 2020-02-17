@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 120,879
+; Entries: 120,866
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 01:02:55
+; Updated: Tue, 18 Feb 20 01:49:53
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4248,7 +4248,6 @@ access-set-verify-info-updat.ga CNAME .
 access.adblox.net CNAME .
 access.conversantmedia.com CNAME .
 access.inmobi.com CNAME .
-access.next.exchange CNAME .
 access.open.uc.cn CNAME .
 accessa.club CNAME .
 accessi.it CNAME .
@@ -13713,7 +13712,6 @@ api.news.uodoo.com CNAME .
 api.newsfeed.intl.miui.com CNAME .
 api.newshub.uodoo.com CNAME .
 api.nexd.com CNAME .
-api.next.exchange CNAME .
 api.nicehash.com CNAME .
 api.nimiq.watch CNAME .
 api.ning.com CNAME .
@@ -14355,7 +14353,6 @@ app.myactivex.com CNAME .
 app.netpark.us CNAME .
 app.networkad.net CNAME .
 app.nexd.com CNAME .
-app.next.exchange CNAME .
 app.now.brightcove.com CNAME .
 app.ohchat.net CNAME .
 app.on-mall.net CNAME .
@@ -18389,8 +18386,6 @@ beta.metrika.yandex.com CNAME .
 beta.minerpool.net CNAME .
 beta.mybestmv.com CNAME .
 beta.mybetterdl.com CNAME .
-beta.namecoin.info CNAME .
-beta.next.exchange CNAME .
 beta.oneclick-beauty.com CNAME .
 beta.partners.adsterra.com CNAME .
 beta.powermining.pw CNAME .
@@ -18634,6 +18629,7 @@ bi2vl.com CNAME .
 bia.brightinfo.com CNAME .
 biancamodaintima.com.br CNAME .
 bianchispizza.com CNAME .
+biartau.id CNAME .
 biavgmpz.com CNAME .
 bibei.uc.cn CNAME .
 bibincom.com CNAME .
@@ -18952,7 +18948,6 @@ biswashholdingsbd.com CNAME .
 bit-airdrop.com CNAME .
 bit-bork-boodle.com CNAME .
 bit-coin-trader.com CNAME .
-bit.namecoin.info CNAME .
 bit.nanopool.org CNAME .
 bitaccess.co CNAME .
 bitadexchange.com CNAME .
@@ -19553,7 +19548,6 @@ blog.monerov.online CNAME .
 blog.muxdux.com CNAME .
 blog.myrenterhero.com CNAME .
 blog.newrelic.com CNAME .
-blog.next.exchange CNAME .
 blog.nicehash.com CNAME .
 blog.northnowhere.com CNAME .
 blog.onadvertise.com CNAME .
@@ -24092,7 +24086,6 @@ chain-pool.com CNAME .
 chain-vip-bj.api.btc.com CNAME .
 chain.api.btc.com CNAME .
 chain.btc.com CNAME .
-chain.next.exchange CNAME .
 chainads.io CNAME .
 chainlizard.kmd.dev CNAME .
 chainsforchange.com CNAME .
@@ -38422,7 +38415,6 @@ explore.algolia.com CNAME .
 explore.burstcoin.ro CNAME .
 explore.dego.llama.horse CNAME .
 explore.mixpanel.com CNAME .
-explore.next.exchange CNAME .
 explore.safex.io CNAME .
 explore.siaprimestats.com CNAME .
 exploremerida.com CNAME .
@@ -67034,7 +67026,6 @@ mx.miningpool.io CNAME .
 mx.mx.cryptopool.net CNAME .
 mx.mx.mx.cryptopool.net CNAME .
 mx.mx.mx.mx.cryptopool.net CNAME .
-mx.namecoin.info CNAME .
 mx.pirl.space CNAME .
 mx.simplycoin.eu CNAME .
 mx.switchercoin.com CNAME .
@@ -67775,7 +67766,6 @@ namarinoko.hariko.com CNAME .
 name.nanopool.org CNAME .
 nameads.com CNAME .
 namecardcenter.net CNAME .
-namecoin.info CNAME .
 nameguess.com CNAME .
 nameketathar.pro CNAME .
 namemaster46.net CNAME .
@@ -68939,7 +68929,6 @@ next-channel.xyz CNAME .
 next-post.com CNAME .
 next.adjust.com CNAME .
 next.bitcore.io CNAME .
-next.exchange CNAME .
 next.lesvideosjaunes.eu CNAME .
 nextbdom.ru CNAME .
 nextclick.pl CNAME .
@@ -76985,7 +76974,6 @@ pool.monerov.online CNAME .
 pool.musicoin.tw CNAME .
 pool.myminers.org CNAME .
 pool.nanopool.org CNAME .
-pool.next.exchange CNAME .
 pool.ngin.52hash.com CNAME .
 pool.nilu.tech CNAME .
 pool.no CNAME .
@@ -113005,7 +112993,6 @@ www.newyorkcityloop.com CNAME .
 www.newyorkcoin.mastermining.net CNAME .
 www.nexage.com CNAME .
 www.nexious.com CNAME .
-www.next.exchange CNAME .
 www.nextgeninternational.co.uk CNAME .
 www.nextlnk1.com CNAME .
 www.nextlnk2.com CNAME .

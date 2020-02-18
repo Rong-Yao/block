@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 18.02.2020
-# Total Domains - 44542
+# Total Domains - 44533
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -728,7 +728,6 @@
 0.0.0.0 7search.com
 0.0.0.0 7searcher.com
 0.0.0.0 7sir.com
-0.0.0.0 7speed.info
 0.0.0.0 7sultans.com
 0.0.0.0 7sultanspoker.com
 0.0.0.0 7traffic.com
@@ -3901,7 +3900,6 @@
 0.0.0.0 adsoldier.com
 0.0.0.0 adsolutions.nl
 0.0.0.0 adson.awempire.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsonwww.com
 0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 adsperform.com
@@ -5502,7 +5500,6 @@
 0.0.0.0 api.viglink.com
 0.0.0.0 api.wips.com
 0.0.0.0 api.xmr.mypool.online
-0.0.0.0 api.xmrpool.net
 0.0.0.0 api01.ledgerwallet.com
 0.0.0.0 api02.ledgerwallet.com
 0.0.0.0 api2.bitcoin.cz
@@ -9060,7 +9057,6 @@
 0.0.0.0 chairscrack.com
 0.0.0.0 challengerz.com
 0.0.0.0 chamber.intellicontact.com
-0.0.0.0 championairlines.com
 0.0.0.0 chanelone.com
 0.0.0.0 changealarm.wus0.com
 0.0.0.0 changla.com
@@ -10542,7 +10538,6 @@
 0.0.0.0 cryptosearch.site
 0.0.0.0 cryptoserb.com
 0.0.0.0 cryptotab.net
-0.0.0.0 cryptown.netlify.com
 0.0.0.0 cryptoxpool.com
 0.0.0.0 cryslerfinancial.com
 0.0.0.0 crystalpalacecasino.com
@@ -23327,7 +23322,6 @@
 0.0.0.0 oascentral.emedicine.com
 0.0.0.0 oascentral.englishtown.com
 0.0.0.0 oascentral.exactadvertising.com
-0.0.0.0 oascentral.feedroom.com
 0.0.0.0 oascentral.flausa.com
 0.0.0.0 oascentral.fnxradio.com
 0.0.0.0 oascentral.foodtv.ca
@@ -25267,7 +25261,6 @@
 0.0.0.0 porngraph.com
 0.0.0.0 pornhentai.com
 0.0.0.0 pornholio.net
-0.0.0.0 pornholios.com
 0.0.0.0 pornhome.com
 0.0.0.0 pornhomemovies.com
 0.0.0.0 pornhoster.com
@@ -41705,7 +41698,6 @@
 0.0.0.0 www.stockinvesting.ws
 0.0.0.0 www.stop-sign.com
 0.0.0.0 www.stopannoyingpopups.com
-0.0.0.0 www.stopitblockit.com
 0.0.0.0 www.stopzilla.com
 0.0.0.0 www.storchen-diessbach.ch
 0.0.0.0 www.storesbiz.com
@@ -42541,7 +42533,6 @@
 0.0.0.0 www.usenext.de
 0.0.0.0 www.userplane.com
 0.0.0.0 www.usflag.org
-0.0.0.0 www.usfreeads.com
 0.0.0.0 www.usiarways.com
 0.0.0.0 www.usimmigrationsupport.org
 0.0.0.0 www.uslocalweather.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 18.02.2020
-# Total Domains - 22289
+# Total Domains - 22288
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1412,7 +1412,6 @@
 0.0.0.0 adsnetworkserver.com
 0.0.0.0 adsniper.ru
 0.0.0.0 adsomi.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adsovo.com
 0.0.0.0 adsp.com

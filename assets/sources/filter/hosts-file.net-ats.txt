@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
 # Last Converted - 18.02.2020
-# Total Domains - 31585
+# Total Domains - 31581
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -428,8 +428,6 @@
 0.0.0.0 a.collective-media.net.49474.9362.302br.net
 0.0.0.0 a.collective-media.net.49478.9362.302br.net
 0.0.0.0 a.collective-media.net.49485.9362.302br.net
-0.0.0.0 a.collective-media.net.49487.9362.302br.net
-0.0.0.0 a.collective-media.net.49489.9362.302br.net
 0.0.0.0 a.collective-media.net.49490.9362.302br.net
 0.0.0.0 a.collective-media.net.49491.9362.302br.net
 0.0.0.0 a.collective-media.net.49492.9362.302br.net
@@ -14868,7 +14866,6 @@
 0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsolvix.go2cloud.org
 0.0.0.0 adson.awempire.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsopedia.go2cloud.org
 0.0.0.0 adsp.ilse.nl
 0.0.0.0 adspaces.ero-ades.ero-advertising.com
@@ -23004,7 +23001,6 @@
 0.0.0.0 oascentral.construction.com
 0.0.0.0 oascentral.crainsdetroit.com
 0.0.0.0 oascentral.dailybreeze.com
-0.0.0.0 oascentral.feedroom.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.mdlinx.com
 0.0.0.0 oascentral.post-gazette.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 # Last Converted - 18.02.2020
-# Total Domains - 61350
+# Total Domains - 61349
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -633,7 +633,6 @@
 0.0.0.0 7nucleos.com
 0.0.0.0 7pay.net
 0.0.0.0 7seaspk.com
-0.0.0.0 7speed.info
 0.0.0.0 7thpower.com
 0.0.0.0 7thundersentertainment.com
 0.0.0.0 7ut.ru

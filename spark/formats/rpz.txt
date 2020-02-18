@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 60,945
+; Entries: 60,943
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 06:09:48
+; Updated: Tue, 18 Feb 20 12:10:03
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6055,7 +6055,6 @@ adsolutions.yp.com CNAME .
 adsomenoise.cdn01.rambla.be CNAME .
 adsomi.com CNAME .
 adson.awempire.com CNAME .
-adsonar.com CNAME .
 adsoptimal.com CNAME .
 adsota.com CNAME .
 adsovo.com CNAME .
@@ -9863,6 +9862,7 @@ ashaidbit.club CNAME .
 ashallaim.club CNAME .
 ashamparm.site CNAME .
 ashbowany.site CNAME .
+ashchiasp.club CNAME .
 ashemeth.com CNAME .
 ashwlrtiazee.com CNAME .
 ashwooddrivewaysltd.co.uk CNAME .
@@ -16787,7 +16787,6 @@ cryptosearch.site CNAME .
 cryptoserb.com CNAME .
 cryptotab.net CNAME .
 cryptoverto.com CNAME .
-cryptown.netlify.com CNAME .
 crystalads.afftrack.com CNAME .
 crzhxquiyo.com CNAME .
 crzlkluxnigce.com CNAME .
@@ -21739,6 +21738,7 @@ file-upload.net CNAME .
 file.autoads.asia CNAME .
 file.ipinyou.com.cn CNAME .
 filecast.co.kr CNAME .
+filecatcher.xyz CNAME .
 filecdn2.ad.dotandad.com CNAME .
 filecdn2.dotandad.com CNAME .
 filefortune.com CNAME .
@@ -35922,7 +35922,6 @@ oascentral.crainsdetroit.com CNAME .
 oascentral.dailybreeze.com CNAME .
 oascentral.discovery.com CNAME .
 oascentral.eastbayexpress.com CNAME .
-oascentral.feedroom.com CNAME .
 oascentral.fortunecity.com CNAME .
 oascentral.freedom.com CNAME .
 oascentral.gigex.com CNAME .
@@ -42868,7 +42867,6 @@ romance-net.com CNAME .
 romansonn.ir CNAME .
 romanticbuy.com CNAME .
 romeoforum.com CNAME .
-romepartners.com CNAME .
 romperalo.com CNAME .
 ron.si CNAME .
 ronatorda.com CNAME .

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 13563
+# Total Domains - 13561
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -353,7 +353,6 @@
 0.0.0.0 7meta.com
 0.0.0.0 7metasearch.com
 0.0.0.0 7search.com
-0.0.0.0 7speed.info
 0.0.0.0 7sultans.com
 0.0.0.0 7vws1j1j.com
 0.0.0.0 7y7.us
@@ -9670,7 +9669,6 @@
 0.0.0.0 oascentral.dollargeneral.com
 0.0.0.0 oascentral.dominionenterprises.com
 0.0.0.0 oascentral.emedicine.com
-0.0.0.0 oascentral.feedroom.com
 0.0.0.0 oascentral.fiercemarkets.com
 0.0.0.0 oascentral.fosters.com
 0.0.0.0 oascentral.freedom.com

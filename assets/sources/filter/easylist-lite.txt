@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://cdn.adblockcdn.com/filters/easylist_lite.txt
 # Last Converted - 18.02.2020
-# Total Domains - 5924
+# Total Domains - 5923
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -549,7 +549,6 @@
 0.0.0.0 adsnetworkserver.com
 0.0.0.0 adsniper.ru
 0.0.0.0 adsomi.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adsp.com
 0.0.0.0 adspdbl.com

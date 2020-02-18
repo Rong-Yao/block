@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
 # Last Converted - 18.02.2020
-# Total Domains - 1497
+# Total Domains - 1498
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -73,6 +73,7 @@
 0.0.0.0 acunetix-referrer.com
 0.0.0.0 adanih.com
 0.0.0.0 adcash.com
+0.0.0.0 adelachrist.top
 0.0.0.0 adpostmalta.com
 0.0.0.0 adrenalinebot.net
 0.0.0.0 adrenalinebot.ru

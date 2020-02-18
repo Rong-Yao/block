@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.049
 # Release: 049
-# Entries: 63,279
+# Entries: 63,301
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 06:14:00
+# Updated: Tue, 18 Feb 20 12:13:50
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -5110,6 +5110,8 @@ ff02::3 ip6-allhosts
 :: alcidebrought.pro
 :: aldam3h.com
 :: aldaobpuhvl.com
+:: aleailarm.com
+:: aleaimbuy.site
 :: aleapeact.club
 :: aleapeapt.club
 :: aleba.ru
@@ -5897,6 +5899,7 @@ ff02::3 ip6-allhosts
 :: ariyayin.com
 :: arjgnqlsdo.com
 :: arkairbuy.site
+:: arkalealb.site
 :: arkbuyarm.club
 :: arkeren.ru
 :: arkhamxojvr.com
@@ -7121,6 +7124,7 @@ ff02::3 ip6-allhosts
 :: beead.fr
 :: beead.it
 :: beead.net
+:: beeaimaid.com
 :: beeashale.club
 :: beeblebroks.ru
 :: beebuyart.club
@@ -7148,6 +7152,7 @@ ff02::3 ip6-allhosts
 :: beifmu.com
 :: beijing.buzhi5.com
 :: beijinglvyou.net.cn
+:: beineiros.xyz
 :: beiren.xyz
 :: beiven.pw
 :: bejotlmrijxvor.com
@@ -13631,6 +13636,7 @@ ff02::3 ip6-allhosts
 :: emediate.eu
 :: emediate.se
 :: emeighglenellen.com
+:: ememoricane.info
 :: emented.pro
 :: emgwq.com
 :: emierete.com
@@ -13820,6 +13826,7 @@ ff02::3 ip6-allhosts
 :: eredexpendin.com
 :: eren-empfiehlt.de
 :: erendri.com
+:: ergeiros.xyz
 :: ergewrg.com
 :: ergs4.com
 :: erificyggw.com
@@ -14762,6 +14769,7 @@ ff02::3 ip6-allhosts
 :: file.autoads.asia
 :: file.novanet.vn
 :: file.pinetech.vn
+:: filecatcher.xyz
 :: filecontrol.ru
 :: fileloadr.com
 :: filepost.ru
@@ -15952,6 +15960,7 @@ ff02::3 ip6-allhosts
 :: geili.co
 :: geiyujieda.com
 :: gekywqwky.com
+:: gelbitelf.club
 :: geldcounter.de
 :: gelinboer.cn
 :: gemius.pl
@@ -18546,6 +18555,7 @@ ff02::3 ip6-allhosts
 :: idealmedia.com
 :: idealmedia.io
 :: ideibeer.com
+:: ideliv.net
 :: identads.com
 :: identified.cn
 :: ideprjebdvj.com
@@ -22582,6 +22592,7 @@ ff02::3 ip6-allhosts
 :: logcollector.viewster.com
 :: logdantri.vcmedia.vn
 :: logethy.com
+:: logfrochi.site
 :: logger.cloudmobi.net
 :: logger.ivi.ru
 :: logger.ntracecloud.com
@@ -25328,6 +25339,7 @@ ff02::3 ip6-allhosts
 :: nativeroll.tv
 :: nativery.com
 :: nativesdks.mparticle.com
+:: nativeserv.com
 :: nativespot.com
 :: nativesubscribe.pro
 :: nativevideo.ru
@@ -26750,6 +26762,7 @@ ff02::3 ip6-allhosts
 :: ofgapiydisrw.com
 :: ofgbefrhs.com
 :: ofghrodsrqkg.com
+:: ofhappinyer.com
 :: ofhwyutlckjuul.bid
 :: oficinadafesta.com
 :: ofigraiw.net
@@ -28522,6 +28535,7 @@ ff02::3 ip6-allhosts
 :: pipaffiliates.com
 :: pipaoffers.com
 :: pipeschannels.com
+:: pipgiglea.club
 :: pipilazipi.com
 :: pipilida.com
 :: pipiryiqu.com
@@ -30033,6 +30047,7 @@ ff02::3 ip6-allhosts
 :: pushtrust.com
 :: pushtun.info
 :: pushua.info
+:: pushup.space
 :: pushwhy.com
 :: pushzolo.com
 :: pusk.ua
@@ -30453,6 +30468,7 @@ ff02::3 ip6-allhosts
 :: qghirkrh.bid
 :: qghsnamd.bid
 :: qgiumuzmxj.com
+:: qgjapp.com
 :: qgjllgijf.bid
 :: qgkmjpgwg.com
 :: qgmrchjuqro.bid
@@ -31877,6 +31893,7 @@ ff02::3 ip6-allhosts
 :: ridingintractable.com
 :: ridniy.in.ua
 :: rientgallacecapt.info
+:: rigfoxcup.site
 :: rigoczly.com
 :: rigybdgiubwqg.com
 :: rikhov.ru
@@ -32345,6 +32362,7 @@ ff02::3 ip6-allhosts
 :: ruckusschroederraspberry.com
 :: rudsools.net
 :: rue1mi4.bid
+:: rueaukrim.club
 :: ruebmqxqlqwqq.com
 :: ruechaude.com
 :: rueconomics.ru
@@ -32790,6 +32808,7 @@ ff02::3 ip6-allhosts
 :: saxp.zedo.com
 :: say.ac
 :: say.fr
+:: sayfibhat.club
 :: saygac.az
 :: saymedia.com
 :: saymigren.net
@@ -33267,6 +33286,7 @@ ff02::3 ip6-allhosts
 :: setinstallmediamac.stream
 :: setksiw.com
 :: setlinks.ru
+:: setlotnay.club
 :: setmacinstallmedia.download
 :: setravieso.com
 :: setrtcjfhreqg.com
@@ -38350,6 +38370,7 @@ ff02::3 ip6-allhosts
 :: valpeiros.com
 :: valpkwew.com
 :: valshara.com
+:: valthyra.com
 :: valuad.cloud
 :: valuead.com
 :: valueclick.com
@@ -60639,6 +60660,7 @@ ff02::3 ip6-allhosts
 :: wxmg2016.com
 :: wxmpekoil.com
 :: wxrotkricj.com
+:: wxs666.cn
 :: wxstatic.cn
 :: wxtrzeizpnp.com
 :: wxupwyabry.com

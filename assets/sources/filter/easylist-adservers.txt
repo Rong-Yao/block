@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 # Last Converted - 18.02.2020
-# Total Domains - 13987
+# Total Domains - 13988
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1032,7 +1032,6 @@
 0.0.0.0 adsnetworkserver.com
 0.0.0.0 adsniper.ru
 0.0.0.0 adsomi.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adsovo.com
 0.0.0.0 adsp.com
@@ -1603,6 +1602,7 @@
 0.0.0.0 asesuggedame.info
 0.0.0.0 ashaidart.site
 0.0.0.0 ashaidbit.club
+0.0.0.0 ashchiasp.club
 0.0.0.0 ashemeth.com
 0.0.0.0 asiinbyu.com
 0.0.0.0 askallalb.club
@@ -4186,6 +4186,7 @@
 0.0.0.0 ficusoid.xyz
 0.0.0.0 fiechaev.com
 0.0.0.0 fifnonxntvaszg.com
+0.0.0.0 filecatcher.xyz
 0.0.0.0 filetarget.com
 0.0.0.0 filetarget.net
 0.0.0.0 filterycreasona.info

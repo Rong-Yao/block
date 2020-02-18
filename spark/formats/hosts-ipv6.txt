@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.049
 # Release: 049
-# Entries: 60,945
+# Entries: 60,943
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 06:09:48
+# Updated: Tue, 18 Feb 20 12:10:03
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -6066,7 +6066,6 @@ ff02::3 ip6-allhosts
 :: adsomenoise.cdn01.rambla.be
 :: adsomi.com
 :: adson.awempire.com
-:: adsonar.com
 :: adsoptimal.com
 :: adsota.com
 :: adsovo.com
@@ -9874,6 +9873,7 @@ ff02::3 ip6-allhosts
 :: ashallaim.club
 :: ashamparm.site
 :: ashbowany.site
+:: ashchiasp.club
 :: ashemeth.com
 :: ashwlrtiazee.com
 :: ashwooddrivewaysltd.co.uk
@@ -16798,7 +16798,6 @@ ff02::3 ip6-allhosts
 :: cryptoserb.com
 :: cryptotab.net
 :: cryptoverto.com
-:: cryptown.netlify.com
 :: crystalads.afftrack.com
 :: crzhxquiyo.com
 :: crzlkluxnigce.com
@@ -21750,6 +21749,7 @@ ff02::3 ip6-allhosts
 :: file.autoads.asia
 :: file.ipinyou.com.cn
 :: filecast.co.kr
+:: filecatcher.xyz
 :: filecdn2.ad.dotandad.com
 :: filecdn2.dotandad.com
 :: filefortune.com
@@ -35933,7 +35933,6 @@ ff02::3 ip6-allhosts
 :: oascentral.dailybreeze.com
 :: oascentral.discovery.com
 :: oascentral.eastbayexpress.com
-:: oascentral.feedroom.com
 :: oascentral.fortunecity.com
 :: oascentral.freedom.com
 :: oascentral.gigex.com
@@ -42879,7 +42878,6 @@ ff02::3 ip6-allhosts
 :: romansonn.ir
 :: romanticbuy.com
 :: romeoforum.com
-:: romepartners.com
 :: romperalo.com
 :: ron.si
 :: ronatorda.com

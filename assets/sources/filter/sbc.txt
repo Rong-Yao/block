@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 35944
+# Total Domains - 35982
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -404,6 +404,7 @@
 0.0.0.0 2367.content.swrve.com
 0.0.0.0 2376.engine.mobileapptracking.com
 0.0.0.0 24-ak.ru
+0.0.0.0 24-biznes.eu
 0.0.0.0 24-sklep.pl
 0.0.0.0 24-xxx.biz
 0.0.0.0 2405.api.swrve.com
@@ -3957,7 +3958,6 @@
 0.0.0.0 adsolut.in
 0.0.0.0 adsomenoise.cdn01.rambla.be
 0.0.0.0 adson.awempire.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adsota.com
 0.0.0.0 adsp.ciner.com.tr
@@ -4660,6 +4660,7 @@
 0.0.0.0 alexxxxpages.info
 0.0.0.0 alfa-img.com
 0.0.0.0 alfa-medosmotr.ru
+0.0.0.0 alfa-projekt.com.pl
 0.0.0.0 alfa-search.com
 0.0.0.0 alfa9.com
 0.0.0.0 alfabetnieruchomosci.pl
@@ -5235,6 +5236,7 @@
 0.0.0.0 animal36.com
 0.0.0.0 animalrank.com
 0.0.0.0 animaltoplist.com
+0.0.0.0 anitkakurier.com
 0.0.0.0 aniventure.co.uk
 0.0.0.0 aniview.com
 0.0.0.0 ankieta-online.pl
@@ -5384,6 +5386,7 @@
 0.0.0.0 apa-tok.adsrvr.org
 0.0.0.0 apa.match.adsrvr.org
 0.0.0.0 apartahotelfamilyhouse.com
+0.0.0.0 apartamentylirowa.pl
 0.0.0.0 apartamentypoleska.pl
 0.0.0.0 aparthema.org.pl
 0.0.0.0 apathetictheory.com
@@ -5704,7 +5707,6 @@
 0.0.0.0 api.swrve.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.tag.adtima.vn
-0.0.0.0 api.tapas.io
 0.0.0.0 api.tapjoy.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.tapone.jp
@@ -5963,11 +5965,9 @@
 0.0.0.0 app2.letmacworkfaster.site
 0.0.0.0 app2.letslowbefast.site
 0.0.0.0 app3.makeitworkfaster.life
-0.0.0.0 app3.prd.telematics.uconnectcar.com
 0.0.0.0 app4.greatmacsoft.tech
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app4.letslowbefast.today
-0.0.0.0 app4.prd.telematics.uconnectcar.com
 0.0.0.0 app5.fastermac.tech
 0.0.0.0 appad-api-01.perfectcorp.com
 0.0.0.0 appad-api-02.perfectcorp.com
@@ -6311,6 +6311,7 @@
 0.0.0.0 asicsgel.pl
 0.0.0.0 asicsgeloutlet.pl
 0.0.0.0 asicspl.pl
+0.0.0.0 asicspoland.pl
 0.0.0.0 asicspoland.top
 0.0.0.0 asicstanio.pl
 0.0.0.0 asicswyprzedaz.pl
@@ -7794,6 +7795,7 @@
 0.0.0.0 butysportowe-online.pl
 0.0.0.0 butysportowereebok.pl
 0.0.0.0 butysuperstar.pl
+0.0.0.0 butytblpromocje.pl
 0.0.0.0 butytimberlandtanio.pl
 0.0.0.0 butyultraboost.pl
 0.0.0.0 buy-adipex.hut1.ru
@@ -10363,6 +10365,7 @@
 0.0.0.0 crm.novaonx.com
 0.0.0.0 crmwpraktyce.pl
 0.0.0.0 crocs-pl.pl
+0.0.0.0 crocsdamskie.pl
 0.0.0.0 crocspolskasklepy.pl
 0.0.0.0 croissed.info
 0.0.0.0 cross-promo.mwx.ext.mobilityware.com
@@ -10707,7 +10710,6 @@
 0.0.0.0 d9d0e0.r.axf8.net
 0.0.0.0 da-serving.eastus.avi.idsp.inmobi.com
 0.0.0.0 da.inmobi.com
-0.0.0.0 da.tapas.io
 0.0.0.0 daaa.ero-advertising.com
 0.0.0.0 dable.io
 0.0.0.0 dabrowkawislocka.pl
@@ -11421,6 +11423,7 @@
 0.0.0.0 do.onthe.io
 0.0.0.0 dobbenetes.com
 0.0.0.0 dobieraniefryzury.pl
+0.0.0.0 dobre-filmy.pl
 0.0.0.0 dobre-programy.pl
 0.0.0.0 dobre-programy.xyz
 0.0.0.0 dobreprogramy.pro
@@ -11992,6 +11995,7 @@
 0.0.0.0 ejs.moatads.com
 0.0.0.0 ejyymghi.com
 0.0.0.0 ekerisiltihaliyikama.com
+0.0.0.0 ekino.com.pl
 0.0.0.0 ekmas.com
 0.0.0.0 ekoinnowacyjne.pl
 0.0.0.0 ekonkarserai.com
@@ -12960,6 +12964,7 @@
 0.0.0.0 filiser.online
 0.0.0.0 film-base.pl
 0.0.0.0 film-milosc.pl
+0.0.0.0 filmanteria.pl
 0.0.0.0 filmes-hd.com
 0.0.0.0 filmfanatic.com
 0.0.0.0 filmhd.ek1.pl
@@ -13104,6 +13109,7 @@
 0.0.0.0 fmsads.com
 0.0.0.0 fmx-req.fractionalmedia.com
 0.0.0.0 fnatfee.ero-advertising.com
+0.0.0.0 fndsdaytings.com
 0.0.0.0 focas.jp
 0.0.0.0 focus.mangoads.vn
 0.0.0.0 focusdl.punchh.com
@@ -13848,6 +13854,7 @@
 0.0.0.0 giftdomain.site
 0.0.0.0 giftprizewinner.com
 0.0.0.0 giftscom.122.2o7.net
+0.0.0.0 giga-tech.pl
 0.0.0.0 gigamon.sc.omtrdc.net
 0.0.0.0 gigamon.tt.omtrdc.net
 0.0.0.0 gigaonclick.com
@@ -14401,6 +14408,7 @@
 0.0.0.0 gusion.space
 0.0.0.0 gustaw-harnas.pl
 0.0.0.0 gutebaby.com
+0.0.0.0 gutfilm.pl
 0.0.0.0 guthyrenker.112.2o7.net
 0.0.0.0 guthyrenker.tt.omtrdc.net
 0.0.0.0 guyscards.com
@@ -16731,8 +16739,13 @@
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
+0.0.0.0 kinofilm-tv.pl
 0.0.0.0 kinofree.popunder.ru
+0.0.0.0 kinoman-tv.eu
 0.0.0.0 kinoman-tv.pl
+0.0.0.0 kinomaniac.pl
+0.0.0.0 kinomaniak.pl
+0.0.0.0 kinovod.tv
 0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kiosked.com
 0.0.0.0 kipasdenim.com
@@ -17876,7 +17889,6 @@
 0.0.0.0 ma307-r.analytics.edgekey.net
 0.0.0.0 ma322-r.analytics.edgekey.net
 0.0.0.0 ma343-r.analytics.edgekey.net
-0.0.0.0 ma345-r.analytics.edgekey.net
 0.0.0.0 ma479-r.analytics.edgekey.net
 0.0.0.0 ma512-r.analytics.edgekey.net
 0.0.0.0 ma562-r.analytics.edgekey.net
@@ -19321,6 +19333,7 @@
 0.0.0.0 moviestarplanethackers.co
 0.0.0.0 moviestarplanethacks.pl
 0.0.0.0 movip.wps.com
+0.0.0.0 movipax.com
 0.0.0.0 movitex.122.2o7.net
 0.0.0.0 movsflix.com
 0.0.0.0 mowfruit.com
@@ -19700,6 +19713,7 @@
 0.0.0.0 nabina.iad-03.braze.com
 0.0.0.0 nactx.com
 0.0.0.0 nadegda-95.ru
+0.0.0.0 nadhirotultaqwa.com
 0.0.0.0 nadzorbudowa.pl
 0.0.0.0 naftemporiki.nuggad.net
 0.0.0.0 nagroda-sms.pl
@@ -20475,7 +20489,6 @@
 0.0.0.0 oascentral.dailybreeze.com
 0.0.0.0 oascentral.discovery.com
 0.0.0.0 oascentral.eastbayexpress.com
-0.0.0.0 oascentral.feedroom.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.freedom.com
 0.0.0.0 oascentral.gigex.com
@@ -21648,7 +21661,6 @@
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.onscroll.com
-0.0.0.0 ping.tapas.io
 0.0.0.0 ping.xlmc.sandai.net
 0.0.0.0 pingapi.accengage.com
 0.0.0.0 pinger.ads.nexage.com
@@ -22479,6 +22491,7 @@
 0.0.0.0 propellerpops.com
 0.0.0.0 proper.io
 0.0.0.0 propermedia-d.openx.net
+0.0.0.0 prophere.pl
 0.0.0.0 proprofs-d.openx.net
 0.0.0.0 props.id
 0.0.0.0 prorodeosportmed.com
@@ -22548,6 +22561,7 @@
 0.0.0.0 przedsiebieblog.pl
 0.0.0.0 przedszkoleglobus.pl
 0.0.0.0 przedszkolekrainadziecka.pl
+0.0.0.0 przedszkoleszkrab.pl
 0.0.0.0 przedszkolewlipnicy.pl
 0.0.0.0 przemyslawrenn.pl
 0.0.0.0 przepismix.pl
@@ -23579,7 +23593,6 @@
 0.0.0.0 rokushiki.nefficient.jp
 0.0.0.0 roletaryk.info
 0.0.0.0 rollbar.com
-0.0.0.0 romepartners.com
 0.0.0.0 romind27.com
 0.0.0.0 roofgardenrecords.com
 0.0.0.0 roorbong.com
@@ -30382,6 +30395,7 @@
 0.0.0.0 www.1priest1nun.net
 0.0.0.0 www.2.livejasmin.com
 0.0.0.0 www.20pascals.nl
+0.0.0.0 www.24-biznes.eu
 0.0.0.0 www.24-sklep.pl
 0.0.0.0 www.2468.go2cloud.org
 0.0.0.0 www.247realmedia.com
@@ -30737,6 +30751,7 @@
 0.0.0.0 www.alejagowniarzy.pl
 0.0.0.0 www.aleshop.pl
 0.0.0.0 www.alexsoff.com
+0.0.0.0 www.alfa-projekt.com.pl
 0.0.0.0 www.alfabetnieruchomosci.pl
 0.0.0.0 www.algocashmaster.com
 0.0.0.0 www.algocashmaster.net
@@ -30791,6 +30806,7 @@
 0.0.0.0 www.animal36.com
 0.0.0.0 www.animalrank.com
 0.0.0.0 www.animaltoplist.com
+0.0.0.0 www.anitkakurier.com
 0.0.0.0 www.aniventure.co.uk
 0.0.0.0 www.ankiety-konsumenckie.pl
 0.0.0.0 www.annapiaseczno.pl
@@ -30811,6 +30827,7 @@
 0.0.0.0 www.anuluj-mandat.pl
 0.0.0.0 www.anuluj-natreta.pl
 0.0.0.0 www.apartahotelfamilyhouse.com
+0.0.0.0 www.apartamentylirowa.pl
 0.0.0.0 www.aparthema.org.pl
 0.0.0.0 www.api.appsee.com
 0.0.0.0 www.api.axiatraders.com
@@ -30865,6 +30882,7 @@
 0.0.0.0 www.asicsgel.pl
 0.0.0.0 www.asicsgeloutlet.pl
 0.0.0.0 www.asicspl.pl
+0.0.0.0 www.asicspoland.pl
 0.0.0.0 www.asicspoland.top
 0.0.0.0 www.asicstanio.pl
 0.0.0.0 www.asicswyprzedaz.pl
@@ -31180,6 +31198,7 @@
 0.0.0.0 www.butysportowe-online.pl
 0.0.0.0 www.butysportowereebok.pl
 0.0.0.0 www.butysuperstar.pl
+0.0.0.0 www.butytblpromocje.pl
 0.0.0.0 www.butyultraboost.pl
 0.0.0.0 www.buy404s.com
 0.0.0.0 www.buycheapadvertising.com
@@ -31472,6 +31491,7 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 www.crmwpraktyce.pl
 0.0.0.0 www.crocs-pl.pl
+0.0.0.0 www.crocsdamskie.pl
 0.0.0.0 www.crocspolskasklepy.pl
 0.0.0.0 www.crossfitchojnice.pl
 0.0.0.0 www.crowdgravity.com
@@ -31607,6 +31627,7 @@
 0.0.0.0 www.dlmyfile.com
 0.0.0.0 www.dmaxcctv.pl
 0.0.0.0 www.dntx.com
+0.0.0.0 www.dobre-filmy.pl
 0.0.0.0 www.dobre-programy.pl
 0.0.0.0 www.dobre-programy.xyz
 0.0.0.0 www.dobreprogramy.pro
@@ -31759,6 +31780,7 @@
 0.0.0.0 www.eftps.com
 0.0.0.0 www.eglobalcentral.pl
 0.0.0.0 www.eivamos.com
+0.0.0.0 www.ekino.com.pl
 0.0.0.0 www.ekoinnowacyjne.pl
 0.0.0.0 www.ekonkarserai.com
 0.0.0.0 www.ekoplava.pl
@@ -31939,6 +31961,7 @@
 0.0.0.0 www.filiser.online
 0.0.0.0 www.film-base.pl
 0.0.0.0 www.film-milosc.pl
+0.0.0.0 www.filmanteria.pl
 0.0.0.0 www.filmhd.ek1.pl
 0.0.0.0 www.filmoteka.tv
 0.0.0.0 www.filmovnia.pl
@@ -32181,6 +32204,7 @@
 0.0.0.0 www.giftcardchallenge.com
 0.0.0.0 www.giftcardsurveys.us.com
 0.0.0.0 www.giftdomain.site
+0.0.0.0 www.giga-tech.pl
 0.0.0.0 www.gigdnetwork.com
 0.0.0.0 www.gigup.net
 0.0.0.0 www.gilotyna.com.pl
@@ -32290,6 +32314,7 @@
 0.0.0.0 www.guimaraesconstrutorasjc.com.br
 0.0.0.0 www.guitarforce.pl
 0.0.0.0 www.gustaw-harnas.pl
+0.0.0.0 www.gutfilm.pl
 0.0.0.0 www.gvc.vn
 0.0.0.0 www.gw.firesub.pl
 0.0.0.0 www.gwmtracker.com
@@ -32637,6 +32662,11 @@
 0.0.0.0 www.kierunkowy48.pl
 0.0.0.0 www.kikofu.com
 0.0.0.0 www.kineman.pl
+0.0.0.0 www.kinofilm-tv.pl
+0.0.0.0 www.kinoman-tv.eu
+0.0.0.0 www.kinomaniac.pl
+0.0.0.0 www.kinomaniak.pl
+0.0.0.0 www.kinovod.tv
 0.0.0.0 www.kinujemy.pl
 0.0.0.0 www.kipasdenim.com
 0.0.0.0 www.kirstenbijlsma.com
@@ -33103,6 +33133,7 @@
 0.0.0.0 www.moviestarplanet-haki-i-kody.crazylife.pl
 0.0.0.0 www.moviestarplanethackers.co
 0.0.0.0 www.moviestarplanethacks.pl
+0.0.0.0 www.movipax.com
 0.0.0.0 www.moyodo.pl
 0.0.0.0 www.mozebyctwoje.com
 0.0.0.0 www.mp3helpdesk.com
@@ -33174,6 +33205,7 @@
 0.0.0.0 www.n149adserv.com
 0.0.0.0 www.na47.com
 0.0.0.0 www.nabazarze.pl
+0.0.0.0 www.nadhirotultaqwa.com
 0.0.0.0 www.nadzorbudowa.pl
 0.0.0.0 www.nagroda-sms.pl
 0.0.0.0 www.nagrodzkaart.pl
@@ -33737,6 +33769,7 @@
 0.0.0.0 www.pronhubhd.com
 0.0.0.0 www.propan.ru
 0.0.0.0 www.propdfconverter.com
+0.0.0.0 www.prophere.pl
 0.0.0.0 www.proslandvietnam.com
 0.0.0.0 www.prouve.com
 0.0.0.0 www.provida.pl
@@ -33745,6 +33778,7 @@
 0.0.0.0 www.przedsiebieblog.pl
 0.0.0.0 www.przedszkoleglobus.pl
 0.0.0.0 www.przedszkolekrainadziecka.pl
+0.0.0.0 www.przedszkoleszkrab.pl
 0.0.0.0 www.przedszkolewlipnicy.pl
 0.0.0.0 www.przemyslawrenn.pl
 0.0.0.0 www.przepismix.pl
@@ -35077,6 +35111,7 @@
 0.0.0.0 www.wyjazd24.pl
 0.0.0.0 www.wyklady-krakowskie.pl
 0.0.0.0 www.wyleczpc.pl
+0.0.0.0 www.wylewkibetonowe.com.pl
 0.0.0.0 www.wymowek.pl
 0.0.0.0 www.wymyslprezent.pl
 0.0.0.0 www.wypoczywajunas.pl
@@ -35238,6 +35273,7 @@
 0.0.0.0 www.zpotrzebyserc.pl
 0.0.0.0 www.zs1chocznia.pl
 0.0.0.0 www.zskleczany.pl
+0.0.0.0 www.zsklembow.pl
 0.0.0.0 www.zsniemce.pl
 0.0.0.0 www.zspbytonia.pl
 0.0.0.0 www.zszdzary.pl
@@ -35398,6 +35434,7 @@
 0.0.0.0 wyklady-krakowskie.pl
 0.0.0.0 wykop.hit.gemius.pl
 0.0.0.0 wyleczpc.pl
+0.0.0.0 wylewkibetonowe.com.pl
 0.0.0.0 wymowek.pl
 0.0.0.0 wymyslprezent.pl
 0.0.0.0 wypoczywajunas.pl
@@ -35923,6 +35960,7 @@
 0.0.0.0 zs1chocznia.pl
 0.0.0.0 zsisk.com
 0.0.0.0 zskleczany.pl
+0.0.0.0 zsklembow.pl
 0.0.0.0 zsniemce.pl
 0.0.0.0 zspbytonia.pl
 0.0.0.0 zspjablkowo.pl

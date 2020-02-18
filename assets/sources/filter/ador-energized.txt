@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 27688
+# Total Domains - 27686
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3102,7 +3102,6 @@
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
 0.0.0.0 adsolutions.yp.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adspaces.ero-ades.ero-advertising.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -8389,7 +8388,6 @@
 0.0.0.0 cryptoserb.com
 0.0.0.0 cryptotab.net
 0.0.0.0 cryptoverto.com
-0.0.0.0 cryptown.netlify.com
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.genieesspv.jp
 0.0.0.0 cs.gssprt.jp

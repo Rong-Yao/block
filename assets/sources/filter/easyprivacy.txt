@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
 # Last Converted - 18.02.2020
-# Total Domains - 5872
+# Total Domains - 5873
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3545,6 +3545,7 @@
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 pagoda56.com
 0.0.0.0 paidstats.com
+0.0.0.0 pam.nextinpact.com
 0.0.0.0 pampopholf.com
 0.0.0.0 panelsave.com
 0.0.0.0 pap.zalando.de

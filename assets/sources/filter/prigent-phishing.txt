@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-phishing.txt
 # Last Converted - 18.02.2020
-# Total Domains - 22709
+# Total Domains - 22708
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -325,7 +325,6 @@
 0.0.0.0 7medsatour.ddns.net
 0.0.0.0 7orus.org
 0.0.0.0 7rb.xyz
-0.0.0.0 7speed.info
 0.0.0.0 7starthailand.com
 0.0.0.0 7travel.online
 0.0.0.0 7wingstofly.com

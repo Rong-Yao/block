@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 18.02.2020
-# Total Domains - 18233
+# Total Domains - 18234
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1346,7 +1346,6 @@
 0.0.0.0 adsnetworkserver.com
 0.0.0.0 adsniper.ru
 0.0.0.0 adsomi.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsonflags.com
 0.0.0.0 adsoptimal.com
 0.0.0.0 adsovo.com
@@ -2164,6 +2163,7 @@
 0.0.0.0 ashaidbit.club
 0.0.0.0 ashamparm.site
 0.0.0.0 ashbowany.site
+0.0.0.0 ashchiasp.club
 0.0.0.0 ashemeth.com
 0.0.0.0 ashot.txxx.com
 0.0.0.0 asiafriendfinder.com
@@ -5823,6 +5823,7 @@
 0.0.0.0 ficusoid.xyz
 0.0.0.0 fiechaev.com
 0.0.0.0 fifnonxntvaszg.com
+0.0.0.0 filecatcher.xyz
 0.0.0.0 fileloadr.com
 0.0.0.0 filestube.com
 0.0.0.0 filetarget.com

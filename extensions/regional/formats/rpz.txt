@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 63,279
+; Entries: 63,301
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 06:14:00
+; Updated: Tue, 18 Feb 20 12:13:50
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -5099,6 +5099,8 @@ alchemysocial.com CNAME .
 alcidebrought.pro CNAME .
 aldam3h.com CNAME .
 aldaobpuhvl.com CNAME .
+aleailarm.com CNAME .
+aleaimbuy.site CNAME .
 aleapeact.club CNAME .
 aleapeapt.club CNAME .
 aleba.ru CNAME .
@@ -5886,6 +5888,7 @@ aristianewr.club CNAME .
 ariyayin.com CNAME .
 arjgnqlsdo.com CNAME .
 arkairbuy.site CNAME .
+arkalealb.site CNAME .
 arkbuyarm.club CNAME .
 arkeren.ru CNAME .
 arkhamxojvr.com CNAME .
@@ -7110,6 +7113,7 @@ beead.co.uk CNAME .
 beead.fr CNAME .
 beead.it CNAME .
 beead.net CNAME .
+beeaimaid.com CNAME .
 beeashale.club CNAME .
 beeblebroks.ru CNAME .
 beebuyart.club CNAME .
@@ -7137,6 +7141,7 @@ behybmunweid.com CNAME .
 beifmu.com CNAME .
 beijing.buzhi5.com CNAME .
 beijinglvyou.net.cn CNAME .
+beineiros.xyz CNAME .
 beiren.xyz CNAME .
 beiven.pw CNAME .
 bejotlmrijxvor.com CNAME .
@@ -13620,6 +13625,7 @@ emediate.dk CNAME .
 emediate.eu CNAME .
 emediate.se CNAME .
 emeighglenellen.com CNAME .
+ememoricane.info CNAME .
 emented.pro CNAME .
 emgwq.com CNAME .
 emierete.com CNAME .
@@ -13809,6 +13815,7 @@ erebor.douban.com CNAME .
 eredexpendin.com CNAME .
 eren-empfiehlt.de CNAME .
 erendri.com CNAME .
+ergeiros.xyz CNAME .
 ergewrg.com CNAME .
 ergs4.com CNAME .
 erificyggw.com CNAME .
@@ -14751,6 +14758,7 @@ file-online.ru CNAME .
 file.autoads.asia CNAME .
 file.novanet.vn CNAME .
 file.pinetech.vn CNAME .
+filecatcher.xyz CNAME .
 filecontrol.ru CNAME .
 fileloadr.com CNAME .
 filepost.ru CNAME .
@@ -15941,6 +15949,7 @@ geiey.com CNAME .
 geili.co CNAME .
 geiyujieda.com CNAME .
 gekywqwky.com CNAME .
+gelbitelf.club CNAME .
 geldcounter.de CNAME .
 gelinboer.cn CNAME .
 gemius.pl CNAME .
@@ -18535,6 +18544,7 @@ idealista.com CNAME .
 idealmedia.com CNAME .
 idealmedia.io CNAME .
 ideibeer.com CNAME .
+ideliv.net CNAME .
 identads.com CNAME .
 identified.cn CNAME .
 ideprjebdvj.com CNAME .
@@ -22571,6 +22581,7 @@ logb3.vietad.vn CNAME .
 logcollector.viewster.com CNAME .
 logdantri.vcmedia.vn CNAME .
 logethy.com CNAME .
+logfrochi.site CNAME .
 logger.cloudmobi.net CNAME .
 logger.ivi.ru CNAME .
 logger.ntracecloud.com CNAME .
@@ -25317,6 +25328,7 @@ nativerent.ru CNAME .
 nativeroll.tv CNAME .
 nativery.com CNAME .
 nativesdks.mparticle.com CNAME .
+nativeserv.com CNAME .
 nativespot.com CNAME .
 nativesubscribe.pro CNAME .
 nativevideo.ru CNAME .
@@ -26739,6 +26751,7 @@ offshp.ru CNAME .
 ofgapiydisrw.com CNAME .
 ofgbefrhs.com CNAME .
 ofghrodsrqkg.com CNAME .
+ofhappinyer.com CNAME .
 ofhwyutlckjuul.bid CNAME .
 oficinadafesta.com CNAME .
 ofigraiw.net CNAME .
@@ -28511,6 +28524,7 @@ pip-pip-pop.com CNAME .
 pipaffiliates.com CNAME .
 pipaoffers.com CNAME .
 pipeschannels.com CNAME .
+pipgiglea.club CNAME .
 pipilazipi.com CNAME .
 pipilida.com CNAME .
 pipiryiqu.com CNAME .
@@ -30022,6 +30036,7 @@ pushtraffic.net CNAME .
 pushtrust.com CNAME .
 pushtun.info CNAME .
 pushua.info CNAME .
+pushup.space CNAME .
 pushwhy.com CNAME .
 pushzolo.com CNAME .
 pusk.ua CNAME .
@@ -30442,6 +30457,7 @@ qgggccolqyi.bid CNAME .
 qghirkrh.bid CNAME .
 qghsnamd.bid CNAME .
 qgiumuzmxj.com CNAME .
+qgjapp.com CNAME .
 qgjllgijf.bid CNAME .
 qgkmjpgwg.com CNAME .
 qgmrchjuqro.bid CNAME .
@@ -31866,6 +31882,7 @@ ridgelorridorsag.info CNAME .
 ridingintractable.com CNAME .
 ridniy.in.ua CNAME .
 rientgallacecapt.info CNAME .
+rigfoxcup.site CNAME .
 rigoczly.com CNAME .
 rigybdgiubwqg.com CNAME .
 rikhov.ru CNAME .
@@ -32334,6 +32351,7 @@ rubxajsomnicfy.com CNAME .
 ruckusschroederraspberry.com CNAME .
 rudsools.net CNAME .
 rue1mi4.bid CNAME .
+rueaukrim.club CNAME .
 ruebmqxqlqwqq.com CNAME .
 ruechaude.com CNAME .
 rueconomics.ru CNAME .
@@ -32779,6 +32797,7 @@ sawdfbwxqcpcs.com CNAME .
 saxp.zedo.com CNAME .
 say.ac CNAME .
 say.fr CNAME .
+sayfibhat.club CNAME .
 saygac.az CNAME .
 saymedia.com CNAME .
 saymigren.net CNAME .
@@ -33256,6 +33275,7 @@ setforconfigplease.com CNAME .
 setinstallmediamac.stream CNAME .
 setksiw.com CNAME .
 setlinks.ru CNAME .
+setlotnay.club CNAME .
 setmacinstallmedia.download CNAME .
 setravieso.com CNAME .
 setrtcjfhreqg.com CNAME .
@@ -38339,6 +38359,7 @@ valkrana.xyz CNAME .
 valpeiros.com CNAME .
 valpkwew.com CNAME .
 valshara.com CNAME .
+valthyra.com CNAME .
 valuad.cloud CNAME .
 valuead.com CNAME .
 valueclick.com CNAME .
@@ -60628,6 +60649,7 @@ wxktv.cn CNAME .
 wxmg2016.com CNAME .
 wxmpekoil.com CNAME .
 wxrotkricj.com CNAME .
+wxs666.cn CNAME .
 wxstatic.cn CNAME .
 wxtrzeizpnp.com CNAME .
 wxupwyabry.com CNAME .

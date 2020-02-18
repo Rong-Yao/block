@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/liste_fr.txt
 # Last Converted - 18.02.2020
-# Total Domains - 5474
+# Total Domains - 5500
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -434,6 +434,7 @@
 0.0.0.0 adconity.com
 0.0.0.0 adconnect.fr
 0.0.0.0 adcpm.com
+0.0.0.0 addan.xyz
 0.0.0.0 addragonppc.com
 0.0.0.0 addserving.com
 0.0.0.0 adecolo.com
@@ -746,6 +747,9 @@
 0.0.0.0 akuitsdre.in
 0.0.0.0 al.ly
 0.0.0.0 albertsonmendocino.com
+0.0.0.0 aleailarm.com
+0.0.0.0 aleaimbuy.site
+0.0.0.0 aleapeact.club
 0.0.0.0 aleja.lt
 0.0.0.0 alemon.ru
 0.0.0.0 alfasoft.date
@@ -863,6 +867,7 @@
 0.0.0.0 areantaid.site
 0.0.0.0 arescadon.com
 0.0.0.0 aristianewr.club
+0.0.0.0 arkalealb.site
 0.0.0.0 arkbuyarm.club
 0.0.0.0 armaimapt.club
 0.0.0.0 armbadare.site
@@ -894,6 +899,7 @@
 0.0.0.0 askallalb.club
 0.0.0.0 askarmalb.club
 0.0.0.0 askcoobaa.club
+0.0.0.0 aspanyarc.club
 0.0.0.0 astore.amazon.com
 0.0.0.0 asumi.shinobi.jp
 0.0.0.0 atdmt.com
@@ -1005,9 +1011,11 @@
 0.0.0.0 bedformj.com
 0.0.0.0 bee-tube.net
 0.0.0.0 beead.fr
+0.0.0.0 beeaimaid.com
 0.0.0.0 beeashale.club
 0.0.0.0 beebuyart.club
 0.0.0.0 beehousebalta.com
+0.0.0.0 beineiros.xyz
 0.0.0.0 beiven.pw
 0.0.0.0 belargets.pro
 0.0.0.0 belinicaller.pro
@@ -2067,6 +2075,7 @@
 0.0.0.0 ekoocmujairt.com
 0.0.0.0 ektmvpwa.top
 0.0.0.0 elasticad.com
+0.0.0.0 elatumal.xyz
 0.0.0.0 elcineencasa.com
 0.0.0.0 elded.eu
 0.0.0.0 eldersvillewarrenville.com
@@ -2083,6 +2092,7 @@
 0.0.0.0 emarketing.net.sa
 0.0.0.0 emea.pub
 0.0.0.0 emeighglenellen.com
+0.0.0.0 ememoricane.info
 0.0.0.0 emented.pro
 0.0.0.0 emooji.com
 0.0.0.0 emoteev.io
@@ -2111,6 +2121,7 @@
 0.0.0.0 epushclick.com
 0.0.0.0 eqnan.megaseries.biz
 0.0.0.0 eravage.com
+0.0.0.0 ergeiros.xyz
 0.0.0.0 eroprofile.com
 0.0.0.0 erosyndc.com
 0.0.0.0 eroticmatriculatebarnett.info
@@ -2384,6 +2395,7 @@
 0.0.0.0 gedmhqqipuz6wfon.pro
 0.0.0.0 geebicom.net
 0.0.0.0 geesopso.net
+0.0.0.0 gelbitelf.club
 0.0.0.0 generaed.info
 0.0.0.0 generalrichardpmccarthy.xyz
 0.0.0.0 genhit.com
@@ -2655,6 +2667,7 @@
 0.0.0.0 icipourtout.com
 0.0.0.0 idcwp6j6sm.com
 0.0.0.0 iddjpop.com
+0.0.0.0 ideliv.net
 0.0.0.0 idhad.com
 0.0.0.0 idiafix.com
 0.0.0.0 iduhivcnth.com
@@ -3062,6 +3075,7 @@
 0.0.0.0 loasdfn.xyz
 0.0.0.0 loaxuflhen.com
 0.0.0.0 local-finders.com
+0.0.0.0 logfrochi.site
 0.0.0.0 login.meexy.com
 0.0.0.0 loktrk.com
 0.0.0.0 lologhfd.com
@@ -3425,6 +3439,7 @@
 0.0.0.0 native.com
 0.0.0.0 nativeads.com
 0.0.0.0 nativeads.rocks
+0.0.0.0 nativeserv.com
 0.0.0.0 nativexml.com
 0.0.0.0 natoms.com
 0.0.0.0 naucaips.com
@@ -3597,6 +3612,7 @@
 0.0.0.0 offerdeliverynetwork.com
 0.0.0.0 offergo.net
 0.0.0.0 offpageads.com
+0.0.0.0 ofhappinyer.com
 0.0.0.0 oftrau54.com
 0.0.0.0 ogranictraffic.com
 0.0.0.0 ogrfi3uyt7.com
@@ -3740,6 +3756,7 @@
 0.0.0.0 paruvendu.fr
 0.0.0.0 pastoupt.com
 0.0.0.0 pathere.info
+0.0.0.0 patoris.xyz
 0.0.0.0 patracy.pro
 0.0.0.0 paujoawa.top
 0.0.0.0 paupepsu.click
@@ -3822,6 +3839,7 @@
 0.0.0.0 pimmuter.com
 0.0.0.0 pinckardpyote.com
 0.0.0.0 pipeschannels.com
+0.0.0.0 pipgiglea.club
 0.0.0.0 piratebayproxies.cc
 0.0.0.0 piratecityfile.host
 0.0.0.0 pirdoust.com
@@ -3928,6 +3946,7 @@
 0.0.0.0 priodiss.pro
 0.0.0.0 probiting.info
 0.0.0.0 proche2moi.com
+0.0.0.0 producebreed.com
 0.0.0.0 profitforyou.info
 0.0.0.0 projectagoraservices.com
 0.0.0.0 promo-earn.com
@@ -4053,6 +4072,7 @@
 0.0.0.0 pushresponse.net
 0.0.0.0 pushtraffic.net
 0.0.0.0 pushtrust.com
+0.0.0.0 pushup.space
 0.0.0.0 pushwhy.com
 0.0.0.0 pushzolo.com
 0.0.0.0 pussl34.com
@@ -4245,6 +4265,7 @@
 0.0.0.0 rickettsharrell.com
 0.0.0.0 ridgedaletecopa.com
 0.0.0.0 ridingintractable.com
+0.0.0.0 rigfoxcup.site
 0.0.0.0 rilnali.ru
 0.0.0.0 ringier.hu
 0.0.0.0 ritogaga.com
@@ -4284,6 +4305,7 @@
 0.0.0.0 rtyznd.com
 0.0.0.0 ru858am70x.com
 0.0.0.0 rudsools.net
+0.0.0.0 rueaukrim.club
 0.0.0.0 ruechaude.com
 0.0.0.0 rufadses.net
 0.0.0.0 rugbygeneration.com
@@ -4354,6 +4376,7 @@
 0.0.0.0 sasqos.com
 0.0.0.0 savefromad.net
 0.0.0.0 say.fr
+0.0.0.0 sayfibhat.club
 0.0.0.0 sbazylassxx.club
 0.0.0.0 scaleway.ovh
 0.0.0.0 scappoosebirds.com
@@ -4411,6 +4434,7 @@
 0.0.0.0 setchode.com
 0.0.0.0 setinstallmediamac.stream
 0.0.0.0 setksiw.com
+0.0.0.0 setlotnay.club
 0.0.0.0 setmacinstallmedia.download
 0.0.0.0 sewhethelesee.info
 0.0.0.0 sex-affiliation.com
@@ -5026,6 +5050,7 @@
 0.0.0.0 vaivafie.net
 0.0.0.0 valemedia.net
 0.0.0.0 valshara.com
+0.0.0.0 valthyra.com
 0.0.0.0 vamprog.site
 0.0.0.0 vaniacozzolino.com
 0.0.0.0 vasoelv.xyz
@@ -5367,6 +5392,7 @@
 0.0.0.0 yeesshh.com
 0.0.0.0 yes-messenger.com
 0.0.0.0 yesmessenger.com
+0.0.0.0 yesra.xyz
 0.0.0.0 yestedun.info
 0.0.0.0 yeyajipp.com
 0.0.0.0 yie4zooseif.info

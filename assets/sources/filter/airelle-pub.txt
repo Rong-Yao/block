@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
 # Last Converted - 18.02.2020
-# Total Domains - 56510
+# Total Domains - 56506
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -798,8 +798,6 @@
 0.0.0.0 a.collective-media.net.49474.9362.302br.net
 0.0.0.0 a.collective-media.net.49478.9362.302br.net
 0.0.0.0 a.collective-media.net.49485.9362.302br.net
-0.0.0.0 a.collective-media.net.49487.9362.302br.net
-0.0.0.0 a.collective-media.net.49489.9362.302br.net
 0.0.0.0 a.collective-media.net.49490.9362.302br.net
 0.0.0.0 a.collective-media.net.49491.9362.302br.net
 0.0.0.0 a.collective-media.net.49492.9362.302br.net
@@ -17620,7 +17618,6 @@
 0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsomatic.com
 0.0.0.0 adson.awempire.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsonlineinc.com
 0.0.0.0 adsonwww.com
 0.0.0.0 adsopedia.go2cloud.org
@@ -55336,7 +55333,6 @@
 0.0.0.0 www.usearchmedia.com
 0.0.0.0 www.usedcarmart.co.uk
 0.0.0.0 www.usemax.de
-0.0.0.0 www.usfreeads.com
 0.0.0.0 www.usfreediving.org
 0.0.0.0 www.ushenin.com
 0.0.0.0 www.usmleweb.com

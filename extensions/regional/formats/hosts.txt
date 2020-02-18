@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 63,279
+# Entries: 63,301
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 06:14:00
+# Updated: Tue, 18 Feb 20 12:13:50
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -5110,6 +5110,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 alcidebrought.pro
 0.0.0.0 aldam3h.com
 0.0.0.0 aldaobpuhvl.com
+0.0.0.0 aleailarm.com
+0.0.0.0 aleaimbuy.site
 0.0.0.0 aleapeact.club
 0.0.0.0 aleapeapt.club
 0.0.0.0 aleba.ru
@@ -5897,6 +5899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ariyayin.com
 0.0.0.0 arjgnqlsdo.com
 0.0.0.0 arkairbuy.site
+0.0.0.0 arkalealb.site
 0.0.0.0 arkbuyarm.club
 0.0.0.0 arkeren.ru
 0.0.0.0 arkhamxojvr.com
@@ -7121,6 +7124,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beead.fr
 0.0.0.0 beead.it
 0.0.0.0 beead.net
+0.0.0.0 beeaimaid.com
 0.0.0.0 beeashale.club
 0.0.0.0 beeblebroks.ru
 0.0.0.0 beebuyart.club
@@ -7148,6 +7152,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beifmu.com
 0.0.0.0 beijing.buzhi5.com
 0.0.0.0 beijinglvyou.net.cn
+0.0.0.0 beineiros.xyz
 0.0.0.0 beiren.xyz
 0.0.0.0 beiven.pw
 0.0.0.0 bejotlmrijxvor.com
@@ -13631,6 +13636,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 emediate.eu
 0.0.0.0 emediate.se
 0.0.0.0 emeighglenellen.com
+0.0.0.0 ememoricane.info
 0.0.0.0 emented.pro
 0.0.0.0 emgwq.com
 0.0.0.0 emierete.com
@@ -13820,6 +13826,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eredexpendin.com
 0.0.0.0 eren-empfiehlt.de
 0.0.0.0 erendri.com
+0.0.0.0 ergeiros.xyz
 0.0.0.0 ergewrg.com
 0.0.0.0 ergs4.com
 0.0.0.0 erificyggw.com
@@ -14762,6 +14769,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 file.autoads.asia
 0.0.0.0 file.novanet.vn
 0.0.0.0 file.pinetech.vn
+0.0.0.0 filecatcher.xyz
 0.0.0.0 filecontrol.ru
 0.0.0.0 fileloadr.com
 0.0.0.0 filepost.ru
@@ -15952,6 +15960,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geili.co
 0.0.0.0 geiyujieda.com
 0.0.0.0 gekywqwky.com
+0.0.0.0 gelbitelf.club
 0.0.0.0 geldcounter.de
 0.0.0.0 gelinboer.cn
 0.0.0.0 gemius.pl
@@ -18546,6 +18555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 idealmedia.com
 0.0.0.0 idealmedia.io
 0.0.0.0 ideibeer.com
+0.0.0.0 ideliv.net
 0.0.0.0 identads.com
 0.0.0.0 identified.cn
 0.0.0.0 ideprjebdvj.com
@@ -22582,6 +22592,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 logcollector.viewster.com
 0.0.0.0 logdantri.vcmedia.vn
 0.0.0.0 logethy.com
+0.0.0.0 logfrochi.site
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.ivi.ru
 0.0.0.0 logger.ntracecloud.com
@@ -25328,6 +25339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nativeroll.tv
 0.0.0.0 nativery.com
 0.0.0.0 nativesdks.mparticle.com
+0.0.0.0 nativeserv.com
 0.0.0.0 nativespot.com
 0.0.0.0 nativesubscribe.pro
 0.0.0.0 nativevideo.ru
@@ -26750,6 +26762,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ofgapiydisrw.com
 0.0.0.0 ofgbefrhs.com
 0.0.0.0 ofghrodsrqkg.com
+0.0.0.0 ofhappinyer.com
 0.0.0.0 ofhwyutlckjuul.bid
 0.0.0.0 oficinadafesta.com
 0.0.0.0 ofigraiw.net
@@ -28522,6 +28535,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pipaffiliates.com
 0.0.0.0 pipaoffers.com
 0.0.0.0 pipeschannels.com
+0.0.0.0 pipgiglea.club
 0.0.0.0 pipilazipi.com
 0.0.0.0 pipilida.com
 0.0.0.0 pipiryiqu.com
@@ -30033,6 +30047,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pushtrust.com
 0.0.0.0 pushtun.info
 0.0.0.0 pushua.info
+0.0.0.0 pushup.space
 0.0.0.0 pushwhy.com
 0.0.0.0 pushzolo.com
 0.0.0.0 pusk.ua
@@ -30453,6 +30468,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qghirkrh.bid
 0.0.0.0 qghsnamd.bid
 0.0.0.0 qgiumuzmxj.com
+0.0.0.0 qgjapp.com
 0.0.0.0 qgjllgijf.bid
 0.0.0.0 qgkmjpgwg.com
 0.0.0.0 qgmrchjuqro.bid
@@ -31877,6 +31893,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ridingintractable.com
 0.0.0.0 ridniy.in.ua
 0.0.0.0 rientgallacecapt.info
+0.0.0.0 rigfoxcup.site
 0.0.0.0 rigoczly.com
 0.0.0.0 rigybdgiubwqg.com
 0.0.0.0 rikhov.ru
@@ -32345,6 +32362,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ruckusschroederraspberry.com
 0.0.0.0 rudsools.net
 0.0.0.0 rue1mi4.bid
+0.0.0.0 rueaukrim.club
 0.0.0.0 ruebmqxqlqwqq.com
 0.0.0.0 ruechaude.com
 0.0.0.0 rueconomics.ru
@@ -32790,6 +32808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 saxp.zedo.com
 0.0.0.0 say.ac
 0.0.0.0 say.fr
+0.0.0.0 sayfibhat.club
 0.0.0.0 saygac.az
 0.0.0.0 saymedia.com
 0.0.0.0 saymigren.net
@@ -33267,6 +33286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 setinstallmediamac.stream
 0.0.0.0 setksiw.com
 0.0.0.0 setlinks.ru
+0.0.0.0 setlotnay.club
 0.0.0.0 setmacinstallmedia.download
 0.0.0.0 setravieso.com
 0.0.0.0 setrtcjfhreqg.com
@@ -38350,6 +38370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 valpeiros.com
 0.0.0.0 valpkwew.com
 0.0.0.0 valshara.com
+0.0.0.0 valthyra.com
 0.0.0.0 valuad.cloud
 0.0.0.0 valuead.com
 0.0.0.0 valueclick.com
@@ -60639,6 +60660,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wxmg2016.com
 0.0.0.0 wxmpekoil.com
 0.0.0.0 wxrotkricj.com
+0.0.0.0 wxs666.cn
 0.0.0.0 wxstatic.cn
 0.0.0.0 wxtrzeizpnp.com
 0.0.0.0 wxupwyabry.com

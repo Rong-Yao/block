@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 6157
+# Total Domains - 6154
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -858,7 +858,6 @@
 0.0.0.0 adsoldier.com
 0.0.0.0 adsomenoise.cdn01.rambla.be
 0.0.0.0 adson.awempire.com
-0.0.0.0 adsonar.com
 0.0.0.0 adsp.ciner.com.tr
 0.0.0.0 adsp.haberturk.com
 0.0.0.0 adspaces.ero-advertising.com
@@ -3631,7 +3630,6 @@
 0.0.0.0 oascentral.dailybreeze.com
 0.0.0.0 oascentral.discovery.com
 0.0.0.0 oascentral.eastbayexpress.com
-0.0.0.0 oascentral.feedroom.com
 0.0.0.0 oascentral.fortunecity.com
 0.0.0.0 oascentral.freedom.com
 0.0.0.0 oascentral.gigex.com
@@ -4130,7 +4128,6 @@
 0.0.0.0 rncgopcom.122.2o7.net
 0.0.0.0 robot.royalcactus.com
 0.0.0.0 rocks.io
-0.0.0.0 romepartners.com
 0.0.0.0 roosevelt.gjbig.com
 0.0.0.0 rootbuzz.com
 0.0.0.0 roshanavar.com

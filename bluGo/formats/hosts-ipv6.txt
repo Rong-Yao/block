@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.049
 # Release: 049
-# Entries: 122,838
+# Entries: 122,889
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 12:10:09
+# Updated: Tue, 18 Feb 20 18:10:11
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -9733,6 +9733,7 @@ ff02::3 ip6-allhosts
 :: adv-feedback.adsterra.com
 :: adv-mydarkness.ggcorp.me
 :: adv-sv-show.focus.cn
+:: adv-sv-stat.focus.cn
 :: adv.440network.com
 :: adv.abv.bg
 :: adv.ad-splash.jp
@@ -11301,6 +11302,8 @@ ff02::3 ip6-allhosts
 :: aldusaccountants.com
 :: ale-dowcip.pl
 :: ale-fotogragia.bo.pl
+:: aleailarm.com
+:: aleaimbuy.site
 :: aleapeact.club
 :: alegroup.info
 :: aleidangroup.com
@@ -15489,6 +15492,7 @@ ff02::3 ip6-allhosts
 :: arkadium-d.openx.net
 :: arkadium-tagan.adlightning.com
 :: arkairbuy.site
+:: arkalealb.site
 :: arkaust.com.au
 :: arkayne.com
 :: arkbuyarm.club
@@ -15929,6 +15933,7 @@ ff02::3 ip6-allhosts
 :: asp.animelab.com
 :: asp.m-live.jp
 :: aspampbrr.online
+:: aspanyarc.club
 :: asparmany.site
 :: aspartbus.site
 :: aspboxant.club
@@ -18559,6 +18564,7 @@ ff02::3 ip6-allhosts
 :: bee.aoto.cloudns.org
 :: beead.co.uk
 :: beead.net
+:: beeaimaid.com
 :: beeashale.club
 :: beecase.com
 :: beedoctor.in.th
@@ -20712,6 +20718,7 @@ ff02::3 ip6-allhosts
 :: bounty.bitcoin.com
 :: bounty.voidr.net
 :: bourbonstreetdistillery.com
+:: bournemouthecho-gb.bournemouthecho.co.uk
 :: boursnormaticm.info
 :: boutique-miniature.com
 :: boutiquell.almteam-consulting.com
@@ -22567,6 +22574,7 @@ ff02::3 ip6-allhosts
 :: cadsipz.com
 :: cadskis.com
 :: cadskiz.com
+:: cadslimz.com
 :: cadsoks.com
 :: cadsokz.com
 :: cadspmz.com
@@ -28809,7 +28817,6 @@ ff02::3 ip6-allhosts
 :: cqyirsc.com
 :: cqzqdoqsgxyf.com
 :: cr-brands.net
-:: cr-eec.etp-prod.com
 :: cr-mufg-card--jp.info
 :: cr-nielsen.com
 :: cr-p1.ladsp.com
@@ -32004,6 +32011,7 @@ ff02::3 ip6-allhosts
 :: del-del-ete.com
 :: del-sieradz.neostrada.pl
 :: del.poolerino.com
+:: delainlygoverhe.info
 :: delamargm.cl
 :: delb2.myspace.com
 :: delb3.cxense.com
@@ -35889,6 +35897,7 @@ ff02::3 ip6-allhosts
 :: ebbhjxspf.com
 :: ebbldazyvt.com
 :: ebcom.112.2o7.net
+:: ebcpfsslht.com
 :: ebd-cda.pl
 :: ebd.bbz.kg
 :: ebda-us-east.casalemedia.com
@@ -36281,6 +36290,7 @@ ff02::3 ip6-allhosts
 :: eeamatyc.com
 :: eebfffjegjajjiacaci.ru
 :: eebrojmn.com
+:: eec.crunchyroll.com
 :: eec.pixel.prod2.invitemedia.com
 :: eecain7z.com
 :: eecd179r3b.com
@@ -36617,6 +36627,7 @@ ff02::3 ip6-allhosts
 :: elasticsystems.com
 :: elastx.net
 :: elatsadlux.com
+:: elatumal.xyz
 :: elb-academy.com
 :: elb-collectors-prod.crowdtwist.com
 :: elb.btcc.com
@@ -37552,6 +37563,7 @@ ff02::3 ip6-allhosts
 :: ereportz.com
 :: eresmas.net
 :: erexer.dnsabr.com
+:: ergeiros.xyz
 :: ergocentrum.pl
 :: ergodynamic.ru
 :: ergonorte.cl
@@ -37649,6 +37661,7 @@ ff02::3 ip6-allhosts
 :: erucjvsest.com
 :: erulus.iad-03.braze.com
 :: eruuludam.mn
+:: erversarycompa.info
 :: ervinguewty.com
 :: ervzx.com
 :: erwqw.zh1155.com
@@ -39819,9 +39832,11 @@ ff02::3 ip6-allhosts
 :: fadsanz.com
 :: fadsats.com
 :: fadsatz.com
+:: fadsecs.com
 :: fadsecz.com
 :: fadsims.com
 :: fadskis.com
+:: fadslims.com
 :: fadsoks.com
 :: fadspmz.com
 :: faegbmhey.com
@@ -40386,6 +40401,7 @@ ff02::3 ip6-allhosts
 :: feed.theta.sogou.com
 :: feed.trafflow.com
 :: feed111.me
+:: feed777.me
 :: feeda.info
 :: feedads.feedblitz.com
 :: feedads.googleadservices.com
@@ -43291,6 +43307,7 @@ ff02::3 ip6-allhosts
 :: gads.pubmatic.com
 :: gads44000.pubmatic.com
 :: gadsans.com
+:: gadsats.com
 :: gadsbee.com
 :: gadsecz.com
 :: gadsimz.com
@@ -44784,6 +44801,7 @@ ff02::3 ip6-allhosts
 :: glanceguide.com
 :: glargoun.uk
 :: glascowhs.com
+:: glasgowtimes-gb.glasgowtimes.co.uk
 :: glasgro.com
 :: glassbox.aircanada.ca
 :: glassboxdigital.com
@@ -45985,6 +46003,7 @@ ff02::3 ip6-allhosts
 :: greenmentioned.com
 :: greenmonkeydesignstudio.com
 :: greenmountainleather.org
+:: greenocktelegraph-gb.greenocktelegraph.co.uk
 :: greenonbluewebsite.com
 :: greenpatio.pl
 :: greenproduction.pl
@@ -47751,6 +47770,7 @@ ff02::3 ip6-allhosts
 :: heqcvweqvqf.com
 :: hera-personalleasing.de
 :: heracgjcuqmk.com
+:: heraldscotland-gb.heraldscotland.com
 :: herbalaffiliateprogram.com
 :: herbalife.pl
 :: herbalmantap.com
@@ -51214,6 +51234,7 @@ ff02::3 ip6-allhosts
 :: hwekl8dz1d.com
 :: hwfcdqnvovij.com
 :: hwhdxuid.com
+:: hwhiffonprotect.info
 :: hwhzonbib.com
 :: hwiccseamrs.com
 :: hwjjxzzbpbn.com
@@ -52148,6 +52169,7 @@ ff02::3 ip6-allhosts
 :: ideibiznesa2015.ru
 :: ideix.market
 :: idejenmqxhy.bid
+:: ideliv.net
 :: idelmxrchrce.com
 :: idemonterrey.com
 :: idemperidem.com
@@ -58249,6 +58271,7 @@ ff02::3 ip6-allhosts
 :: konto.amronet.pl
 :: konto1.cal24.pl
 :: koocash.com
+:: koocaucy.com
 :: koofysojwb.com
 :: koora24eg.com
 :: koorogeb.net
@@ -58630,6 +58653,7 @@ ff02::3 ip6-allhosts
 :: kulro.csheaven.com
 :: kulturalubuska.pl
 :: kumahachi.me
+:: kumanaun.net
 :: kumekqeccmob.com
 :: kumhostar45.duckdns.org
 :: kumjidmumktzq.com
@@ -59046,6 +59070,7 @@ ff02::3 ip6-allhosts
 :: lahony.pl
 :: lahoradegelves.es
 :: lahvliitxeb.com
+:: laichaim.net
 :: lailivob.net
 :: laim.tv
 :: laintimes.com
@@ -61131,6 +61156,7 @@ ff02::3 ip6-allhosts
 :: logdy.com
 :: logemail.vapr.cc
 :: logentries.com
+:: logfrochi.site
 :: logg.kiwi.com
 :: logged.duckdns.org
 :: logger.admixer.co.kr
@@ -65372,6 +65398,7 @@ ff02::3 ip6-allhosts
 :: mevents.trusteer.com
 :: meveze.ru
 :: mewapi.musicoin.tw
+:: mewnetwag.site
 :: mexedyfzdx.bid
 :: meya41w7.com
 :: meychterwallet.com
@@ -69276,6 +69303,7 @@ ff02::3 ip6-allhosts
 :: nativeleads.net
 :: nativepu.sh
 :: nativeroll.tv
+:: nativeserv.com
 :: nativespot.com
 :: nativesubscribe.pro
 :: nativex-sdk.appspot.com
@@ -70666,6 +70694,7 @@ ff02::3 ip6-allhosts
 :: nisekotourguide.net
 :: nishagopal.com
 :: nishathlessharr.info
+:: nishfarmerlypas.info
 :: nishinomiyaseijunkai.web.fc2.com
 :: nishkampolishsewakjatha.com
 :: niskamaskincare.pl
@@ -72458,6 +72487,7 @@ ff02::3 ip6-allhosts
 :: obd.cvts.ng
 :: obdzedcpwxk.com
 :: obeeifroxtivh.com
+:: obefjbb4mykw.com
 :: oberonincredig.112.2o7.net
 :: oberoniplay.112.2o7.net
 :: oberzapodorzechem.pl
@@ -72774,6 +72804,7 @@ ff02::3 ip6-allhosts
 :: ofgapiydisrw.com
 :: ofgbefrhs.com
 :: ofghrodsrqkg.com
+:: ofhappinyer.com
 :: ofhwyutlckjuul.bid
 :: oficina10.com
 :: oficinadeacordeon.com.br
@@ -74232,6 +74263,7 @@ ff02::3 ip6-allhosts
 :: oulxdvvpmfcd.com
 :: oumax.oupeng.com
 :: ounaihekw.bid
+:: ountapaveralle.info
 :: ounyrilukncbj.com
 :: ouplog.umeng.com
 :: ouptoobe.net
@@ -76923,6 +76955,7 @@ ff02::3 ip6-allhosts
 :: piper.amocrm.ru
 :: pipermuseum.com
 :: pipfire.com
+:: pipgiglea.club
 :: pipilazipi.com
 :: pipilida.com
 :: pipiryiqu.com
@@ -78827,6 +78860,7 @@ ff02::3 ip6-allhosts
 :: portantreadedagree.info
 :: portbooker.es
 :: portchecker.dashninja.pl
+:: portedlysarcatc.info
 :: portfold.com
 :: portfolioanalytics.net
 :: portkingric.net
@@ -80297,6 +80331,7 @@ ff02::3 ip6-allhosts
 :: ptogheeb.net
 :: ptokp.pro
 :: ptoosteg.com
+:: ptoulsey.com
 :: ptp.lolco.net
 :: ptp123.com
 :: ptp22.com
@@ -80773,6 +80808,7 @@ ff02::3 ip6-allhosts
 :: pushtx.api.btc.com
 :: pushtx.btc.com
 :: pushtxdev.btc.com
+:: pushup.space
 :: pushuser.wp.pl
 :: pushwhy.com
 :: pushwoosh.g5e.com
@@ -84059,6 +84095,7 @@ ff02::3 ip6-allhosts
 :: rig.tokyo
 :: rigafah.ru
 :: rigel.baidustatic.com
+:: rigfoxcup.site
 :: righthenwilbetrin.info
 :: rightmedia.com
 :: rightmedia.net
@@ -84502,6 +84539,7 @@ ff02::3 ip6-allhosts
 :: ronjansen.nl
 :: ronletsobetning.pro
 :: ronnerdog.000webhostapp.com
+:: ronoutom.net
 :: ronriddell.com
 :: ronrmbrrhqdwh.com
 :: ronsearch.adk2.co
@@ -85141,6 +85179,7 @@ ff02::3 ip6-allhosts
 :: rudypazur.pl
 :: rudzinska-mekal.pl
 :: rue1mi4.bid
+:: rueaukrim.club
 :: ruebmqxqlqwqq.com
 :: rufe-sun.web.app
 :: rufflet-api.cryptokitties.co
@@ -88240,6 +88279,7 @@ ff02::3 ip6-allhosts
 :: set0.hhtt.1209k.com
 :: setdealgo.com
 :: seth.avazutracking.net
+:: setlotnay.club
 :: setnewsonedayc.com
 :: setracorretora.com.br
 :: setrtcjfhreqg.com
@@ -89290,6 +89330,7 @@ ff02::3 ip6-allhosts
 :: sistema.iktweb.com.ar
 :: sistemaconfig.webcindario.com
 :: sistemamodelo.com.br
+:: sisterncoalitical.info
 :: sistersofsjabbsr.org
 :: sisyqzktimhrgo.com
 :: sit.gentags.net
@@ -94565,6 +94606,7 @@ ff02::3 ip6-allhosts
 :: swiftmining.win
 :: swimslope.com
 :: swimsolution.ap-reklama.cz
+:: swindonadvertiser-gb.swindonadvertiser.co.uk
 :: swinemine.com
 :: swing.thecoin.pw
 :: swingingcommunity.com
@@ -96787,6 +96829,7 @@ ff02::3 ip6-allhosts
 :: theeyeshaveitfc.com
 :: thefaren.pw
 :: thefashionmermaid.com
+:: thefastpush.com
 :: thefbpro.000webhostapp.com
 :: thefeedstoreseattle.com
 :: thefilter.com
@@ -101813,6 +101856,7 @@ ff02::3 ip6-allhosts
 :: ugobgzeiel.com
 :: ugofit.com
 :: ugoptxnm.com
+:: ugoupams.com
 :: ugrastes.uk
 :: ugvcpwyplnj.bid
 :: ugvdjzysvfivy.com
@@ -102665,6 +102709,7 @@ ff02::3 ip6-allhosts
 :: urchin.5173.com
 :: urchindo.webuda.com
 :: urchintelemetry.com
+:: uremechangec.info
 :: urercontalproces.info
 :: urfdvrrg.com
 :: urgwritishimpos.info
@@ -103322,6 +103367,7 @@ ff02::3 ip6-allhosts
 :: uyeluxauiq.com
 :: uyencometics.bmt.city
 :: uyersa.gq
+:: uyfujpumixi.com
 :: uyfvacsilcflsom.fgppchg.fgpp.com
 :: uyiyuiyuiy.com
 :: uymjshdxxneu.com
@@ -103604,6 +103650,7 @@ ff02::3 ip6-allhosts
 :: valpkwew.com
 :: valshara.com
 :: valt.atm.youku.com
+:: valthyra.com
 :: valtrex.7h.com
 :: valuad.cloud
 :: valuead.com
@@ -104880,6 +104927,7 @@ ff02::3 ip6-allhosts
 :: vkhrnisuky.com
 :: vkmcom.beget.tech
 :: vkmonster.com
+:: vknrfwwxhxaxupqp.pro
 :: vkoldru.000webhostapp.com
 :: vkont.bos.ru
 :: vkontakte.0catch.com
@@ -107155,6 +107203,7 @@ ff02::3 ip6-allhosts
 :: wilsfagox03.000webhostapp.com
 :: wilsonstiling.co.uk
 :: wilsontimes.ads2.creativecirclemedia.com
+:: wiltshiretimes-gb.wiltshiretimes.co.uk
 :: wilwasharrabred.pro
 :: wilwsnpc.info
 :: wilyam30.ddns.net
@@ -122399,6 +122448,7 @@ ff02::3 ip6-allhosts
 :: zinntikumugai-xyz.zin.mixh.jp
 :: zinntikumugai.xyz
 :: zinovila.com
+:: zinphyra.com
 :: zinrora.pw
 :: zintext.com
 :: zinzino.com
@@ -122754,6 +122804,7 @@ ff02::3 ip6-allhosts
 :: zucks.co.jp
 :: zucks.net
 :: zudlddyzgogsh.com
+:: zudrurta.com
 :: zuecosboaonda.es
 :: zueira.uodoo.com
 :: zuev.biz

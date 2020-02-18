@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 18.02.2020
-# Total Domains - 44533
+# Total Domains - 44529
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7881,7 +7881,6 @@
 0.0.0.0 boostmobile.112.2o7.net
 0.0.0.0 boostpub.com
 0.0.0.0 boostservice.com
-0.0.0.0 bootiegirl.com
 0.0.0.0 bootservice.com
 0.0.0.0 bootstraps.timesink.com
 0.0.0.0 bootybone.com
@@ -10032,7 +10031,6 @@
 0.0.0.0 content3.rm04.net
 0.0.0.0 content3.rm06.net
 0.0.0.0 contentmatch.net
-0.0.0.0 contents.sex-explorer.com
 0.0.0.0 contentsearch.de.miva.com
 0.0.0.0 contentsearch.es.miva.com
 0.0.0.0 contentsearch.fr.miva.com
@@ -20953,7 +20951,6 @@
 0.0.0.0 metrics.vueling.com
 0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 metrics.wdc.com
-0.0.0.0 metrics.weldingweb.com
 0.0.0.0 metrics.wfaa.com
 0.0.0.0 metrics.which.co.uk
 0.0.0.0 metrics.wikinvest.com
@@ -37567,7 +37564,6 @@
 0.0.0.0 www.get-data.com
 0.0.0.0 www.get-design.com
 0.0.0.0 www.getactivehub.com
-0.0.0.0 www.getclicksnow.com
 0.0.0.0 www.getfound.com
 0.0.0.0 www.getloan.com
 0.0.0.0 www.getminted.com

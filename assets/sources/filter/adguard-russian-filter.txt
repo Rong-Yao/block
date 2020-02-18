@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
 # Last Converted - 18.02.2020
-# Total Domains - 3214
+# Total Domains - 3215
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -481,6 +481,7 @@
 0.0.0.0 bcli.flash-xxx.com
 0.0.0.0 bcprn.club
 0.0.0.0 bd05qvt.co.ua
+0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 bdros.com
 0.0.0.0 be-mine.ru
 0.0.0.0 bearsandfish.com

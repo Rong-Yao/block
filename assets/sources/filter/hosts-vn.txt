@@ -258,7 +258,6 @@
 0.0.0.0 cli.ambient-platform.com
 0.0.0.0 cli.m.ambient-platform.com
 0.0.0.0 click.accesstrade.com.vn
-0.0.0.0 click.accesstrade.vn
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.m.ambientplatform.vn
 0.0.0.0 click.novanet.vn
@@ -413,6 +412,7 @@
 0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 facebookid.younetmedia.com
 0.0.0.0 facefone.laydata.com
+0.0.0.0 fast.accesstrade.com.vn
 0.0.0.0 fast.accesstrade.vn
 0.0.0.0 fb.fff.com.vn
 0.0.0.0 fbg.mangoads.vn

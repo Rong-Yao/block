@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
 # Last Converted - 18.02.2020
-# Total Domains - 5873
+# Total Domains - 5881
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -240,6 +240,7 @@
 0.0.0.0 adtriba.com
 0.0.0.0 adultblogtoplist.com
 0.0.0.0 adunity.com
+0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.drtuber.com
 0.0.0.0 advalo.com
 0.0.0.0 advanced-web-analytics.com
@@ -840,6 +841,7 @@
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncepilot.com
 0.0.0.0 bouncex.com
+0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bpmonline.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 brandlock.io
@@ -1339,6 +1341,7 @@
 0.0.0.0 cphalk.com
 0.0.0.0 cpmktg.com
 0.0.0.0 cpmstar.com
+0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 cpu2cash.link
 0.0.0.0 cpx.golem.de
@@ -1346,7 +1349,6 @@
 0.0.0.0 cpxl.golem.de
 0.0.0.0 cqcounter.com
 0.0.0.0 cquotient.com
-0.0.0.0 cr-eec.etp-prod.com
 0.0.0.0 cr-nielsen.com
 0.0.0.0 crabbychin.com
 0.0.0.0 craftkeys.com
@@ -1790,6 +1792,7 @@
 0.0.0.0 edt02.net
 0.0.0.0 edtp.de
 0.0.0.0 edw.edmunds.com
+0.0.0.0 eec.crunchyroll.com
 0.0.0.0 ef.futuroscope.com
 0.0.0.0 ef.futuroscope.mobi
 0.0.0.0 efatik.me
@@ -2255,6 +2258,7 @@
 0.0.0.0 gixmo.dk
 0.0.0.0 gjr5.yoigo.com
 0.0.0.0 glanceguide.com
+0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 glbtracker.com
 0.0.0.0 globalwebindex.net
@@ -2312,6 +2316,7 @@
 0.0.0.0 greatviews.de
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 greengaming.de
+0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
 0.0.0.0 grepdata.com
 0.0.0.0 greyinstrument.com
 0.0.0.0 grfz.de
@@ -2374,6 +2379,7 @@
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hellosherpa.com
 0.0.0.0 hentaicounter.com
+0.0.0.0 heraldscotland-gb.heraldscotland.com
 0.0.0.0 hermes.theglobeandmail.com
 0.0.0.0 hetchi.com
 0.0.0.0 hexagon-analytics.com
@@ -4790,6 +4796,7 @@
 0.0.0.0 sweetslope.com
 0.0.0.0 swfstats.com
 0.0.0.0 swiftmining.win
+0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 swiss-counter.com
 0.0.0.0 sxtracking.com
 0.0.0.0 sy.amebame.com
@@ -5728,6 +5735,7 @@
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikiodeliv.com
 0.0.0.0 wildxtraffic.com
+0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
 0.0.0.0 win.staticstuff.net
 0.0.0.0 winitout.com
 0.0.0.0 wipe.de

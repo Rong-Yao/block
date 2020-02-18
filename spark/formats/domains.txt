@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.049
 # Release: 049
-# Entries: 60,943
+# Entries: 60,990
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 12:10:03
+# Updated: Tue, 18 Feb 20 18:10:07
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -7238,6 +7238,8 @@ alclick.com
 aldaobpuhvl.com
 aldovipshop.top
 aldtrax.com
+aleailarm.com
+aleaimbuy.site
 aleapeact.club
 alegroup.info
 alemon.ru
@@ -9740,6 +9742,7 @@ ark.letv.com
 arkadium-d.openx.net
 arkadium-tagan.adlightning.com
 arkairbuy.site
+arkalealb.site
 arkbuyarm.club
 arkhamxojvr.com
 arkinhechershedt.info
@@ -9905,6 +9908,7 @@ asooda.com
 asotnnwspw.bid
 asp.animelab.com
 aspampbrr.online
+aspanyarc.club
 asparmany.site
 aspartbus.site
 aspboxant.club
@@ -11172,6 +11176,7 @@ bedorm.com
 bedsbreath.com
 beead.co.uk
 beead.net
+beeaimaid.com
 beeashale.club
 beedoctor.in.th
 beegreen.com.co
@@ -13053,6 +13058,7 @@ cadsips.com
 cadsipz.com
 cadskis.com
 cadskiz.com
+cadslimz.com
 cadsoks.com
 cadsokz.com
 cadspmz.com
@@ -17963,6 +17969,7 @@ deihhhgbiegcjiacacc.ru
 deiqehvcdnntg.com
 dejionsite.pro
 del-del-ete.com
+delainlygoverhe.info
 delb2.myspace.com
 delb3.cxense.com
 delb5.cxense.com
@@ -19729,6 +19736,7 @@ ebayus.112.2o7.net
 ebbhjxspf.com
 ebbldazyvt.com
 ebcom.112.2o7.net
+ebcpfsslht.com
 ebda-us-east.casalemedia.com
 ebda-us-west.casalemedia.com
 ebdr2.com
@@ -20076,6 +20084,7 @@ elasticad.net
 elasticchange.com
 elasticsystems.com
 elatsadlux.com
+elatumal.xyz
 elb-collectors-prod.crowdtwist.com
 elblogdelnarco.com
 elblogdentradas.es
@@ -20513,6 +20522,7 @@ eredexpendin.com
 eremedia.112.2o7.net
 eren.ecoencomputer.com
 erendri.com
+ergeiros.xyz
 ergs4.com
 erificyggw.com
 erireiejv.com
@@ -20561,6 +20571,7 @@ ertya.com
 erucjvsest.com
 erulus.iad-03.braze.com
 eruuludam.mn
+erversarycompa.info
 ervinguewty.com
 ervzx.com
 erxalim.xyz
@@ -21322,9 +21333,11 @@ fadsans.com
 fadsanz.com
 fadsats.com
 fadsatz.com
+fadsecs.com
 fadsecz.com
 fadsims.com
 fadskis.com
+fadslims.com
 fadsoks.com
 fadspmz.com
 faegbmhey.com
@@ -21575,6 +21588,7 @@ feed.seodollars.com
 feed.taboola.com
 feed.trafflow.com
 feed111.me
+feed777.me
 feedads.googleadservices.com
 feedback-api-dev.wshareit.com
 feedback.adform.com
@@ -22003,6 +22017,7 @@ fm6dz864.top
 fmbjxqvkjfmj.com
 fmcktrmnlyfjr.com
 fmcurling.org
+fmecsdelxmeks.com
 fmgdzqpcaliqs.com
 fmkfzc.com
 fmpevnvced.com
@@ -22869,6 +22884,7 @@ gadqgqkdexwspxdc.com
 gads.pubmatic.com
 gads44000.pubmatic.com
 gadsans.com
+gadsats.com
 gadsbee.com
 gadsecz.com
 gadsimz.com
@@ -25784,6 +25800,7 @@ hwcmc.demdex.net
 hwekl8dz1d.com
 hwfcdqnvovij.com
 hwhdxuid.com
+hwhiffonprotect.info
 hwhzonbib.com
 hwiccseamrs.com
 hwjjxzzbpbn.com
@@ -26407,6 +26424,7 @@ idealgasm.com
 idealmedia.com
 ideamasale.com
 ideas4diy.com
+ideliv.net
 ident.me
 identact-anneyond.com
 identads.com
@@ -29362,6 +29380,7 @@ konicaminoltahd.122.2o7.net
 kontera.com
 kontextua.com
 koocash.com
+koocaucy.com
 koorogeb.net
 koowaido.net
 kopticom.122.2o7.net
@@ -29521,6 +29540,7 @@ kulkerbolda.com
 kulkulta.com
 kullalabulla.com
 kulro.csheaven.com
+kumanaun.net
 kumjidmumktzq.com
 kumma-hb.hb.adx1.com
 kumpulblogger.com
@@ -29718,6 +29738,7 @@ lagink.store
 lagrabadora.es
 lahoradegelves.es
 lahvliitxeb.com
+laichaim.net
 lailivob.net
 laim.tv
 lajgmzddxrzjl.com
@@ -30748,6 +30769,7 @@ logc8.xiti.com
 logc89.xiti.com
 logcollector.viewster.com
 logconfig.polarisoffice.com
+logfrochi.site
 logger.admixer.co.kr
 logger.adotmob.com
 logger.adthor.com
@@ -32723,6 +32745,7 @@ metv-tagan.adlightning.com
 meuaparelho.net
 meubonus.com
 meucci.atinternet.com
+mewnetwag.site
 meya41w7.com
 meyeaps.ml
 mezaa.com
@@ -34499,6 +34522,7 @@ nativeapi.supersonicads.com
 nativeleads.net
 nativepu.sh
 nativeroll.tv
+nativeserv.com
 nativespot.com
 nativesubscribe.pro
 nativex-sdk.appspot.com
@@ -34552,6 +34576,7 @@ nbe-api.optimizely.com
 nbf9b5aurl.com
 nbfvybpkasjs.com
 nbhubocsduzn.com
+nbijjhqnzcwr.com
 nbimg.dt00.net
 nbjmp.com
 nbkcuewy.com
@@ -35097,6 +35122,7 @@ ninxcwcwgvr.com
 nirqmbrzplvtjr.com
 nirror.abtasty.com
 nishathlessharr.info
+nishfarmerlypas.info
 nitigoly.com
 nitmus.com
 nitratory.com
@@ -35975,6 +36001,7 @@ obaukads.com
 obczphph.com
 obdzedcpwxk.com
 obeeifroxtivh.com
+obefjbb4mykw.com
 oberonincredig.112.2o7.net
 oberoniplay.112.2o7.net
 obeus.com
@@ -36174,6 +36201,7 @@ offshoreswitzerland.com
 ofgapiydisrw.com
 ofgbefrhs.com
 ofghrodsrqkg.com
+ofhappinyer.com
 ofhwyutlckjuul.bid
 ofigraiw.net
 ofirjzamaye.com
@@ -37104,6 +37132,7 @@ oultuwee.net
 oulxdvvpmfcd.com
 oumax.oupeng.com
 ounaihekw.bid
+ountapaveralle.info
 ounyrilukncbj.com
 ouplog.umeng.com
 ouptoobe.net
@@ -38620,6 +38649,7 @@ pip-pip-pop.com
 pipboy.btrll.com
 pipe.adform.net
 pipekit.yieldbird.com
+pipgiglea.club
 pipilazipi.com
 pipilida.com
 pipiryiqu.com
@@ -39606,6 +39636,7 @@ portal.vidible.tv
 portallb.leadforensics.com
 portantreadedagree.info
 portbooker.es
+portedlysarcatc.info
 portkingric.net
 portraitphotographygroup.com
 pos-kupang.com
@@ -40370,6 +40401,7 @@ ptocmaux.com
 ptoflpqqqkdk.com
 ptogheeb.net
 ptoosteg.com
+ptoulsey.com
 ptp.lolco.net
 ptp22.com
 ptp24.com
@@ -40686,6 +40718,7 @@ pushtillon.cleverpush.com
 pushto.info
 pushtoast-a.akamaihd.net
 pushtun.info
+pushup.space
 pushwhy.com
 pushwoosh.g5e.com
 pusk.ru
@@ -42644,6 +42677,7 @@ ridgelorridorsag.info
 ridingintractable.com
 rientgallacecapt.info
 rigel.baidustatic.com
+rigfoxcup.site
 righthenwilbetrin.info
 rightmedia.com
 rightmedia.net
@@ -42864,6 +42898,7 @@ ron.si
 ronatorda.com
 rong.adxmeb.com
 ronletsobetning.pro
+ronoutom.net
 ronriddell.com
 ronsearch.adk2.co
 rontotlearwass.pro
@@ -43227,6 +43262,7 @@ rudy-ap-southeast-1.adsnative.com
 rudy-eu-west-1.adsnative.com
 rudy.adsnative.com
 rue1mi4.bid
+rueaukrim.club
 ruebmqxqlqwqq.com
 rugby1store.myshopify.com
 ruiyangcn.com
@@ -44403,6 +44439,7 @@ seccosquared-d.openx.net
 secfpgpqx.com
 secimage.adtech.fr
 secimage.adtech.us
+seclctpsih.com
 secondchancecoaching.com
 secondmedia-d.openx.net
 secondscreenindexer.adswizz.com
@@ -44893,6 +44930,7 @@ sessions.viglink.com
 sestat.baidu.com
 seszopvxktsfn.com
 seth.avazutracking.net
+setlotnay.club
 setnewsonedayc.com
 setrtcjfhreqg.com
 setting.adzcore.com
@@ -45410,6 +45448,7 @@ sisaltracksdk.optimove.net
 sisco.hit.stat.pl
 sisrgcvomn.com
 sistacked.com
+sisterncoalitical.info
 sisyqzktimhrgo.com
 sitcom24.com
 site-recommend.ucweb.com
@@ -48903,6 +48942,7 @@ thedevband.com
 thedoctors.healthfindings.website
 theersoa.net
 thefaren.pw
+thefastpush.com
 thefilter.com
 thefoxes.ru
 thefuncoolstuff.com
@@ -52131,6 +52171,7 @@ ughdqpwtfabsqg.com
 ugkppchlelde.com
 ugobgzeiel.com
 ugoptxnm.com
+ugoupams.com
 ugrastes.uk
 ugwkyqdbmpwbbi.com
 ugxshqnodoha.com
@@ -52583,6 +52624,7 @@ urbanairship.com
 urbanityadnetwork.com
 urbanmedia-d.openx.net
 urcakbypjfvsq.com
+uremechangec.info
 urercontalproces.info
 urfdvrrg.com
 urgwritishimpos.info
@@ -52924,6 +52966,7 @@ uy.ads.justpremium.com
 uydeapvmmlvdp.com
 uyeluxauiq.com
 uyersa.gq
+uyfujpumixi.com
 uyiyuiyuiy.com
 uymjshdxxneu.com
 uymxsbbh.com
@@ -53084,6 +53127,7 @@ valo.atm.youku.com
 valp.atm.youku.com
 valpkwew.com
 valshara.com
+valthyra.com
 valtrex.7h.com
 valuad.cloud
 valuead.com
@@ -53781,6 +53825,7 @@ vkbftstazhjgdx.com
 vkcdnservice.com
 vkhrnisuky.com
 vkmonster.com
+vknrfwwxhxaxupqp.pro
 vkont.bos.ru
 vkrgljxqn.com
 vkspcdn.batmobi.net
@@ -60676,6 +60721,7 @@ zindas.info
 zinhavnpak.com
 zinlar.pw
 zinovila.com
+zinphyra.com
 zinrora.pw
 zintext.com
 zip-zip-swan.com
@@ -60894,6 +60940,7 @@ zu4l167j77.com
 zucks.co.jp
 zucks.net
 zudlddyzgogsh.com
+zudrurta.com
 zuecosboaonda.es
 zueira.uodoo.com
 zugnogne.com

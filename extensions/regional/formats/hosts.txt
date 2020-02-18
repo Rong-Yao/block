@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 63,301
+# Entries: 63,328
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 12:13:50
+# Updated: Tue, 18 Feb 20 18:14:06
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -7022,6 +7022,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdbdqdxkdb.com
 0.0.0.0 bdbdqexkdb.com
 0.0.0.0 bdbdqixkdb.com
+0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 bdbdqnxkdb.com
 0.0.0.0 bdbdqsxkdb.com
 0.0.0.0 bdcm.kandianla.com
@@ -8928,6 +8929,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.comperia.pl
 0.0.0.0 cdn.dcsaas.net
 0.0.0.0 cdn.debitcrebit669.com
+0.0.0.0 cdn.digitalpush.org
 0.0.0.0 cdn.download.sweetpacks.com
 0.0.0.0 cdn.fail
 0.0.0.0 cdn.flashtalking.com
@@ -9602,7 +9604,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 click-paid.com
 0.0.0.0 click.abctrack.bid
 0.0.0.0 click.accesstrade.com.vn
-0.0.0.0 click.accesstrade.vn
 0.0.0.0 click.ad1.ru
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.advertnative.com
@@ -11256,6 +11257,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d39iocnrk5rxnb.cloudfront.net
 0.0.0.0 d3a42c7xs4vn3.cloudfront.net
+0.0.0.0 d3a49eam5ump99.cloudfront.net
 0.0.0.0 d3a8342081c3.com
 0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3aiy6aqoa3ykz.cloudfront.net
@@ -13233,6 +13235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ebazucebid.com
 0.0.0.0 ebbhjxspf.com
 0.0.0.0 ebbp1.pro
+0.0.0.0 ebcpfsslht.com
 0.0.0.0 ebdr2.com
 0.0.0.0 ebdr3.com
 0.0.0.0 ebeda.info
@@ -13877,6 +13880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 erucjvsest.com
 0.0.0.0 eruji.com
 0.0.0.0 eruption22.center
+0.0.0.0 erversarycompa.info
 0.0.0.0 ervinguewty.com
 0.0.0.0 ervtm9lrdj.com
 0.0.0.0 erxalim.xyz
@@ -14389,9 +14393,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 fadsabs.com
 0.0.0.0 fadsans.com
 0.0.0.0 fadsats.com
+0.0.0.0 fadsecs.com
 0.0.0.0 fadsecz.com
 0.0.0.0 fadsims.com
 0.0.0.0 fadsips.com
+0.0.0.0 fadslims.com
 0.0.0.0 fadslimz.com
 0.0.0.0 fadsoks.com
 0.0.0.0 fadspmz.com
@@ -14468,6 +14474,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fashionsaga.com
 0.0.0.0 fast-anime.ru
 0.0.0.0 fast-route.com
+0.0.0.0 fast.accesstrade.com.vn
 0.0.0.0 fast.accesstrade.vn
 0.0.0.0 fast12g.com
 0.0.0.0 fast2earn.com
@@ -15019,6 +15026,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fmates.ru
 0.0.0.0 fmcktrmnlyfjr.com
 0.0.0.0 fmdwbsfxf0.com
+0.0.0.0 fmecsdelxmeks.com
 0.0.0.0 fmgdzqpcaliqs.com
 0.0.0.0 fmgoal.com
 0.0.0.0 fmich.ru
@@ -15709,6 +15717,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadnape.ru
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gadsans.com
+0.0.0.0 gadsats.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
@@ -18261,6 +18270,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hwekl8dz1d.com
 0.0.0.0 hwertd.xyz
 0.0.0.0 hwhdxuid.com
+0.0.0.0 hwhiffonprotect.info
 0.0.0.0 hwhzonbib.com
 0.0.0.0 hwiccseamrs.com
 0.0.0.0 hwjjxzzbpbn.com
@@ -21245,6 +21255,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 konyasohbetodalari.net
 0.0.0.0 koo6myletj.com
 0.0.0.0 koocash.com
+0.0.0.0 koocaucy.com
 0.0.0.0 koodoo.net
 0.0.0.0 koofysojwb.com
 0.0.0.0 koolmediaoffers.com
@@ -21430,6 +21441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kulpsvillerochdale.com
 0.0.0.0 kum-du.com
 0.0.0.0 kuma-film.com
+0.0.0.0 kumanaun.net
 0.0.0.0 kumjidmumktzq.com
 0.0.0.0 kumpulblogger.com
 0.0.0.0 kumpzfcczy.com
@@ -21633,6 +21645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ladzatsi.ru
 0.0.0.0 lafrancebdsm.com
 0.0.0.0 lahvliitxeb.com
+0.0.0.0 laichaim.net
 0.0.0.0 laifu365.com
 0.0.0.0 lailivob.net
 0.0.0.0 laim.tv
@@ -24010,6 +24023,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrika.traff.space
 0.0.0.0 meubonus.com
 0.0.0.0 meuzxiejun.com
+0.0.0.0 mewnetwag.site
 0.0.0.0 meya41w7.com
 0.0.0.0 meycity.ru
 0.0.0.0 meykato.ru
@@ -25379,6 +25393,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbhotpo.com
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbhxgjz.com
+0.0.0.0 nbijjhqnzcwr.com
 0.0.0.0 nbjjd.com
 0.0.0.0 nbjmp.com
 0.0.0.0 nbkcuewy.com
@@ -25906,6 +25921,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nirqmbrzplvtjr.com
 0.0.0.0 nirtopala.com
 0.0.0.0 nishathlessharr.info
+0.0.0.0 nishfarmerlypas.info
 0.0.0.0 nishoagn.com
 0.0.0.0 nitigoly.com
 0.0.0.0 nitmus.com
@@ -26537,6 +26553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 obdzedcpwxk.com
 0.0.0.0 obedkormi.ru
 0.0.0.0 obeeifroxtivh.com
+0.0.0.0 obefjbb4mykw.com
 0.0.0.0 obeip.com
 0.0.0.0 obelan.pro
 0.0.0.0 oberbrunner.biz
@@ -29159,6 +29176,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 portal4.ru
 0.0.0.0 portantreadedagree.info
 0.0.0.0 portavivo.com
+0.0.0.0 portedlysarcatc.info
 0.0.0.0 portkingric.net
 0.0.0.0 pos.baidu.com
 0.0.0.0 pos68.cn
@@ -29794,6 +29812,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ptogheeb.net
 0.0.0.0 ptoosteg.com
 0.0.0.0 ptouckoo.net
+0.0.0.0 ptoulsey.com
 0.0.0.0 ptp.lolco.net
 0.0.0.0 ptp22.com
 0.0.0.0 ptp24.com
@@ -32102,6 +32121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rongeundhis.ru
 0.0.0.0 rongnews.com
 0.0.0.0 ronletsobetning.pro
+0.0.0.0 ronoutom.net
 0.0.0.0 rontar.com
 0.0.0.0 rontar.ru
 0.0.0.0 roofsing.com
@@ -33029,6 +33049,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 seceive.pro
 0.0.0.0 secfpgpqx.com
 0.0.0.0 seckinpartner.info
+0.0.0.0 seclctpsih.com
 0.0.0.0 secondchancetrack.fun
 0.0.0.0 secondstreetmedia.com
 0.0.0.0 secretbehindporn.com
@@ -33737,6 +33758,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sisney.net
 0.0.0.0 sisrgcvomn.com
 0.0.0.0 sistacked.com
+0.0.0.0 sisterncoalitical.info
 0.0.0.0 sisyqzktimhrgo.com
 0.0.0.0 sitcom24.com
 0.0.0.0 site-rank.com
@@ -33833,6 +33855,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 skycdnhost.com
 0.0.0.0 skyearnmoney.com
 0.0.0.0 skyligh.co
+0.0.0.0 skylowhat.site
 0.0.0.0 skymedia.co.uk
 0.0.0.0 skypromotion.ru
 0.0.0.0 skyscrappear.com
@@ -37678,6 +37701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ugonrin.com
 0.0.0.0 ugoooo.com
 0.0.0.0 ugoptxnm.com
+0.0.0.0 ugoupams.com
 0.0.0.0 ugplay.com
 0.0.0.0 ugrastes.uk
 0.0.0.0 ugwkyqdbmpwbbi.com
@@ -38027,6 +38051,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 urbanodecalle.com
 0.0.0.0 urcakbypjfvsq.com
 0.0.0.0 uredy.top
+0.0.0.0 uremechangec.info
 0.0.0.0 urercontalproces.info
 0.0.0.0 urfdvrrg.com
 0.0.0.0 urgdk.top
@@ -38249,6 +38274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uxzcwowjd.com
 0.0.0.0 uydeapvmmlvdp.com
 0.0.0.0 uyeluxauiq.com
+0.0.0.0 uyfujpumixi.com
 0.0.0.0 uyiyuiyuiy.com
 0.0.0.0 uymjshdxxneu.com
 0.0.0.0 uymkdz9s.com
@@ -63210,6 +63236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zucks.net.zimg.jp
 0.0.0.0 zucnclozfb.com
 0.0.0.0 zudlddyzgogsh.com
+0.0.0.0 zudrurta.com
 0.0.0.0 zudyyulnjdqmn.com
 0.0.0.0 zugnogne.com
 0.0.0.0 zugo.com

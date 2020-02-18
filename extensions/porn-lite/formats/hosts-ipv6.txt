@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.049
 # Release: 049
-# Entries: 41,433
+# Entries: 41,432
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 12:13:46
+# Updated: Tue, 18 Feb 20 18:14:02
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -5970,7 +5970,6 @@ ff02::3 ip6-allhosts
 :: content.thrixxx.com
 :: contentabc.com
 :: contentcache-a.akamaihd.net
-:: contents.sex-explorer.com
 :: contextualyield.com
 :: contilnetnoticias.com.br
 :: contrib-amateurs.net

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-trc.txt
 # Last Converted - 18.02.2020
-# Total Domains - 42382
+# Total Domains - 42380
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -23220,7 +23220,6 @@
 0.0.0.0 metrics.vodafone.com.tr
 0.0.0.0 metrics.vueling.com
 0.0.0.0 metrics.wdc.com
-0.0.0.0 metrics.weldingweb.com
 0.0.0.0 metrics.wfaa.com
 0.0.0.0 metrics.which.co.uk
 0.0.0.0 metrics.wikinvest.com
@@ -39459,7 +39458,6 @@
 0.0.0.0 www.geotrackit.com
 0.0.0.0 www.gerrardmediation.com
 0.0.0.0 www.get-free-hits.com
-0.0.0.0 www.getclicksnow.com
 0.0.0.0 www.getclicky.com
 0.0.0.0 www.getfreehitcounter.com
 0.0.0.0 www.getmailcounter.com

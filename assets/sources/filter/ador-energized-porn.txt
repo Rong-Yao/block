@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts-porn
 # Last Converted - 18.02.2020
-# Total Domains - 12847
+# Total Domains - 12846
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1601,7 +1601,6 @@
 0.0.0.0 content.nuvid.com
 0.0.0.0 content.porntube.com
 0.0.0.0 content.thrixxx.com
-0.0.0.0 contents.sex-explorer.com
 0.0.0.0 contrib-amateurs.net
 0.0.0.0 coole-app.com
 0.0.0.0 copro.pw

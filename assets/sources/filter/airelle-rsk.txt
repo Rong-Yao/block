@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 18.02.2020
-# Total Domains - 39928
+# Total Domains - 39926
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -16354,7 +16354,6 @@
 0.0.0.0 content.thrixxx.com
 0.0.0.0 contentdigital.info
 0.0.0.0 contentmatch.net
-0.0.0.0 contents.sex-explorer.com
 0.0.0.0 contentshack.com
 0.0.0.0 contentunlockervpn.tk
 0.0.0.0 contentunlockervpns.tk
@@ -30555,7 +30554,6 @@
 0.0.0.0 metrics.vodafone.com.tr
 0.0.0.0 metrics.vueling.com
 0.0.0.0 metrics.wdc.com
-0.0.0.0 metrics.weldingweb.com
 0.0.0.0 metrics.wfaa.com
 0.0.0.0 metrics.which.co.uk
 0.0.0.0 metrics.wimbledon.org

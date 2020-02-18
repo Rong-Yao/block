@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
 # Last Converted - 18.02.2020
-# Total Domains - 834
+# Total Domains - 840
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -100,6 +100,7 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bn.adultempire.com
 0.0.0.0 boomerang.dell.com
+0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
 0.0.0.0 bulb.76.my
 0.0.0.0 c.cdngeek.com
@@ -167,7 +168,6 @@
 0.0.0.0 cpgo.avatacar.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 cpx.to
-0.0.0.0 cr-eec.etp-prod.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cse3.chausport.com
 0.0.0.0 ct5m.citadium.com
@@ -242,6 +242,7 @@
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 edmunds.com
 0.0.0.0 edw.edmunds.com
+0.0.0.0 eec.crunchyroll.com
 0.0.0.0 ef.futuroscope.com
 0.0.0.0 ef.futuroscope.mobi
 0.0.0.0 ek8.voyage-prive.com
@@ -311,13 +312,16 @@
 0.0.0.0 geoip.inquirer.net
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 gjr5.yoigo.com
+0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 go.theregister.com
+0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
 0.0.0.0 guq9.vente-unique.it
 0.0.0.0 h-bid.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.hbpl.co.uk
 0.0.0.0 heartbeat.flickr.com
+0.0.0.0 heraldscotland-gb.heraldscotland.com
 0.0.0.0 hermes.theglobeandmail.com
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 hrum.hotelsapi.io
@@ -668,6 +672,7 @@
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 stream.vidzi.tv
 0.0.0.0 surveys.cnet.com
+0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 sykc.madeindesign.ch
 0.0.0.0 t-ak.hulu.com
 0.0.0.0 t.9gag.com
@@ -820,6 +825,7 @@
 0.0.0.0 webengage.sky.com
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 webtrekk.net
+0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
 0.0.0.0 wla.vivaldi.com
 0.0.0.0 worcesternews-gb.worcesternews.co.uk
 0.0.0.0 wph2.destinia.us

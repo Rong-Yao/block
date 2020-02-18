@@ -1,8 +1,8 @@
 # Title: anudeep-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Last Converted - 18.02.2020
-# Total Domains - 20223
+# Last Converted - 19.02.2020
+# Total Domains - 20219
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -8790,8 +8790,6 @@
 0.0.0.0 f0ad.notifychheck.com
 0.0.0.0 f10-us-va.adhigh.net
 0.0.0.0 f11-us-va.adhigh.net
-0.0.0.0 f14-us-va.adhigh.net
-0.0.0.0 f18-us-va.adhigh.net
 0.0.0.0 f2m-o.tlnk.io
 0.0.0.0 f3-us-va.adhigh.net
 0.0.0.0 f31a64ee-6883-45f7-ac47-ac40842c8401.nuid.imrworldwide.com
@@ -10796,9 +10794,7 @@
 0.0.0.0 ivid-f13-us-va.adhigh.net
 0.0.0.0 ivid-f14-us-va.adhigh.net
 0.0.0.0 ivid-f2-us-va.adhigh.net
-0.0.0.0 ivid-f20-us-va.adhigh.net
 0.0.0.0 ivid-f4-us-va.adhigh.net
-0.0.0.0 ivid-f6-us-va.adhigh.net
 0.0.0.0 ivid-f7-us-va.adhigh.net
 0.0.0.0 ivid-px.adhigh.net
 0.0.0.0 ivivva.btttag.com

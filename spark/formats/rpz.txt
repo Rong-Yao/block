@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.02.049
-; Release: 049
-; Entries: 60,990
+; Version: 20.02.050
+; Release: 050
+; Entries: 60,995
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 18:10:07
+; Updated: Wed, 19 Feb 20 00:10:26
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -13220,6 +13220,7 @@ cannabispicture.com CNAME .
 cannationalpost.112.2o7.net CNAME .
 canoe.112.2o7.net CNAME .
 canoeklix.com CNAME .
+canonch.pro CNAME .
 canonshop.site CNAME .
 canottowa.112.2o7.net CNAME .
 canshowcase.112.2o7.net CNAME .
@@ -23634,6 +23635,7 @@ glo-glo-oom.com CNAME .
 gloalrie.com CNAME .
 globadmedia.com CNAME .
 global-ds.cloud.netacuity.com CNAME .
+global-surveys.co CNAME .
 global-www.adform.net CNAME .
 global.adform.net CNAME .
 global.adserver.yahoo.com CNAME .
@@ -24429,6 +24431,7 @@ guce.verizonmedia.com CNAME .
 guce.vidible.tv CNAME .
 gudja.iad-02.braze.com CNAME .
 gudlhvxz.com CNAME .
+gueqndbe.com CNAME .
 guess.mediav.com CNAME .
 guesswow.com CNAME .
 guest.adultfriendfinder.com CNAME .
@@ -28035,6 +28038,7 @@ ixsogpaexhgzn.com CNAME .
 ixspublic.com CNAME .
 ixtmbdajhvimtv.com CNAME .
 ixueiomwi.com CNAME .
+ixunmkbyxvif.com CNAME .
 ixuytaxnu.com CNAME .
 ixvsxjiw.com CNAME .
 ixvzraajuiniwg.com CNAME .
@@ -60065,6 +60069,7 @@ yim3eyv5.top CNAME .
 yimfcnxzyqhpih.com CNAME .
 yingtaiboli.cn CNAME .
 yinmyar.xyz CNAME .
+yinsterkneeline.info CNAME .
 yintkfbxaopyb.com CNAME .
 yioklzvjkaumf.com CNAME .
 yiopqbbmugak.com CNAME .

@@ -1,8 +1,8 @@
 # Title: easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last Converted - 18.02.2020
-# Total Domains - 5535
+# Last Converted - 19.02.2020
+# Total Domains - 5536
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3489,6 +3489,7 @@
 0.0.0.0 muusn.cn
 0.0.0.0 mwjpk.com
 0.0.0.0 mx.biquge.info
+0.0.0.0 mxdregs.com
 0.0.0.0 mxitie.com
 0.0.0.0 mxmrt.com
 0.0.0.0 mxtailor.com

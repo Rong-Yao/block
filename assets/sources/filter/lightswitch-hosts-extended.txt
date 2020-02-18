@@ -1,8 +1,8 @@
 # Title: lightswitch-hosts-extended Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Last Converted - 18.02.2020
-# Total Domains - 93906
+# Last Converted - 19.02.2020
+# Total Domains - 93905
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -36952,7 +36952,6 @@
 0.0.0.0 f13-us-va.cpagen.win
 0.0.0.0 f13.adventori.com
 0.0.0.0 f14-de.digitmate.bid
-0.0.0.0 f14-us-va.adhigh.net
 0.0.0.0 f14.adventori.com
 0.0.0.0 f15.adventori.com
 0.0.0.0 f16.adventori.com

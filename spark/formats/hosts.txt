@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.02.049
-# Release: 049
-# Entries: 60,990
+# Version: 20.02.050
+# Release: 050
+# Entries: 60,995
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 18:10:07
+# Updated: Wed, 19 Feb 20 00:10:26
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -13231,6 +13231,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cannationalpost.112.2o7.net
 0.0.0.0 canoe.112.2o7.net
 0.0.0.0 canoeklix.com
+0.0.0.0 canonch.pro
 0.0.0.0 canonshop.site
 0.0.0.0 canottowa.112.2o7.net
 0.0.0.0 canshowcase.112.2o7.net
@@ -23645,6 +23646,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gloalrie.com
 0.0.0.0 globadmedia.com
 0.0.0.0 global-ds.cloud.netacuity.com
+0.0.0.0 global-surveys.co
 0.0.0.0 global-www.adform.net
 0.0.0.0 global.adform.net
 0.0.0.0 global.adserver.yahoo.com
@@ -24440,6 +24442,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 guce.vidible.tv
 0.0.0.0 gudja.iad-02.braze.com
 0.0.0.0 gudlhvxz.com
+0.0.0.0 gueqndbe.com
 0.0.0.0 guess.mediav.com
 0.0.0.0 guesswow.com
 0.0.0.0 guest.adultfriendfinder.com
@@ -28046,6 +28049,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ixspublic.com
 0.0.0.0 ixtmbdajhvimtv.com
 0.0.0.0 ixueiomwi.com
+0.0.0.0 ixunmkbyxvif.com
 0.0.0.0 ixuytaxnu.com
 0.0.0.0 ixvsxjiw.com
 0.0.0.0 ixvzraajuiniwg.com
@@ -60076,6 +60080,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yimfcnxzyqhpih.com
 0.0.0.0 yingtaiboli.cn
 0.0.0.0 yinmyar.xyz
+0.0.0.0 yinsterkneeline.info
 0.0.0.0 yintkfbxaopyb.com
 0.0.0.0 yioklzvjkaumf.com
 0.0.0.0 yiopqbbmugak.com

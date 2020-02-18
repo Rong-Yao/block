@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.049
-# Release: 049
-# Entries: 122,889
+# Version: 20.02.050
+# Release: 050
+# Entries: 122,892
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 18:10:11
+# Updated: Wed, 19 Feb 20 00:10:33
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -22883,6 +22883,7 @@ ff02::3 ip6-allhosts
 :: canoe.112.2o7.net
 :: canoeklix.com
 :: canoepool.com
+:: canonch.pro
 :: canonshop.site
 :: canopylabs.com
 :: canossa.ac.tz
@@ -44873,6 +44874,7 @@ ff02::3 ip6-allhosts
 :: globadmedia.com
 :: global-ds.cloud.netacuity.com
 :: global-entropy.com
+:: global-surveys.co
 :: global-www.adform.net
 :: global.adform.net
 :: global.adserver.yahoo.com
@@ -46419,6 +46421,7 @@ ff02::3 ip6-allhosts
 :: gudja.iad-02.braze.com
 :: gudlhvxz.com
 :: gue.v2.dedicatedpool.com
+:: gueqndbe.com
 :: guess.mediav.com
 :: guess.tf.360.cn
 :: guess.union2.50bang.org
@@ -55159,6 +55162,7 @@ ff02::3 ip6-allhosts
 :: ixtkiofaoudis.com
 :: ixtmbdajhvimtv.com
 :: ixueiomwi.com
+:: ixunmkbyxvif.com
 :: ixuytaxnu.com
 :: ixvsxjiw.com
 :: ixvzraajuiniwg.com
@@ -104725,7 +104729,6 @@ ff02::3 ip6-allhosts
 :: vircom.cz
 :: virfx.net
 :: virgbmkmear.com
-:: virgine.steuerberater-mallorca.de
 :: virginia-pacelli.000webhostapp.com
 :: virginia.elitehash.net
 :: virginmedia.112.2o7.net
@@ -118060,7 +118063,6 @@ ff02::3 ip6-allhosts
 :: www.update-your-pc.info
 :: www.update.paypall.anamezing.com
 :: www.updatestar.com
-:: www.uperpay.club
 :: www.upgradebasic.com
 :: www.upgradeexplorer.com
 :: www.upload-center.byethost4.com
@@ -121182,6 +121184,7 @@ ff02::3 ip6-allhosts
 :: yinmikbest.com
 :: yinmyar.xyz
 :: yinputech.com
+:: yinsterkneeline.info
 :: yintkfbxaopyb.com
 :: yinyuanhotel.net
 :: yioklzvjkaumf.com

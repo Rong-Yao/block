@@ -24,12 +24,12 @@
 ; Title: Energized Blu Go Protection
 ; Description: A Lightweight Mid Ranger Protection Pack.
 ; Format: rpz
-; Version: 20.02.049
-; Release: 049
-; Entries: 122,889
+; Version: 20.02.050
+; Release: 050
+; Entries: 122,892
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 18:10:11
+; Updated: Wed, 19 Feb 20 00:10:33
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -22872,6 +22872,7 @@ cannontwin.com CNAME .
 canoe.112.2o7.net CNAME .
 canoeklix.com CNAME .
 canoepool.com CNAME .
+canonch.pro CNAME .
 canonshop.site CNAME .
 canopylabs.com CNAME .
 canossa.ac.tz CNAME .
@@ -44862,6 +44863,7 @@ gloalrie.com CNAME .
 globadmedia.com CNAME .
 global-ds.cloud.netacuity.com CNAME .
 global-entropy.com CNAME .
+global-surveys.co CNAME .
 global-www.adform.net CNAME .
 global.adform.net CNAME .
 global.adserver.yahoo.com CNAME .
@@ -46408,6 +46410,7 @@ gudanglagu4shared.website CNAME .
 gudja.iad-02.braze.com CNAME .
 gudlhvxz.com CNAME .
 gue.v2.dedicatedpool.com CNAME .
+gueqndbe.com CNAME .
 guess.mediav.com CNAME .
 guess.tf.360.cn CNAME .
 guess.union2.50bang.org CNAME .
@@ -55148,6 +55151,7 @@ ixsxgaegvplo.com CNAME .
 ixtkiofaoudis.com CNAME .
 ixtmbdajhvimtv.com CNAME .
 ixueiomwi.com CNAME .
+ixunmkbyxvif.com CNAME .
 ixuytaxnu.com CNAME .
 ixvsxjiw.com CNAME .
 ixvzraajuiniwg.com CNAME .
@@ -104714,7 +104718,6 @@ virbyadvertising.com CNAME .
 vircom.cz CNAME .
 virfx.net CNAME .
 virgbmkmear.com CNAME .
-virgine.steuerberater-mallorca.de CNAME .
 virginia-pacelli.000webhostapp.com CNAME .
 virginia.elitehash.net CNAME .
 virginmedia.112.2o7.net CNAME .
@@ -118049,7 +118052,6 @@ www.update-your-account-information.dentalcaredubai.com CNAME .
 www.update-your-pc.info CNAME .
 www.update.paypall.anamezing.com CNAME .
 www.updatestar.com CNAME .
-www.uperpay.club CNAME .
 www.upgradebasic.com CNAME .
 www.upgradeexplorer.com CNAME .
 www.upload-center.byethost4.com CNAME .
@@ -121171,6 +121173,7 @@ yinkuya.ru CNAME .
 yinmikbest.com CNAME .
 yinmyar.xyz CNAME .
 yinputech.com CNAME .
+yinsterkneeline.info CNAME .
 yintkfbxaopyb.com CNAME .
 yinyuanhotel.net CNAME .
 yioklzvjkaumf.com CNAME .

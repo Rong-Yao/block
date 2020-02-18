@@ -1,8 +1,8 @@
 # Title: notracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# Last Converted - 18.02.2020
-# Total Domains - 25445
+# Last Converted - 19.02.2020
+# Total Domains - 25444
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -20703,7 +20703,6 @@
 0.0.0.0 viphk.ngrok.org
 0.0.0.0 vipsecure-protect.000webhostapp.com
 0.0.0.0 vipvidssl501.tf1.fr
-0.0.0.0 virgine.steuerberater-mallorca.de
 0.0.0.0 virginia-pacelli.000webhostapp.com
 0.0.0.0 virginmilo.ddns.net
 0.0.0.0 virtualbook.web.fc2.com

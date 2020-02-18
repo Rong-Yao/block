@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.02.049
-# Release: 049
-# Entries: 122,889
+# Version: 20.02.050
+# Release: 050
+# Entries: 122,892
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 18:10:11
+# Updated: Wed, 19 Feb 20 00:10:33
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -22883,6 +22883,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 canoe.112.2o7.net
 0.0.0.0 canoeklix.com
 0.0.0.0 canoepool.com
+0.0.0.0 canonch.pro
 0.0.0.0 canonshop.site
 0.0.0.0 canopylabs.com
 0.0.0.0 canossa.ac.tz
@@ -44873,6 +44874,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 globadmedia.com
 0.0.0.0 global-ds.cloud.netacuity.com
 0.0.0.0 global-entropy.com
+0.0.0.0 global-surveys.co
 0.0.0.0 global-www.adform.net
 0.0.0.0 global.adform.net
 0.0.0.0 global.adserver.yahoo.com
@@ -46419,6 +46421,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gudja.iad-02.braze.com
 0.0.0.0 gudlhvxz.com
 0.0.0.0 gue.v2.dedicatedpool.com
+0.0.0.0 gueqndbe.com
 0.0.0.0 guess.mediav.com
 0.0.0.0 guess.tf.360.cn
 0.0.0.0 guess.union2.50bang.org
@@ -55159,6 +55162,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ixtkiofaoudis.com
 0.0.0.0 ixtmbdajhvimtv.com
 0.0.0.0 ixueiomwi.com
+0.0.0.0 ixunmkbyxvif.com
 0.0.0.0 ixuytaxnu.com
 0.0.0.0 ixvsxjiw.com
 0.0.0.0 ixvzraajuiniwg.com
@@ -104725,7 +104729,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vircom.cz
 0.0.0.0 virfx.net
 0.0.0.0 virgbmkmear.com
-0.0.0.0 virgine.steuerberater-mallorca.de
 0.0.0.0 virginia-pacelli.000webhostapp.com
 0.0.0.0 virginia.elitehash.net
 0.0.0.0 virginmedia.112.2o7.net
@@ -118060,7 +118063,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.update-your-pc.info
 0.0.0.0 www.update.paypall.anamezing.com
 0.0.0.0 www.updatestar.com
-0.0.0.0 www.uperpay.club
 0.0.0.0 www.upgradebasic.com
 0.0.0.0 www.upgradeexplorer.com
 0.0.0.0 www.upload-center.byethost4.com
@@ -121182,6 +121184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yinmikbest.com
 0.0.0.0 yinmyar.xyz
 0.0.0.0 yinputech.com
+0.0.0.0 yinsterkneeline.info
 0.0.0.0 yintkfbxaopyb.com
 0.0.0.0 yinyuanhotel.net
 0.0.0.0 yioklzvjkaumf.com

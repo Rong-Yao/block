@@ -1,8 +1,8 @@
 # Title: adblock-id Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
-# Last Converted - 18.02.2020
-# Total Domains - 168
+# Last Converted - 19.02.2020
+# Total Domains - 169
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -148,6 +148,7 @@
 0.0.0.0 peevopoy.com
 0.0.0.0 phastoag.com
 0.0.0.0 pondokiklan.com
+0.0.0.0 presdithas.pw
 0.0.0.0 publish.web.id
 0.0.0.0 rajatraffic.com
 0.0.0.0 richinfo.co

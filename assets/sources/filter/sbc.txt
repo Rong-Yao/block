@@ -1,8 +1,8 @@
 # Title: sbc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
-# Last Converted - 18.02.2020
-# Total Domains - 35982
+# Last Converted - 19.02.2020
+# Total Domains - 35981
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -34819,7 +34819,6 @@
 0.0.0.0 www.update-1.com
 0.0.0.0 www.update-java.kit.net
 0.0.0.0 www.updatestar.com
-0.0.0.0 www.uperpay.club
 0.0.0.0 www.upgradebasic.com
 0.0.0.0 www.upgradeexplorer.com
 0.0.0.0 www.upskylinemotel.com

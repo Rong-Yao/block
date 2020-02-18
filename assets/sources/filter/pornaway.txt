@@ -1,8 +1,8 @@
 # Title: pornaway Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
-# Last Converted - 18.02.2020
-# Total Domains - 19249
+# Last Converted - 19.02.2020
+# Total Domains - 19247
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6155,7 +6155,6 @@
 0.0.0.0 goicos.com
 0.0.0.0 goindiansex.com
 0.0.0.0 gojiberriess.apishops.ru
-0.0.0.0 gold-collection.biz
 0.0.0.0 goldadpremium.com
 0.0.0.0 goldamateurporn.com
 0.0.0.0 goldbrowser.com
@@ -17753,7 +17752,6 @@
 0.0.0.0 www.serviporno.com
 0.0.0.0 www.sesso-gratis.info
 0.0.0.0 www.seventeenvideo.com
-0.0.0.0 www.sex-explorer.com
 0.0.0.0 www.sex-tracker.com
 0.0.0.0 www.sex-tracker.de
 0.0.0.0 www.sex.com

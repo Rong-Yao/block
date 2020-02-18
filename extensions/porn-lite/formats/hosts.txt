@@ -24,12 +24,12 @@
 # Title: Energized Porn Lite Extension
 # Description: Lite Extension Porn Pack.
 # Format: hosts
-# Version: 20.02.049
-# Release: 049
-# Entries: 41,432
+# Version: 20.02.050
+# Release: 050
+# Entries: 41,430
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 18:14:02
+# Updated: Wed, 19 Feb 20 00:14:56
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts.txt
 # --------------------------------------------
 #
@@ -11050,7 +11050,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 goicos.com
 0.0.0.0 goindiansex.com
 0.0.0.0 gojiberriess.apishops.ru
-0.0.0.0 gold-collection.biz
 0.0.0.0 gold-gay.com
 0.0.0.0 gold-indian.pro
 0.0.0.0 goldadpremium.com
@@ -37145,7 +37144,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sex-dl.com
 0.0.0.0 www.sex-doma.cz
 0.0.0.0 www.sex-empire.tv
-0.0.0.0 www.sex-explorer.com
 0.0.0.0 www.sex-files.net
 0.0.0.0 www.sex-freecam.com
 0.0.0.0 www.sex-fuck-tube.club

@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.02.049
-; Release: 049
-; Entries: 63,328
+; Version: 20.02.050
+; Release: 050
+; Entries: 63,336
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 18:14:06
+; Updated: Wed, 19 Feb 20 00:15:01
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -11018,6 +11018,7 @@ d1i2v9a8xom2hy.cloudfront.net CNAME .
 d1i9kr6k34lyp.cloudfront.net CNAME .
 d1il9t8pu4dsoj.cloudfront.net CNAME .
 d1jikhx1ssl81z.cloudfront.net CNAME .
+d1jnvfp2m6fzvq.cloudfront.net CNAME .
 d1jq9nooxeft24.cloudfront.net CNAME .
 d1k0glcmk0b5rb.cloudfront.net CNAME .
 d1k29rhvz38kg5.cloudfront.net CNAME .
@@ -11781,6 +11782,7 @@ dejionsite.pro CNAME .
 dekalee.fr CNAME .
 dekalee.net CNAME .
 del-del-ete.com CNAME .
+delainlygoverhe.info CNAME .
 delapantogel.com CNAME .
 delascalles.com CNAME .
 delcomeyersdale.com CNAME .
@@ -14615,6 +14617,7 @@ feed.adrelayer.com CNAME .
 feed.datinglab.net CNAME .
 feed.monad-rtb.com CNAME .
 feed111.me CNAME .
+feed777.me CNAME .
 feedback.microsoft-hohm.com CNAME .
 feedback.search.microsoft.com CNAME .
 feedback.windows.com CNAME .
@@ -16973,6 +16976,7 @@ guckawoh.net CNAME .
 gudangbanner.com CNAME .
 gudlhvxz.com CNAME .
 guduopu.com CNAME .
+gueqndbe.com CNAME .
 guestcash.com CNAME .
 gueur.com CNAME .
 gueurs.com CNAME .
@@ -19630,6 +19634,7 @@ ixspublic.com CNAME .
 ixtmbdajhvimtv.com CNAME .
 ixtyted.ru CNAME .
 ixueiomwi.com CNAME .
+ixunmkbyxvif.com CNAME .
 ixuytaxnu.com CNAME .
 ixvzraajuiniwg.com CNAME .
 ixwbgjnjf.com CNAME .
@@ -24974,6 +24979,7 @@ mxadtjluuv.com CNAME .
 mxccs.com CNAME .
 mxcount.com CNAME .
 mxctsflkxs.com CNAME .
+mxdregs.com CNAME .
 mxitie.com CNAME .
 mxmrt.com CNAME .
 mxphrvkcgvcpl.com CNAME .
@@ -27543,6 +27549,7 @@ oulvtrip.com CNAME .
 oulxdvvpmfcd.com CNAME .
 oumazg.com CNAME .
 ounaihekw.bid CNAME .
+ountapaveralle.info CNAME .
 ounyrilukncbj.com CNAME .
 oupe71eiun.com CNAME .
 oupox.club CNAME .
@@ -61903,6 +61910,7 @@ yinlt.com CNAME .
 yinmyar.xyz CNAME .
 yinoo.cn CNAME .
 yinooo.com CNAME .
+yinsterkneeline.info CNAME .
 yintkfbxaopyb.com CNAME .
 yinyuehu.cn CNAME .
 yinyuncp.com CNAME .

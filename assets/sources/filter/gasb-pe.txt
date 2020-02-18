@@ -1,8 +1,8 @@
 # Title: gasb-pe Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
-# Last Converted - 18.02.2020
-# Total Domains - 44529
+# Last Converted - 19.02.2020
+# Total Domains - 44522
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4774,7 +4774,6 @@
 0.0.0.0 akril.com
 0.0.0.0 aksajans.com
 0.0.0.0 aktivoreonmas.com
-0.0.0.0 akuna-mlm.info
 0.0.0.0 akway.com
 0.0.0.0 al4a.com
 0.0.0.0 aladdinsys.com
@@ -9398,7 +9397,6 @@
 0.0.0.0 click-to-download.com
 0.0.0.0 click.adultsingles.com
 0.0.0.0 click.affiliator.com
-0.0.0.0 click.andomedia.com
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.cheapstuff.com
 0.0.0.0 click.dtiserv2.com
@@ -14418,7 +14416,6 @@
 0.0.0.0 freeandfunny.com
 0.0.0.0 freeantiviral.com
 0.0.0.0 freeappdl.info
-0.0.0.0 freeappdl.net
 0.0.0.0 freeappmart.com
 0.0.0.0 freebanner.com
 0.0.0.0 freebe221.homestead.com
@@ -15181,7 +15178,6 @@
 0.0.0.0 getsafetytoday.com
 0.0.0.0 getsearches.com
 0.0.0.0 getsmart.com
-0.0.0.0 getsoftfree.net
 0.0.0.0 getsoftnow.com
 0.0.0.0 getsoftnow.net
 0.0.0.0 getsomesoft.com
@@ -15455,7 +15451,6 @@
 0.0.0.0 gokindex.ourtoolbar.com
 0.0.0.0 goku.brightcove.com
 0.0.0.0 gold-boys.com
-0.0.0.0 gold-collection.biz
 0.0.0.0 gold-file.com
 0.0.0.0 gold-link.org
 0.0.0.0 gold-sex.com
@@ -41145,7 +41140,6 @@
 0.0.0.0 www.settopsex.com
 0.0.0.0 www.sewhelp.com
 0.0.0.0 www.sex-coach.com
-0.0.0.0 www.sex-explorer.com
 0.0.0.0 www.sex-free.com
 0.0.0.0 www.sex-prague.com
 0.0.0.0 www.sex.com
@@ -41776,7 +41770,6 @@
 0.0.0.0 www.support-help.co
 0.0.0.0 www.supportcave.com
 0.0.0.0 www.supportcs.com
-0.0.0.0 www.supportearthlink.net
 0.0.0.0 www.supportfortech.co.uk
 0.0.0.0 www.supportoid.com
 0.0.0.0 www.supportscope.com

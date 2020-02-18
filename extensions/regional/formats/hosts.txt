@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts
-# Version: 20.02.049
-# Release: 049
-# Entries: 63,328
+# Version: 20.02.050
+# Release: 050
+# Entries: 63,336
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 18:14:06
+# Updated: Wed, 19 Feb 20 00:15:01
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -11029,6 +11029,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1i9kr6k34lyp.cloudfront.net
 0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
 0.0.0.0 d1jikhx1ssl81z.cloudfront.net
+0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
 0.0.0.0 d1jq9nooxeft24.cloudfront.net
 0.0.0.0 d1k0glcmk0b5rb.cloudfront.net
 0.0.0.0 d1k29rhvz38kg5.cloudfront.net
@@ -11792,6 +11793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dekalee.fr
 0.0.0.0 dekalee.net
 0.0.0.0 del-del-ete.com
+0.0.0.0 delainlygoverhe.info
 0.0.0.0 delapantogel.com
 0.0.0.0 delascalles.com
 0.0.0.0 delcomeyersdale.com
@@ -14626,6 +14628,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 feed.datinglab.net
 0.0.0.0 feed.monad-rtb.com
 0.0.0.0 feed111.me
+0.0.0.0 feed777.me
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
@@ -16984,6 +16987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gudangbanner.com
 0.0.0.0 gudlhvxz.com
 0.0.0.0 guduopu.com
+0.0.0.0 gueqndbe.com
 0.0.0.0 guestcash.com
 0.0.0.0 gueur.com
 0.0.0.0 gueurs.com
@@ -19641,6 +19645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ixtmbdajhvimtv.com
 0.0.0.0 ixtyted.ru
 0.0.0.0 ixueiomwi.com
+0.0.0.0 ixunmkbyxvif.com
 0.0.0.0 ixuytaxnu.com
 0.0.0.0 ixvzraajuiniwg.com
 0.0.0.0 ixwbgjnjf.com
@@ -24985,6 +24990,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mxccs.com
 0.0.0.0 mxcount.com
 0.0.0.0 mxctsflkxs.com
+0.0.0.0 mxdregs.com
 0.0.0.0 mxitie.com
 0.0.0.0 mxmrt.com
 0.0.0.0 mxphrvkcgvcpl.com
@@ -27554,6 +27560,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oulxdvvpmfcd.com
 0.0.0.0 oumazg.com
 0.0.0.0 ounaihekw.bid
+0.0.0.0 ountapaveralle.info
 0.0.0.0 ounyrilukncbj.com
 0.0.0.0 oupe71eiun.com
 0.0.0.0 oupox.club
@@ -61914,6 +61921,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yinmyar.xyz
 0.0.0.0 yinoo.cn
 0.0.0.0 yinooo.com
+0.0.0.0 yinsterkneeline.info
 0.0.0.0 yintkfbxaopyb.com
 0.0.0.0 yinyuehu.cn
 0.0.0.0 yinyuncp.com

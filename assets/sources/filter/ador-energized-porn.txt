@@ -1,8 +1,8 @@
 # Title: ador-energized-porn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts-porn
-# Last Converted - 18.02.2020
-# Total Domains - 12846
+# Last Converted - 19.02.2020
+# Total Domains - 12845
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -11260,7 +11260,6 @@
 0.0.0.0 www.severesexfilms.com
 0.0.0.0 www.sex-amateur-clips.com
 0.0.0.0 www.sex-dl.com
-0.0.0.0 www.sex-explorer.com
 0.0.0.0 www.sex-freecam.com
 0.0.0.0 www.sex-fuck-tube.club
 0.0.0.0 www.sex-hd.xxx

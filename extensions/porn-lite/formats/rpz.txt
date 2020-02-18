@@ -24,12 +24,12 @@
 ; Title: Energized Porn Lite Extension
 ; Description: Lite Extension Porn Pack.
 ; Format: rpz
-; Version: 20.02.049
-; Release: 049
-; Entries: 41,432
+; Version: 20.02.050
+; Release: 050
+; Entries: 41,430
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 18:14:02
+; Updated: Wed, 19 Feb 20 00:14:56
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -11039,7 +11039,6 @@ gohoneygo.com CNAME .
 goicos.com CNAME .
 goindiansex.com CNAME .
 gojiberriess.apishops.ru CNAME .
-gold-collection.biz CNAME .
 gold-gay.com CNAME .
 gold-indian.pro CNAME .
 goldadpremium.com CNAME .
@@ -37134,7 +37133,6 @@ www.sex-cams-online.net CNAME .
 www.sex-dl.com CNAME .
 www.sex-doma.cz CNAME .
 www.sex-empire.tv CNAME .
-www.sex-explorer.com CNAME .
 www.sex-files.net CNAME .
 www.sex-freecam.com CNAME .
 www.sex-fuck-tube.club CNAME .

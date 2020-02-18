@@ -1,8 +1,8 @@
 # Title: clefspeare-pornhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
-# Last Converted - 18.02.2020
-# Total Domains - 7242
+# Last Converted - 19.02.2020
+# Total Domains - 7241
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5891,7 +5891,6 @@
 0.0.0.0 www.serviporno.com
 0.0.0.0 www.sesso-gratis.info
 0.0.0.0 www.seventeenvideo.com
-0.0.0.0 www.sex-explorer.com
 0.0.0.0 www.sex-files.net
 0.0.0.0 www.sex-tracker.com
 0.0.0.0 www.sex-tracker.de

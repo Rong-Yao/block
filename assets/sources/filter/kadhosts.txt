@@ -1,8 +1,8 @@
 # Title: kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 18.02.2020
-# Total Domains - 5961
+# Last Converted - 19.02.2020
+# Total Domains - 5954
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -177,7 +177,6 @@
 0.0.0.0 appcaptcha.com
 0.0.0.0 appfox.org
 0.0.0.0 appiq.mobi
-0.0.0.0 apple.com-care-macbook-system.live
 0.0.0.0 apple.com-speedup-macos.live
 0.0.0.0 apps.co.pl
 0.0.0.0 appsdorado.com
@@ -524,7 +523,6 @@
 0.0.0.0 clydecourt.pl
 0.0.0.0 cnto.pl
 0.0.0.0 coachhouseballarat.com
-0.0.0.0 cobeinboats.pl
 0.0.0.0 cobolito.pl
 0.0.0.0 cocoopt.com
 0.0.0.0 codeandwork.pl
@@ -783,7 +781,6 @@
 0.0.0.0 eeu.pl
 0.0.0.0 eforsa.pl
 0.0.0.0 eglobalcentral.pl
-0.0.0.0 ekerisiltihaliyikama.com
 0.0.0.0 ekino.com.pl
 0.0.0.0 ekoinnowacyjne.pl
 0.0.0.0 ekonkarserai.com
@@ -988,6 +985,7 @@
 0.0.0.0 foto2.pl
 0.0.0.0 fotobraj.pl
 0.0.0.0 fotobudkahihotka.pl
+0.0.0.0 fotograficzny.fun
 0.0.0.0 fotokaszuby.pl
 0.0.0.0 fotokraci.pl
 0.0.0.0 fotolajt.pl
@@ -1466,6 +1464,7 @@
 0.0.0.0 kotletbezmiesa.pl
 0.0.0.0 kotwicowisko.pl
 0.0.0.0 kpzkaj.pl
+0.0.0.0 kraina-kopciuszka.pl
 0.0.0.0 krakowparkiety.pl
 0.0.0.0 kramikeli.pl
 0.0.0.0 krasnal-zlotoweczka.pl
@@ -1906,7 +1905,6 @@
 0.0.0.0 nomadztruck.com
 0.0.0.0 noniuzdrawia.pl
 0.0.0.0 nonstopvideos.pl
-0.0.0.0 normour.com
 0.0.0.0 northfacepolska.pl
 0.0.0.0 northfacesklep.pl
 0.0.0.0 notification-list.com
@@ -2278,7 +2276,6 @@
 0.0.0.0 projectolynx.com
 0.0.0.0 projekt-gitara.pl
 0.0.0.0 projektrestart.pl
-0.0.0.0 projektyxella.pl
 0.0.0.0 promediapr.pl
 0.0.0.0 promienieszczescia.pl
 0.0.0.0 promitto.pl
@@ -2552,10 +2549,8 @@
 0.0.0.0 siniaki.pl
 0.0.0.0 siobhanmcminn.com
 0.0.0.0 sipp.pl
-0.0.0.0 sirijayareddypsychologist.com
 0.0.0.0 siroccogoldfci.pl
 0.0.0.0 skarbypilicy.pl
-0.0.0.0 skechersbuty.pl
 0.0.0.0 skechersshoes.pl
 0.0.0.0 skecherstanio.pl
 0.0.0.0 skidrowcrack.com
@@ -3024,7 +3019,6 @@
 0.0.0.0 vipcheats.us
 0.0.0.0 vipon.pl
 0.0.0.0 virtualgarden.pl
-0.0.0.0 virtualsklep.com
 0.0.0.0 visalink.pl
 0.0.0.0 vision2020.pl
 0.0.0.0 viskon.pl
@@ -3278,7 +3272,6 @@
 0.0.0.0 www.appcaptcha.com
 0.0.0.0 www.appfox.org
 0.0.0.0 www.appiq.mobi
-0.0.0.0 www.apple.com-care-macbook-system.live
 0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.apps.co.pl
 0.0.0.0 www.appsdorado.com
@@ -3948,6 +3941,7 @@
 0.0.0.0 www.foto2.pl
 0.0.0.0 www.fotobraj.pl
 0.0.0.0 www.fotobudkahihotka.pl
+0.0.0.0 www.fotograficzny.fun
 0.0.0.0 www.fotokaszuby.pl
 0.0.0.0 www.fotokraci.pl
 0.0.0.0 www.fotowpis.pl
@@ -4335,6 +4329,7 @@
 0.0.0.0 www.kotletbezmiesa.pl
 0.0.0.0 www.kotwicowisko.pl
 0.0.0.0 www.kpzkaj.pl
+0.0.0.0 www.kraina-kopciuszka.pl
 0.0.0.0 www.krakowparkiety.pl
 0.0.0.0 www.kramikeli.pl
 0.0.0.0 www.krasnal-zlotoweczka.pl
@@ -5224,7 +5219,6 @@
 0.0.0.0 www.simplyjazz.pl
 0.0.0.0 www.siobhanmcminn.com
 0.0.0.0 www.sipp.pl
-0.0.0.0 www.sirijayareddypsychologist.com
 0.0.0.0 www.siroccogoldfci.pl
 0.0.0.0 www.skarbypilicy.pl
 0.0.0.0 www.skechersshoes.pl
@@ -5578,7 +5572,6 @@
 0.0.0.0 www.unmillondeutilidades.com
 0.0.0.0 www.update-1.com
 0.0.0.0 www.updatestar.com
-0.0.0.0 www.uperpay.club
 0.0.0.0 www.upskylinemotel.com
 0.0.0.0 www.urbantelling.pl
 0.0.0.0 www.uroffer.link

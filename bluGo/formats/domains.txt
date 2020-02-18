@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: domain list
-# Version: 20.02.049
-# Release: 049
-# Entries: 122,889
+# Version: 20.02.050
+# Release: 050
+# Entries: 122,892
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 18:10:11
+# Updated: Wed, 19 Feb 20 00:10:33
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -22864,6 +22864,7 @@ cannontwin.com
 canoe.112.2o7.net
 canoeklix.com
 canoepool.com
+canonch.pro
 canonshop.site
 canopylabs.com
 canossa.ac.tz
@@ -44854,6 +44855,7 @@ gloalrie.com
 globadmedia.com
 global-ds.cloud.netacuity.com
 global-entropy.com
+global-surveys.co
 global-www.adform.net
 global.adform.net
 global.adserver.yahoo.com
@@ -46400,6 +46402,7 @@ gudanglagu4shared.website
 gudja.iad-02.braze.com
 gudlhvxz.com
 gue.v2.dedicatedpool.com
+gueqndbe.com
 guess.mediav.com
 guess.tf.360.cn
 guess.union2.50bang.org
@@ -55140,6 +55143,7 @@ ixsxgaegvplo.com
 ixtkiofaoudis.com
 ixtmbdajhvimtv.com
 ixueiomwi.com
+ixunmkbyxvif.com
 ixuytaxnu.com
 ixvsxjiw.com
 ixvzraajuiniwg.com
@@ -104706,7 +104710,6 @@ virbyadvertising.com
 vircom.cz
 virfx.net
 virgbmkmear.com
-virgine.steuerberater-mallorca.de
 virginia-pacelli.000webhostapp.com
 virginia.elitehash.net
 virginmedia.112.2o7.net
@@ -118041,7 +118044,6 @@ www.update-your-account-information.dentalcaredubai.com
 www.update-your-pc.info
 www.update.paypall.anamezing.com
 www.updatestar.com
-www.uperpay.club
 www.upgradebasic.com
 www.upgradeexplorer.com
 www.upload-center.byethost4.com
@@ -121163,6 +121165,7 @@ yinkuya.ru
 yinmikbest.com
 yinmyar.xyz
 yinputech.com
+yinsterkneeline.info
 yintkfbxaopyb.com
 yinyuanhotel.net
 yioklzvjkaumf.com

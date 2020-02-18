@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts IPV6
-# Version: 20.02.049
-# Release: 049
-# Entries: 63,328
+# Version: 20.02.050
+# Release: 050
+# Entries: 63,336
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 18:14:06
+# Updated: Wed, 19 Feb 20 00:15:01
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -11029,6 +11029,7 @@ ff02::3 ip6-allhosts
 :: d1i9kr6k34lyp.cloudfront.net
 :: d1il9t8pu4dsoj.cloudfront.net
 :: d1jikhx1ssl81z.cloudfront.net
+:: d1jnvfp2m6fzvq.cloudfront.net
 :: d1jq9nooxeft24.cloudfront.net
 :: d1k0glcmk0b5rb.cloudfront.net
 :: d1k29rhvz38kg5.cloudfront.net
@@ -11792,6 +11793,7 @@ ff02::3 ip6-allhosts
 :: dekalee.fr
 :: dekalee.net
 :: del-del-ete.com
+:: delainlygoverhe.info
 :: delapantogel.com
 :: delascalles.com
 :: delcomeyersdale.com
@@ -14626,6 +14628,7 @@ ff02::3 ip6-allhosts
 :: feed.datinglab.net
 :: feed.monad-rtb.com
 :: feed111.me
+:: feed777.me
 :: feedback.microsoft-hohm.com
 :: feedback.search.microsoft.com
 :: feedback.windows.com
@@ -16984,6 +16987,7 @@ ff02::3 ip6-allhosts
 :: gudangbanner.com
 :: gudlhvxz.com
 :: guduopu.com
+:: gueqndbe.com
 :: guestcash.com
 :: gueur.com
 :: gueurs.com
@@ -19641,6 +19645,7 @@ ff02::3 ip6-allhosts
 :: ixtmbdajhvimtv.com
 :: ixtyted.ru
 :: ixueiomwi.com
+:: ixunmkbyxvif.com
 :: ixuytaxnu.com
 :: ixvzraajuiniwg.com
 :: ixwbgjnjf.com
@@ -24985,6 +24990,7 @@ ff02::3 ip6-allhosts
 :: mxccs.com
 :: mxcount.com
 :: mxctsflkxs.com
+:: mxdregs.com
 :: mxitie.com
 :: mxmrt.com
 :: mxphrvkcgvcpl.com
@@ -27554,6 +27560,7 @@ ff02::3 ip6-allhosts
 :: oulxdvvpmfcd.com
 :: oumazg.com
 :: ounaihekw.bid
+:: ountapaveralle.info
 :: ounyrilukncbj.com
 :: oupe71eiun.com
 :: oupox.club
@@ -61914,6 +61921,7 @@ ff02::3 ip6-allhosts
 :: yinmyar.xyz
 :: yinoo.cn
 :: yinooo.com
+:: yinsterkneeline.info
 :: yintkfbxaopyb.com
 :: yinyuehu.cn
 :: yinyuncp.com

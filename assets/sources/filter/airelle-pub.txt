@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
 # Last Converted - 18.02.2020
-# Total Domains - 56514
+# Total Domains - 56510
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -946,7 +946,6 @@
 0.0.0.0 aarom.com
 0.0.0.0 aaronhawks.com
 0.0.0.0 aaronphoto.com
-0.0.0.0 aarp.122.2o7.net
 0.0.0.0 aasmajaroslavov21.ic.cz
 0.0.0.0 aasu.com
 0.0.0.0 aatars.com
@@ -2546,8 +2545,6 @@
 0.0.0.0 ad.doubleclick.net.12759.9047.302br.net
 0.0.0.0 ad.doubleclick.net.12762.9047.302br.net
 0.0.0.0 ad.doubleclick.net.12771.9047.302br.net
-0.0.0.0 ad.doubleclick.net.12926.9034.302br.net
-0.0.0.0 ad.doubleclick.net.12938.9034.302br.net
 0.0.0.0 ad.doubleclick.net.12939.9034.302br.net
 0.0.0.0 ad.doubleclick.net.12941.9034.302br.net
 0.0.0.0 ad.doubleclick.net.132.6100.302br.net
@@ -32184,7 +32181,6 @@
 0.0.0.0 g.yccdn.com
 0.0.0.0 g01.a.alicdn.com
 0.0.0.0 g1.163.com
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g4p.grt02.com
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.clearbit.com

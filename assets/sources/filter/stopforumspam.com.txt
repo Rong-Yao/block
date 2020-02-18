@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://stopforumspam.com/downloads/toxic_domains_whole.txt
 # Last Converted - 18.02.2020
-# Total Domains - 10826
+# Total Domains - 10832
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -314,6 +314,7 @@
 0.0.0.0 affhat.com
 0.0.0.0 affordable.antiquerestorationwork.com
 0.0.0.0 afinilexpress.instambox.com
+0.0.0.0 afodyfocan.pro
 0.0.0.0 afopmail.com
 0.0.0.0 afp.exiix.com
 0.0.0.0 afp.intained.com
@@ -4727,6 +4728,7 @@
 0.0.0.0 ivlt.com
 0.0.0.0 ivmail.com
 0.0.0.0 ivrj.com
+0.0.0.0 ivuheruzehir.host
 0.0.0.0 ivuhmail.com
 0.0.0.0 ivxo.com
 0.0.0.0 ivycompete.com
@@ -5149,6 +5151,7 @@
 0.0.0.0 kinokradkinokrad.ru
 0.0.0.0 kinopoicskhd.ru
 0.0.0.0 kinopoisckhd.ru
+0.0.0.0 kinoxaxru.ru
 0.0.0.0 kipper.futuristicplanemodels.com
 0.0.0.0 kipv.ru
 0.0.0.0 kiqk.com
@@ -7198,6 +7201,7 @@
 0.0.0.0 opera1.nu.blognet.in
 0.0.0.0 operamail.mail.blognet.in
 0.0.0.0 opka.org
+0.0.0.0 opkast.net
 0.0.0.0 opmail.com
 0.0.0.0 opmmail.com
 0.0.0.0 oppel.modernsailorclothes.com
@@ -7286,6 +7290,7 @@
 0.0.0.0 ovgo.com
 0.0.0.0 ovipmail.com
 0.0.0.0 ovmail.com
+0.0.0.0 ovocykuvypan.pro
 0.0.0.0 owee.org
 0.0.0.0 owner.dynainbox.com
 0.0.0.0 owner.universallightkeys.com
@@ -10024,6 +10029,7 @@
 0.0.0.0 visco.silkwomenshirts.com
 0.0.0.0 visiondating.info
 0.0.0.0 vissering35.newpopularwatches.com
+0.0.0.0 visweden.com
 0.0.0.0 vitalbeginning.com
 0.0.0.0 vitalizeindian.com
 0.0.0.0 vitaminsforhairgrowth.eu

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://280blocker.net/files/280blocker_domain.txt
 # Last Converted - 18.02.2020
-# Total Domains - 940
+# Total Domains - 939
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -455,7 +455,6 @@
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 fsitel.com
 0.0.0.0 fullrss.net
-0.0.0.0 g2.gumgum.com
 0.0.0.0 gad.shinobi.jp
 0.0.0.0 gamefeat.net
 0.0.0.0 garss.tv

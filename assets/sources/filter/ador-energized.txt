@@ -5914,6 +5914,7 @@
 0.0.0.0 bhigieabgdbabegiibb.ru
 0.0.0.0 bhplyiegippcw.com
 0.0.0.0 bi.mgid.com
+0.0.0.0 biartau.id
 0.0.0.0 bibei.uc.cn
 0.0.0.0 bibo.api.swiftkey.com
 0.0.0.0 bid.ace.advertising.com
@@ -10930,7 +10931,6 @@
 0.0.0.0 g17media.com
 0.0.0.0 g1hmcmp.com
 0.0.0.0 g1thub.com
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2247755016.com
 0.0.0.0 g2281971609.com
 0.0.0.0 g2438896021.com

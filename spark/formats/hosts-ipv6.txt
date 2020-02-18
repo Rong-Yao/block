@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.049
 # Release: 049
-# Entries: 60,936
+# Entries: 60,945
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:49:49
+# Updated: Tue, 18 Feb 20 06:09:48
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -2462,7 +2462,6 @@ ff02::3 ip6-allhosts
 :: aappf.pt
 :: aaqpsddtjnsmug.com
 :: aarki.com
-:: aarp.122.2o7.net
 :: aarqdivjxstu.com
 :: aarwxotc.com
 :: aaswayoe.com
@@ -10214,6 +10213,7 @@ ff02::3 ip6-allhosts
 :: aumpoabi.com
 :: aumrrwoile.com
 :: auqefmhsutnldv.com
+:: aurdeert.net
 :: aureate.com
 :: aurelius.httpool.com
 :: aurhgaees.com
@@ -10367,6 +10367,7 @@ ff02::3 ip6-allhosts
 :: awfjqdhcuftd.com
 :: awgdgpawhwgi.bid
 :: awgsmfzrslcp.com
+:: awhootoa.net
 :: awhxbiqf.com
 :: awin.com
 :: awin1.com
@@ -14671,6 +14672,7 @@ ff02::3 ip6-allhosts
 :: citylukup.com
 :: citymediamagazin.hu
 :: citysite.net
+:: ciusqhujddbggb.com
 :: civilhir.net
 :: civitik.com
 :: civyssfaqtufib.com
@@ -21341,6 +21343,7 @@ ff02::3 ip6-allhosts
 :: fadsats.com
 :: fadsatz.com
 :: fadsecz.com
+:: fadsims.com
 :: fadskis.com
 :: fadsoks.com
 :: fadspmz.com
@@ -22832,7 +22835,6 @@ ff02::3 ip6-allhosts
 :: g1xd.mediav.com
 :: g2.112.2o7.net
 :: g2.doubleclick.net
-:: g2.gumgum.com
 :: g2247755016.com
 :: g2281971609.com
 :: g22rbb7.com
@@ -22885,6 +22887,7 @@ ff02::3 ip6-allhosts
 :: gadqgqkdexwspxdc.com
 :: gads.pubmatic.com
 :: gads44000.pubmatic.com
+:: gadsans.com
 :: gadsbee.com
 :: gadsecz.com
 :: gadsimz.com
@@ -24214,6 +24217,7 @@ ff02::3 ip6-allhosts
 :: gratonrewardcenter.icu
 :: gratuit-shopping.glasgro.com
 :: graucoay.net
+:: graunada.com
 :: graylog.mgid.com
 :: grcpool.com
 :: greasypalm.com
@@ -30929,6 +30933,7 @@ ff02::3 ip6-allhosts
 :: longtraffic.com
 :: lonrtp1-cdn.marketo.com
 :: lonrtp1.marketo.com
+:: loobusir.com
 :: loodyas.com
 :: look.djfiln.com
 :: look.fjfiln.com
@@ -32728,7 +32733,6 @@ ff02::3 ip6-allhosts
 :: metrika.yandex.com
 :: metrika.yandex.ru
 :: metrilo.com
-:: metriweb.be
 :: metro.co.uk.102.122.2o7.net
 :: metrocuadro.com.ve
 :: metropcs.mobileposse.com
@@ -35111,6 +35115,7 @@ ff02::3 ip6-allhosts
 :: ninxcwcwgvr.com
 :: nirqmbrzplvtjr.com
 :: nirror.abtasty.com
+:: nishathlessharr.info
 :: nitigoly.com
 :: nitmus.com
 :: nitratory.com
@@ -37087,6 +37092,7 @@ ff02::3 ip6-allhosts
 :: otrwaram.com
 :: ots.optimize.webtrends.com
 :: otsserver.com
+:: otsurvedchange.info
 :: ottacknet.112.2o7.net
 :: ottdailytidingscom.112.2o7.net
 :: ottomdisede.club
@@ -37182,6 +37188,7 @@ ff02::3 ip6-allhosts
 :: overlay.ringtonematcher.com
 :: overolma.xyz
 :: overreare.co
+:: overribleintena.info
 :: overstock.com.112.2o7.net
 :: overstockcom.112.2o7.net
 :: overturecom.112.2o7.net
@@ -42189,6 +42196,7 @@ ff02::3 ip6-allhosts
 :: refreshnerer27.info
 :: refreshnerer27rb.info
 :: reftop.pw
+:: refunsiy.net
 :: refurbinet.com
 :: refuzzlizing.pro
 :: reg.uc.cn
@@ -49190,6 +49198,7 @@ ff02::3 ip6-allhosts
 :: tinkerta.com
 :: tinybar.com
 :: tinyhoneybee.com
+:: tionpronomyim.info
 :: tionscofferent.info
 :: tionsnewsupdate.info
 :: tip.atdmt.com

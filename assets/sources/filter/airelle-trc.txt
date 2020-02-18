@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-trc.txt
 # Last Converted - 18.02.2020
-# Total Domains - 42387
+# Total Domains - 42384
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -777,7 +777,6 @@
 0.0.0.0 aadreezzcinemedia.net
 0.0.0.0 aalbc.advertserve.com
 0.0.0.0 aaronkratenart.com
-0.0.0.0 aarp.122.2o7.net
 0.0.0.0 aatracker.com
 0.0.0.0 abbyssh.freestats.com
 0.0.0.0 abc.imrworldwide.com
@@ -1965,8 +1964,6 @@
 0.0.0.0 ad.doubleclick.net.12759.9047.302br.net
 0.0.0.0 ad.doubleclick.net.12762.9047.302br.net
 0.0.0.0 ad.doubleclick.net.12771.9047.302br.net
-0.0.0.0 ad.doubleclick.net.12926.9034.302br.net
-0.0.0.0 ad.doubleclick.net.12938.9034.302br.net
 0.0.0.0 ad.doubleclick.net.12939.9034.302br.net
 0.0.0.0 ad.doubleclick.net.12941.9034.302br.net
 0.0.0.0 ad.doubleclick.net.132.6100.302br.net

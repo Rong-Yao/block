@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 18.02.2020
-# Total Domains - 18217
+# Total Domains - 18233
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2250,6 +2250,7 @@
 0.0.0.0 aumrrwoile.com
 0.0.0.0 aungumse.com
 0.0.0.0 auqefmhsutnldv.com
+0.0.0.0 aurdeert.net
 0.0.0.0 aurhgaees.com
 0.0.0.0 ausagauw.net
 0.0.0.0 auspipe.com
@@ -2297,6 +2298,7 @@
 0.0.0.0 awestat.com
 0.0.0.0 awestatic.com
 0.0.0.0 awgsmfzrslcp.com
+0.0.0.0 awhootoa.net
 0.0.0.0 awhxbiqf.com
 0.0.0.0 awltovhc.com
 0.0.0.0 awmpartners.com
@@ -3562,6 +3564,7 @@
 0.0.0.0 cityadspix.com
 0.0.0.0 citysex.com
 0.0.0.0 citysite.net
+0.0.0.0 ciusqhujddbggb.com
 0.0.0.0 civitik.com
 0.0.0.0 civyssfaqtufib.com
 0.0.0.0 ciwbezny.com
@@ -4758,6 +4761,7 @@
 0.0.0.0 dmtw0i4zln92b.cloudfront.net
 0.0.0.0 dmu20vut.com
 0.0.0.0 dmypkmieippdq.com
+0.0.0.0 dn3uy6cx65ujf.cloudfront.net
 0.0.0.0 dnbizcdn.com
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dneglectionsinter.info
@@ -4854,6 +4858,7 @@
 0.0.0.0 dp25.kr
 0.0.0.0 dpallyihgtgu.com
 0.0.0.0 dpbrrirhtlo.com
+0.0.0.0 dpd9yiocsyy6p.cloudfront.net
 0.0.0.0 dpiw925yvtpfq.cloudfront.net
 0.0.0.0 dpixysnllk.com
 0.0.0.0 dpkubdncmez.com
@@ -5648,6 +5653,7 @@
 0.0.0.0 fadsans.com
 0.0.0.0 fadsats.com
 0.0.0.0 fadsecz.com
+0.0.0.0 fadsims.com
 0.0.0.0 fadsoks.com
 0.0.0.0 fadspmz.com
 0.0.0.0 faegbmhey.com
@@ -6249,6 +6255,7 @@
 0.0.0.0 g726n8cy.com
 0.0.0.0 ga87z2o.com
 0.0.0.0 gadgetresearch.net
+0.0.0.0 gadsans.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
@@ -6684,6 +6691,7 @@
 0.0.0.0 gratisnetwork.com
 0.0.0.0 gratuit.niloo.fr
 0.0.0.0 graucoay.net
+0.0.0.0 graunada.com
 0.0.0.0 greatcpm.com
 0.0.0.0 greatdexchange.com
 0.0.0.0 greatusenetoffer.agency
@@ -9137,6 +9145,7 @@
 0.0.0.0 loltrack.com
 0.0.0.0 loltrk.com
 0.0.0.0 lonedol.info
+0.0.0.0 loobusir.com
 0.0.0.0 loodoost.net
 0.0.0.0 loodyas.com
 0.0.0.0 lookfornews.net
@@ -10409,6 +10418,7 @@
 0.0.0.0 ningme.ru
 0.0.0.0 ninxcwcwgvr.com
 0.0.0.0 nirqmbrzplvtjr.com
+0.0.0.0 nishathlessharr.info
 0.0.0.0 nitigoly.com
 0.0.0.0 nitmus.com
 0.0.0.0 nittlopp.online
@@ -10731,6 +10741,7 @@
 0.0.0.0 oazbtactg.com
 0.0.0.0 oazznjmbchmpdg.com
 0.0.0.0 obaizahshita.info
+0.0.0.0 obaukads.com
 0.0.0.0 obczphph.com
 0.0.0.0 obdzedcpwxk.com
 0.0.0.0 obeeifroxtivh.com
@@ -11287,6 +11298,7 @@
 0.0.0.0 otrjvabiv.bid
 0.0.0.0 otruzjgxof.com
 0.0.0.0 otrwaram.com
+0.0.0.0 otsurvedchange.info
 0.0.0.0 ottomdisede.club
 0.0.0.0 otusnijhkyihod.com
 0.0.0.0 otuveoqm.com
@@ -11342,6 +11354,7 @@
 0.0.0.0 ovczxzkfkfbb.com
 0.0.0.0 overhaps.com
 0.0.0.0 overreare.co
+0.0.0.0 overribleintena.info
 0.0.0.0 overturs.com
 0.0.0.0 ovfbwavekglf.com
 0.0.0.0 ovgepsxx.com
@@ -11744,6 +11757,7 @@
 0.0.0.0 phaimtol.net
 0.0.0.0 phalata.info
 0.0.0.0 pharmcash.com
+0.0.0.0 pharougn.com
 0.0.0.0 phastoag.com
 0.0.0.0 phauwooz.net
 0.0.0.0 phdtryxlepjayf.com
@@ -13459,6 +13473,7 @@
 0.0.0.0 refpa.top
 0.0.0.0 refpazcx.xyz
 0.0.0.0 reftedlettiny.info
+0.0.0.0 refunsiy.net
 0.0.0.0 regardensa.com
 0.0.0.0 regdsvee.com
 0.0.0.0 regisg.com
@@ -15195,6 +15210,7 @@
 0.0.0.0 tinbuadserv.com
 0.0.0.0 tingrinter.com
 0.0.0.0 tinkerta.com
+0.0.0.0 tionpronomyim.info
 0.0.0.0 tionscofferent.info
 0.0.0.0 tiphkuloov.com
 0.0.0.0 tiptwfbksobui.com

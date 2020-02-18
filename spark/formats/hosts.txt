@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 60,936
+# Entries: 60,945
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:49:49
+# Updated: Tue, 18 Feb 20 06:09:48
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2462,7 +2462,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aappf.pt
 0.0.0.0 aaqpsddtjnsmug.com
 0.0.0.0 aarki.com
-0.0.0.0 aarp.122.2o7.net
 0.0.0.0 aarqdivjxstu.com
 0.0.0.0 aarwxotc.com
 0.0.0.0 aaswayoe.com
@@ -10214,6 +10213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aumpoabi.com
 0.0.0.0 aumrrwoile.com
 0.0.0.0 auqefmhsutnldv.com
+0.0.0.0 aurdeert.net
 0.0.0.0 aureate.com
 0.0.0.0 aurelius.httpool.com
 0.0.0.0 aurhgaees.com
@@ -10367,6 +10367,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 awfjqdhcuftd.com
 0.0.0.0 awgdgpawhwgi.bid
 0.0.0.0 awgsmfzrslcp.com
+0.0.0.0 awhootoa.net
 0.0.0.0 awhxbiqf.com
 0.0.0.0 awin.com
 0.0.0.0 awin1.com
@@ -14671,6 +14672,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 citylukup.com
 0.0.0.0 citymediamagazin.hu
 0.0.0.0 citysite.net
+0.0.0.0 ciusqhujddbggb.com
 0.0.0.0 civilhir.net
 0.0.0.0 civitik.com
 0.0.0.0 civyssfaqtufib.com
@@ -21341,6 +21343,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fadsats.com
 0.0.0.0 fadsatz.com
 0.0.0.0 fadsecz.com
+0.0.0.0 fadsims.com
 0.0.0.0 fadskis.com
 0.0.0.0 fadsoks.com
 0.0.0.0 fadspmz.com
@@ -22832,7 +22835,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 g1xd.mediav.com
 0.0.0.0 g2.112.2o7.net
 0.0.0.0 g2.doubleclick.net
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2247755016.com
 0.0.0.0 g2281971609.com
 0.0.0.0 g22rbb7.com
@@ -22885,6 +22887,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadqgqkdexwspxdc.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gads44000.pubmatic.com
+0.0.0.0 gadsans.com
 0.0.0.0 gadsbee.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
@@ -24214,6 +24217,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gratonrewardcenter.icu
 0.0.0.0 gratuit-shopping.glasgro.com
 0.0.0.0 graucoay.net
+0.0.0.0 graunada.com
 0.0.0.0 graylog.mgid.com
 0.0.0.0 grcpool.com
 0.0.0.0 greasypalm.com
@@ -30929,6 +30933,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 longtraffic.com
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
+0.0.0.0 loobusir.com
 0.0.0.0 loodyas.com
 0.0.0.0 look.djfiln.com
 0.0.0.0 look.fjfiln.com
@@ -32728,7 +32733,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrika.yandex.com
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrilo.com
-0.0.0.0 metriweb.be
 0.0.0.0 metro.co.uk.102.122.2o7.net
 0.0.0.0 metrocuadro.com.ve
 0.0.0.0 metropcs.mobileposse.com
@@ -35111,6 +35115,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ninxcwcwgvr.com
 0.0.0.0 nirqmbrzplvtjr.com
 0.0.0.0 nirror.abtasty.com
+0.0.0.0 nishathlessharr.info
 0.0.0.0 nitigoly.com
 0.0.0.0 nitmus.com
 0.0.0.0 nitratory.com
@@ -37087,6 +37092,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otrwaram.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 otsserver.com
+0.0.0.0 otsurvedchange.info
 0.0.0.0 ottacknet.112.2o7.net
 0.0.0.0 ottdailytidingscom.112.2o7.net
 0.0.0.0 ottomdisede.club
@@ -37182,6 +37188,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overolma.xyz
 0.0.0.0 overreare.co
+0.0.0.0 overribleintena.info
 0.0.0.0 overstock.com.112.2o7.net
 0.0.0.0 overstockcom.112.2o7.net
 0.0.0.0 overturecom.112.2o7.net
@@ -42189,6 +42196,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 refreshnerer27.info
 0.0.0.0 refreshnerer27rb.info
 0.0.0.0 reftop.pw
+0.0.0.0 refunsiy.net
 0.0.0.0 refurbinet.com
 0.0.0.0 refuzzlizing.pro
 0.0.0.0 reg.uc.cn
@@ -49190,6 +49198,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tinkerta.com
 0.0.0.0 tinybar.com
 0.0.0.0 tinyhoneybee.com
+0.0.0.0 tionpronomyim.info
 0.0.0.0 tionscofferent.info
 0.0.0.0 tionsnewsupdate.info
 0.0.0.0 tip.atdmt.com

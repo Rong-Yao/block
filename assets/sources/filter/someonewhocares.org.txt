@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 6158
+# Total Domains - 6157
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2337,7 +2337,6 @@
 0.0.0.0 g1-globo.com-b4.info
 0.0.0.0 g1-globosaude.com
 0.0.0.0 g1.idg.pl
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g4p.grt02.com
 0.0.0.0 gadgeteer.pdamart.com
 0.0.0.0 gads.pubmatic.com

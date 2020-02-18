@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 63,262
+# Entries: 63,279
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:54:10
+# Updated: Tue, 18 Feb 20 06:14:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -6180,6 +6180,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 auqefmhsutnldv.com
 0.0.0.0 aurabom.ru
 0.0.0.0 aurbidpos.com
+0.0.0.0 aurdeert.net
 0.0.0.0 aurdosti.com
 0.0.0.0 auredzeon.com
 0.0.0.0 aurhgaees.com
@@ -6290,6 +6291,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 awfull.pro
 0.0.0.0 awgsmfzrslcp.com
 0.0.0.0 awhate.ru
+0.0.0.0 awhootoa.net
 0.0.0.0 awhxbiqf.com
 0.0.0.0 awifi.cn
 0.0.0.0 awin1.com
@@ -9477,6 +9479,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cityadstrack.com
 0.0.0.0 citysex.com
 0.0.0.0 citysite.net
+0.0.0.0 ciusqhujddbggb.com
 0.0.0.0 ciuvo.com
 0.0.0.0 civitik.com
 0.0.0.0 civyssfaqtufib.com
@@ -12402,6 +12405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmym.aixyy.com
 0.0.0.0 dmypkmieippdq.com
 0.0.0.0 dn189.com
+0.0.0.0 dn3uy6cx65ujf.cloudfront.net
 0.0.0.0 dnbizcdn.com
 0.0.0.0 dnckawxatc.com
 0.0.0.0 dndd.ru
@@ -12637,6 +12641,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dpb3g4kqr8xz.cloudfront.net
 0.0.0.0 dpbrrirhtlo.com
 0.0.0.0 dpc6.cn
+0.0.0.0 dpd9yiocsyy6p.cloudfront.net
 0.0.0.0 dpiw925yvtpfq.cloudfront.net
 0.0.0.0 dpixysnllk.com
 0.0.0.0 dpjszs.com
@@ -14378,6 +14383,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fadsans.com
 0.0.0.0 fadsats.com
 0.0.0.0 fadsecz.com
+0.0.0.0 fadsims.com
 0.0.0.0 fadsips.com
 0.0.0.0 fadslimz.com
 0.0.0.0 fadsoks.com
@@ -15694,6 +15700,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadhx.cn
 0.0.0.0 gadnape.ru
 0.0.0.0 gads.pubmatic.com
+0.0.0.0 gadsans.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
@@ -16764,6 +16771,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gratisnetwork.com
 0.0.0.0 gratuit.niloo.fr
 0.0.0.0 graucoay.net
+0.0.0.0 graunada.com
 0.0.0.0 gravdee.com
 0.0.0.0 graylandmosier.com
 0.0.0.0 grazedrumpusroom.com
@@ -22631,6 +22639,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lonedol.info
 0.0.0.0 long88.app
 0.0.0.0 longkoupeanut.cn
+0.0.0.0 loobusir.com
 0.0.0.0 loodoost.net
 0.0.0.0 loodyas.com
 0.0.0.0 look-reklama.ru
@@ -25884,6 +25893,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nirentang.com
 0.0.0.0 nirqmbrzplvtjr.com
 0.0.0.0 nirtopala.com
+0.0.0.0 nishathlessharr.info
 0.0.0.0 nishoagn.com
 0.0.0.0 nitigoly.com
 0.0.0.0 nitmus.com
@@ -26509,6 +26519,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ob-livki.com
 0.0.0.0 ob-payment.ru
 0.0.0.0 obaizahshita.info
+0.0.0.0 obaukads.com
 0.0.0.0 obb.domohoziaka.ru
 0.0.0.0 obczphph.com
 0.0.0.0 obdzedcpwxk.com
@@ -27474,6 +27485,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otruzjgxof.com
 0.0.0.0 otrwaram.com
 0.0.0.0 otsarec.com
+0.0.0.0 otsurvedchange.info
 0.0.0.0 ottomdisede.club
 0.0.0.0 otusnijhkyihod.com
 0.0.0.0 otuveoqm.com
@@ -27557,6 +27569,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 overlays.next-targeting.com
 0.0.0.0 overlordtea.cn
 0.0.0.0 overreare.co
+0.0.0.0 overribleintena.info
 0.0.0.0 overridingnichts.in
 0.0.0.0 overturs.com
 0.0.0.0 ovfbwavekglf.com
@@ -28354,6 +28367,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 phanquang.vn
 0.0.0.0 pharance.com
 0.0.0.0 pharmcash.com
+0.0.0.0 pharougn.com
 0.0.0.0 phastoag.com
 0.0.0.0 phauwooz.net
 0.0.0.0 phdtryxlepjayf.com
@@ -31499,6 +31513,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 refpazcx.xyz
 0.0.0.0 refresh-tool.website
 0.0.0.0 reftedlettiny.info
+0.0.0.0 refunsiy.net
 0.0.0.0 refuntinrin.ru
 0.0.0.0 refuzzlizing.pro
 0.0.0.0 reg88.ru
@@ -36063,6 +36078,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tinwong.cn
 0.0.0.0 tinypass.com
 0.0.0.0 tiojk.com
+0.0.0.0 tionpronomyim.info
 0.0.0.0 tionscofferent.info
 0.0.0.0 tiozao.net
 0.0.0.0 tip-ads.de
@@ -40605,6 +40621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wwngdgldlsv.com
 0.0.0.0 wwnuowyww.com
 0.0.0.0 wwohikwhl.com
+0.0.0.0 wwopenclick.space
 0.0.0.0 wwpon365.ru
 0.0.0.0 wwqnwask.com
 0.0.0.0 wwsercher.biz

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 41,432
+; Entries: 41,433
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 01:54:06
+; Updated: Tue, 18 Feb 20 06:13:56
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -15698,6 +15698,7 @@ libertic.com CNAME .
 libertinord.free.fr CNAME .
 libertybell.biz CNAME .
 libertybilisim.com CNAME .
+libertystmedia.com CNAME .
 libidex.com CNAME .
 libido2.free.fr CNAME .
 libidoo.net CNAME .

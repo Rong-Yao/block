@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.049
 # Release: 049
-# Entries: 120,866
+# Entries: 120,875
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:49:53
+# Updated: Tue, 18 Feb 20 06:09:53
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -3917,7 +3917,6 @@ ff02::3 ip6-allhosts
 :: aaronabel.com
 :: aaronautosandtrucks.com
 :: aaronzlight.com
-:: aarp.122.2o7.net
 :: aarpadvantages.co
 :: aarpeerubber.com
 :: aarqdivjxstu.com
@@ -16009,6 +16008,7 @@ ff02::3 ip6-allhosts
 :: aura.upool.in
 :: auraatrends.com
 :: aurapool.xyz
+:: aurdeert.net
 :: aureate.com
 :: aurelius.httpool.com
 :: aureus-miedzychod.pl
@@ -16382,6 +16382,7 @@ ff02::3 ip6-allhosts
 :: awgdgpawhwgi.bid
 :: awgsmfzrslcp.com
 :: awgyhiupjzvu.com
+:: awhootoa.net
 :: awhxbiqf.com
 :: awin.com
 :: awin1.com
@@ -24754,6 +24755,7 @@ ff02::3 ip6-allhosts
 :: cityua.net
 :: cityvida.com
 :: cityyogasc.com
+:: ciusqhujddbggb.com
 :: civ.cryptopool.eu
 :: civicrm.npocentral.net
 :: civilengineeringiit.com
@@ -38995,6 +38997,7 @@ ff02::3 ip6-allhosts
 :: fadsats.com
 :: fadsatz.com
 :: fadsecz.com
+:: fadsims.com
 :: fadskis.com
 :: fadsoks.com
 :: fadspmz.com
@@ -42340,7 +42343,6 @@ ff02::3 ip6-allhosts
 :: g2.112.2o7.net
 :: g2.doubleclick.net
 :: g2.eu.sigmapool.com
-:: g2.gumgum.com
 :: g2.ousns.net
 :: g2247755016.com
 :: g2281971609.com
@@ -42425,6 +42427,7 @@ ff02::3 ip6-allhosts
 :: gadqgqkdexwspxdc.com
 :: gads.pubmatic.com
 :: gads44000.pubmatic.com
+:: gadsans.com
 :: gadsbee.com
 :: gadsecz.com
 :: gadsimz.com
@@ -45021,6 +45024,7 @@ ff02::3 ip6-allhosts
 :: gratuitpsncodes.com
 :: gratuitxboxgold.com
 :: graucoay.net
+:: graunada.com
 :: graveleautp.fr
 :: graviex.gpuhot.com
 :: gravity.retency.com
@@ -60281,6 +60285,7 @@ ff02::3 ip6-allhosts
 :: lonpot.ethosdistro.com
 :: lonrtp1-cdn.marketo.com
 :: lonrtp1.marketo.com
+:: loobusir.com
 :: loodyas.com
 :: look-like-star.myshopify.com
 :: look.djfiln.com
@@ -64117,7 +64122,6 @@ ff02::3 ip6-allhosts
 :: metrika.yandex.com
 :: metrika.yandex.ru
 :: metrilo.com
-:: metriweb.be
 :: metro.co.uk.102.122.2o7.net
 :: metrocuadro.com.ve
 :: metroenterpriseusa.com
@@ -68089,6 +68093,7 @@ ff02::3 ip6-allhosts
 :: nbfvybpkasjs.com
 :: nbhbqvfcsds.com
 :: nbhubocsduzn.com
+:: nbijjhqnzcwr.com
 :: nbimg.dt00.net
 :: nbit.nanopool.org
 :: nbitcoin.securepayment.cc
@@ -69339,6 +69344,7 @@ ff02::3 ip6-allhosts
 :: nisekotourguide.net
 :: nishagopal.com
 :: nishanttiwari.000webhostapp.com
+:: nishathlessharr.info
 :: nishinomiyaseijunkai.web.fc2.com
 :: nishkampolishsewakjatha.com
 :: niskamaskincare.pl
@@ -72815,6 +72821,7 @@ ff02::3 ip6-allhosts
 :: otrwaram.com
 :: ots.optimize.webtrends.com
 :: otsserver.com
+:: otsurvedchange.info
 :: ottacknet.112.2o7.net
 :: ottdailytidingscom.112.2o7.net
 :: ottomdisede.club
@@ -72960,6 +72967,7 @@ ff02::3 ip6-allhosts
 :: overman.ac.ug
 :: overolma.xyz
 :: overreare.co
+:: overribleintena.info
 :: oversight.crypto-daio.co.uk
 :: oversizecontemporaryart.com
 :: overstat.com
@@ -81686,6 +81694,7 @@ ff02::3 ip6-allhosts
 :: refundc2.beget.tech
 :: refundpolicyw.com
 :: refundsonlinedepo.com
+:: refunsiy.net
 :: refurbinet.com
 :: refuzzlizing.pro
 :: reg.uc.cn
@@ -95612,6 +95621,7 @@ ff02::3 ip6-allhosts
 :: tinyhoneybee.com
 :: tinypic.info
 :: tinystat.ir
+:: tionpronomyim.info
 :: tionscofferent.info
 :: tionsnewsupdate.info
 :: tiosmqhuuzb.bid
@@ -112036,7 +112046,6 @@ ff02::3 ip6-allhosts
 :: www.lonelywifehookup.com
 :: www.longation.com
 :: www.longdate.pl
-:: www.longde.so
 :: www.longfellowsme.com
 :: www.longtraffic.com
 :: www.longup.best-sales.top

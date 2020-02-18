@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 18.02.2020
-# Total Domains - 59184
+# Total Domains - 59182
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -22989,7 +22989,6 @@
 0.0.0.0 g1ydidsaudtg3hkb.tbrum17.com
 0.0.0.0 g1ydidsaudtg3hkb.tbrum22.com
 0.0.0.0 g2.doubleclick.net
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2.ousns.net
 0.0.0.0 g2.stat.360safe.com
 0.0.0.0 g2247755016.com
@@ -32217,7 +32216,6 @@
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrika.yandex.ua
 0.0.0.0 metrilo.com
-0.0.0.0 metriweb.be
 0.0.0.0 metrix-collector1.gamesalad.com
 0.0.0.0 metrocast.net
 0.0.0.0 metrocuadro.com.ve

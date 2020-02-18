@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 60,936
+; Entries: 60,945
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 01:49:49
+; Updated: Tue, 18 Feb 20 06:09:48
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2451,7 +2451,6 @@ aaomstbnbiqo.com CNAME .
 aappf.pt CNAME .
 aaqpsddtjnsmug.com CNAME .
 aarki.com CNAME .
-aarp.122.2o7.net CNAME .
 aarqdivjxstu.com CNAME .
 aarwxotc.com CNAME .
 aaswayoe.com CNAME .
@@ -10203,6 +10202,7 @@ aumotradeinvaluecom.112.2o7.net CNAME .
 aumpoabi.com CNAME .
 aumrrwoile.com CNAME .
 auqefmhsutnldv.com CNAME .
+aurdeert.net CNAME .
 aureate.com CNAME .
 aurelius.httpool.com CNAME .
 aurhgaees.com CNAME .
@@ -10356,6 +10356,7 @@ awestatic.com CNAME .
 awfjqdhcuftd.com CNAME .
 awgdgpawhwgi.bid CNAME .
 awgsmfzrslcp.com CNAME .
+awhootoa.net CNAME .
 awhxbiqf.com CNAME .
 awin.com CNAME .
 awin1.com CNAME .
@@ -14660,6 +14661,7 @@ citygrid.com CNAME .
 citylukup.com CNAME .
 citymediamagazin.hu CNAME .
 citysite.net CNAME .
+ciusqhujddbggb.com CNAME .
 civilhir.net CNAME .
 civitik.com CNAME .
 civyssfaqtufib.com CNAME .
@@ -21330,6 +21332,7 @@ fadsanz.com CNAME .
 fadsats.com CNAME .
 fadsatz.com CNAME .
 fadsecz.com CNAME .
+fadsims.com CNAME .
 fadskis.com CNAME .
 fadsoks.com CNAME .
 fadspmz.com CNAME .
@@ -22821,7 +22824,6 @@ g1thub.com CNAME .
 g1xd.mediav.com CNAME .
 g2.112.2o7.net CNAME .
 g2.doubleclick.net CNAME .
-g2.gumgum.com CNAME .
 g2247755016.com CNAME .
 g2281971609.com CNAME .
 g22rbb7.com CNAME .
@@ -22874,6 +22876,7 @@ gadnet.hit.gemius.pl CNAME .
 gadqgqkdexwspxdc.com CNAME .
 gads.pubmatic.com CNAME .
 gads44000.pubmatic.com CNAME .
+gadsans.com CNAME .
 gadsbee.com CNAME .
 gadsecz.com CNAME .
 gadsimz.com CNAME .
@@ -24203,6 +24206,7 @@ gratisweb.com CNAME .
 gratonrewardcenter.icu CNAME .
 gratuit-shopping.glasgro.com CNAME .
 graucoay.net CNAME .
+graunada.com CNAME .
 graylog.mgid.com CNAME .
 grcpool.com CNAME .
 greasypalm.com CNAME .
@@ -30918,6 +30922,7 @@ longinglettuce.com CNAME .
 longtraffic.com CNAME .
 lonrtp1-cdn.marketo.com CNAME .
 lonrtp1.marketo.com CNAME .
+loobusir.com CNAME .
 loodyas.com CNAME .
 look.djfiln.com CNAME .
 look.fjfiln.com CNAME .
@@ -32717,7 +32722,6 @@ metrika.lookmovie.ag CNAME .
 metrika.yandex.com CNAME .
 metrika.yandex.ru CNAME .
 metrilo.com CNAME .
-metriweb.be CNAME .
 metro.co.uk.102.122.2o7.net CNAME .
 metrocuadro.com.ve CNAME .
 metropcs.mobileposse.com CNAME .
@@ -35100,6 +35104,7 @@ ninja.onap.io CNAME .
 ninxcwcwgvr.com CNAME .
 nirqmbrzplvtjr.com CNAME .
 nirror.abtasty.com CNAME .
+nishathlessharr.info CNAME .
 nitigoly.com CNAME .
 nitmus.com CNAME .
 nitratory.com CNAME .
@@ -37076,6 +37081,7 @@ otruzjgxof.com CNAME .
 otrwaram.com CNAME .
 ots.optimize.webtrends.com CNAME .
 otsserver.com CNAME .
+otsurvedchange.info CNAME .
 ottacknet.112.2o7.net CNAME .
 ottdailytidingscom.112.2o7.net CNAME .
 ottomdisede.club CNAME .
@@ -37171,6 +37177,7 @@ overlay-track-prod01.sailthru.cloud CNAME .
 overlay.ringtonematcher.com CNAME .
 overolma.xyz CNAME .
 overreare.co CNAME .
+overribleintena.info CNAME .
 overstock.com.112.2o7.net CNAME .
 overstockcom.112.2o7.net CNAME .
 overturecom.112.2o7.net CNAME .
@@ -42178,6 +42185,7 @@ refpaydc.top CNAME .
 refreshnerer27.info CNAME .
 refreshnerer27rb.info CNAME .
 reftop.pw CNAME .
+refunsiy.net CNAME .
 refurbinet.com CNAME .
 refuzzlizing.pro CNAME .
 reg.uc.cn CNAME .
@@ -49179,6 +49187,7 @@ tinhot.uodoo.com CNAME .
 tinkerta.com CNAME .
 tinybar.com CNAME .
 tinyhoneybee.com CNAME .
+tionpronomyim.info CNAME .
 tionscofferent.info CNAME .
 tionsnewsupdate.info CNAME .
 tip.atdmt.com CNAME .

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Last Converted - 18.02.2020
-# Total Domains - 93904
+# Total Domains - 93906
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -39880,7 +39880,6 @@
 0.0.0.0 g1sdk.mediav.com
 0.0.0.0 g1shv.app.link
 0.0.0.0 g1xd.mediav.com
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2.stat.360safe.com
 0.0.0.0 g24.v.fwmrm.net
 0.0.0.0 g27ve.adx1.com
@@ -42407,6 +42406,7 @@
 0.0.0.0 hardsextube-bud.gravityrd-services.com
 0.0.0.0 hardstylekettlebells.clickfunnels.com
 0.0.0.0 hardworkinggent.clickfunnels.com
+0.0.0.0 hare.tamgrt.com
 0.0.0.0 hargreaveslansdown.demdex.net
 0.0.0.0 harinapan.ydigitalmedia.com
 0.0.0.0 harlandclarke.d1.sc.omtrdc.net
@@ -60506,6 +60506,7 @@
 0.0.0.0 p.s.360.cn
 0.0.0.0 p.silverpush.co
 0.0.0.0 p.skimresources.com
+0.0.0.0 p.smartertravel.com
 0.0.0.0 p.solocpm.com
 0.0.0.0 p.spam.shouji.360.cn
 0.0.0.0 p.srvmath.com
@@ -77194,6 +77195,7 @@
 0.0.0.0 tamarasuttle.leadpages.co
 0.0.0.0 tamedia-ams.gscontxt.net
 0.0.0.0 tamedia.grapeshot.co.uk
+0.0.0.0 tamgrt.com
 0.0.0.0 tamilentrepreneur.pushengage.com
 0.0.0.0 tamilpad.apponic.com
 0.0.0.0 tamilradios.app.link

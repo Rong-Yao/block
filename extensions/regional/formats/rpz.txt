@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.049
 ; Release: 049
-; Entries: 63,262
+; Entries: 63,279
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 18 Feb 20 01:54:10
+; Updated: Tue, 18 Feb 20 06:14:00
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6169,6 +6169,7 @@ aungumse.com CNAME .
 auqefmhsutnldv.com CNAME .
 aurabom.ru CNAME .
 aurbidpos.com CNAME .
+aurdeert.net CNAME .
 aurdosti.com CNAME .
 auredzeon.com CNAME .
 aurhgaees.com CNAME .
@@ -6279,6 +6280,7 @@ awestatic.com CNAME .
 awfull.pro CNAME .
 awgsmfzrslcp.com CNAME .
 awhate.ru CNAME .
+awhootoa.net CNAME .
 awhxbiqf.com CNAME .
 awifi.cn CNAME .
 awin1.com CNAME .
@@ -9466,6 +9468,7 @@ cityadspix.com CNAME .
 cityadstrack.com CNAME .
 citysex.com CNAME .
 citysite.net CNAME .
+ciusqhujddbggb.com CNAME .
 ciuvo.com CNAME .
 civitik.com CNAME .
 civyssfaqtufib.com CNAME .
@@ -12391,6 +12394,7 @@ dmxxa.com CNAME .
 dmym.aixyy.com CNAME .
 dmypkmieippdq.com CNAME .
 dn189.com CNAME .
+dn3uy6cx65ujf.cloudfront.net CNAME .
 dnbizcdn.com CNAME .
 dnckawxatc.com CNAME .
 dndd.ru CNAME .
@@ -12626,6 +12630,7 @@ dpallyihgtgu.com CNAME .
 dpb3g4kqr8xz.cloudfront.net CNAME .
 dpbrrirhtlo.com CNAME .
 dpc6.cn CNAME .
+dpd9yiocsyy6p.cloudfront.net CNAME .
 dpiw925yvtpfq.cloudfront.net CNAME .
 dpixysnllk.com CNAME .
 dpjszs.com CNAME .
@@ -14367,6 +14372,7 @@ fadsabs.com CNAME .
 fadsans.com CNAME .
 fadsats.com CNAME .
 fadsecz.com CNAME .
+fadsims.com CNAME .
 fadsips.com CNAME .
 fadslimz.com CNAME .
 fadsoks.com CNAME .
@@ -15683,6 +15689,7 @@ gadgetresearch.net CNAME .
 gadhx.cn CNAME .
 gadnape.ru CNAME .
 gads.pubmatic.com CNAME .
+gadsans.com CNAME .
 gadsecz.com CNAME .
 gadsimz.com CNAME .
 gadsipz.com CNAME .
@@ -16753,6 +16760,7 @@ gratis-neuken.com CNAME .
 gratisnetwork.com CNAME .
 gratuit.niloo.fr CNAME .
 graucoay.net CNAME .
+graunada.com CNAME .
 gravdee.com CNAME .
 graylandmosier.com CNAME .
 grazedrumpusroom.com CNAME .
@@ -22620,6 +22628,7 @@ loneday.com CNAME .
 lonedol.info CNAME .
 long88.app CNAME .
 longkoupeanut.cn CNAME .
+loobusir.com CNAME .
 loodoost.net CNAME .
 loodyas.com CNAME .
 look-reklama.ru CNAME .
@@ -25873,6 +25882,7 @@ niooz.fr CNAME .
 nirentang.com CNAME .
 nirqmbrzplvtjr.com CNAME .
 nirtopala.com CNAME .
+nishathlessharr.info CNAME .
 nishoagn.com CNAME .
 nitigoly.com CNAME .
 nitmus.com CNAME .
@@ -26498,6 +26508,7 @@ oazznjmbchmpdg.com CNAME .
 ob-livki.com CNAME .
 ob-payment.ru CNAME .
 obaizahshita.info CNAME .
+obaukads.com CNAME .
 obb.domohoziaka.ru CNAME .
 obczphph.com CNAME .
 obdzedcpwxk.com CNAME .
@@ -27463,6 +27474,7 @@ otrjvabiv.bid CNAME .
 otruzjgxof.com CNAME .
 otrwaram.com CNAME .
 otsarec.com CNAME .
+otsurvedchange.info CNAME .
 ottomdisede.club CNAME .
 otusnijhkyihod.com CNAME .
 otuveoqm.com CNAME .
@@ -27546,6 +27558,7 @@ overhaps.com CNAME .
 overlays.next-targeting.com CNAME .
 overlordtea.cn CNAME .
 overreare.co CNAME .
+overribleintena.info CNAME .
 overridingnichts.in CNAME .
 overturs.com CNAME .
 ovfbwavekglf.com CNAME .
@@ -28343,6 +28356,7 @@ phalrait.com CNAME .
 phanquang.vn CNAME .
 pharance.com CNAME .
 pharmcash.com CNAME .
+pharougn.com CNAME .
 phastoag.com CNAME .
 phauwooz.net CNAME .
 phdtryxlepjayf.com CNAME .
@@ -31488,6 +31502,7 @@ refpaumckl.top CNAME .
 refpazcx.xyz CNAME .
 refresh-tool.website CNAME .
 reftedlettiny.info CNAME .
+refunsiy.net CNAME .
 refuntinrin.ru CNAME .
 refuzzlizing.pro CNAME .
 reg88.ru CNAME .
@@ -36052,6 +36067,7 @@ tintuc88.com CNAME .
 tinwong.cn CNAME .
 tinypass.com CNAME .
 tiojk.com CNAME .
+tionpronomyim.info CNAME .
 tionscofferent.info CNAME .
 tiozao.net CNAME .
 tip-ads.de CNAME .
@@ -40594,6 +40610,7 @@ wwmhlrpris.com CNAME .
 wwngdgldlsv.com CNAME .
 wwnuowyww.com CNAME .
 wwohikwhl.com CNAME .
+wwopenclick.space CNAME .
 wwpon365.ru CNAME .
 wwqnwask.com CNAME .
 wwsercher.biz CNAME .

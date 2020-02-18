@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/advblock.txt
 # Last Converted - 18.02.2020
-# Total Domains - 7333
+# Total Domains - 7334
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7019,6 +7019,7 @@
 0.0.0.0 wwclicknews.club
 0.0.0.0 wwgate.ru
 0.0.0.0 wwgdwl.com
+0.0.0.0 wwopenclick.space
 0.0.0.0 wwpon365.ru
 0.0.0.0 wwsercher.biz
 0.0.0.0 www.online.anime-box.ws

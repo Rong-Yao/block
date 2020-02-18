@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.049
 # Release: 049
-# Entries: 120,866
+# Entries: 120,875
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:49:53
+# Updated: Tue, 18 Feb 20 06:09:53
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts.txt
 # --------------------------------------------
 #
@@ -3917,7 +3917,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aaronabel.com
 0.0.0.0 aaronautosandtrucks.com
 0.0.0.0 aaronzlight.com
-0.0.0.0 aarp.122.2o7.net
 0.0.0.0 aarpadvantages.co
 0.0.0.0 aarpeerubber.com
 0.0.0.0 aarqdivjxstu.com
@@ -16009,6 +16008,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aura.upool.in
 0.0.0.0 auraatrends.com
 0.0.0.0 aurapool.xyz
+0.0.0.0 aurdeert.net
 0.0.0.0 aureate.com
 0.0.0.0 aurelius.httpool.com
 0.0.0.0 aureus-miedzychod.pl
@@ -16382,6 +16382,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 awgdgpawhwgi.bid
 0.0.0.0 awgsmfzrslcp.com
 0.0.0.0 awgyhiupjzvu.com
+0.0.0.0 awhootoa.net
 0.0.0.0 awhxbiqf.com
 0.0.0.0 awin.com
 0.0.0.0 awin1.com
@@ -24754,6 +24755,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cityua.net
 0.0.0.0 cityvida.com
 0.0.0.0 cityyogasc.com
+0.0.0.0 ciusqhujddbggb.com
 0.0.0.0 civ.cryptopool.eu
 0.0.0.0 civicrm.npocentral.net
 0.0.0.0 civilengineeringiit.com
@@ -38995,6 +38997,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fadsats.com
 0.0.0.0 fadsatz.com
 0.0.0.0 fadsecz.com
+0.0.0.0 fadsims.com
 0.0.0.0 fadskis.com
 0.0.0.0 fadsoks.com
 0.0.0.0 fadspmz.com
@@ -42340,7 +42343,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 g2.112.2o7.net
 0.0.0.0 g2.doubleclick.net
 0.0.0.0 g2.eu.sigmapool.com
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2.ousns.net
 0.0.0.0 g2247755016.com
 0.0.0.0 g2281971609.com
@@ -42425,6 +42427,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadqgqkdexwspxdc.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gads44000.pubmatic.com
+0.0.0.0 gadsans.com
 0.0.0.0 gadsbee.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
@@ -45021,6 +45024,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gratuitpsncodes.com
 0.0.0.0 gratuitxboxgold.com
 0.0.0.0 graucoay.net
+0.0.0.0 graunada.com
 0.0.0.0 graveleautp.fr
 0.0.0.0 graviex.gpuhot.com
 0.0.0.0 gravity.retency.com
@@ -60281,6 +60285,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lonpot.ethosdistro.com
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
+0.0.0.0 loobusir.com
 0.0.0.0 loodyas.com
 0.0.0.0 look-like-star.myshopify.com
 0.0.0.0 look.djfiln.com
@@ -64117,7 +64122,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrika.yandex.com
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metrilo.com
-0.0.0.0 metriweb.be
 0.0.0.0 metro.co.uk.102.122.2o7.net
 0.0.0.0 metrocuadro.com.ve
 0.0.0.0 metroenterpriseusa.com
@@ -68089,6 +68093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbfvybpkasjs.com
 0.0.0.0 nbhbqvfcsds.com
 0.0.0.0 nbhubocsduzn.com
+0.0.0.0 nbijjhqnzcwr.com
 0.0.0.0 nbimg.dt00.net
 0.0.0.0 nbit.nanopool.org
 0.0.0.0 nbitcoin.securepayment.cc
@@ -69339,6 +69344,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nisekotourguide.net
 0.0.0.0 nishagopal.com
 0.0.0.0 nishanttiwari.000webhostapp.com
+0.0.0.0 nishathlessharr.info
 0.0.0.0 nishinomiyaseijunkai.web.fc2.com
 0.0.0.0 nishkampolishsewakjatha.com
 0.0.0.0 niskamaskincare.pl
@@ -72815,6 +72821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otrwaram.com
 0.0.0.0 ots.optimize.webtrends.com
 0.0.0.0 otsserver.com
+0.0.0.0 otsurvedchange.info
 0.0.0.0 ottacknet.112.2o7.net
 0.0.0.0 ottdailytidingscom.112.2o7.net
 0.0.0.0 ottomdisede.club
@@ -72960,6 +72967,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 overman.ac.ug
 0.0.0.0 overolma.xyz
 0.0.0.0 overreare.co
+0.0.0.0 overribleintena.info
 0.0.0.0 oversight.crypto-daio.co.uk
 0.0.0.0 oversizecontemporaryart.com
 0.0.0.0 overstat.com
@@ -81686,6 +81694,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 refundc2.beget.tech
 0.0.0.0 refundpolicyw.com
 0.0.0.0 refundsonlinedepo.com
+0.0.0.0 refunsiy.net
 0.0.0.0 refurbinet.com
 0.0.0.0 refuzzlizing.pro
 0.0.0.0 reg.uc.cn
@@ -95612,6 +95621,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tinyhoneybee.com
 0.0.0.0 tinypic.info
 0.0.0.0 tinystat.ir
+0.0.0.0 tionpronomyim.info
 0.0.0.0 tionscofferent.info
 0.0.0.0 tionsnewsupdate.info
 0.0.0.0 tiosmqhuuzb.bid
@@ -112036,7 +112046,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lonelywifehookup.com
 0.0.0.0 www.longation.com
 0.0.0.0 www.longdate.pl
-0.0.0.0 www.longde.so
 0.0.0.0 www.longfellowsme.com
 0.0.0.0 www.longtraffic.com
 0.0.0.0 www.longup.best-sales.top

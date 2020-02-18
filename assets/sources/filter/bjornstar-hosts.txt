@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 5168
+# Total Domains - 5167
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1808,7 +1808,6 @@
 0.0.0.0 g1ydidsaudtg3hkb.tbrum17.com
 0.0.0.0 g1ydidsaudtg3hkb.tbrum22.com
 0.0.0.0 g2.gatewayinterface.com
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g22rbb7.com
 0.0.0.0 g3.gatewayinterface.com
 0.0.0.0 g4p.redtram.com

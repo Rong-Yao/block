@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 18.02.2020
-# Total Domains - 22286
+# Total Domains - 22289
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3349,6 +3349,7 @@
 0.0.0.0 bmnr.pw
 0.0.0.0 bmoshyiypks.com
 0.0.0.0 bmst.pw
+0.0.0.0 bmvjnewxkyi.com
 0.0.0.0 bmwocmqtpi.com
 0.0.0.0 bmxyvebkmyy.com
 0.0.0.0 bn.adultempire.com
@@ -7966,6 +7967,7 @@
 0.0.0.0 gkjtchmlj.com
 0.0.0.0 gkpsrxgdbco.com
 0.0.0.0 gkqcduzwla.com
+0.0.0.0 gkrvcunjoacvc.com
 0.0.0.0 gkumodsmcmffdv.com
 0.0.0.0 gl-cash.com
 0.0.0.0 gladiatorbugs.com
@@ -9150,6 +9152,7 @@
 0.0.0.0 iiccrpwaxmxkqm.com
 0.0.0.0 iicheewi.com
 0.0.0.0 iid-network.jp
+0.0.0.0 iidfyyelvijfk.com
 0.0.0.0 iilrgkor.com
 0.0.0.0 iimueeipaitpb.com
 0.0.0.0 iivt.com
@@ -11691,7 +11694,6 @@
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrigo.com
 0.0.0.0 metrigo.zalan.do
-0.0.0.0 metriweb.be
 0.0.0.0 meubonus.com
 0.0.0.0 meya41w7.com
 0.0.0.0 mezaa.com
@@ -21797,6 +21799,7 @@
 0.0.0.0 ysaloykchjyxg.com
 0.0.0.0 ysgeuarbxfttib.com
 0.0.0.0 ysljgoytuyfbg.com
+0.0.0.0 yslvynerwkdls.com
 0.0.0.0 ysmbdnavqsbcl.com
 0.0.0.0 ysnj74ed.com
 0.0.0.0 ysosfhyrbyre.com

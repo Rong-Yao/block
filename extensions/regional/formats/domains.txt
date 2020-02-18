@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.049
 # Release: 049
-# Entries: 63,262
+# Entries: 63,279
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 18 Feb 20 01:54:10
+# Updated: Tue, 18 Feb 20 06:14:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -6161,6 +6161,7 @@ aungumse.com
 auqefmhsutnldv.com
 aurabom.ru
 aurbidpos.com
+aurdeert.net
 aurdosti.com
 auredzeon.com
 aurhgaees.com
@@ -6271,6 +6272,7 @@ awestatic.com
 awfull.pro
 awgsmfzrslcp.com
 awhate.ru
+awhootoa.net
 awhxbiqf.com
 awifi.cn
 awin1.com
@@ -9458,6 +9460,7 @@ cityadspix.com
 cityadstrack.com
 citysex.com
 citysite.net
+ciusqhujddbggb.com
 ciuvo.com
 civitik.com
 civyssfaqtufib.com
@@ -12383,6 +12386,7 @@ dmxxa.com
 dmym.aixyy.com
 dmypkmieippdq.com
 dn189.com
+dn3uy6cx65ujf.cloudfront.net
 dnbizcdn.com
 dnckawxatc.com
 dndd.ru
@@ -12618,6 +12622,7 @@ dpallyihgtgu.com
 dpb3g4kqr8xz.cloudfront.net
 dpbrrirhtlo.com
 dpc6.cn
+dpd9yiocsyy6p.cloudfront.net
 dpiw925yvtpfq.cloudfront.net
 dpixysnllk.com
 dpjszs.com
@@ -14359,6 +14364,7 @@ fadsabs.com
 fadsans.com
 fadsats.com
 fadsecz.com
+fadsims.com
 fadsips.com
 fadslimz.com
 fadsoks.com
@@ -15675,6 +15681,7 @@ gadgetresearch.net
 gadhx.cn
 gadnape.ru
 gads.pubmatic.com
+gadsans.com
 gadsecz.com
 gadsimz.com
 gadsipz.com
@@ -16745,6 +16752,7 @@ gratis-neuken.com
 gratisnetwork.com
 gratuit.niloo.fr
 graucoay.net
+graunada.com
 gravdee.com
 graylandmosier.com
 grazedrumpusroom.com
@@ -22612,6 +22620,7 @@ loneday.com
 lonedol.info
 long88.app
 longkoupeanut.cn
+loobusir.com
 loodoost.net
 loodyas.com
 look-reklama.ru
@@ -25865,6 +25874,7 @@ niooz.fr
 nirentang.com
 nirqmbrzplvtjr.com
 nirtopala.com
+nishathlessharr.info
 nishoagn.com
 nitigoly.com
 nitmus.com
@@ -26490,6 +26500,7 @@ oazznjmbchmpdg.com
 ob-livki.com
 ob-payment.ru
 obaizahshita.info
+obaukads.com
 obb.domohoziaka.ru
 obczphph.com
 obdzedcpwxk.com
@@ -27455,6 +27466,7 @@ otrjvabiv.bid
 otruzjgxof.com
 otrwaram.com
 otsarec.com
+otsurvedchange.info
 ottomdisede.club
 otusnijhkyihod.com
 otuveoqm.com
@@ -27538,6 +27550,7 @@ overhaps.com
 overlays.next-targeting.com
 overlordtea.cn
 overreare.co
+overribleintena.info
 overridingnichts.in
 overturs.com
 ovfbwavekglf.com
@@ -28335,6 +28348,7 @@ phalrait.com
 phanquang.vn
 pharance.com
 pharmcash.com
+pharougn.com
 phastoag.com
 phauwooz.net
 phdtryxlepjayf.com
@@ -31480,6 +31494,7 @@ refpaumckl.top
 refpazcx.xyz
 refresh-tool.website
 reftedlettiny.info
+refunsiy.net
 refuntinrin.ru
 refuzzlizing.pro
 reg88.ru
@@ -36044,6 +36059,7 @@ tintuc88.com
 tinwong.cn
 tinypass.com
 tiojk.com
+tionpronomyim.info
 tionscofferent.info
 tiozao.net
 tip-ads.de
@@ -40586,6 +40602,7 @@ wwmhlrpris.com
 wwngdgldlsv.com
 wwnuowyww.com
 wwohikwhl.com
+wwopenclick.space
 wwpon365.ru
 wwqnwask.com
 wwsercher.biz

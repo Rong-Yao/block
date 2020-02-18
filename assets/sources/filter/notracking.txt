@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Last Converted - 18.02.2020
-# Total Domains - 25569
+# Total Domains - 25568
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -23340,7 +23340,6 @@
 0.0.0.0 www.londondanceschool.com
 0.0.0.0 www.lonelycheatingwives.com
 0.0.0.0 www.longation.com
-0.0.0.0 www.longde.so
 0.0.0.0 www.longfellowsme.com
 0.0.0.0 www.loofapro.com
 0.0.0.0 www.lookmodeusa.com

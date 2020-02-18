@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
 # Last Converted - 18.02.2020
-# Total Domains - 5873
+# Total Domains - 5872
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3118,7 +3118,6 @@
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrigo.com
 0.0.0.0 metrigo.zalan.do
-0.0.0.0 metriweb.be
 0.0.0.0 mezzobit.com
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mfio.cf

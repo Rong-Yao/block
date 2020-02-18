@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 18.02.2020
-# Total Domains - 44545
+# Total Domains - 44542
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -8940,7 +8940,6 @@
 0.0.0.0 cdn1.clkoffers.com
 0.0.0.0 cdn1.gigya.com
 0.0.0.0 cdn1.kovla.com
-0.0.0.0 cdn2.2nddownload.com
 0.0.0.0 cdn2.adbrau.com
 0.0.0.0 cdn2.gigya.com
 0.0.0.0 cdn2.teads.tv
@@ -14861,7 +14860,6 @@
 0.0.0.0 g1.v.fwmrm.net
 0.0.0.0 g17.com
 0.0.0.0 g1c.v.fwmrm.net
-0.0.0.0 g2.gumgum.com
 0.0.0.0 g2.palmbeachdailynews.cimedia.com
 0.0.0.0 g365.net
 0.0.0.0 g6589dcs.nyc2.aens.net
@@ -25211,7 +25209,6 @@
 0.0.0.0 popupblockersite.com
 0.0.0.0 popupcamping.tripod.com
 0.0.0.0 popupclick.ru
-0.0.0.0 popupguard.com
 0.0.0.0 popupkiller2002.tripod.com
 0.0.0.0 popupmoney.com
 0.0.0.0 popupnation.com

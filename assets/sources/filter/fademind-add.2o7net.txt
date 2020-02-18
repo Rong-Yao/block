@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 # Last Converted - 18.02.2020
-# Total Domains - 1223
+# Total Domains - 1222
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -14,7 +14,6 @@
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 2o7.net
 0.0.0.0 3gupload.112.2o7.net
-0.0.0.0 aarp.122.2o7.net
 0.0.0.0 abcotv.hb.omtrdc.net
 0.0.0.0 acanales.sc.omtrdc.net
 0.0.0.0 acckalaharinet.112.2o7.net

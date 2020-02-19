@@ -1,8 +1,8 @@
 # Title: easyprivacy-tracking-servers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - 19.02.2020
-# Total Domains - 2822
+# Last Converted - 20.02.2020
+# Total Domains - 2823
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -95,6 +95,7 @@
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad-miner.com
 0.0.0.0 ad-score.com
+0.0.0.0 ad-srv-track.com
 0.0.0.0 ad.gt
 0.0.0.0 adabra.com
 0.0.0.0 adalyser.com

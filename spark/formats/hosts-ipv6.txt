@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.050
-# Release: 050
-# Entries: 61,027
+# Version: 20.02.051
+# Release: 051
+# Entries: 61,098
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 18:10:43
+# Updated: Thu, 20 Feb 20 00:11:22
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -2438,7 +2438,6 @@ ff02::3 ip6-allhosts
 :: aa24h.com
 :: aa53df329975c325.com
 :: aaaaaco.com
-:: aaacompany.net
 :: aaadealstoday.com
 :: aaashoeschina.com
 :: aabmxezph.com
@@ -5341,6 +5340,7 @@ ff02::3 ip6-allhosts
 :: ads2.bangkokpost.co.th
 :: ads2.brazzers.com
 :: ads2.creativecirclemedia.com
+:: ads2.dyn.perfectaudience.com
 :: ads2.eqads.com
 :: ads2.evz.ro
 :: ads2.gamecity.net
@@ -6432,6 +6432,7 @@ ff02::3 ip6-allhosts
 :: adverticum.net
 :: adverticus.de
 :: advertise.bingads.microsoft.com
+:: advertise.buzzfeed.com
 :: advertise.com
 :: advertise.indiatimes.com
 :: advertisedmediagroup-d.openx.net
@@ -8021,6 +8022,7 @@ ff02::3 ip6-allhosts
 :: analytics.nativeads.com
 :: analytics.natlawreview.com
 :: analytics.navegg.com
+:: analytics.nbsp.de
 :: analytics.net2b.eu
 :: analytics.netcent.se
 :: analytics.news-host.com
@@ -8996,6 +8998,7 @@ ff02::3 ip6-allhosts
 :: api.parse.com
 :: api.parsely.com
 :: api.pc.openx.com
+:: api.perfectaudience.com
 :: api.personali.com
 :: api.perzonalization.com
 :: api.placed.com
@@ -9365,6 +9368,7 @@ ff02::3 ip6-allhosts
 :: app.optinmonster.com
 :: app.optmnstr.com
 :: app.paygate-prod.shareitpay.in
+:: app.perfectaudience.com
 :: app.pho8.com
 :: app.phonalytics.com
 :: app.pubguard.com
@@ -10134,6 +10138,7 @@ ff02::3 ip6-allhosts
 :: au.apk.umeng.com
 :: au.atracking.appflood.com
 :: au.effectivemeasure.net
+:: au.pixel.newscgp.com
 :: au.res.keymedia.com
 :: au.umeng.co
 :: au.umeng.com
@@ -15147,6 +15152,7 @@ ff02::3 ip6-allhosts
 :: clk.apxadtracking.net
 :: clk.atdmt.com
 :: clk.europacash.com
+:: clk.fetchback.com
 :: clk.madisonlogic.com
 :: clk.medialytics.com
 :: clk.rtpdn10.com
@@ -17754,6 +17760,7 @@ ff02::3 ip6-allhosts
 :: dawa.ero-advertising.com
 :: dawmal.com
 :: dawnnationaladvertiser.com
+:: dayadopen.site
 :: daycare.es
 :: dayenotomasyon.com
 :: daylogs.com
@@ -19376,6 +19383,7 @@ ff02::3 ip6-allhosts
 :: dymaffzxk.com
 :: dymveullwn.com
 :: dymzcxgdvf.com
+:: dyn-ads.perfectaudience.com
 :: dyn-images.perfectaudience.com
 :: dyn.atdmt.com
 :: dyn.emetriq.de
@@ -23230,6 +23238,7 @@ ff02::3 ip6-allhosts
 :: gedspecificano.info
 :: geede.info
 :: geekcash.org
+:: geepwnfly.club
 :: geethoap.com
 :: gefaqjwdgzbo.com
 :: gefwrite.com
@@ -26758,6 +26767,7 @@ ff02::3 ip6-allhosts
 :: images.ddc.com
 :: images.directtrack.com
 :: images.dwell.com
+:: images.dyn.perfectaudience.com
 :: images.edgeads.org
 :: images.eksvideos.com
 :: images.fastclick.net
@@ -26827,6 +26837,7 @@ ff02::3 ip6-allhosts
 :: imbafgnoipmv.com
 :: imbetan.info
 :: imbpmlyhkk.com
+:: imbwnxknxzmo.com
 :: imc.l.qq.com
 :: imc2.122.2o7.net
 :: imces.dfw1.vip.inmobi.com
@@ -27427,6 +27438,7 @@ ff02::3 ip6-allhosts
 :: insights.podium.com
 :: insights.pulsepoint.com
 :: insights.swrve.com
+:: insights.webeyemob.com
 :: insights.wizardsbd.com
 :: insightxe.pittsburghlive.com
 :: insitepromotion.com
@@ -27833,6 +27845,7 @@ ff02::3 ip6-allhosts
 :: ir-uk.amazon-adsystem.com
 :: ir.admicro.vn
 :: ir.ads.justpremium.com
+:: ir.pixel.newscgp.com
 :: ir0.mobify.com
 :: irantableegh.org
 :: irce.algolia.com
@@ -29201,8 +29214,6 @@ ff02::3 ip6-allhosts
 :: kibanariver.appsflyer.com
 :: kibanatest.appsflyer.com
 :: kiccebmlxtrze.com
-:: kickassanime.io
-:: kickassanime.ru
 :: kickstart.pubmatic.com
 :: kiderence-habilton.com
 :: kidnepishlient.pro
@@ -29733,6 +29744,7 @@ ff02::3 ip6-allhosts
 :: labbinarymining.com
 :: labdwkqyavb.com
 :: laborates.com
+:: labortiontrifee.info
 :: labs-cdn.revcontent.com
 :: labs-s1.revcontent.com
 :: labs-stg.revcontent.com
@@ -30067,6 +30079,7 @@ ff02::3 ip6-allhosts
 :: learning-services-media.brightcove.com
 :: lease.funhot247.host
 :: leastersmiled.pro
+:: leathtexactlycin.info
 :: lebijoutier.es
 :: lebneeklnuru.com
 :: lebqrivt.com
@@ -30380,6 +30393,7 @@ ff02::3 ip6-allhosts
 :: linuxpark.adtech.fr
 :: linuxpark.adtech.us
 :: liods.ga
+:: lion.collect.mentad.com
 :: lionsads.com
 :: lionstracking.com
 :: liquidad.narrowcastmedia.com
@@ -30992,6 +31006,7 @@ ff02::3 ip6-allhosts
 :: lookit-quick.com
 :: looksmart.com
 :: loomufie.com
+:: looper-staging.perfectaudience.com
 :: loopme.biz
 :: loopme.com
 :: loopme.me
@@ -33068,6 +33083,7 @@ ff02::3 ip6-allhosts
 :: mipsa.ciae.ac.cn
 :: mipwm.com
 :: miracan.pw
+:: mirafaren.pw
 :: mirago.com
 :: mirandolasrl.it
 :: mircrew-releases.com
@@ -33239,6 +33255,7 @@ ff02::3 ip6-allhosts
 :: mn.moatads.com
 :: mn0e.com
 :: mn1nm.com
+:: mnaljqzekv.com
 :: mnbfujorh.com
 :: mnbvjhg.com
 :: mnectar.com
@@ -34978,6 +34995,7 @@ ff02::3 ip6-allhosts
 :: newsushe.info
 :: newt1.adultadworld.com
 :: newt1.adultworld.com
+:: newtag.perfectaudience.com
 :: newtention.net
 :: newtger.info
 :: newthuads.com
@@ -36892,6 +36910,7 @@ ff02::3 ip6-allhosts
 :: opt-intelligence.com
 :: opt-west.media.net
 :: opt.hit.gemius.pl
+:: opt.jumptap.com
 :: opt.ximad.com
 :: opt7.go.sonobi.com
 :: opt8.co
@@ -37031,7 +37050,9 @@ ff02::3 ip6-allhosts
 :: origin.pubmatic.com
 :: origin.tapjoy.com
 :: origin.zedo.com
+:: originau.pixel.newscgp.com
 :: originlog.media.net
+:: originus.pixel.newscgp.com
 :: origo-blog.com
 :: origo-hirek.net
 :: origo-online.net
@@ -38762,10 +38783,12 @@ ff02::3 ip6-allhosts
 :: pixel.33across.com
 :: pixel.adadvisor.net
 :: pixel.adblade.com
+:: pixel.adbuyer.com
 :: pixel.adcrowd.com
 :: pixel.admobclick.com
 :: pixel.adsafeprotected.com
 :: pixel.adsrvr.org
+:: pixel.adssafeprotected.com
 :: pixel.adswizz.com
 :: pixel.advertising.com
 :: pixel.agkn.com
@@ -38776,61 +38799,87 @@ ff02::3 ip6-allhosts
 :: pixel.bilinmedia.net
 :: pixel.blog.hu
 :: pixel.bounceexchange.com
+:: pixel.buzzfeed.com
+:: pixel.captora.com
 :: pixel.carambo.la
 :: pixel.cdnwidget.com
+:: pixel.colorupmedia.com
 :: pixel.condenastdigital.com
+:: pixel.criteo.com
 :: pixel.crosspixel.net
+:: pixel.digitalspy.co.uk
 :: pixel.draatlanderpri.info
 :: pixel.essedaccur.info
 :: pixel.everesttech.net
 :: pixel.facebook.com
+:: pixel.fetchback.com
+:: pixel.gfycat.com
 :: pixel.haphadmuchrom.com
 :: pixel.heckhaphanofres.info
 :: pixel.hengaredi.pro
 :: pixel.industrybrains.com
 :: pixel.ingest.at.atwola.com
+:: pixel.intares.net
+:: pixel.intellitxt.com
 :: pixel.invitemedia.com
+:: pixel.jumptap.com
 :: pixel.justresonter.com
 :: pixel.keywee.co
+:: pixel.klout.com
 :: pixel.madadsmedia.com
 :: pixel.maranhesduve.club
 :: pixel.mathtag.com
 :: pixel.mediaiqdigital.com
 :: pixel.milasparreprob.club
 :: pixel.moatads.com
+:: pixel.nbsp.de
+:: pixel.newscgp.com
 :: pixel.newscred.com
+:: pixel.nymag.com
 :: pixel.onaudience.com
 :: pixel.onyemantee.pro
 :: pixel.othepbuttit.com
+:: pixel.parsely.com
 :: pixel.prod2.invitemedia.com
 :: pixel.programmatictrader.com
 :: pixel.rayjump.com
 :: pixel.realtor.com
 :: pixel.reckintersupwas.info
+:: pixel.redditmedia.com
 :: pixel.ronatorda.com
 :: pixel.rtclocketsun.info
 :: pixel.rubiconproject.com
+:: pixel.rubiconproject.net
 :: pixel.run-syndicate.com
 :: pixel.rydohimowa.info
 :: pixel.s3xified.com
 :: pixel.sandroprabratm.info
+:: pixel.serviceleverage.com
 :: pixel.sitescout.com
+:: pixel.socialtechtrader.co
 :: pixel.sojern.com
 :: pixel.spotify.com
 :: pixel.spoutable.com
+:: pixel.staging.tree.com
 :: pixel.staticworld.net
 :: pixel.tapad.com
 :: pixel.tapad.comp.skimresources.com
 :: pixel.theagency.com
 :: pixel.titjolacruso.info
 :: pixel.tontwiredat.info
+:: pixel.tree.com
+:: pixel.trianaanalytics.com
 :: pixel.truecaller.com
 :: pixel.typacodosof.info
+:: pixel.usrsync.com
 :: pixel.vdo.ai
+:: pixel.vmm-satellite2.com
 :: pixel.watch
+:: pixel.webeyemob.com
 :: pixel.westseven.media
 :: pixel.yabidos.com
 :: pixel.yola.com
+:: pixel.yola.net
 :: pixel1097.everesttech.net
 :: pixel1324.everesttech.net
 :: pixel1350.everesttech.net
@@ -38838,7 +38887,9 @@ ff02::3 ip6-allhosts
 :: pixel1553.everesttech.net
 :: pixel1739.everesttech.net
 :: pixel2.moatads.com
+:: pixel3.about.com
 :: pixelbox.uimserv.net
+:: pixelbt.fetchback.com
 :: pixelcounter.elmundo.es
 :: pixelcounter.marca.com
 :: pixeldust.btrll.com
@@ -38848,6 +38899,10 @@ ff02::3 ip6-allhosts
 :: pixeljs-ads.pubmatic.com
 :: pixels.adzmedia.com
 :: pixels.asia
+:: pixels.boodnet.com
+:: pixels.mentad.com
+:: pixels.perfectaudience.com
+:: pixels.youknowbest.com
 :: pixelservice.apphb.com
 :: pixeltrack.eyeviewads.com
 :: pixeltrack66.com
@@ -40570,6 +40625,7 @@ ff02::3 ip6-allhosts
 :: pubpress.net
 :: pubrain.com
 :: pubrepo.pubmatic.com
+:: pubreport.webeyemob.com
 :: pubserver.xl.pt
 :: pubsgcmpixel.onedigitalad.com
 :: pubted.com
@@ -43243,6 +43299,7 @@ ff02::3 ip6-allhosts
 :: rtbvideobox.com
 :: rtbwx.cname1.igexin.com
 :: rtbx.adgrx.com
+:: rtc.webeyemob.com
 :: rtclocketsun.info
 :: rtd.tubemogul.com
 :: rtdogcdkovndho.com
@@ -44060,6 +44117,7 @@ ff02::3 ip6-allhosts
 :: sckuhytswbs.com
 :: sckxppzdm.com
 :: sckzvqadc.com
+:: scl-pixel.jumptap.com
 :: scleavshdrz.com
 :: sclick.baidu.com
 :: sclk.org
@@ -46750,6 +46808,7 @@ ff02::3 ip6-allhosts
 :: staging.mocogateway.com
 :: staging.newrelic.com
 :: staging.openx.com
+:: staging.perfectaudience.com
 :: staging.taboola.com
 :: staging.wowtrk.com
 :: staging2.crazyegg.com
@@ -48028,6 +48087,7 @@ ff02::3 ip6-allhosts
 :: syndication.advertiserurl.com
 :: syndication.cntrafficpro.com
 :: syndication.contentabc.com
+:: syndication.digitalspy.co.uk
 :: syndication.dynsrvtbg.com
 :: syndication.dynsrvwer.com
 :: syndication.exdynsrv.com
@@ -48255,6 +48315,7 @@ ff02::3 ip6-allhosts
 :: taffr.com
 :: tafmaster.com
 :: tag-ams.1rx.io
+:: tag-cdn-staging.perfectaudience.com
 :: tag-nj.1rx.io
 :: tag-sjo.1rx.io
 :: tag.1rx.io
@@ -48266,6 +48327,7 @@ ff02::3 ip6-allhosts
 :: tag.aticdn.net.edgekey.net
 :: tag.brainient.com
 :: tag.cogocast.net
+:: tag.colorupmedia.com
 :: tag.crsspxl.com
 :: tag.demandbase.com
 :: tag.digitaltarget.ru
@@ -48436,6 +48498,7 @@ ff02::3 ip6-allhosts
 :: tap.rubiconproject.com
 :: tap.tapad.com
 :: tap2-cdn.rubiconproject.com
+:: tapad-origin.jumptap.com
 :: tapad.com
 :: tapair.com
 :: tapas.net
@@ -48631,6 +48694,7 @@ ff02::3 ip6-allhosts
 :: tdsshark.club
 :: tdw.pushwoosh.com
 :: tdxio.com
+:: tdxipgdorydvzo.com
 :: te.adlandpro.com
 :: te.cleveland.net
 :: teads.tv
@@ -50657,6 +50721,7 @@ ff02::3 ip6-allhosts
 :: track.wattpad.com
 :: track.wayin.com
 :: track.webbranddeals.com
+:: track.webeyemob.com
 :: track.webgains.com
 :: track.webmatics.info
 :: track.webprodeals.cf
@@ -51408,6 +51473,7 @@ ff02::3 ip6-allhosts
 :: triadmedianetwork.com
 :: trial.tercept.com
 :: trial.tercept.com	
+:: trianaanalytics.com
 :: triangleservicesltd.com
 :: tribalfusion.com
 :: tribez.game-insight.com
@@ -52045,6 +52111,7 @@ ff02::3 ip6-allhosts
 :: uas-api.inrix.com
 :: uashoes.club
 :: uaswitcher.org
+:: uat.pixel.newscgp.com
 :: uat1.bfsspadserver.8le8le.com
 :: uat1.mp3vel.trafficjunky.com
 :: uauniverse.com
@@ -54098,6 +54165,7 @@ ff02::3 ip6-allhosts
 :: vqnruxpecsn.com
 :: vqq.admaster.com.cn
 :: vqqvpouifhv.com
+:: vqsggzvcaujh.com
 :: vqvqgfpc.com
 :: vqzqkhumdad.com
 :: vr.ad-stir.com
@@ -55958,6 +56026,7 @@ ff02::3 ip6-allhosts
 :: www.advertising365.com
 :: www.advertlets.com
 :: www.advertpro.com
+:: www.adverts.digitalspy.co.uk
 :: www.advertserve.com
 :: www.advertyz.com
 :: www.advnetmobile.mobi
@@ -57793,6 +57862,7 @@ ff02::3 ip6-allhosts
 :: www.peachy18.com
 :: www.peakclick.com
 :: www.pepipo.com
+:: www.perfectaudience.com
 :: www.perfectgirls.net
 :: www.perfectionholic.com
 :: www.performanceadexchange.com
@@ -58589,6 +58659,7 @@ ff02::3 ip6-allhosts
 :: www.treeloot.com
 :: www.trendcounter.com
 :: www.trendnews.com
+:: www.trianaanalytics.com
 :: www.tribalfusion.com
 :: www.triboomedia.it
 :: www.trk4.com

@@ -1,8 +1,8 @@
 # Title: 280blocker Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://280blocker.net/files/280blocker_domain.txt
-# Last Converted - 19.02.2020
-# Total Domains - 939
+# Last Converted - 20.02.2020
+# Total Domains - 940
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -702,6 +702,7 @@
 0.0.0.0 petametrics.com
 0.0.0.0 pfx.sma-clsystem.info
 0.0.0.0 pippio.com
+0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixon.ads-pixiv.net
 0.0.0.0 play.entretenimientolz.com

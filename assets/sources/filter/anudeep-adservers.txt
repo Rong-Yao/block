@@ -1,8 +1,8 @@
 # Title: anudeep-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Last Converted - 19.02.2020
-# Total Domains - 20206
+# Last Converted - 20.02.2020
+# Total Domains - 20208
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10784,10 +10784,8 @@
 0.0.0.0 ivey.az1.qualtrics.com
 0.0.0.0 ivid-cdn.adhigh.net
 0.0.0.0 ivid-f13-us-va.adhigh.net
-0.0.0.0 ivid-f14-us-va.adhigh.net
 0.0.0.0 ivid-f2-us-va.adhigh.net
 0.0.0.0 ivid-f4-us-va.adhigh.net
-0.0.0.0 ivid-f7-us-va.adhigh.net
 0.0.0.0 ivid-px.adhigh.net
 0.0.0.0 ivivva.btttag.com
 0.0.0.0 ivnytx9tq2knro7stjdg6qpayw1mi1511341850.nuid.imrworldwide.com
@@ -13882,6 +13880,7 @@
 0.0.0.0 pixel.bounceexchange.com
 0.0.0.0 pixel.carambo.la
 0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.criteo.com
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.everesttech.netpixel.everesttech.net
 0.0.0.0 pixel.facebook.com
@@ -13891,6 +13890,9 @@
 0.0.0.0 pixel.moatads.com
 0.0.0.0 pixel.moatads.compixel.moatads.com
 0.0.0.0 pixel.onaudience.com
+0.0.0.0 pixel.parsely.com
+0.0.0.0 pixel.quantserve.com
+0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.servebom.com
@@ -13898,6 +13900,7 @@
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel.staticworld.net
 0.0.0.0 pixel.tapad.com
+0.0.0.0 pixel.webeyemob.com
 0.0.0.0 pixel.xapads.com
 0.0.0.0 pixel1041.everesttech.net
 0.0.0.0 pixel1058.everesttech.net
@@ -14102,6 +14105,7 @@
 0.0.0.0 pixelam.adlooxtracking.com
 0.0.0.0 pixelcarrier.g2afse.com
 0.0.0.0 pixeljs-ads.pubmatic.com
+0.0.0.0 pixels.perfectaudience.com
 0.0.0.0 pixeltrack.eyeviewads.com
 0.0.0.0 pixelxxx.everesttech.net
 0.0.0.0 pixfuture-d.openx.net
@@ -14600,7 +14604,6 @@
 0.0.0.0 portal.c7dc.comr.skimresources.com
 0.0.0.0 portal.clickagy.com
 0.0.0.0 portal.dev.vidible.tv
-0.0.0.0 portal.dynamicyield.com
 0.0.0.0 portal.hiido.com
 0.0.0.0 portal.prod.vidible.tv
 0.0.0.0 portal.touchcommerce.com
@@ -18566,7 +18569,6 @@
 0.0.0.0 vast-f13-us-va.adhigh.net
 0.0.0.0 vast-f14-us-va.adhigh.net
 0.0.0.0 vast-f5-us-va.adhigh.net
-0.0.0.0 vast-f6-us-va.adhigh.net
 0.0.0.0 vast-pop-ams.mathtag.com
 0.0.0.0 vast-pop-ewr.mathtag.com
 0.0.0.0 vast-pop-ord.mathtag.com

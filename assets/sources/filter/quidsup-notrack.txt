@@ -1,8 +1,8 @@
 # Title: quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Last Converted - 19.02.2020
-# Total Domains - 14128
+# Last Converted - 20.02.2020
+# Total Domains - 14130
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -12850,7 +12850,9 @@
 0.0.0.0 pixel.getshogun.com
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.messenger.com
+0.0.0.0 pixel.nymag.com
 0.0.0.0 pixel.reddit.com
+0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.runative-syndicate.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel.watch

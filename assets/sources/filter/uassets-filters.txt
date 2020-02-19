@@ -1,8 +1,8 @@
 # Title: uassets-filters Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-# Last Converted - 19.02.2020
-# Total Domains - 838
+# Last Converted - 20.02.2020
+# Total Domains - 839
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -39,8 +39,6 @@
 0.0.0.0 9purdfe9xg.com
 0.0.0.0 a1fafile.com
 0.0.0.0 aaaaaco.com
-0.0.0.0 aaacompany.net
-0.0.0.0 aaddcount.com
 0.0.0.0 acortador.net
 0.0.0.0 acortame.net
 0.0.0.0 acortar.co
@@ -115,6 +113,7 @@
 0.0.0.0 apies.org
 0.0.0.0 applicationunification.com
 0.0.0.0 aptaleant.club
+0.0.0.0 aptalebow.site
 0.0.0.0 areandarm.com
 0.0.0.0 areantaid.site
 0.0.0.0 areyouabot.net
@@ -256,6 +255,7 @@
 0.0.0.0 damoh.wetter.de
 0.0.0.0 dash.cutw.pro
 0.0.0.0 dawmal.com
+0.0.0.0 dayadopen.site
 0.0.0.0 daynews.support
 0.0.0.0 dddomainccc.com
 0.0.0.0 ddf67683e4778d.com
@@ -316,6 +316,7 @@
 0.0.0.0 ezexfzek.com
 0.0.0.0 f5v1x3kgv5.com
 0.0.0.0 fadsabs.com
+0.0.0.0 fadsanz.com
 0.0.0.0 fadsatz.com
 0.0.0.0 fadsecz.com
 0.0.0.0 fadspmz.com
@@ -352,6 +353,7 @@
 0.0.0.0 gamescarousel.com
 0.0.0.0 gamingaffiliation.com
 0.0.0.0 gamovideo.com
+0.0.0.0 geepwnfly.club
 0.0.0.0 gelbitelf.club
 0.0.0.0 get1trightn0w.com
 0.0.0.0 getfree-vpn.com
@@ -422,8 +424,6 @@
 0.0.0.0 kbzdxt.com
 0.0.0.0 kenvam.online
 0.0.0.0 ketapang.biz
-0.0.0.0 kickassanime.io
-0.0.0.0 kickassanime.ru
 0.0.0.0 kidnepishlient.pro
 0.0.0.0 kimsacka.net
 0.0.0.0 kipoutch.net
@@ -495,6 +495,7 @@
 0.0.0.0 mma-core.com
 0.0.0.0 mn-shop.com
 0.0.0.0 mn0e.com
+0.0.0.0 mnaljqzekv.com
 0.0.0.0 monad.network
 0.0.0.0 motherehoom.pro
 0.0.0.0 mousheen.net

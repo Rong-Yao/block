@@ -1,8 +1,8 @@
 # Title: adaway.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://adaway.org/hosts.txt
-# Last Converted - 19.02.2020
-# Total Domains - 11051
+# Last Converted - 20.02.2020
+# Total Domains - 11052
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7719,6 +7719,7 @@
 0.0.0.0 pixel.mediaiqdigital.com
 0.0.0.0 pixel.moatads.com
 0.0.0.0 pixel.onaudience.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.sojern.com

@@ -1,8 +1,8 @@
 # Title: fanboy-complete Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-complete.txt
-# Last Converted - 19.02.2020
-# Total Domains - 22381
+# Last Converted - 20.02.2020
+# Total Domains - 22393
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6019,6 +6019,7 @@
 0.0.0.0 dtvlalitvg.com
 0.0.0.0 dtxngr.com
 0.0.0.0 dtzads.com
+0.0.0.0 du01z5hhojprz.cloudfront.net
 0.0.0.0 du2uh7rq0r0d3.cloudfront.net
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
@@ -9255,6 +9256,7 @@
 0.0.0.0 imbafgnoipmv.com
 0.0.0.0 imbetan.info
 0.0.0.0 imbpmlyhkk.com
+0.0.0.0 imbwnxknxzmo.com
 0.0.0.0 imcht.net
 0.0.0.0 imediaaudiences.com
 0.0.0.0 imediarevenue.com
@@ -10606,6 +10608,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 labdwkqyavb.com
 0.0.0.0 laborates.com
+0.0.0.0 labortiontrifee.info
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladiathdefinishe.info
 0.0.0.0 ladnova.info
@@ -10745,6 +10748,7 @@
 0.0.0.0 leaplunchroom.com
 0.0.0.0 leaptrade.com
 0.0.0.0 leastersmiled.pro
+0.0.0.0 leathtexactlycin.info
 0.0.0.0 lebneeklnuru.com
 0.0.0.0 lebqrivt.com
 0.0.0.0 leche69.com
@@ -11844,6 +11848,7 @@
 0.0.0.0 minodazi.com
 0.0.0.0 mioxtidzcrh.com
 0.0.0.0 miracan.pw
+0.0.0.0 mirafaren.pw
 0.0.0.0 mirago.com
 0.0.0.0 mirrorpersonalinjury.co.uk
 0.0.0.0 misslk.com
@@ -11948,6 +11953,7 @@
 0.0.0.0 mmwebhandler.888.com
 0.0.0.0 mmxbgakffqemu.com
 0.0.0.0 mn1nm.com
+0.0.0.0 mnaljqzekv.com
 0.0.0.0 mnbfujorh.com
 0.0.0.0 mnbvjhg.com
 0.0.0.0 mncvjhg.com
@@ -14309,6 +14315,7 @@
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 pixel.dorehernowi.pro
 0.0.0.0 pixel.europapress.net
 0.0.0.0 pixel.facebook.com
@@ -14317,6 +14324,7 @@
 0.0.0.0 pixel.homebook.pl
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.naij.com
+0.0.0.0 pixel.newscgp.com
 0.0.0.0 pixel.newscred.com
 0.0.0.0 pixel.newsdiscover.com.au
 0.0.0.0 pixel.propublica.org
@@ -14325,6 +14333,8 @@
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel.sprinklr.com
+0.0.0.0 pixel.staging.tree.com
+0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.widgetly.com
@@ -18455,6 +18465,7 @@
 0.0.0.0 tdsjsext1.com
 0.0.0.0 tdsrmbl.net
 0.0.0.0 tdstats.com
+0.0.0.0 tdxipgdorydvzo.com
 0.0.0.0 te.mytoys.de
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 teads.tv
@@ -20477,6 +20488,7 @@
 0.0.0.0 vqmdezgkkklcc.com
 0.0.0.0 vqnruxpecsn.com
 0.0.0.0 vqqvpouifhv.com
+0.0.0.0 vqsggzvcaujh.com
 0.0.0.0 vqzqkhumdad.com
 0.0.0.0 vrewpywootyu.com
 0.0.0.0 vrmuyscnqgsg.com

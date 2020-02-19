@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.02.050
-; Release: 050
-; Entries: 61,027
+; Version: 20.02.051
+; Release: 051
+; Entries: 61,098
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 18:10:43
+; Updated: Thu, 20 Feb 20 00:11:22
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2427,7 +2427,6 @@ aa.voice2page.com CNAME .
 aa24h.com CNAME .
 aa53df329975c325.com CNAME .
 aaaaaco.com CNAME .
-aaacompany.net CNAME .
 aaadealstoday.com CNAME .
 aaashoeschina.com CNAME .
 aabmxezph.com CNAME .
@@ -5330,6 +5329,7 @@ ads2.adverline.com CNAME .
 ads2.bangkokpost.co.th CNAME .
 ads2.brazzers.com CNAME .
 ads2.creativecirclemedia.com CNAME .
+ads2.dyn.perfectaudience.com CNAME .
 ads2.eqads.com CNAME .
 ads2.evz.ro CNAME .
 ads2.gamecity.net CNAME .
@@ -6421,6 +6421,7 @@ adverticum.com CNAME .
 adverticum.net CNAME .
 adverticus.de CNAME .
 advertise.bingads.microsoft.com CNAME .
+advertise.buzzfeed.com CNAME .
 advertise.com CNAME .
 advertise.indiatimes.com CNAME .
 advertisedmediagroup-d.openx.net CNAME .
@@ -8010,6 +8011,7 @@ analytics.nascar.com CNAME .
 analytics.nativeads.com CNAME .
 analytics.natlawreview.com CNAME .
 analytics.navegg.com CNAME .
+analytics.nbsp.de CNAME .
 analytics.net2b.eu CNAME .
 analytics.netcent.se CNAME .
 analytics.news-host.com CNAME .
@@ -8985,6 +8987,7 @@ api.parrable.com CNAME .
 api.parse.com CNAME .
 api.parsely.com CNAME .
 api.pc.openx.com CNAME .
+api.perfectaudience.com CNAME .
 api.personali.com CNAME .
 api.perzonalization.com CNAME .
 api.placed.com CNAME .
@@ -9354,6 +9357,7 @@ app.optimizely.com CNAME .
 app.optinmonster.com CNAME .
 app.optmnstr.com CNAME .
 app.paygate-prod.shareitpay.in CNAME .
+app.perfectaudience.com CNAME .
 app.pho8.com CNAME .
 app.phonalytics.com CNAME .
 app.pubguard.com CNAME .
@@ -10123,6 +10127,7 @@ au.adserver.yahoo.com CNAME .
 au.apk.umeng.com CNAME .
 au.atracking.appflood.com CNAME .
 au.effectivemeasure.net CNAME .
+au.pixel.newscgp.com CNAME .
 au.res.keymedia.com CNAME .
 au.umeng.co CNAME .
 au.umeng.com CNAME .
@@ -15136,6 +15141,7 @@ clk.adgaterewards.com CNAME .
 clk.apxadtracking.net CNAME .
 clk.atdmt.com CNAME .
 clk.europacash.com CNAME .
+clk.fetchback.com CNAME .
 clk.madisonlogic.com CNAME .
 clk.medialytics.com CNAME .
 clk.rtpdn10.com CNAME .
@@ -17743,6 +17749,7 @@ davthnojr.com CNAME .
 dawa.ero-advertising.com CNAME .
 dawmal.com CNAME .
 dawnnationaladvertiser.com CNAME .
+dayadopen.site CNAME .
 daycare.es CNAME .
 dayenotomasyon.com CNAME .
 daylogs.com CNAME .
@@ -19365,6 +19372,7 @@ dylsjsmqjbbcs.com CNAME .
 dymaffzxk.com CNAME .
 dymveullwn.com CNAME .
 dymzcxgdvf.com CNAME .
+dyn-ads.perfectaudience.com CNAME .
 dyn-images.perfectaudience.com CNAME .
 dyn.atdmt.com CNAME .
 dyn.emetriq.de CNAME .
@@ -23219,6 +23227,7 @@ gecxceztcnhkmh.com CNAME .
 gedspecificano.info CNAME .
 geede.info CNAME .
 geekcash.org CNAME .
+geepwnfly.club CNAME .
 geethoap.com CNAME .
 gefaqjwdgzbo.com CNAME .
 gefwrite.com CNAME .
@@ -26747,6 +26756,7 @@ images.dailydiscounts.com CNAME .
 images.ddc.com CNAME .
 images.directtrack.com CNAME .
 images.dwell.com CNAME .
+images.dyn.perfectaudience.com CNAME .
 images.edgeads.org CNAME .
 images.eksvideos.com CNAME .
 images.fastclick.net CNAME .
@@ -26816,6 +26826,7 @@ imb-offerwall-env.us-east-1.elasticbeanstalk.com CNAME .
 imbafgnoipmv.com CNAME .
 imbetan.info CNAME .
 imbpmlyhkk.com CNAME .
+imbwnxknxzmo.com CNAME .
 imc.l.qq.com CNAME .
 imc2.122.2o7.net CNAME .
 imces.dfw1.vip.inmobi.com CNAME .
@@ -27416,6 +27427,7 @@ insights.platform.openx.com CNAME .
 insights.podium.com CNAME .
 insights.pulsepoint.com CNAME .
 insights.swrve.com CNAME .
+insights.webeyemob.com CNAME .
 insights.wizardsbd.com CNAME .
 insightxe.pittsburghlive.com CNAME .
 insitepromotion.com CNAME .
@@ -27822,6 +27834,7 @@ ir-na.amazon-adsystem.com CNAME .
 ir-uk.amazon-adsystem.com CNAME .
 ir.admicro.vn CNAME .
 ir.ads.justpremium.com CNAME .
+ir.pixel.newscgp.com CNAME .
 ir0.mobify.com CNAME .
 irantableegh.org CNAME .
 irce.algolia.com CNAME .
@@ -29190,8 +29203,6 @@ kibanainfra.appsflyer.com CNAME .
 kibanariver.appsflyer.com CNAME .
 kibanatest.appsflyer.com CNAME .
 kiccebmlxtrze.com CNAME .
-kickassanime.io CNAME .
-kickassanime.ru CNAME .
 kickstart.pubmatic.com CNAME .
 kiderence-habilton.com CNAME .
 kidnepishlient.pro CNAME .
@@ -29722,6 +29733,7 @@ labaleine.gg CNAME .
 labbinarymining.com CNAME .
 labdwkqyavb.com CNAME .
 laborates.com CNAME .
+labortiontrifee.info CNAME .
 labs-cdn.revcontent.com CNAME .
 labs-s1.revcontent.com CNAME .
 labs-stg.revcontent.com CNAME .
@@ -30056,6 +30068,7 @@ learn.newrelic.com CNAME .
 learning-services-media.brightcove.com CNAME .
 lease.funhot247.host CNAME .
 leastersmiled.pro CNAME .
+leathtexactlycin.info CNAME .
 lebijoutier.es CNAME .
 lebneeklnuru.com CNAME .
 lebqrivt.com CNAME .
@@ -30369,6 +30382,7 @@ lintv.122.2o7.net CNAME .
 linuxpark.adtech.fr CNAME .
 linuxpark.adtech.us CNAME .
 liods.ga CNAME .
+lion.collect.mentad.com CNAME .
 lionsads.com CNAME .
 lionstracking.com CNAME .
 liquidad.narrowcastmedia.com CNAME .
@@ -30981,6 +30995,7 @@ lookerrnd.appsflyer.com CNAME .
 lookit-quick.com CNAME .
 looksmart.com CNAME .
 loomufie.com CNAME .
+looper-staging.perfectaudience.com CNAME .
 loopme.biz CNAME .
 loopme.com CNAME .
 loopme.me CNAME .
@@ -33057,6 +33072,7 @@ mipcache.bdstatic.com CNAME .
 mipsa.ciae.ac.cn CNAME .
 mipwm.com CNAME .
 miracan.pw CNAME .
+mirafaren.pw CNAME .
 mirago.com CNAME .
 mirandolasrl.it CNAME .
 mircrew-releases.com CNAME .
@@ -33228,6 +33244,7 @@ mn-shop.com CNAME .
 mn.moatads.com CNAME .
 mn0e.com CNAME .
 mn1nm.com CNAME .
+mnaljqzekv.com CNAME .
 mnbfujorh.com CNAME .
 mnbvjhg.com CNAME .
 mnectar.com CNAME .
@@ -34967,6 +34984,7 @@ newsupdatewe.info CNAME .
 newsushe.info CNAME .
 newt1.adultadworld.com CNAME .
 newt1.adultworld.com CNAME .
+newtag.perfectaudience.com CNAME .
 newtention.net CNAME .
 newtger.info CNAME .
 newthuads.com CNAME .
@@ -36881,6 +36899,7 @@ opt-east.media.net CNAME .
 opt-intelligence.com CNAME .
 opt-west.media.net CNAME .
 opt.hit.gemius.pl CNAME .
+opt.jumptap.com CNAME .
 opt.ximad.com CNAME .
 opt7.go.sonobi.com CNAME .
 opt8.co CNAME .
@@ -37020,7 +37039,9 @@ origin.optimost.io CNAME .
 origin.pubmatic.com CNAME .
 origin.tapjoy.com CNAME .
 origin.zedo.com CNAME .
+originau.pixel.newscgp.com CNAME .
 originlog.media.net CNAME .
+originus.pixel.newscgp.com CNAME .
 origo-blog.com CNAME .
 origo-hirek.net CNAME .
 origo-online.net CNAME .
@@ -38751,10 +38772,12 @@ pixel.1und1.de CNAME .
 pixel.33across.com CNAME .
 pixel.adadvisor.net CNAME .
 pixel.adblade.com CNAME .
+pixel.adbuyer.com CNAME .
 pixel.adcrowd.com CNAME .
 pixel.admobclick.com CNAME .
 pixel.adsafeprotected.com CNAME .
 pixel.adsrvr.org CNAME .
+pixel.adssafeprotected.com CNAME .
 pixel.adswizz.com CNAME .
 pixel.advertising.com CNAME .
 pixel.agkn.com CNAME .
@@ -38765,61 +38788,87 @@ pixel.audienceinsights.net CNAME .
 pixel.bilinmedia.net CNAME .
 pixel.blog.hu CNAME .
 pixel.bounceexchange.com CNAME .
+pixel.buzzfeed.com CNAME .
+pixel.captora.com CNAME .
 pixel.carambo.la CNAME .
 pixel.cdnwidget.com CNAME .
+pixel.colorupmedia.com CNAME .
 pixel.condenastdigital.com CNAME .
+pixel.criteo.com CNAME .
 pixel.crosspixel.net CNAME .
+pixel.digitalspy.co.uk CNAME .
 pixel.draatlanderpri.info CNAME .
 pixel.essedaccur.info CNAME .
 pixel.everesttech.net CNAME .
 pixel.facebook.com CNAME .
+pixel.fetchback.com CNAME .
+pixel.gfycat.com CNAME .
 pixel.haphadmuchrom.com CNAME .
 pixel.heckhaphanofres.info CNAME .
 pixel.hengaredi.pro CNAME .
 pixel.industrybrains.com CNAME .
 pixel.ingest.at.atwola.com CNAME .
+pixel.intares.net CNAME .
+pixel.intellitxt.com CNAME .
 pixel.invitemedia.com CNAME .
+pixel.jumptap.com CNAME .
 pixel.justresonter.com CNAME .
 pixel.keywee.co CNAME .
+pixel.klout.com CNAME .
 pixel.madadsmedia.com CNAME .
 pixel.maranhesduve.club CNAME .
 pixel.mathtag.com CNAME .
 pixel.mediaiqdigital.com CNAME .
 pixel.milasparreprob.club CNAME .
 pixel.moatads.com CNAME .
+pixel.nbsp.de CNAME .
+pixel.newscgp.com CNAME .
 pixel.newscred.com CNAME .
+pixel.nymag.com CNAME .
 pixel.onaudience.com CNAME .
 pixel.onyemantee.pro CNAME .
 pixel.othepbuttit.com CNAME .
+pixel.parsely.com CNAME .
 pixel.prod2.invitemedia.com CNAME .
 pixel.programmatictrader.com CNAME .
 pixel.rayjump.com CNAME .
 pixel.realtor.com CNAME .
 pixel.reckintersupwas.info CNAME .
+pixel.redditmedia.com CNAME .
 pixel.ronatorda.com CNAME .
 pixel.rtclocketsun.info CNAME .
 pixel.rubiconproject.com CNAME .
+pixel.rubiconproject.net CNAME .
 pixel.run-syndicate.com CNAME .
 pixel.rydohimowa.info CNAME .
 pixel.s3xified.com CNAME .
 pixel.sandroprabratm.info CNAME .
+pixel.serviceleverage.com CNAME .
 pixel.sitescout.com CNAME .
+pixel.socialtechtrader.co CNAME .
 pixel.sojern.com CNAME .
 pixel.spotify.com CNAME .
 pixel.spoutable.com CNAME .
+pixel.staging.tree.com CNAME .
 pixel.staticworld.net CNAME .
 pixel.tapad.com CNAME .
 pixel.tapad.comp.skimresources.com CNAME .
 pixel.theagency.com CNAME .
 pixel.titjolacruso.info CNAME .
 pixel.tontwiredat.info CNAME .
+pixel.tree.com CNAME .
+pixel.trianaanalytics.com CNAME .
 pixel.truecaller.com CNAME .
 pixel.typacodosof.info CNAME .
+pixel.usrsync.com CNAME .
 pixel.vdo.ai CNAME .
+pixel.vmm-satellite2.com CNAME .
 pixel.watch CNAME .
+pixel.webeyemob.com CNAME .
 pixel.westseven.media CNAME .
 pixel.yabidos.com CNAME .
 pixel.yola.com CNAME .
+pixel.yola.net CNAME .
 pixel1097.everesttech.net CNAME .
 pixel1324.everesttech.net CNAME .
 pixel1350.everesttech.net CNAME .
@@ -38827,7 +38876,9 @@ pixel1370.everesttech.net CNAME .
 pixel1553.everesttech.net CNAME .
 pixel1739.everesttech.net CNAME .
 pixel2.moatads.com CNAME .
+pixel3.about.com CNAME .
 pixelbox.uimserv.net CNAME .
+pixelbt.fetchback.com CNAME .
 pixelcounter.elmundo.es CNAME .
 pixelcounter.marca.com CNAME .
 pixeldust.btrll.com CNAME .
@@ -38837,6 +38888,10 @@ pixelglobal.sojern.com CNAME .
 pixeljs-ads.pubmatic.com CNAME .
 pixels.adzmedia.com CNAME .
 pixels.asia CNAME .
+pixels.boodnet.com CNAME .
+pixels.mentad.com CNAME .
+pixels.perfectaudience.com CNAME .
+pixels.youknowbest.com CNAME .
 pixelservice.apphb.com CNAME .
 pixeltrack.eyeviewads.com CNAME .
 pixeltrack66.com CNAME .
@@ -40559,6 +40614,7 @@ pubportal.brkmd.com CNAME .
 pubpress.net CNAME .
 pubrain.com CNAME .
 pubrepo.pubmatic.com CNAME .
+pubreport.webeyemob.com CNAME .
 pubserver.xl.pt CNAME .
 pubsgcmpixel.onedigitalad.com CNAME .
 pubted.com CNAME .
@@ -43232,6 +43288,7 @@ rtbtraffic.plugrush.com CNAME .
 rtbvideobox.com CNAME .
 rtbwx.cname1.igexin.com CNAME .
 rtbx.adgrx.com CNAME .
+rtc.webeyemob.com CNAME .
 rtclocketsun.info CNAME .
 rtd.tubemogul.com CNAME .
 rtdogcdkovndho.com CNAME .
@@ -44049,6 +44106,7 @@ scjczeqyuqjs.com CNAME .
 sckuhytswbs.com CNAME .
 sckxppzdm.com CNAME .
 sckzvqadc.com CNAME .
+scl-pixel.jumptap.com CNAME .
 scleavshdrz.com CNAME .
 sclick.baidu.com CNAME .
 sclk.org CNAME .
@@ -46739,6 +46797,7 @@ staging.clickadilla.com CNAME .
 staging.mocogateway.com CNAME .
 staging.newrelic.com CNAME .
 staging.openx.com CNAME .
+staging.perfectaudience.com CNAME .
 staging.taboola.com CNAME .
 staging.wowtrk.com CNAME .
 staging2.crazyegg.com CNAME .
@@ -48017,6 +48076,7 @@ syndication-whk1.exoclick.com CNAME .
 syndication.advertiserurl.com CNAME .
 syndication.cntrafficpro.com CNAME .
 syndication.contentabc.com CNAME .
+syndication.digitalspy.co.uk CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
 syndication.exdynsrv.com CNAME .
@@ -48244,6 +48304,7 @@ tads.techtunes.com.bd CNAME .
 taffr.com CNAME .
 tafmaster.com CNAME .
 tag-ams.1rx.io CNAME .
+tag-cdn-staging.perfectaudience.com CNAME .
 tag-nj.1rx.io CNAME .
 tag-sjo.1rx.io CNAME .
 tag.1rx.io CNAME .
@@ -48255,6 +48316,7 @@ tag.aticdn.net CNAME .
 tag.aticdn.net.edgekey.net CNAME .
 tag.brainient.com CNAME .
 tag.cogocast.net CNAME .
+tag.colorupmedia.com CNAME .
 tag.crsspxl.com CNAME .
 tag.demandbase.com CNAME .
 tag.digitaltarget.ru CNAME .
@@ -48425,6 +48487,7 @@ tap.company CNAME .
 tap.rubiconproject.com CNAME .
 tap.tapad.com CNAME .
 tap2-cdn.rubiconproject.com CNAME .
+tapad-origin.jumptap.com CNAME .
 tapad.com CNAME .
 tapair.com CNAME .
 tapas.net CNAME .
@@ -48620,6 +48683,7 @@ tdslp.ru CNAME .
 tdsshark.club CNAME .
 tdw.pushwoosh.com CNAME .
 tdxio.com CNAME .
+tdxipgdorydvzo.com CNAME .
 te.adlandpro.com CNAME .
 te.cleveland.net CNAME .
 teads.tv CNAME .
@@ -50646,6 +50710,7 @@ track.wadi.trade CNAME .
 track.wattpad.com CNAME .
 track.wayin.com CNAME .
 track.webbranddeals.com CNAME .
+track.webeyemob.com CNAME .
 track.webgains.com CNAME .
 track.webmatics.info CNAME .
 track.webprodeals.cf CNAME .
@@ -51397,6 +51462,7 @@ tri.privy.com CNAME .
 triadmedianetwork.com CNAME .
 trial.tercept.com CNAME .
 trial.tercept.com	 CNAME .
+trianaanalytics.com CNAME .
 triangleservicesltd.com CNAME .
 tribalfusion.com CNAME .
 tribez.game-insight.com CNAME .
@@ -52034,6 +52100,7 @@ uarating.com CNAME .
 uas-api.inrix.com CNAME .
 uashoes.club CNAME .
 uaswitcher.org CNAME .
+uat.pixel.newscgp.com CNAME .
 uat1.bfsspadserver.8le8le.com CNAME .
 uat1.mp3vel.trafficjunky.com CNAME .
 uauniverse.com CNAME .
@@ -54087,6 +54154,7 @@ vqmdezgkkklcc.com CNAME .
 vqnruxpecsn.com CNAME .
 vqq.admaster.com.cn CNAME .
 vqqvpouifhv.com CNAME .
+vqsggzvcaujh.com CNAME .
 vqvqgfpc.com CNAME .
 vqzqkhumdad.com CNAME .
 vr.ad-stir.com CNAME .
@@ -55947,6 +56015,7 @@ www.advertising.yahoo.com CNAME .
 www.advertising365.com CNAME .
 www.advertlets.com CNAME .
 www.advertpro.com CNAME .
+www.adverts.digitalspy.co.uk CNAME .
 www.advertserve.com CNAME .
 www.advertyz.com CNAME .
 www.advnetmobile.mobi CNAME .
@@ -57782,6 +57851,7 @@ www.pdf-platinum.info CNAME .
 www.peachy18.com CNAME .
 www.peakclick.com CNAME .
 www.pepipo.com CNAME .
+www.perfectaudience.com CNAME .
 www.perfectgirls.net CNAME .
 www.perfectionholic.com CNAME .
 www.performanceadexchange.com CNAME .
@@ -58578,6 +58648,7 @@ www.tredman.com CNAME .
 www.treeloot.com CNAME .
 www.trendcounter.com CNAME .
 www.trendnews.com CNAME .
+www.trianaanalytics.com CNAME .
 www.tribalfusion.com CNAME .
 www.triboomedia.it CNAME .
 www.trk4.com CNAME .

@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.02.050
-; Release: 050
-; Entries: 63,379
+; Version: 20.02.051
+; Release: 051
+; Entries: 63,388
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 18:15:03
+; Updated: Thu, 20 Feb 20 00:16:43
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -12841,6 +12841,7 @@ dtvlalitvg.com CNAME .
 dtyrqq5w0qdc8.cloudfront.net CNAME .
 dtzads.com CNAME .
 dtzysm.com CNAME .
+du01z5hhojprz.cloudfront.net CNAME .
 du1.bbdj.com CNAME .
 du2uh7rq0r0d3.cloudfront.net CNAME .
 dualmarket.info CNAME .
@@ -18893,6 +18894,7 @@ imazicusez.com CNAME .
 imbafgnoipmv.com CNAME .
 imbetan.info CNAME .
 imbpmlyhkk.com CNAME .
+imbwnxknxzmo.com CNAME .
 imc.mediaz.vn CNAME .
 imd.petit.lv CNAME .
 imedia.co.il CNAME .
@@ -19343,6 +19345,7 @@ investhash.com CNAME .
 investhotels.ru CNAME .
 investimenti.bnpparibas.it CNAME .
 investing1.com CNAME .
+invistionik.ru CNAME .
 inviteonly.nl CNAME .
 inviziads.com CNAME .
 inwemo.com CNAME .
@@ -21606,6 +21609,7 @@ lab.admicro.vn CNAME .
 labadon.com CNAME .
 labdwkqyavb.com CNAME .
 laborates.com CNAME .
+labortiontrifee.info CNAME .
 lacembre.com CNAME .
 lacendhers.info CNAME .
 lacest.com CNAME .
@@ -21882,6 +21886,7 @@ leannon.net CNAME .
 leaptrade.com CNAME .
 leastersmiled.pro CNAME .
 leasured.eu CNAME .
+leathtexactlycin.info CNAME .
 leb961.com CNAME .
 lebanonreaders.com CNAME .
 lebneeklnuru.com CNAME .
@@ -24376,6 +24381,7 @@ mmxbgakffqemu.com CNAME .
 mn0e.com CNAME .
 mn1nm.com CNAME .
 mn586.com CNAME .
+mnaljqzekv.com CNAME .
 mnbfujorh.com CNAME .
 mnbvjhg.com CNAME .
 mncvjhg.com CNAME .
@@ -31573,6 +31579,7 @@ refparer.xyz CNAME .
 refpatig.xyz CNAME .
 refpaumckl.top CNAME .
 refpazcx.xyz CNAME .
+refractionius.com CNAME .
 refresh-tool.website CNAME .
 reftedlettiny.info CNAME .
 refunsiy.net CNAME .
@@ -34216,6 +34223,7 @@ somode.net CNAME .
 somon.tj CNAME .
 somuboteso.com CNAME .
 sonagerthrou.com CNAME .
+sonaro.ru CNAME .
 sonat.space CNAME .
 sonikelf.ru CNAME .
 sonnents.com CNAME .
@@ -35654,6 +35662,7 @@ tdsjsext1.com CNAME .
 tdsrmbl.net CNAME .
 tdstorage.site CNAME .
 tdtsd.com CNAME .
+tdxipgdorydvzo.com CNAME .
 tea.pornolomka.video CNAME .
 teachac.com CNAME .
 teachscape.vo.llnwd.net CNAME .
@@ -38434,7 +38443,6 @@ valthyra.com CNAME .
 valuad.cloud CNAME .
 valuead.com CNAME .
 valueclick.com CNAME .
-valueclick.jp CNAME .
 valueclick.net CNAME .
 valueclickmedia.com CNAME .
 valuecommerce.com CNAME .
@@ -39264,6 +39272,7 @@ vqmdezgkkklcc.com CNAME .
 vqmqhkjfbksda.com CNAME .
 vqnruxpecsn.com CNAME .
 vqqvpouifhv.com CNAME .
+vqsggzvcaujh.com CNAME .
 vqvqgfpc.com CNAME .
 vqxmeseasarc.com CNAME .
 vqzqkhumdad.com CNAME .

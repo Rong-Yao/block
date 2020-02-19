@@ -1,7 +1,7 @@
 # Title: notracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# Last Converted - 19.02.2020
+# Last Converted - 20.02.2020
 # Total Domains - 25609
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
@@ -14448,7 +14448,6 @@
 0.0.0.0 niveahie.beget.tech
 0.0.0.0 nixonhabbo.duckdns.org
 0.0.0.0 njd.tzxianghao.cn
-0.0.0.0 njinwotech.thats.im
 0.0.0.0 njmta-173.sailthru.com
 0.0.0.0 njpablo.ddns.net
 0.0.0.0 njrat-venom.ddns.net
@@ -15610,6 +15609,7 @@
 0.0.0.0 pixel.ani-view.com
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.blog.hu
+0.0.0.0 pixel.captora.com
 0.0.0.0 pixel.channelfactory.com
 0.0.0.0 pixel.clearstream.tv
 0.0.0.0 pixel.condenastdigital.com
@@ -15620,6 +15620,7 @@
 0.0.0.0 pixel.newscred.com
 0.0.0.0 pixel.programmatictrader.com
 0.0.0.0 pixel.realtor.com
+0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.sportsontheweb.net
 0.0.0.0 pixel.spotify.com
@@ -22763,7 +22764,6 @@
 0.0.0.0 www.galatransmisja.pe.hu
 0.0.0.0 www.galerie-idees.fr
 0.0.0.0 www.galileounaluna.com
-0.0.0.0 www.galshop.ir
 0.0.0.0 www.game-clicks.com
 0.0.0.0 www.game-pc-mm.ir
 0.0.0.0 www.gameboyagain.com

@@ -1,8 +1,8 @@
 # Title: airelle-pub Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
-# Last Converted - 19.02.2020
-# Total Domains - 56503
+# Last Converted - 20.02.2020
+# Total Domains - 56502
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -53144,7 +53144,6 @@
 0.0.0.0 www.muaklekhospital.com
 0.0.0.0 www.mugame.net
 0.0.0.0 www.muirreunion.com
-0.0.0.0 www.mujbanner.cz
 0.0.0.0 www.museo500.com
 0.0.0.0 www.museumsblick.de
 0.0.0.0 www.musicbannerexchange.com

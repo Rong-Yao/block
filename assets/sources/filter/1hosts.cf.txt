@@ -1,7 +1,7 @@
 # Title: 1hosts.cf Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
-# Last Converted - 19.02.2020
+# Last Converted - 20.02.2020
 # Total Domains - 59178
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
@@ -37694,6 +37694,7 @@
 0.0.0.0 pixel.newscred.com
 0.0.0.0 pixel.newsdiscover.com.au
 0.0.0.0 pixel.onaudience.com
+0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.patch.com
 0.0.0.0 pixel.placed.com
 0.0.0.0 pixel.playbuzz.com
@@ -37702,6 +37703,7 @@
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.pzkie.com
 0.0.0.0 pixel.quantcount.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rayjump.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.rubiconproject.com
@@ -38417,7 +38419,6 @@
 0.0.0.0 portal.adbro.me
 0.0.0.0 portal.admeld.com
 0.0.0.0 portal.clickagy.com
-0.0.0.0 portal.dynamicyield.com
 0.0.0.0 portal.publishersserviceassociates.com
 0.0.0.0 portal.ucgc.ucfly.com
 0.0.0.0 portal.vdopia.com
@@ -52185,7 +52186,6 @@
 0.0.0.0 valthyra.com
 0.0.0.0 valuad.cloud
 0.0.0.0 valuead.com
-0.0.0.0 valueclick.jp
 0.0.0.0 valueclickmedia.com
 0.0.0.0 valuecommerce.com
 0.0.0.0 valuecommerce.ne.jp

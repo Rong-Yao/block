@@ -1,8 +1,8 @@
 # Title: disconnect.me-malvertising Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - 19.02.2020
-# Total Domains - 1977
+# Last Converted - 20.02.2020
+# Total Domains - 1978
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1488,6 +1488,7 @@
 0.0.0.0 pillscash.com
 0.0.0.0 pimproll.com
 0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixel.jumptap.com
 0.0.0.0 placeplay.com
 0.0.0.0 planetactive.com
 0.0.0.0 play4traffic.com

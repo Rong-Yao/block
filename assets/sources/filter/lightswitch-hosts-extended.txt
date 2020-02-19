@@ -1,8 +1,8 @@
 # Title: lightswitch-hosts-extended Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Last Converted - 19.02.2020
-# Total Domains - 93949
+# Last Converted - 20.02.2020
+# Total Domains - 93958
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -26834,6 +26834,7 @@
 0.0.0.0 cmp.digitru.st
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmp.faktor.mgr.consensu.org
+0.0.0.0 cmp.infoworld.com
 0.0.0.0 cmp.macworld.com
 0.0.0.0 cmp.madvertise.mgr.consensu.org
 0.0.0.0 cmp.mediavine.com
@@ -62390,6 +62391,7 @@
 0.0.0.0 pixel.adrizer.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.adsrvr.org
+0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.adswizz.com
 0.0.0.0 pixel.advanseads.com
 0.0.0.0 pixel.advertising.com
@@ -62429,6 +62431,7 @@
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 pixel.intelsad.com
 0.0.0.0 pixel.interactivesales.ru
+0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.kiitties.com
 0.0.0.0 pixel.leadnationmedia.com
@@ -62442,8 +62445,10 @@
 0.0.0.0 pixel.mobfox.com
 0.0.0.0 pixel.monetize-me.com
 0.0.0.0 pixel.netseer.com
+0.0.0.0 pixel.newscgp.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel.optimalq.net
+0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.perceptlink.com
 0.0.0.0 pixel.pgcollect.com
 0.0.0.0 pixel.placed.com
@@ -62452,8 +62457,10 @@
 0.0.0.0 pixel.printsites.net
 0.0.0.0 pixel.pushspring.com
 0.0.0.0 pixel.quantcount.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rayjump.com
 0.0.0.0 pixel.reddit.com
+0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.servebom.com
 0.0.0.0 pixel.shareaholic.com
@@ -62471,6 +62478,7 @@
 0.0.0.0 pixel.tmathtag.com
 0.0.0.0 pixel.trackverify.com
 0.0.0.0 pixel.traffiliate.com
+0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.unruly.systems
 0.0.0.0 pixel.urbaninsight.com
 0.0.0.0 pixel.valo.ai
@@ -62560,6 +62568,7 @@
 0.0.0.0 pixels.ad.gt
 0.0.0.0 pixels.leadsbridge.com
 0.0.0.0 pixels.omnitagjs.com
+0.0.0.0 pixels.perfectaudience.com
 0.0.0.0 pixels.sojern.com
 0.0.0.0 pixeltest.sojern.com
 0.0.0.0 pixelweb-1.clarivoy.com

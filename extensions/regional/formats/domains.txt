@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: domain list
-# Version: 20.02.050
-# Release: 050
-# Entries: 63,379
+# Version: 20.02.051
+# Release: 051
+# Entries: 63,388
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 18:15:03
+# Updated: Thu, 20 Feb 20 00:16:43
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -12833,6 +12833,7 @@ dtvlalitvg.com
 dtyrqq5w0qdc8.cloudfront.net
 dtzads.com
 dtzysm.com
+du01z5hhojprz.cloudfront.net
 du1.bbdj.com
 du2uh7rq0r0d3.cloudfront.net
 dualmarket.info
@@ -18885,6 +18886,7 @@ imazicusez.com
 imbafgnoipmv.com
 imbetan.info
 imbpmlyhkk.com
+imbwnxknxzmo.com
 imc.mediaz.vn
 imd.petit.lv
 imedia.co.il
@@ -19335,6 +19337,7 @@ investhash.com
 investhotels.ru
 investimenti.bnpparibas.it
 investing1.com
+invistionik.ru
 inviteonly.nl
 inviziads.com
 inwemo.com
@@ -21598,6 +21601,7 @@ lab.admicro.vn
 labadon.com
 labdwkqyavb.com
 laborates.com
+labortiontrifee.info
 lacembre.com
 lacendhers.info
 lacest.com
@@ -21874,6 +21878,7 @@ leannon.net
 leaptrade.com
 leastersmiled.pro
 leasured.eu
+leathtexactlycin.info
 leb961.com
 lebanonreaders.com
 lebneeklnuru.com
@@ -24368,6 +24373,7 @@ mmxbgakffqemu.com
 mn0e.com
 mn1nm.com
 mn586.com
+mnaljqzekv.com
 mnbfujorh.com
 mnbvjhg.com
 mncvjhg.com
@@ -31565,6 +31571,7 @@ refparer.xyz
 refpatig.xyz
 refpaumckl.top
 refpazcx.xyz
+refractionius.com
 refresh-tool.website
 reftedlettiny.info
 refunsiy.net
@@ -34208,6 +34215,7 @@ somode.net
 somon.tj
 somuboteso.com
 sonagerthrou.com
+sonaro.ru
 sonat.space
 sonikelf.ru
 sonnents.com
@@ -35646,6 +35654,7 @@ tdsjsext1.com
 tdsrmbl.net
 tdstorage.site
 tdtsd.com
+tdxipgdorydvzo.com
 tea.pornolomka.video
 teachac.com
 teachscape.vo.llnwd.net
@@ -38426,7 +38435,6 @@ valthyra.com
 valuad.cloud
 valuead.com
 valueclick.com
-valueclick.jp
 valueclick.net
 valueclickmedia.com
 valuecommerce.com
@@ -39256,6 +39264,7 @@ vqmdezgkkklcc.com
 vqmqhkjfbksda.com
 vqnruxpecsn.com
 vqqvpouifhv.com
+vqsggzvcaujh.com
 vqvqgfpc.com
 vqxmeseasarc.com
 vqzqkhumdad.com

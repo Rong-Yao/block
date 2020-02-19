@@ -1,8 +1,8 @@
 # Title: easylist-russian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last Converted - 19.02.2020
-# Total Domains - 7340
+# Last Converted - 20.02.2020
+# Total Domains - 7342
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3073,6 +3073,7 @@
 0.0.0.0 invavet.ru
 0.0.0.0 invest-pool.ru
 0.0.0.0 investhotels.ru
+0.0.0.0 invistionik.ru
 0.0.0.0 iohfi.top
 0.0.0.0 ipgold.ru
 0.0.0.0 iphone10gs.com
@@ -5801,6 +5802,7 @@
 0.0.0.0 somdi.date
 0.0.0.0 some-things.ru
 0.0.0.0 somon.tj
+0.0.0.0 sonaro.ru
 0.0.0.0 sonikelf.ru
 0.0.0.0 sonnents.com
 0.0.0.0 sontere.com

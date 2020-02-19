@@ -1,8 +1,8 @@
 # Title: airelle-trc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-trc.txt
-# Last Converted - 19.02.2020
-# Total Domains - 42379
+# Last Converted - 20.02.2020
+# Total Domains - 42380
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -32299,6 +32299,7 @@
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.clickon.co.il
 0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.fetchback.com
 0.0.0.0 pixel.indieclicktv.com
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.keywee.co

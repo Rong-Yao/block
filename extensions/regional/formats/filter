@@ -24,13 +24,13 @@
 ! Title: Energized Regional Extension
 ! Description: An Extension to Block Regional Annoyances.
 ! Format: adblock
-! Version: 20.02.050
-! Release: 050
+! Version: 20.02.051
+! Release: 051
 ! Expires: 1 day (update frequency)
-! Entries: 63,379
+! Entries: 63,388
 ! Pack Code: EXR3G1094L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Wed, 19 Feb 20 18:15:03
+! Updated: Thu, 20 Feb 20 00:16:43
 ! RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/filter
 ! --------------------------------------------
 !
@@ -12834,6 +12834,7 @@
 ||dtyrqq5w0qdc8.cloudfront.net^
 ||dtzads.com^
 ||dtzysm.com^
+||du01z5hhojprz.cloudfront.net^
 ||du1.bbdj.com^
 ||du2uh7rq0r0d3.cloudfront.net^
 ||dualmarket.info^
@@ -18886,6 +18887,7 @@
 ||imbafgnoipmv.com^
 ||imbetan.info^
 ||imbpmlyhkk.com^
+||imbwnxknxzmo.com^
 ||imc.mediaz.vn^
 ||imd.petit.lv^
 ||imedia.co.il^
@@ -19336,6 +19338,7 @@
 ||investhotels.ru^
 ||investimenti.bnpparibas.it^
 ||investing1.com^
+||invistionik.ru^
 ||inviteonly.nl^
 ||inviziads.com^
 ||inwemo.com^
@@ -21599,6 +21602,7 @@
 ||labadon.com^
 ||labdwkqyavb.com^
 ||laborates.com^
+||labortiontrifee.info^
 ||lacembre.com^
 ||lacendhers.info^
 ||lacest.com^
@@ -21875,6 +21879,7 @@
 ||leaptrade.com^
 ||leastersmiled.pro^
 ||leasured.eu^
+||leathtexactlycin.info^
 ||leb961.com^
 ||lebanonreaders.com^
 ||lebneeklnuru.com^
@@ -24369,6 +24374,7 @@
 ||mn0e.com^
 ||mn1nm.com^
 ||mn586.com^
+||mnaljqzekv.com^
 ||mnbfujorh.com^
 ||mnbvjhg.com^
 ||mncvjhg.com^
@@ -31566,6 +31572,7 @@
 ||refpatig.xyz^
 ||refpaumckl.top^
 ||refpazcx.xyz^
+||refractionius.com^
 ||refresh-tool.website^
 ||reftedlettiny.info^
 ||refunsiy.net^
@@ -34209,6 +34216,7 @@
 ||somon.tj^
 ||somuboteso.com^
 ||sonagerthrou.com^
+||sonaro.ru^
 ||sonat.space^
 ||sonikelf.ru^
 ||sonnents.com^
@@ -35647,6 +35655,7 @@
 ||tdsrmbl.net^
 ||tdstorage.site^
 ||tdtsd.com^
+||tdxipgdorydvzo.com^
 ||tea.pornolomka.video^
 ||teachac.com^
 ||teachscape.vo.llnwd.net^
@@ -38427,7 +38436,6 @@
 ||valuad.cloud^
 ||valuead.com^
 ||valueclick.com^
-||valueclick.jp^
 ||valueclick.net^
 ||valueclickmedia.com^
 ||valuecommerce.com^
@@ -39257,6 +39265,7 @@
 ||vqmqhkjfbksda.com^
 ||vqnruxpecsn.com^
 ||vqqvpouifhv.com^
+||vqsggzvcaujh.com^
 ||vqvqgfpc.com^
 ||vqxmeseasarc.com^
 ||vqzqkhumdad.com^

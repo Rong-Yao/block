@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: domain list
-# Version: 20.02.050
-# Release: 050
-# Entries: 122,846
+# Version: 20.02.051
+# Release: 051
+# Entries: 122,914
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 18:10:47
+# Updated: Thu, 20 Feb 20 00:11:27
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -4211,7 +4211,6 @@ aa9d046aab36af4ff182f097f840430d51.com
 aaa.japanxvideos.mobi
 aaaaa.the4orce.net
 aaaaaco.com
-aaacompany.net
 aaadealstoday.com
 aaaf.jp
 aaannuairex.com
@@ -5066,6 +5065,7 @@ ad-sp.biz
 ad-space.net
 ad-specs.guoshipartners.com
 ad-sponsor.com
+ad-srv-track.com
 ad-srv.co
 ad-srv.net
 ad-stat.ksosoft.com
@@ -8578,6 +8578,7 @@ ads2.bangkokpost.co.th
 ads2.brazzers.com
 ads2.creativecirclemedia.com
 ads2.delfi.ee
+ads2.dyn.perfectaudience.com
 ads2.ekologia.pl
 ads2.eqads.com
 ads2.evz.ro
@@ -9866,6 +9867,7 @@ adverticum.com
 adverticum.net
 adverticus.de
 advertise.bingads.microsoft.com
+advertise.buzzfeed.com
 advertise.com
 advertise.engineering.com
 advertise.indiatimes.com
@@ -12622,6 +12624,7 @@ analytics.nascar.com
 analytics.nativeads.com
 analytics.natlawreview.com
 analytics.navegg.com
+analytics.nbsp.de
 analytics.net2b.eu
 analytics.netcent.se
 analytics.news-host.com
@@ -14159,6 +14162,7 @@ api.parrable.com
 api.parse.com
 api.parsely.com
 api.pc.openx.com
+api.perfectaudience.com
 api.personali.com
 api.perzonalization.com
 api.pexaproject.com
@@ -14791,6 +14795,7 @@ app.optinmonster.com
 app.optmnstr.com
 app.pagewoo.com
 app.paygate-prod.shareitpay.in
+app.perfectaudience.com
 app.pho8.com
 app.phonalytics.com
 app.pubguard.com
@@ -16296,6 +16301,7 @@ au.effectivemeasure.net
 au.gltminer.com
 au.graft.community
 au.nanopool.org
+au.pixel.newscgp.com
 au.res.keymedia.com
 au.stratum.youcrazy.me
 au.umeng.co
@@ -26091,6 +26097,7 @@ clk.atdmt.com
 clk.boulanger.com
 clk.dxpmedia.com
 clk.europacash.com
+clk.fetchback.com
 clk.furthermoreads.com
 clk.gammaplatform.com
 clk.gentags.net
@@ -31429,6 +31436,7 @@ daxnfpzmnfdr.com
 daxx.coinminer.space
 daxx2.coinminer.space
 daxzupqivdoj.com
+dayadopen.site
 daybrooksco.com
 daycare.es
 dayenotomasyon.com
@@ -35113,6 +35121,7 @@ dymlo6ffhj97l.cloudfront.net
 dymveullwn.com
 dymwsh1c2kslr.cloudfront.net
 dymzcxgdvf.com
+dyn-ads.perfectaudience.com
 dyn-images.perfectaudience.com
 dyn.atdmt.com
 dyn.emetriq.de
@@ -43941,6 +43950,7 @@ geeksthatgame.com
 geelonggastro.com.au
 geem.crypto-pool.pro
 geemade.duckdns.org
+geepwnfly.club
 geer.longmonthairsalon.com
 geethoap.com
 gefaqjwdgzbo.com
@@ -46927,7 +46937,6 @@ hacktokenstopeleven.com
 hacktool4.com
 hacktooldownload.com
 hacktools.ddns.net
-hacktools2013.com
 hacktoolsforeveryone.info
 hackwifipass.com
 hackworld.biz
@@ -52722,6 +52731,7 @@ images.ddc.com
 images.directtrack.com
 images.discipulo21.org
 images.dwell.com
+images.dyn.perfectaudience.com
 images.edgeads.org
 images.eksvideos.com
 images.enet.com.cn
@@ -52823,6 +52833,7 @@ imbafgnoipmv.com
 imbetan.info
 imbhu.com
 imbpmlyhkk.com
+imbwnxknxzmo.com
 imc.l.qq.com
 imc.mediaz.vn
 imc2.122.2o7.net
@@ -53907,6 +53918,7 @@ insights.podium.com
 insights.pulsepoint.com
 insights.sitesearch360.com
 insights.swrve.com
+insights.webeyemob.com
 insights.wizardsbd.com
 insightxe.pittsburghlive.com
 insigit.com
@@ -54644,6 +54656,7 @@ ir.aihgroup.net
 ir.dpool.top
 ir.mail.163.com
 ir.parsicoin.net
+ir.pixel.newscgp.com
 ir0.mobify.com
 iran-gold.com
 iranbar.org
@@ -57697,8 +57710,6 @@ kibanainfra.appsflyer.com
 kibanariver.appsflyer.com
 kibanatest.appsflyer.com
 kiccebmlxtrze.com
-kickassanime.io
-kickassanime.ru
 kickboxing.cba.pl
 kickmovies.com
 kickplays.com
@@ -58954,6 +58965,7 @@ labono.ru
 laborates.com
 laboratoriodiagnose.com
 laboratoriovision.com.br
+labortiontrifee.info
 labouronline.co.in
 labs-cdn.revcontent.com
 labs-s1.revcontent.com
@@ -59592,6 +59604,7 @@ lease.funhot247.host
 leasidetennis.org
 leastersmiled.pro
 leatherdepot.org
+leathtexactlycin.info
 lebakwatery.pl
 lebeiivzmm.com
 lebijoutier.es
@@ -60304,6 +60317,7 @@ lio888.com
 liocwxpkakrf.com
 liod1ours.com
 liods.ga
+lion.collect.mentad.com
 lion.cryptopool.eu
 lion.suchpool.pw
 lion.v2.dedicatedpool.com
@@ -61475,6 +61489,7 @@ loomufie.com
 loop.evama.at
 loopa.net.au
 loopbaancoachamsterdam.eu
+looper-staging.perfectaudience.com
 loopfiles.com
 loopfuse.net
 loopme.biz
@@ -66119,6 +66134,7 @@ miqzfjo.biz
 miracan.pw
 miraclebeautysalonatl.com
 miracletours.jp
+mirafaren.pw
 mirago.com
 mirakis.com
 miramardesign.com
@@ -66503,6 +66519,7 @@ mn0e.com
 mn1nm.com
 mn5.btcc.com
 mn7.btcc.com
+mnaljqzekv.com
 mnanijqnse.com
 mnbcgroup.com
 mnbfujorh.com
@@ -70220,6 +70237,7 @@ newszone.pro
 newt1.adultadworld.com
 newt1.adultworld.com
 newt150.tripod.com
+newtag.perfectaudience.com
 newtention.net
 newtger.info
 newthuads.com
@@ -70715,7 +70733,6 @@ njedi.nanopool.org
 njeozjhyjb.com
 njgogjkwlzroh.com
 njinmobirtb.lfstmedia.com
-njinwotech.thats.im
 njjdnqhehvlzjd.bid
 njjybqyiuotl.com
 njkgqdxavz.com
@@ -73785,6 +73802,7 @@ opt-intelligence.com
 opt-upgrdhot.000webhostapp.com
 opt-west.media.net
 opt.hit.gemius.pl
+opt.jumptap.com
 opt.objectiveportal.com
 opt.ximad.com
 opt7.go.sonobi.com
@@ -73995,8 +74013,10 @@ origin.poolmining.org
 origin.pubmatic.com
 origin.tapjoy.com
 origin.zedo.com
+originau.pixel.newscgp.com
 originkinetics.com
 originlog.media.net
+originus.pixel.newscgp.com
 origo-blog.com
 origo-hirek.net
 origo-online.net
@@ -77094,10 +77114,12 @@ pixel.ad.lifesight.io
 pixel.adadvisor.net
 pixel.adasiaholdings.com
 pixel.adblade.com
+pixel.adbuyer.com
 pixel.adcrowd.com
 pixel.admobclick.com
 pixel.adsafeprotected.com
 pixel.adsrvr.org
+pixel.adssafeprotected.com
 pixel.adswizz.com
 pixel.advertising.com
 pixel.agkn.com
@@ -77113,12 +77135,17 @@ pixel.blivenyc.com
 pixel.blog.hu
 pixel.bounceexchange.com
 pixel.bullion.media
+pixel.buzzfeed.com
+pixel.captora.com
 pixel.carambo.la
 pixel.cdnwidget.com
 pixel.channelfactory.com
 pixel.clearstream.tv
+pixel.colorupmedia.com
 pixel.condenastdigital.com
+pixel.criteo.com
 pixel.crosspixel.net
+pixel.digitalspy.co.uk
 pixel.dorehernowi.pro
 pixel.draatlanderpri.info
 pixel.dsp.linksynergy.com
@@ -77127,6 +77154,8 @@ pixel.europapress.net
 pixel.everesttech.net
 pixel.facebook.com
 pixel.fanbridge.com
+pixel.fetchback.com
+pixel.gfycat.com
 pixel.glimr.io
 pixel.haphadmuchrom.com
 pixel.heckhaphanofres.info
@@ -77135,9 +77164,13 @@ pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.industrybrains.com
 pixel.ingest.at.atwola.com
+pixel.intares.net
+pixel.intellitxt.com
 pixel.invitemedia.com
+pixel.jumptap.com
 pixel.justresonter.com
 pixel.keywee.co
+pixel.klout.com
 pixel.madadsmedia.com
 pixel.maranhesduve.club
 pixel.mathtag.com
@@ -77145,11 +77178,15 @@ pixel.mediaiqdigital.com
 pixel.milasparreprob.club
 pixel.moatads.com
 pixel.naij.com
+pixel.nbsp.de
+pixel.newscgp.com
 pixel.newscred.com
 pixel.newsdiscover.com.au
+pixel.nymag.com
 pixel.onaudience.com
 pixel.onyemantee.pro
 pixel.othepbuttit.com
+pixel.parsely.com
 pixel.playbuzz.com
 pixel.prod2.invitemedia.com
 pixel.programmatictrader.com
@@ -77158,20 +77195,25 @@ pixel.rayjump.com
 pixel.realtor.com
 pixel.reckintersupwas.info
 pixel.reddit.com
+pixel.redditmedia.com
 pixel.ronatorda.com
 pixel.roymorgan.com
 pixel.rtclocketsun.info
 pixel.rubiconproject.com
+pixel.rubiconproject.net
 pixel.run-syndicate.com
 pixel.rydohimowa.info
 pixel.s3xified.com
 pixel.sandroprabratm.info
+pixel.serviceleverage.com
 pixel.sitescout.com
+pixel.socialtechtrader.co
 pixel.sojern.com
 pixel.sportsontheweb.net
 pixel.spotify.com
 pixel.spoutable.com
 pixel.sprinklr.com
+pixel.staging.tree.com
 pixel.staticworld.net
 pixel.tapad.com
 pixel.tapad.comp.skimresources.com
@@ -77179,13 +77221,18 @@ pixel.theagency.com
 pixel.titjolacruso.info
 pixel.tontwiredat.info
 pixel.trackverify.com
+pixel.tree.com
+pixel.trianaanalytics.com
 pixel.trifecta.vc.herokudns.com
 pixel.truecaller.com
 pixel.tuko.co.ke
 pixel.typacodosof.info
+pixel.usrsync.com
 pixel.vdo.ai
 pixel.vihub.ru
+pixel.vmm-satellite2.com
 pixel.watch
+pixel.webeyemob.com
 pixel.welt.de
 pixel.westseven.media
 pixel.widgetly.com
@@ -77193,6 +77240,7 @@ pixel.wp.pl
 pixel.xmladfeed.com
 pixel.yabidos.com
 pixel.yola.com
+pixel.yola.net
 pixel.zumby.io
 pixel1097.everesttech.net
 pixel1324.everesttech.net
@@ -77202,9 +77250,11 @@ pixel1553.everesttech.net
 pixel1739.everesttech.net
 pixel2.cheqzone.com
 pixel2.moatads.com
+pixel3.about.com
 pixel6.wp.pl
 pixelappcollector.thesun.co.uk
 pixelbox.uimserv.net
+pixelbt.fetchback.com
 pixelbus.pl
 pixelcounter.elmundo.es
 pixelcounter.marca.com
@@ -77219,7 +77269,11 @@ pixeljs-ads.pubmatic.com
 pixelrevenue.com
 pixels.adzmedia.com
 pixels.asia
+pixels.boodnet.com
 pixels.lostmy.name.herokudns.com
+pixels.mentad.com
+pixels.perfectaudience.com
+pixels.youknowbest.com
 pixelservice.apphb.com
 pixeltrack.eyeviewads.com
 pixeltrack66.com
@@ -80478,6 +80532,7 @@ pubportal.brkmd.com
 pubpress.net
 pubrain.com
 pubrepo.pubmatic.com
+pubreport.webeyemob.com
 pubs.france-hardware.com
 pubs.ouedkniss.com
 pubs.xl.pt
@@ -85008,6 +85063,7 @@ rtbvideobox.com
 rtbwx.cname1.igexin.com
 rtbx.adgrx.com
 rtc.v2.dedicatedpool.com
+rtc.webeyemob.com
 rtclocketsun.info
 rtctxxxvdq.com
 rtd.tubemogul.com
@@ -86675,6 +86731,7 @@ sckpttzpnfimba.bid
 sckuhytswbs.com
 sckxppzdm.com
 sckzvqadc.com
+scl-pixel.jumptap.com
 scleavshdrz.com
 sclick.6rooms.com
 sclick.baidu.com
@@ -92052,6 +92109,7 @@ staging.newrelic.com
 staging.novaonx.com
 staging.openpgpkey.wowne.ro
 staging.openx.com
+staging.perfectaudience.com
 staging.rungrinh.vn
 staging.santana.eu
 staging.schoolsleuth.org
@@ -94780,6 +94838,7 @@ syndication-whk1.exoclick.com
 syndication.advertiserurl.com
 syndication.cntrafficpro.com
 syndication.contentabc.com
+syndication.digitalspy.co.uk
 syndication.dynsrvtbg.com
 syndication.dynsrvwer.com
 syndication.exdynsrv.com
@@ -95251,6 +95310,7 @@ taelsfdgtmka.com
 taffr.com
 tafmaster.com
 tag-ams.1rx.io
+tag-cdn-staging.perfectaudience.com
 tag-nj.1rx.io
 tag-sjo.1rx.io
 tag-store.ads-pixiv.net
@@ -95268,6 +95328,7 @@ tag.brandcdn.com
 tag.cdnmaster.cn
 tag.cogocast.net
 tag.coin-mining.net
+tag.colorupmedia.com
 tag.crsspxl.com
 tag.cryptominer.net
 tag.demandbase.com
@@ -95532,6 +95593,7 @@ tap.more-results.net
 tap.rubiconproject.com
 tap.tapad.com
 tap2-cdn.rubiconproject.com
+tapad-origin.jumptap.com
 tapad.com
 tapair.com
 tapas.net
@@ -95871,6 +95933,7 @@ tdstats.com
 tdukupzymgfb.bid
 tdw.pushwoosh.com
 tdxio.com
+tdxipgdorydvzo.com
 tdxqgpfkiye.bid
 tdxuojiufz.bid
 te.adlandpro.com
@@ -99211,6 +99274,7 @@ track.wadi.trade
 track.wattpad.com
 track.wayin.com
 track.webbranddeals.com
+track.webeyemob.com
 track.webgains.com
 track.webmatics.info
 track.webprodeals.cf
@@ -100293,6 +100357,7 @@ tri.privy.com
 triadmedianetwork.com
 trial.tercept.com
 trial.tercept.com	
+trianaanalytics.com
 triangleservicesltd.com
 tribalfusion.com
 tribblenews.com
@@ -101471,6 +101536,7 @@ uas-api.inrix.com
 uaseqxra.com
 uashoes.club
 uaswitcher.org
+uat.pixel.newscgp.com
 uat.playquakewith.us
 uat1.bfsspadserver.8le8le.com
 uat1.mp3vel.trafficjunky.com
@@ -108917,6 +108983,7 @@ www.advertising.yahoo.com
 www.advertising365.com
 www.advertlets.com
 www.advertpro.com
+www.adverts.digitalspy.co.uk
 www.advertserve.com
 www.advertyz.com
 www.advnetmobile.mobi
@@ -112203,7 +112270,6 @@ www.galeriapn.pl
 www.galerie-idees.fr
 www.galileounaluna.com
 www.gallcom.pl
-www.galshop.ir
 www.gamblersanonymous.org
 www.gamblerush.com
 www.gamcare.org.uk
@@ -115398,6 +115464,7 @@ www.pep-egypt.com
 www.pepipo.com
 www.perch.pl
 www.perfect-coll.pl
+www.perfectaudience.com
 www.perfectgirls.net
 www.perfectionholic.com
 www.perfectlypolar.co.uk
@@ -117784,6 +117851,7 @@ www.trendydeniim.com
 www.tresriosimoveis.com.br
 www.trevisando.it
 www.trezor.bitcoin.cz
+www.trianaanalytics.com
 www.tribalfusion.com
 www.triboomedia.it
 www.tridi.be

@@ -1,8 +1,8 @@
 # Title: winhelp2002.mvps.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
-# Last Converted - 19.02.2020
-# Total Domains - 7020
+# Last Converted - 20.02.2020
+# Total Domains - 7023
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4491,6 +4491,7 @@
 0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.blog.hu
+0.0.0.0 pixel.captora.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.crosspixel.net
 0.0.0.0 pixel.everesttech.net
@@ -4500,7 +4501,9 @@
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.newscred.com
+0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.programmatictrader.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.realtor.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.sitescout.com

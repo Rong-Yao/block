@@ -1,8 +1,8 @@
 # Title: easyprivacy-specific Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last Converted - 19.02.2020
-# Total Domains - 840
+# Last Converted - 20.02.2020
+# Total Domains - 843
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -453,14 +453,17 @@
 0.0.0.0 pix.eads.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 pixel.dorehernowi.pro
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.naij.com
+0.0.0.0 pixel.newscgp.com
 0.0.0.0 pixel.newsdiscover.com.au
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 po.ponant.com
 0.0.0.0 presentationtracking.netflix.com

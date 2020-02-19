@@ -1,8 +1,8 @@
 # Title: someonewhocares.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
-# Last Converted - 19.02.2020
-# Total Domains - 6154
+# Last Converted - 20.02.2020
+# Total Domains - 6156
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3862,11 +3862,13 @@
 0.0.0.0 pix522.adtech.us
 0.0.0.0 pixel-secure.solvemedia.com
 0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.mathtag.com
+0.0.0.0 pixel.rubiconproject.net
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.staticworld.net
 0.0.0.0 pixel.tapad.com

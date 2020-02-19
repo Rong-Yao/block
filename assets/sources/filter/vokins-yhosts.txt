@@ -1,8 +1,8 @@
 # Title: vokins-yhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-# Last Converted - 19.02.2020
-# Total Domains - 7873
+# Last Converted - 20.02.2020
+# Total Domains - 7874
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5302,6 +5302,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.mathtag.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.vihub.ru

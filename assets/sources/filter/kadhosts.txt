@@ -1,8 +1,8 @@
 # Title: kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 19.02.2020
-# Total Domains - 5942
+# Last Converted - 20.02.2020
+# Total Domains - 5940
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1282,7 +1282,6 @@
 0.0.0.0 informacja-dnia.com
 0.0.0.0 informujemy24h.cba.pl
 0.0.0.0 infoturlgd.pl
-0.0.0.0 init.epoczta247.com
 0.0.0.0 innowacjewmarketingu.pl
 0.0.0.0 inochigniezno.pl
 0.0.0.0 inovscope.pt
@@ -1449,6 +1448,7 @@
 0.0.0.0 komisdramka.pl
 0.0.0.0 komorniik24.com
 0.0.0.0 komornik-gov.com
+0.0.0.0 komornik-gov24.com
 0.0.0.0 kompansmaku.pl
 0.0.0.0 kompiutery.pl
 0.0.0.0 koncepcjakirka.pl
@@ -3797,7 +3797,6 @@
 0.0.0.0 www.eonline.pl
 0.0.0.0 www.epicreact.pl
 0.0.0.0 www.epicreactflyknit.pl
-0.0.0.0 www.epoczta247.com
 0.0.0.0 www.erbudokna.pl
 0.0.0.0 www.ergocentrum.pl
 0.0.0.0 www.ergopro.pl
@@ -3820,7 +3819,6 @@
 0.0.0.0 www.europaubram.pl
 0.0.0.0 www.europejskaedukacja.pl
 0.0.0.0 www.eventownik.pl
-0.0.0.0 www.ewciakurier.com
 0.0.0.0 www.ewelinaplanuje.pl
 0.0.0.0 www.ex-torrentycom.5v.pl
 0.0.0.0 www.excelz.com
@@ -4170,7 +4168,6 @@
 0.0.0.0 www.informacja-dnia.com
 0.0.0.0 www.informujemy24h.cba.pl
 0.0.0.0 www.infoturlgd.pl
-0.0.0.0 www.init.epoczta247.com
 0.0.0.0 www.innowacjewmarketingu.pl
 0.0.0.0 www.inochigniezno.pl
 0.0.0.0 www.inspektorzyzieleni.pl
@@ -4310,6 +4307,7 @@
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.kometal.pl
 0.0.0.0 www.komisdramka.pl
+0.0.0.0 www.komornik-gov24.com
 0.0.0.0 www.kompiutery.pl
 0.0.0.0 www.koncepcjakirka.pl
 0.0.0.0 www.konferencje.vantis.pl

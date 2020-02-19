@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts
-# Version: 20.02.050
-# Release: 050
-# Entries: 63,379
+# Version: 20.02.051
+# Release: 051
+# Entries: 63,388
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 18:15:03
+# Updated: Thu, 20 Feb 20 00:16:43
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -12852,6 +12852,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dtyrqq5w0qdc8.cloudfront.net
 0.0.0.0 dtzads.com
 0.0.0.0 dtzysm.com
+0.0.0.0 du01z5hhojprz.cloudfront.net
 0.0.0.0 du1.bbdj.com
 0.0.0.0 du2uh7rq0r0d3.cloudfront.net
 0.0.0.0 dualmarket.info
@@ -18904,6 +18905,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imbafgnoipmv.com
 0.0.0.0 imbetan.info
 0.0.0.0 imbpmlyhkk.com
+0.0.0.0 imbwnxknxzmo.com
 0.0.0.0 imc.mediaz.vn
 0.0.0.0 imd.petit.lv
 0.0.0.0 imedia.co.il
@@ -19354,6 +19356,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 investhotels.ru
 0.0.0.0 investimenti.bnpparibas.it
 0.0.0.0 investing1.com
+0.0.0.0 invistionik.ru
 0.0.0.0 inviteonly.nl
 0.0.0.0 inviziads.com
 0.0.0.0 inwemo.com
@@ -21617,6 +21620,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 labadon.com
 0.0.0.0 labdwkqyavb.com
 0.0.0.0 laborates.com
+0.0.0.0 labortiontrifee.info
 0.0.0.0 lacembre.com
 0.0.0.0 lacendhers.info
 0.0.0.0 lacest.com
@@ -21893,6 +21897,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leaptrade.com
 0.0.0.0 leastersmiled.pro
 0.0.0.0 leasured.eu
+0.0.0.0 leathtexactlycin.info
 0.0.0.0 leb961.com
 0.0.0.0 lebanonreaders.com
 0.0.0.0 lebneeklnuru.com
@@ -24387,6 +24392,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mn0e.com
 0.0.0.0 mn1nm.com
 0.0.0.0 mn586.com
+0.0.0.0 mnaljqzekv.com
 0.0.0.0 mnbfujorh.com
 0.0.0.0 mnbvjhg.com
 0.0.0.0 mncvjhg.com
@@ -31584,6 +31590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 refpatig.xyz
 0.0.0.0 refpaumckl.top
 0.0.0.0 refpazcx.xyz
+0.0.0.0 refractionius.com
 0.0.0.0 refresh-tool.website
 0.0.0.0 reftedlettiny.info
 0.0.0.0 refunsiy.net
@@ -34227,6 +34234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 somon.tj
 0.0.0.0 somuboteso.com
 0.0.0.0 sonagerthrou.com
+0.0.0.0 sonaro.ru
 0.0.0.0 sonat.space
 0.0.0.0 sonikelf.ru
 0.0.0.0 sonnents.com
@@ -35665,6 +35673,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tdsrmbl.net
 0.0.0.0 tdstorage.site
 0.0.0.0 tdtsd.com
+0.0.0.0 tdxipgdorydvzo.com
 0.0.0.0 tea.pornolomka.video
 0.0.0.0 teachac.com
 0.0.0.0 teachscape.vo.llnwd.net
@@ -38445,7 +38454,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 valuad.cloud
 0.0.0.0 valuead.com
 0.0.0.0 valueclick.com
-0.0.0.0 valueclick.jp
 0.0.0.0 valueclick.net
 0.0.0.0 valueclickmedia.com
 0.0.0.0 valuecommerce.com
@@ -39275,6 +39283,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vqmqhkjfbksda.com
 0.0.0.0 vqnruxpecsn.com
 0.0.0.0 vqqvpouifhv.com
+0.0.0.0 vqsggzvcaujh.com
 0.0.0.0 vqvqgfpc.com
 0.0.0.0 vqxmeseasarc.com
 0.0.0.0 vqzqkhumdad.com

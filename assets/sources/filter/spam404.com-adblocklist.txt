@@ -1,8 +1,8 @@
 # Title: spam404.com-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# Last Converted - 19.02.2020
-# Total Domains - 3308
+# Last Converted - 20.02.2020
+# Total Domains - 3307
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1683,7 +1683,6 @@
 0.0.0.0 hacktokenstopeleven.com
 0.0.0.0 hacktool4.com
 0.0.0.0 hacktooldownload.com
-0.0.0.0 hacktools2013.com
 0.0.0.0 hacktoolsforeveryone.info
 0.0.0.0 hackwifipass.com
 0.0.0.0 hackworld.biz

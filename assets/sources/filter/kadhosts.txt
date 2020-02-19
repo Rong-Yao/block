@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 19.02.2020
-# Total Domains - 5943
+# Total Domains - 5942
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5454,7 +5454,6 @@
 0.0.0.0 www.thelogo.pl
 0.0.0.0 www.themovienation.com
 0.0.0.0 www.thenorthfacepl.pl
-0.0.0.0 www.thenorthfaceprzeceny.pl
 0.0.0.0 www.thenorthfacesklep.pl
 0.0.0.0 www.thepropertydealerz.com
 0.0.0.0 www.thermomix.vorwerk.pl

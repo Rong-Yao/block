@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 19.02.2020
-# Total Domains - 18320
+# Total Domains - 18331
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1789,6 +1789,7 @@
 0.0.0.0 aileenvideos.pro
 0.0.0.0 ailiyou1999.com
 0.0.0.0 ailtumty.net
+0.0.0.0 ailwayssteverin.info
 0.0.0.0 aim4media.com
 0.0.0.0 aimaptair.club
 0.0.0.0 aimatch.com
@@ -1901,6 +1902,7 @@
 0.0.0.0 allsporttv.com
 0.0.0.0 allycollegedstrie.info
 0.0.0.0 allyes.com
+0.0.0.0 alnsvbmp.com
 0.0.0.0 alogationa.co
 0.0.0.0 alphabird.com
 0.0.0.0 alphagodaddy.com
@@ -5025,6 +5027,7 @@
 0.0.0.0 dvt4pepo9om3r.cloudfront.net
 0.0.0.0 dvtwezyzog.com
 0.0.0.0 dvuneqnrkukud.com
+0.0.0.0 dw9uc6c6b8nwx.cloudfront.net
 0.0.0.0 dwaceiiywjwcyf.com
 0.0.0.0 dwczfwnjg.com
 0.0.0.0 dwf6crl4raal7.cloudfront.net
@@ -5247,6 +5250,7 @@
 0.0.0.0 efekvyyynwd.com
 0.0.0.0 effectivelyreport.com
 0.0.0.0 effectivemeasure.net
+0.0.0.0 efhlntnvpzi.com
 0.0.0.0 efhseqgqgl.com
 0.0.0.0 eficdbhnojt.com
 0.0.0.0 efishedo.info
@@ -5819,6 +5823,7 @@
 0.0.0.0 ffhwzaenzoue.com
 0.0.0.0 ffjzebtmdwi.com
 0.0.0.0 ffortongoropenityin.info
+0.0.0.0 ffortyimagist.info
 0.0.0.0 ffpnlrnmfyeqx.com
 0.0.0.0 ffqpdpezdmnpb.com
 0.0.0.0 ffwap.com
@@ -6286,6 +6291,7 @@
 0.0.0.0 ga87z2o.com
 0.0.0.0 gadgetresearch.net
 0.0.0.0 gadsans.com
+0.0.0.0 gadsanz.com
 0.0.0.0 gadsats.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
@@ -7531,6 +7537,7 @@
 0.0.0.0 igbznxar.com
 0.0.0.0 iggukjfuylwyv.com
 0.0.0.0 ighavizixlohvi.com
+0.0.0.0 iglaique.net
 0.0.0.0 igllgmtrioka.com
 0.0.0.0 igloohq.com
 0.0.0.0 igmsjgadiz.com
@@ -7824,6 +7831,7 @@
 0.0.0.0 iproblet.com
 0.0.0.0 iprofit.cc
 0.0.0.0 ipromote.com
+0.0.0.0 ipsoorel.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 ipuckjvccooync.com
 0.0.0.0 ipvertising.com
@@ -13064,6 +13072,7 @@
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com
 0.0.0.0 qmovnrphbgqr.com
+0.0.0.0 qmxkmsmkjxlar.com
 0.0.0.0 qmxpttxjv.com
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qndqwtrwguhv.com
@@ -17494,6 +17503,7 @@
 0.0.0.0 xwetmeeynns.com
 0.0.0.0 xwoexbipp.com
 0.0.0.0 xwonghmweu.com
+0.0.0.0 xwprdjbayq.com
 0.0.0.0 xwvofxgqilhy.com
 0.0.0.0 xwxbiywlavgpm.com
 0.0.0.0 xxccdshj.com
@@ -17983,6 +17993,7 @@
 0.0.0.0 zasccycohek.com
 0.0.0.0 zatrlsov.com
 0.0.0.0 zaugroaw.net
+0.0.0.0 zaushegi.net
 0.0.0.0 zavlamhx.com
 0.0.0.0 zavrotfro.com
 0.0.0.0 zaxdnhfdchet.com

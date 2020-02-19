@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.050
 # Release: 050
-# Entries: 63,368
+# Entries: 63,379
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 12:14:57
+# Updated: Wed, 19 Feb 20 18:15:03
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -4955,6 +4955,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ailiby.cn
 0.0.0.0 ailiyou1999.com
 0.0.0.0 ailtumty.net
+0.0.0.0 ailwayssteverin.info
 0.0.0.0 aim4media.com
 0.0.0.0 aimairasp.club
 0.0.0.0 aimaptair.club
@@ -5251,6 +5252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allzdorovy.ru
 0.0.0.0 almazde.ru
 0.0.0.0 almosto.com
+0.0.0.0 alnsvbmp.com
 0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
@@ -12947,6 +12949,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dw1cdf.ru
 0.0.0.0 dw5zm8unyuna.info
 0.0.0.0 dw998.com
+0.0.0.0 dw9uc6c6b8nwx.cloudfront.net
 0.0.0.0 dwaceiiywjwcyf.com
 0.0.0.0 dwczfwnjg.com
 0.0.0.0 dwf6crl4raal7.cloudfront.net
@@ -13446,6 +13449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 effectivemeasure.net
 0.0.0.0 effiliation.com
 0.0.0.0 efhabjaabgfbbegjacj.ru
+0.0.0.0 efhlntnvpzi.com
 0.0.0.0 efhseqgqgl.com
 0.0.0.0 eficdbhnojt.com
 0.0.0.0 efishedo.info
@@ -14732,6 +14736,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ffmhgdnkdcs.com
 0.0.0.0 ffoifngclwfuey.com
 0.0.0.0 ffortongoropenityin.info
+0.0.0.0 ffortyimagist.info
 0.0.0.0 ffovoxb9swkkbu.ru
 0.0.0.0 ffpnlrnmfyeqx.com
 0.0.0.0 ffqpdpezdmnpb.com
@@ -15731,6 +15736,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadnape.ru
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gadsans.com
+0.0.0.0 gadsanz.com
 0.0.0.0 gadsats.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
@@ -18690,6 +18696,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 igiplay.net
 0.0.0.0 igkek7a2.ga
 0.0.0.0 igkxr.biz
+0.0.0.0 iglaique.net
 0.0.0.0 igligan.info
 0.0.0.0 igllgmtrioka.com
 0.0.0.0 igloohq.com
@@ -19421,6 +19428,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipromote.com
 0.0.0.0 ipru.ru
 0.0.0.0 ips-invite.iperceptions.com
+0.0.0.0 ipsoorel.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 ipsqh.com
 0.0.0.0 ipuckjvccooync.com
@@ -19712,7 +19720,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 izxiluohe.com
 0.0.0.0 j-a-net.jp
 0.0.0.0 j-shops.ru
-0.0.0.0 j.6avz.com
 0.0.0.0 j.avz4.com
 0.0.0.0 j.baminw.cn
 0.0.0.0 j.diangon.com
@@ -30717,6 +30724,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmovnrphbgqr.com
 0.0.0.0 qmp3.cc
 0.0.0.0 qmsdxo.ru
+0.0.0.0 qmxkmsmkjxlar.com
 0.0.0.0 qmxpttxjv.com
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qn.bejson.com
@@ -35319,6 +35327,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 szxiuchang.com
 0.0.0.0 szxnruaeuig.com
 0.0.0.0 szxpsg.com
+0.0.0.0 szxzytech.com
 0.0.0.0 szyuke.cn
 0.0.0.0 szywarceqeo.com
 0.0.0.0 szzzpqcuxqq.com
@@ -61522,6 +61531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xwne.wcdn.co.il
 0.0.0.0 xwoexbipp.com
 0.0.0.0 xwonghmweu.com
+0.0.0.0 xwprdjbayq.com
 0.0.0.0 xwrmlohlri.com
 0.0.0.0 xwvksizcphhc.com
 0.0.0.0 xwvofxgqilhy.com
@@ -62635,6 +62645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zatexta.com
 0.0.0.0 zatrlsov.com
 0.0.0.0 zaugroaw.net
+0.0.0.0 zaushegi.net
 0.0.0.0 zavetiss.ru
 0.0.0.0 zavfvuooiqvepj.com
 0.0.0.0 zavlamhx.com

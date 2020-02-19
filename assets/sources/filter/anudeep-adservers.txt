@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Last Converted - 19.02.2020
-# Total Domains - 20212
+# Total Domains - 20206
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2306,7 +2306,6 @@
 0.0.0.0 a1175.casalemedia.com
 0.0.0.0 a118.casalemedia.com
 0.0.0.0 a1180.casalemedia.com
-0.0.0.0 a1181.casalemedia.com
 0.0.0.0 a119.casalemedia.com
 0.0.0.0 a1190.casalemedia.com
 0.0.0.0 a1191.casalemedia.com
@@ -4687,7 +4686,6 @@
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.cossette.adgear.com
-0.0.0.0 api.data-monitor.info
 0.0.0.0 api.data.360safe.com
 0.0.0.0 api.data.beautyplus.com
 0.0.0.0 api.data.meitu.com
@@ -8786,7 +8784,6 @@
 0.0.0.0 f03-4.tlnk.io
 0.0.0.0 f0a-b.tlnk.io
 0.0.0.0 f0ad.notifychheck.com
-0.0.0.0 f10-us-va.adhigh.net
 0.0.0.0 f11-us-va.adhigh.net
 0.0.0.0 f2m-o.tlnk.io
 0.0.0.0 f3-us-va.adhigh.net
@@ -10786,8 +10783,6 @@
 0.0.0.0 ius.qualtrics.com
 0.0.0.0 ivey.az1.qualtrics.com
 0.0.0.0 ivid-cdn.adhigh.net
-0.0.0.0 ivid-f11-us-va.adhigh.net
-0.0.0.0 ivid-f12-us-va.adhigh.net
 0.0.0.0 ivid-f13-us-va.adhigh.net
 0.0.0.0 ivid-f14-us-va.adhigh.net
 0.0.0.0 ivid-f2-us-va.adhigh.net
@@ -11560,7 +11555,6 @@
 0.0.0.0 lonrca03.marketo.com
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
-0.0.0.0 lonscreencap.marketo.com
 0.0.0.0 look.ichlnk.com
 0.0.0.0 looksmart-finance.t.domdex.com
 0.0.0.0 looksmart-shopping.t.domdex.com

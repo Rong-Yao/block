@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.050
 ; Release: 050
-; Entries: 63,368
+; Entries: 63,379
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 12:14:57
+; Updated: Wed, 19 Feb 20 18:15:03
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4944,6 +4944,7 @@ aili.com CNAME .
 ailiby.cn CNAME .
 ailiyou1999.com CNAME .
 ailtumty.net CNAME .
+ailwayssteverin.info CNAME .
 aim4media.com CNAME .
 aimairasp.club CNAME .
 aimaptair.club CNAME .
@@ -5240,6 +5241,7 @@ allyourmobi.com CNAME .
 allzdorovy.ru CNAME .
 almazde.ru CNAME .
 almosto.com CNAME .
+alnsvbmp.com CNAME .
 alog.umeng.co CNAME .
 alog.umeng.com CNAME .
 alog.umengcloud.com CNAME .
@@ -12936,6 +12938,7 @@ dvzyppnmfgtr.com CNAME .
 dw1cdf.ru CNAME .
 dw5zm8unyuna.info CNAME .
 dw998.com CNAME .
+dw9uc6c6b8nwx.cloudfront.net CNAME .
 dwaceiiywjwcyf.com CNAME .
 dwczfwnjg.com CNAME .
 dwf6crl4raal7.cloudfront.net CNAME .
@@ -13435,6 +13438,7 @@ effectivelyreport.com CNAME .
 effectivemeasure.net CNAME .
 effiliation.com CNAME .
 efhabjaabgfbbegjacj.ru CNAME .
+efhlntnvpzi.com CNAME .
 efhseqgqgl.com CNAME .
 eficdbhnojt.com CNAME .
 efishedo.info CNAME .
@@ -14721,6 +14725,7 @@ ffjzebtmdwi.com CNAME .
 ffmhgdnkdcs.com CNAME .
 ffoifngclwfuey.com CNAME .
 ffortongoropenityin.info CNAME .
+ffortyimagist.info CNAME .
 ffovoxb9swkkbu.ru CNAME .
 ffpnlrnmfyeqx.com CNAME .
 ffqpdpezdmnpb.com CNAME .
@@ -15720,6 +15725,7 @@ gadhx.cn CNAME .
 gadnape.ru CNAME .
 gads.pubmatic.com CNAME .
 gadsans.com CNAME .
+gadsanz.com CNAME .
 gadsats.com CNAME .
 gadsecz.com CNAME .
 gadsimz.com CNAME .
@@ -18679,6 +18685,7 @@ ighavizixlohvi.com CNAME .
 igiplay.net CNAME .
 igkek7a2.ga CNAME .
 igkxr.biz CNAME .
+iglaique.net CNAME .
 igligan.info CNAME .
 igllgmtrioka.com CNAME .
 igloohq.com CNAME .
@@ -19410,6 +19417,7 @@ iprofit.cc CNAME .
 ipromote.com CNAME .
 ipru.ru CNAME .
 ips-invite.iperceptions.com CNAME .
+ipsoorel.com CNAME .
 ipsowrite.com CNAME .
 ipsqh.com CNAME .
 ipuckjvccooync.com CNAME .
@@ -19701,7 +19709,6 @@ izwzyhlm.com CNAME .
 izxiluohe.com CNAME .
 j-a-net.jp CNAME .
 j-shops.ru CNAME .
-j.6avz.com CNAME .
 j.avz4.com CNAME .
 j.baminw.cn CNAME .
 j.diangon.com CNAME .
@@ -30706,6 +30713,7 @@ qmouzhzz.com CNAME .
 qmovnrphbgqr.com CNAME .
 qmp3.cc CNAME .
 qmsdxo.ru CNAME .
+qmxkmsmkjxlar.com CNAME .
 qmxpttxjv.com CNAME .
 qmzwcrordyc.com CNAME .
 qn.bejson.com CNAME .
@@ -35308,6 +35316,7 @@ szwzjk.cn CNAME .
 szxiuchang.com CNAME .
 szxnruaeuig.com CNAME .
 szxpsg.com CNAME .
+szxzytech.com CNAME .
 szyuke.cn CNAME .
 szywarceqeo.com CNAME .
 szzzpqcuxqq.com CNAME .
@@ -61511,6 +61520,7 @@ xwjwdjhb3a.space CNAME .
 xwne.wcdn.co.il CNAME .
 xwoexbipp.com CNAME .
 xwonghmweu.com CNAME .
+xwprdjbayq.com CNAME .
 xwrmlohlri.com CNAME .
 xwvksizcphhc.com CNAME .
 xwvofxgqilhy.com CNAME .
@@ -62624,6 +62634,7 @@ zashtorkino.ru CNAME .
 zatexta.com CNAME .
 zatrlsov.com CNAME .
 zaugroaw.net CNAME .
+zaushegi.net CNAME .
 zavetiss.ru CNAME .
 zavfvuooiqvepj.com CNAME .
 zavlamhx.com CNAME .

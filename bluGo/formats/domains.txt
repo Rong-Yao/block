@@ -29,7 +29,7 @@
 # Entries: 122,846
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 12:10:41
+# Updated: Wed, 19 Feb 20 18:10:47
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -11591,6 +11591,7 @@ alminacargo.com
 almostmy.com
 aln.poolerino.com
 alnisdrmhs.bid
+alnsvbmp.com
 aloafuel.com
 alocdn.com
 alog.umeng.co
@@ -13919,7 +13920,6 @@ api.curation.ameba.jp
 api.cxense.com
 api.dable.io
 api.danmu.tv.sohu.com
-api.data-monitor.info
 api.datadoghq.com
 api.dcy.mypool.online
 api.dedipass.com
@@ -19756,7 +19756,6 @@ bks2s.imonomy.com
 bksbcawzviwcw.com
 bkscqpflg.com
 bksdkconfig.play.cp81.ott.cibntv.net
-bksfr.com
 bkshpuspj.bid
 bksoup.v.qq.com
 bkstat.imonomy.com
@@ -19812,7 +19811,6 @@ blackminer.com
 blacknet.all-hacks.org
 blackops2.livehacksource.com
 blackops2hacked.com
-blackops2vengeance.sharezips.info
 blackpress.122.2o7.net
 blackry.com
 blacksheepatlanta.com
@@ -36343,6 +36341,7 @@ effectivemeasure.net
 efficaciouscactus.com
 efhabjaabgfbbegjacj.ru
 efhevptuqxpr.bid
+efhlntnvpzi.com
 efhseqgqgl.com
 eficdbhnojt.com
 efilisminmendham.ddns.net
@@ -38884,7 +38883,6 @@ evmodi0.ddns.net
 evnksnocq.com
 evnt.iol.it
 evntcmetzefbv.bid
-evobill.biz
 evodownload.com
 evogarage.com
 evohack.com
@@ -81452,6 +81450,7 @@ qmotkiltrim.com
 qmotmcwz.com
 qmouzhzz.com
 qmovnrphbgqr.com
+qmxkmsmkjxlar.com
 qmxpttxjv.com
 qmzwcrordyc.com
 qnajplxtvz-a.akamaihd.net
@@ -105205,6 +105204,7 @@ vqnruxpecsn.com
 vqq.admaster.com.cn
 vqqvpouifhv.com
 vqrq.adsb4track.com
+vqsggzvcaujh.com
 vqsljgqfy6.rsvcjfaodw.madpendesign.com.au
 vqubwduhbsd.com
 vqvqgfpc.com
@@ -117543,7 +117543,6 @@ www.theminingpool.thruhere.net
 www.themodernreligion.ru
 www.themovienation.com
 www.thenorthfacepl.pl
-www.thenorthfaceprzeceny.pl
 www.thenorthfacesklep.pl
 www.theofficeonpirie.com
 www.thepartnerships.com
@@ -120627,6 +120626,7 @@ xwonghmweu.com
 xwp-solo.baikalmine.com
 xwp.baikalmine.com
 xwp.solopool.org
+xwprdjbayq.com
 xwrmlohlri.com
 xwrrygvgt.com
 xwvksizcphhc.com

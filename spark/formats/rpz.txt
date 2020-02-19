@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.050
 ; Release: 050
-; Entries: 61,024
+; Entries: 61,027
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 12:10:36
+; Updated: Wed, 19 Feb 20 18:10:43
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7339,6 +7339,7 @@ allyes.com CNAME .
 allyoucan.it CNAME .
 alma-chic.es CNAME .
 alma-cmp.almamedia.io CNAME .
+alnsvbmp.com CNAME .
 alocdn.com CNAME .
 alog.umeng.co CNAME .
 alog.umeng.com CNAME .
@@ -8843,7 +8844,6 @@ api.crowdtangle.com CNAME .
 api.crowdtwist.com CNAME .
 api.cupid.ptqy.gitv.tv CNAME .
 api.cxense.com CNAME .
-api.data-monitor.info CNAME .
 api.datadoghq.com CNAME .
 api.dedipass.com CNAME .
 api.deep-ad.com.edgekey.net CNAME .
@@ -19978,6 +19978,7 @@ effectivemeasure.com CNAME .
 effectivemeasure.net CNAME .
 efficaciouscactus.com CNAME .
 efhabjaabgfbbegjacj.ru CNAME .
+efhlntnvpzi.com CNAME .
 efhseqgqgl.com CNAME .
 eficdbhnojt.com CNAME .
 efkxhoeoqsv.bid CNAME .
@@ -41275,6 +41276,7 @@ qmotkiltrim.com CNAME .
 qmotmcwz.com CNAME .
 qmouzhzz.com CNAME .
 qmovnrphbgqr.com CNAME .
+qmxkmsmkjxlar.com CNAME .
 qmxpttxjv.com CNAME .
 qmzwcrordyc.com CNAME .
 qncjellygamat1.com CNAME .
@@ -59812,6 +59814,7 @@ xwdlgzrnuyo.com CNAME .
 xwetmeeynns.com CNAME .
 xwoexbipp.com CNAME .
 xwonghmweu.com CNAME .
+xwprdjbayq.com CNAME .
 xwrmlohlri.com CNAME .
 xwvksizcphhc.com CNAME .
 xwvofxgqilhy.com CNAME .

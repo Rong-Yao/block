@@ -29,7 +29,7 @@
 # Entries: 122,846
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 12:10:41
+# Updated: Wed, 19 Feb 20 18:10:47
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts.txt
 # --------------------------------------------
 #
@@ -11610,6 +11610,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 almostmy.com
 0.0.0.0 aln.poolerino.com
 0.0.0.0 alnisdrmhs.bid
+0.0.0.0 alnsvbmp.com
 0.0.0.0 aloafuel.com
 0.0.0.0 alocdn.com
 0.0.0.0 alog.umeng.co
@@ -13938,7 +13939,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.cxense.com
 0.0.0.0 api.dable.io
 0.0.0.0 api.danmu.tv.sohu.com
-0.0.0.0 api.data-monitor.info
 0.0.0.0 api.datadoghq.com
 0.0.0.0 api.dcy.mypool.online
 0.0.0.0 api.dedipass.com
@@ -19775,7 +19775,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 bksbcawzviwcw.com
 0.0.0.0 bkscqpflg.com
 0.0.0.0 bksdkconfig.play.cp81.ott.cibntv.net
-0.0.0.0 bksfr.com
 0.0.0.0 bkshpuspj.bid
 0.0.0.0 bksoup.v.qq.com
 0.0.0.0 bkstat.imonomy.com
@@ -19831,7 +19830,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blacknet.all-hacks.org
 0.0.0.0 blackops2.livehacksource.com
 0.0.0.0 blackops2hacked.com
-0.0.0.0 blackops2vengeance.sharezips.info
 0.0.0.0 blackpress.122.2o7.net
 0.0.0.0 blackry.com
 0.0.0.0 blacksheepatlanta.com
@@ -36362,6 +36360,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 efficaciouscactus.com
 0.0.0.0 efhabjaabgfbbegjacj.ru
 0.0.0.0 efhevptuqxpr.bid
+0.0.0.0 efhlntnvpzi.com
 0.0.0.0 efhseqgqgl.com
 0.0.0.0 eficdbhnojt.com
 0.0.0.0 efilisminmendham.ddns.net
@@ -38903,7 +38902,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 evnksnocq.com
 0.0.0.0 evnt.iol.it
 0.0.0.0 evntcmetzefbv.bid
-0.0.0.0 evobill.biz
 0.0.0.0 evodownload.com
 0.0.0.0 evogarage.com
 0.0.0.0 evohack.com
@@ -81471,6 +81469,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com
 0.0.0.0 qmovnrphbgqr.com
+0.0.0.0 qmxkmsmkjxlar.com
 0.0.0.0 qmxpttxjv.com
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qnajplxtvz-a.akamaihd.net
@@ -105224,6 +105223,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vqq.admaster.com.cn
 0.0.0.0 vqqvpouifhv.com
 0.0.0.0 vqrq.adsb4track.com
+0.0.0.0 vqsggzvcaujh.com
 0.0.0.0 vqsljgqfy6.rsvcjfaodw.madpendesign.com.au
 0.0.0.0 vqubwduhbsd.com
 0.0.0.0 vqvqgfpc.com
@@ -117562,7 +117562,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.themodernreligion.ru
 0.0.0.0 www.themovienation.com
 0.0.0.0 www.thenorthfacepl.pl
-0.0.0.0 www.thenorthfaceprzeceny.pl
 0.0.0.0 www.thenorthfacesklep.pl
 0.0.0.0 www.theofficeonpirie.com
 0.0.0.0 www.thepartnerships.com
@@ -120646,6 +120645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xwp-solo.baikalmine.com
 0.0.0.0 xwp.baikalmine.com
 0.0.0.0 xwp.solopool.org
+0.0.0.0 xwprdjbayq.com
 0.0.0.0 xwrmlohlri.com
 0.0.0.0 xwrrygvgt.com
 0.0.0.0 xwvksizcphhc.com

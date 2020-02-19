@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.050
 # Release: 050
-# Entries: 61,024
+# Entries: 61,027
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 12:10:36
+# Updated: Wed, 19 Feb 20 18:10:43
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -7350,6 +7350,7 @@ ff02::3 ip6-allhosts
 :: allyoucan.it
 :: alma-chic.es
 :: alma-cmp.almamedia.io
+:: alnsvbmp.com
 :: alocdn.com
 :: alog.umeng.co
 :: alog.umeng.com
@@ -8854,7 +8855,6 @@ ff02::3 ip6-allhosts
 :: api.crowdtwist.com
 :: api.cupid.ptqy.gitv.tv
 :: api.cxense.com
-:: api.data-monitor.info
 :: api.datadoghq.com
 :: api.dedipass.com
 :: api.deep-ad.com.edgekey.net
@@ -19989,6 +19989,7 @@ ff02::3 ip6-allhosts
 :: effectivemeasure.net
 :: efficaciouscactus.com
 :: efhabjaabgfbbegjacj.ru
+:: efhlntnvpzi.com
 :: efhseqgqgl.com
 :: eficdbhnojt.com
 :: efkxhoeoqsv.bid
@@ -41286,6 +41287,7 @@ ff02::3 ip6-allhosts
 :: qmotmcwz.com
 :: qmouzhzz.com
 :: qmovnrphbgqr.com
+:: qmxkmsmkjxlar.com
 :: qmxpttxjv.com
 :: qmzwcrordyc.com
 :: qncjellygamat1.com
@@ -59823,6 +59825,7 @@ ff02::3 ip6-allhosts
 :: xwetmeeynns.com
 :: xwoexbipp.com
 :: xwonghmweu.com
+:: xwprdjbayq.com
 :: xwrmlohlri.com
 :: xwvksizcphhc.com
 :: xwvofxgqilhy.com

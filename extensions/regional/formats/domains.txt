@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.050
 # Release: 050
-# Entries: 63,368
+# Entries: 63,379
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 12:14:57
+# Updated: Wed, 19 Feb 20 18:15:03
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -4936,6 +4936,7 @@ aili.com
 ailiby.cn
 ailiyou1999.com
 ailtumty.net
+ailwayssteverin.info
 aim4media.com
 aimairasp.club
 aimaptair.club
@@ -5232,6 +5233,7 @@ allyourmobi.com
 allzdorovy.ru
 almazde.ru
 almosto.com
+alnsvbmp.com
 alog.umeng.co
 alog.umeng.com
 alog.umengcloud.com
@@ -12928,6 +12930,7 @@ dvzyppnmfgtr.com
 dw1cdf.ru
 dw5zm8unyuna.info
 dw998.com
+dw9uc6c6b8nwx.cloudfront.net
 dwaceiiywjwcyf.com
 dwczfwnjg.com
 dwf6crl4raal7.cloudfront.net
@@ -13427,6 +13430,7 @@ effectivelyreport.com
 effectivemeasure.net
 effiliation.com
 efhabjaabgfbbegjacj.ru
+efhlntnvpzi.com
 efhseqgqgl.com
 eficdbhnojt.com
 efishedo.info
@@ -14713,6 +14717,7 @@ ffjzebtmdwi.com
 ffmhgdnkdcs.com
 ffoifngclwfuey.com
 ffortongoropenityin.info
+ffortyimagist.info
 ffovoxb9swkkbu.ru
 ffpnlrnmfyeqx.com
 ffqpdpezdmnpb.com
@@ -15712,6 +15717,7 @@ gadhx.cn
 gadnape.ru
 gads.pubmatic.com
 gadsans.com
+gadsanz.com
 gadsats.com
 gadsecz.com
 gadsimz.com
@@ -18671,6 +18677,7 @@ ighavizixlohvi.com
 igiplay.net
 igkek7a2.ga
 igkxr.biz
+iglaique.net
 igligan.info
 igllgmtrioka.com
 igloohq.com
@@ -19402,6 +19409,7 @@ iprofit.cc
 ipromote.com
 ipru.ru
 ips-invite.iperceptions.com
+ipsoorel.com
 ipsowrite.com
 ipsqh.com
 ipuckjvccooync.com
@@ -19693,7 +19701,6 @@ izwzyhlm.com
 izxiluohe.com
 j-a-net.jp
 j-shops.ru
-j.6avz.com
 j.avz4.com
 j.baminw.cn
 j.diangon.com
@@ -30698,6 +30705,7 @@ qmouzhzz.com
 qmovnrphbgqr.com
 qmp3.cc
 qmsdxo.ru
+qmxkmsmkjxlar.com
 qmxpttxjv.com
 qmzwcrordyc.com
 qn.bejson.com
@@ -35300,6 +35308,7 @@ szwzjk.cn
 szxiuchang.com
 szxnruaeuig.com
 szxpsg.com
+szxzytech.com
 szyuke.cn
 szywarceqeo.com
 szzzpqcuxqq.com
@@ -61503,6 +61512,7 @@ xwjwdjhb3a.space
 xwne.wcdn.co.il
 xwoexbipp.com
 xwonghmweu.com
+xwprdjbayq.com
 xwrmlohlri.com
 xwvksizcphhc.com
 xwvofxgqilhy.com
@@ -62616,6 +62626,7 @@ zashtorkino.ru
 zatexta.com
 zatrlsov.com
 zaugroaw.net
+zaushegi.net
 zavetiss.ru
 zavfvuooiqvepj.com
 zavlamhx.com

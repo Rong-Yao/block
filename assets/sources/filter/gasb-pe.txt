@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 19.02.2020
-# Total Domains - 44519
+# Total Domains - 44517
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -19577,7 +19577,6 @@
 0.0.0.0 liveperson.net
 0.0.0.0 livepic.com
 0.0.0.0 liveplayer.tv
-0.0.0.0 lives.sex-explorer.com
 0.0.0.0 liveserver.com
 0.0.0.0 livesexbar.com
 0.0.0.0 livesexlist.com
@@ -19812,7 +19811,6 @@
 0.0.0.0 lookme.biz
 0.0.0.0 lookmy.info
 0.0.0.0 looknforlove.com
-0.0.0.0 looknmeet.be
 0.0.0.0 looksa.com
 0.0.0.0 looksmart.com
 0.0.0.0 lookupbox.com

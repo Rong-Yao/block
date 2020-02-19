@@ -29,7 +29,7 @@
 ; Entries: 122,846
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 12:10:41
+; Updated: Wed, 19 Feb 20 18:10:47
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -11599,6 +11599,7 @@ alminacargo.com CNAME .
 almostmy.com CNAME .
 aln.poolerino.com CNAME .
 alnisdrmhs.bid CNAME .
+alnsvbmp.com CNAME .
 aloafuel.com CNAME .
 alocdn.com CNAME .
 alog.umeng.co CNAME .
@@ -13927,7 +13928,6 @@ api.curation.ameba.jp CNAME .
 api.cxense.com CNAME .
 api.dable.io CNAME .
 api.danmu.tv.sohu.com CNAME .
-api.data-monitor.info CNAME .
 api.datadoghq.com CNAME .
 api.dcy.mypool.online CNAME .
 api.dedipass.com CNAME .
@@ -19764,7 +19764,6 @@ bks2s.imonomy.com CNAME .
 bksbcawzviwcw.com CNAME .
 bkscqpflg.com CNAME .
 bksdkconfig.play.cp81.ott.cibntv.net CNAME .
-bksfr.com CNAME .
 bkshpuspj.bid CNAME .
 bksoup.v.qq.com CNAME .
 bkstat.imonomy.com CNAME .
@@ -19820,7 +19819,6 @@ blackminer.com CNAME .
 blacknet.all-hacks.org CNAME .
 blackops2.livehacksource.com CNAME .
 blackops2hacked.com CNAME .
-blackops2vengeance.sharezips.info CNAME .
 blackpress.122.2o7.net CNAME .
 blackry.com CNAME .
 blacksheepatlanta.com CNAME .
@@ -36351,6 +36349,7 @@ effectivemeasure.net CNAME .
 efficaciouscactus.com CNAME .
 efhabjaabgfbbegjacj.ru CNAME .
 efhevptuqxpr.bid CNAME .
+efhlntnvpzi.com CNAME .
 efhseqgqgl.com CNAME .
 eficdbhnojt.com CNAME .
 efilisminmendham.ddns.net CNAME .
@@ -38892,7 +38891,6 @@ evmodi0.ddns.net CNAME .
 evnksnocq.com CNAME .
 evnt.iol.it CNAME .
 evntcmetzefbv.bid CNAME .
-evobill.biz CNAME .
 evodownload.com CNAME .
 evogarage.com CNAME .
 evohack.com CNAME .
@@ -81460,6 +81458,7 @@ qmotkiltrim.com CNAME .
 qmotmcwz.com CNAME .
 qmouzhzz.com CNAME .
 qmovnrphbgqr.com CNAME .
+qmxkmsmkjxlar.com CNAME .
 qmxpttxjv.com CNAME .
 qmzwcrordyc.com CNAME .
 qnajplxtvz-a.akamaihd.net CNAME .
@@ -105213,6 +105212,7 @@ vqnruxpecsn.com CNAME .
 vqq.admaster.com.cn CNAME .
 vqqvpouifhv.com CNAME .
 vqrq.adsb4track.com CNAME .
+vqsggzvcaujh.com CNAME .
 vqsljgqfy6.rsvcjfaodw.madpendesign.com.au CNAME .
 vqubwduhbsd.com CNAME .
 vqvqgfpc.com CNAME .
@@ -117551,7 +117551,6 @@ www.theminingpool.thruhere.net CNAME .
 www.themodernreligion.ru CNAME .
 www.themovienation.com CNAME .
 www.thenorthfacepl.pl CNAME .
-www.thenorthfaceprzeceny.pl CNAME .
 www.thenorthfacesklep.pl CNAME .
 www.theofficeonpirie.com CNAME .
 www.thepartnerships.com CNAME .
@@ -120635,6 +120634,7 @@ xwonghmweu.com CNAME .
 xwp-solo.baikalmine.com CNAME .
 xwp.baikalmine.com CNAME .
 xwp.solopool.org CNAME .
+xwprdjbayq.com CNAME .
 xwrmlohlri.com CNAME .
 xwrrygvgt.com CNAME .
 xwvksizcphhc.com CNAME .

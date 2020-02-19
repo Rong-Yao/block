@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
 # Last Converted - 19.02.2020
-# Total Domains - 19247
+# Total Domains - 19245
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4748,7 +4748,6 @@
 0.0.0.0 evilangelvideo.com
 0.0.0.0 evile.co.uk
 0.0.0.0 evkc.com
-0.0.0.0 evobill.biz
 0.0.0.0 evogarage.com
 0.0.0.0 evrotekhservis.ru
 0.0.0.0 evsun.net
@@ -8572,7 +8571,6 @@
 0.0.0.0 livejasmins.org
 0.0.0.0 livejasminwebcams.com
 0.0.0.0 liveporn.de
-0.0.0.0 lives.sex-explorer.com
 0.0.0.0 liveseek.de
 0.0.0.0 livesex-sexchat.com
 0.0.0.0 livesex99.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # Last Converted - 19.02.2020
-# Total Domains - 11285
+# Total Domains - 11290
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -231,6 +231,7 @@
 0.0.0.0 alkagrkgvltzlk.com
 0.0.0.0 allnvbtrtpku.com
 0.0.0.0 alnisdrmhs.bid
+0.0.0.0 alnsvbmp.com
 0.0.0.0 alszaaceaz.com
 0.0.0.0 alvdtjrb.com
 0.0.0.0 alvfzqwkb.com
@@ -2059,6 +2060,7 @@
 0.0.0.0 efebafmqn.com
 0.0.0.0 efekvyyynwd.com
 0.0.0.0 efhevptuqxpr.bid
+0.0.0.0 efhlntnvpzi.com
 0.0.0.0 efhseqgqgl.com
 0.0.0.0 eficdbhnojt.com
 0.0.0.0 efjucmgdzexeab.com
@@ -8130,6 +8132,7 @@
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com
 0.0.0.0 qmovnrphbgqr.com
+0.0.0.0 qmxkmsmkjxlar.com
 0.0.0.0 qmxpttxjv.com
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qndqwtrwguhv.com
@@ -10340,6 +10343,7 @@
 0.0.0.0 vqmdezgkkklcc.com
 0.0.0.0 vqnruxpecsn.com
 0.0.0.0 vqqvpouifhv.com
+0.0.0.0 vqsggzvcaujh.com
 0.0.0.0 vqzqkhumdad.com
 0.0.0.0 vrmuyscnqgsg.com
 0.0.0.0 vrvyearwxo.com
@@ -10814,6 +10818,7 @@
 0.0.0.0 xwetmeeynns.com
 0.0.0.0 xwoexbipp.com
 0.0.0.0 xwonghmweu.com
+0.0.0.0 xwprdjbayq.com
 0.0.0.0 xwvofxgqilhy.com
 0.0.0.0 xwxbiywlavgpm.com
 0.0.0.0 xxchhgilfheu.com

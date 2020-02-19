@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # Last Converted - 19.02.2020
-# Total Domains - 3310
+# Total Domains - 3308
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -249,13 +249,11 @@
 0.0.0.0 bitsckins.com
 0.0.0.0 bitskcin.com
 0.0.0.0 biziux.ru
-0.0.0.0 bksfr.com
 0.0.0.0 black.sharezips.info
 0.0.0.0 blackgameworld.com
 0.0.0.0 blackgamezone.com
 0.0.0.0 blackops2.livehacksource.com
 0.0.0.0 blackops2hacked.com
-0.0.0.0 blackops2vengeance.sharezips.info
 0.0.0.0 blackshot-hacks.com
 0.0.0.0 blazingskins.com
 0.0.0.0 blobspot.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
 # Last Converted - 19.02.2020
-# Total Domains - 16469
+# Total Domains - 16473
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1692,6 +1692,7 @@
 0.0.0.0 allsporttv.com
 0.0.0.0 allycollegedstrie.info
 0.0.0.0 allyes.com
+0.0.0.0 alnsvbmp.com
 0.0.0.0 alogationa.co
 0.0.0.0 alphabird.com
 0.0.0.0 alphagodaddy.com
@@ -4587,6 +4588,7 @@
 0.0.0.0 efekvyyynwd.com
 0.0.0.0 effectivelyreport.com
 0.0.0.0 effectivemeasure.net
+0.0.0.0 efhlntnvpzi.com
 0.0.0.0 efhseqgqgl.com
 0.0.0.0 eficdbhnojt.com
 0.0.0.0 eforeantheirma.info
@@ -11704,6 +11706,7 @@
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com
 0.0.0.0 qmovnrphbgqr.com
+0.0.0.0 qmxkmsmkjxlar.com
 0.0.0.0 qmxpttxjv.com
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qndqwtrwguhv.com
@@ -15713,6 +15716,7 @@
 0.0.0.0 xwetmeeynns.com
 0.0.0.0 xwoexbipp.com
 0.0.0.0 xwonghmweu.com
+0.0.0.0 xwprdjbayq.com
 0.0.0.0 xwvofxgqilhy.com
 0.0.0.0 xwxbiywlavgpm.com
 0.0.0.0 xxccdshj.com

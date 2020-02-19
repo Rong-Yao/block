@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-phishing.txt
 # Last Converted - 19.02.2020
-# Total Domains - 22708
+# Total Domains - 22707
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -13130,7 +13130,6 @@
 0.0.0.0 medpatchrx.com
 0.0.0.0 medramaccl.com
 0.0.0.0 medresearchgroup.com
-0.0.0.0 medsigmahc.com
 0.0.0.0 meduza.butra.pl
 0.0.0.0 medyumfatih.site
 0.0.0.0 medyumsuleymansikayet.com

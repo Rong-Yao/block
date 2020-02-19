@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 19.02.2020
-# Total Domains - 39926
+# Total Domains - 39925
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -29151,7 +29151,6 @@
 0.0.0.0 liveproxies.com
 0.0.0.0 liveproxy.com
 0.0.0.0 liverank.sexy.easyrencontre.com
-0.0.0.0 lives.sex-explorer.com
 0.0.0.0 livesearch.ninemsn.com.au
 0.0.0.0 livesearchnow.com
 0.0.0.0 liveserials.com

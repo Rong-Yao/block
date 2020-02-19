@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 19.02.2020
-# Total Domains - 35960
+# Total Domains - 35958
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -12533,7 +12533,6 @@
 0.0.0.0 evil69.com
 0.0.0.0 evile.co.uk
 0.0.0.0 evkc.com
-0.0.0.0 evobill.biz
 0.0.0.0 evogarage.com
 0.0.0.0 evt.izooto.com
 0.0.0.0 evt.moatads.com
@@ -34559,7 +34558,6 @@
 0.0.0.0 www.themillionaireinpjs.net
 0.0.0.0 www.themovienation.com
 0.0.0.0 www.thenorthfacepl.pl
-0.0.0.0 www.thenorthfaceprzeceny.pl
 0.0.0.0 www.thenorthfacesklep.pl
 0.0.0.0 www.thepornsurvey.com
 0.0.0.0 www.thepounder.com

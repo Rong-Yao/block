@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.050
 # Release: 050
-# Entries: 41,430
+# Entries: 41,428
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 12:14:50
+# Updated: Wed, 19 Feb 20 18:14:57
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/domains.txt
 # --------------------------------------------
 #
@@ -8352,7 +8352,6 @@ evilangelvideo.com
 evile.co.uk
 evilmilk.com
 evkc.com
-evobill.biz
 evogarage.com
 evrotekhservis.ru
 evsun.net
@@ -15909,7 +15908,6 @@ liveporn.de
 liveprivates.com
 livepromotools.com
 lives.net
-lives.sex-explorer.com
 liveseek.de
 livesex-24.ch
 livesex-cam.nl

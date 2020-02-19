@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.050
 # Release: 050
-# Entries: 122,892
+# Entries: 122,895
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 00:10:33
+# Updated: Wed, 19 Feb 20 06:09:59
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -4942,7 +4942,6 @@ activity.tuifish.com
 activity.tuipear.com
 activity.uc.cn
 activity.umeng.com
-activity.windows.com
 activity.wshareit.com
 activity.yesware.com.herokudns.com
 activity.yuyiya.com
@@ -6399,6 +6398,7 @@ adfp.send.microad.jp
 adfpaces.ero-advertising.com
 adfpkxvaqeyj.com
 adframesrc.com
+adfrastingathles.info
 adfries.info
 adfrika.com
 adfront.auction.co.kr
@@ -11180,7 +11180,6 @@ akviqfqbwqqj.com
 akvtmvoolwlm.bid
 akwadrago.pl
 akwajlcoap.com
-akwariumkrakow.pl
 akwk.club
 akxsrsdbursfpx.bid
 akyscwwwttk.com
@@ -27258,6 +27257,7 @@ collector-soompi.viki.io
 collector.abc-host.net.au
 collector.analytics.anvato.net
 collector.automote.co.nz
+collector.bikroy.com
 collector.brandify.com
 collector.bughd.com
 collector.bunchbox.co
@@ -27328,7 +27328,6 @@ color.trainersbyshopp.com
 coloradopersonalinjury.com
 colorato.net
 colorcall.s.xoxknct.com
-colorcredit.pl
 colorfulafterthought.com
 colorking.es
 colormessa.info
@@ -29775,6 +29774,7 @@ cutescale.online
 cuteturkey.com
 cutin.ru
 cutmaxstore.com
+cutopportings.info
 cuvbcwgenwytrk.bid
 cuwuk.ru
 cux.io
@@ -34877,6 +34877,7 @@ dubzmzpdkddi.com
 ducatisti.pl
 duchieu.de
 duchmcmpmqqu.com
+duchoono.com
 duck.bitember.com
 duckapp.duckdns.org
 ducksys.duckdns.org
@@ -36090,6 +36091,7 @@ edacross.org
 edc.adform.net
 edchargina.pro
 edchiu.com
+edcritessuspi.info
 eddd6b75.api.splkmobile.com
 eddietravel.marigoldcatba.com
 eddrpnykbofjln.com
@@ -45396,7 +45398,6 @@ goodairpack.com
 goodbizez.com
 goodblock.gladly.io
 goodbookbook.com
-goodcheats.net
 goodcounter.org
 goodevans.duckdns.org
 goodherbsoutlet.com
@@ -46741,6 +46742,7 @@ h21.ru
 h2o.cryptoadhd.com
 h2o.dedicatedpool.com
 h3.btcc.com
+h3btqpy2abc3.com
 h3lw971ym6.com
 h45dsagga.appspot.com
 h4i4rjwo06kowj4aqd19.maherstcottage.com.au
@@ -55418,6 +55420,7 @@ jatop.pl
 jatukarm-30.com
 jatxt.com
 jauftivogtho.com
+jaugloup.com
 jaunithuw.com
 jautaush.net
 java.twilightparadox.com
@@ -56071,6 +56074,7 @@ jo4ykw2t.myutilitydomain.com
 jo7cofh3.com
 joamwtfpppibtj.com
 joaqicgtmndbc.bid
+joawapti.net
 job.510mall.com
 job.hitjob.it
 job.rikunabi.com
@@ -63044,6 +63048,7 @@ maia.v2.dedicatedpool.com
 maibo666.com
 maidlytsnrn.com
 maidngl.com
+maihaimo.com
 maihama.2jikai-p.net
 maik.serverpower.net
 maikelgay.duckdns.org
@@ -65728,6 +65733,7 @@ mikegogulski.triplemining.com
 mikeschryver.com
 mikkvpggxg.bid
 mikopi.com
+mikpumwbahkx.com
 mil-colores.com
 mil-privilegios.es
 mil.cryptopool.eu
@@ -75744,6 +75750,7 @@ paumoogo.net
 paupbxxmhh.com
 paupepsu.click
 pauseforspacepublications.co.uk
+paveralleycoun.info
 pavfhwwddf.com
 pavinginperth.com.au
 pavkov12.ddns.net
@@ -77091,7 +77098,6 @@ pixazza.com
 pixel-a.basis.net
 pixel-a.sitescout.com
 pixel-apac.rubiconproject.com
-pixel-apc.adsymptotic.com
 pixel-eu.bilinmedia.net
 pixel-eu.rubiconproject.com
 pixel-hk.pixelinteractivemedia.com
@@ -78955,6 +78961,7 @@ potterpetrey.com
 potu.xyz
 potvaporizer.com
 poubotem.com
+poudeeri.com
 poulgilan.com
 poum.nextinpact.com
 pousadacasadoangelo.com.br
@@ -84013,6 +84020,7 @@ ria.demdex.net
 riaetcuycxjz.com
 riafinancial.d2.sc.omtrdc.net
 riah.ethosdistro.com
+riahungardedig.info
 riamelani.com
 riansociationentio.info
 riapangestuibu.id
@@ -84246,6 +84254,7 @@ rkrmpg.com
 rktch.com
 rktu.com
 rkueifizvmwbi.com
+rkvduvtdz.com
 rkwpgdnlwgg.bid
 rl.heise.de
 rl.minerpool.net
@@ -89665,6 +89674,7 @@ skygo.neodatagroup.com
 skyleaders.com
 skyligh.co
 skylink.vn
+skylowhat.site
 skymedia.co.uk
 skynet.bitcoin.de
 skynet.servehttp.com
@@ -94161,7 +94171,6 @@ supermercadosbandeirante.com.br
 supermercadosergio-coviran.com
 supernaturalart.com
 supernode-3.give-me-coins.com
-supernovaband.pl
 superofertasexclusivas.com
 superonclick.com
 superoperators.coinminingpool.org
@@ -95503,6 +95512,7 @@ talterfortmarob.info
 talweg.com.br
 tam.outbrain.com
 tamanas.com
+tamechangekn.info
 tamedia.ch
 tamgrt.com
 tamiecaseros.pro
@@ -96998,6 +97008,7 @@ thhps.com
 thibzxxtotyqg.bid
 thiccalts.net
 thietkeweb.mediaz.vn
+thigeeph.com
 thighiny.com
 thikraik.net
 thiksikr.com
@@ -97036,6 +97047,7 @@ thissideupdesigns.com
 thistled.triplemining.com
 thisurl.doesntexist.com
 thiswatchticks.com
+thitegnu.net
 thither-commonweal-warren.com
 thitruong-batdongsan.info
 thivsxubn.com
@@ -98218,6 +98230,7 @@ tq1.uodoo.com
 tqbmcmttzid.com
 tqcxtxglt.com
 tqdarrhactqc.com
+tqddgnqsrya.com
 tqgj.mediav.com
 tqguvxunwvk.com
 tqgxhuajp.com
@@ -99371,6 +99384,7 @@ tracker.baidu.com
 tracker.bang.com
 tracker.beezup.com
 tracker.bestshopping.com
+tracker.bikroy.com
 tracker.blueprintinteractivetest.com
 tracker.blutv.com
 tracker.book-secure.com
@@ -104870,6 +104884,7 @@ vivtracking.com
 vivyonline.com
 viwa.homelinux.com
 viwsqbbvfknp.com
+vixirtab.com
 vixnixxer.com
 vixqjiypv.com
 vizaiced.net
@@ -106081,6 +106096,7 @@ wdjaccount.open.uc.cn
 wdjaccountapi.open.uc.cn
 wdjbxcdriyjoeu.com
 wdkbcvnh.com
+wdlnoecwykpon.com
 wdm.map24.com
 wdm29.com
 wdmwebs.us
@@ -109081,7 +109097,6 @@ www.aktywnechwile.pl
 www.aktywnytylicz.pl
 www.akuna.pl
 www.akwadrago.pl
-www.akwariumkrakow.pl
 www.al-amaleka.com
 www.al-hasany.com
 www.alanmorgan.plus.com
@@ -109242,7 +109257,6 @@ www.animal-drawings.com
 www.animal36.com
 www.animalrank.com
 www.animaltoplist.com
-www.anitkakurier.com
 www.aniventure.co.uk
 www.ankarakinaorganizasyon.net
 www.ankiety-konsumenckie.pl
@@ -110954,7 +110968,6 @@ www.darmowe-bony.24.eu
 www.darmowe-ebooki.com.pl
 www.darmowe-ebooki.net
 www.darmowe-zakupy.com
-www.darmowecoinsy.pl
 www.darmowetesty.com
 www.das33.io
 www.dasaccess.com
@@ -111477,7 +111490,6 @@ www.electrocuenca.com
 www.electroenchufe.com
 www.electroline.pl
 www.electroneum.crypto-webminer.com
-www.electros.co.ua
 www.elegrina.pl
 www.elektromax.in.net
 www.elememory.com
@@ -111786,7 +111798,6 @@ www.fabulouspanda.com
 www.fabuloustrek.com
 www.faccebook.5v.pl
 www.face-vip.ujm.pl
-www.faceapp.eu
 www.facebbook.5v.pl
 www.facebok.com.ba
 www.facebook-apps.com
@@ -112731,7 +112742,6 @@ www.health-line.me
 www.health-partner.net
 www.healthcaremanagement.info
 www.healthinsureusa.com
-www.healthknowledge.my
 www.heapanalytics.com
 www.heartrevitalized.com
 www.heavy-test.crypto-webminer.com
@@ -113477,7 +113487,6 @@ www.kineman.pl
 www.kingbtc.co
 www.kingdkitchen.com
 www.kingdomschoice.com
-www.kinofilm-tv.pl
 www.kinoman-tv.eu
 www.kinomaniac.pl
 www.kinomaniak.pl
@@ -114218,7 +114227,6 @@ www.meetdate.xyz
 www.meetic-partners.com
 www.mega-deals.mobi
 www.mega-gry.com
-www.megabonus-point3.life
 www.megachiny.eu
 www.megacounter.de
 www.megadownloader.co
@@ -114506,7 +114514,6 @@ www.mohanin.com
 www.mohecm.com
 www.mojadedra.pl
 www.mojadietanamase.pl
-www.mojaesg.pl
 www.mojakopia.pl
 www.moje-last-minute.pl
 www.mojeasg.pl
@@ -115912,7 +115919,6 @@ www.proxy9.nullrefexcep.com
 www.pruszkowmieszkania.pl
 www.prux.mastermining.net
 www.przechwycone-zdjecia.00x.eu
-www.przedsiebieblog.pl
 www.przedszkoleglobus.pl
 www.przedszkolekrainadziecka.pl
 www.przedszkoleszkrab.pl
@@ -116472,7 +116478,6 @@ www.saldao-fevereiro.com
 www.saldaodefevereiro.com
 www.salentoeasy.it
 www.salesunglasses07.pw
-www.salewablock.pl
 www.salomonbuty.pl
 www.salomonpoland.pl
 www.salomonpolska.com
@@ -117037,7 +117042,6 @@ www.sportsdisplaycases.com
 www.sportsentry.ne.jp
 www.sportsinteraction.com
 www.sportsklep.com.pl
-www.sportswearpolska.pl
 www.sportyplay.com
 www.spotlessweb.com
 www.spotmecoin.com
@@ -119048,7 +119052,6 @@ www.zpafiska.pl
 www.zpool.ca
 www.zpool.ga
 www.zpotrzebyserc.pl
-www.zs1chocznia.pl
 www.zshacker.com
 www.zskleczany.pl
 www.zsklembow.pl

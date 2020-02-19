@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
 # Last Converted - 19.02.2020
-# Total Domains - 2818
+# Total Domains - 2819
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2560,6 +2560,7 @@
 0.0.0.0 usuarios-online.com
 0.0.0.0 uuidksinc.net
 0.0.0.0 uzrating.com
+0.0.0.0 v3.fstats.xyz
 0.0.0.0 v3cdn.net
 0.0.0.0 valaffiliates.com
 0.0.0.0 vantage-media.net

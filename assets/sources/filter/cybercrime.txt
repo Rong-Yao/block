@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
 # Last Converted - 19.02.2020
-# Total Domains - 6804
+# Total Domains - 6848
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -121,6 +121,7 @@
 0.0.0.0 a0386457.xsph.ru
 0.0.0.0 a0386894.xsph.ru
 0.0.0.0 a0392617.xsph.ru
+0.0.0.0 a0403782.xsph.ru
 0.0.0.0 a2wpress.com
 0.0.0.0 a30r264dg.cn
 0.0.0.0 a84bl82rni.ru
@@ -160,6 +161,7 @@
 0.0.0.0 accessoiriesindia.com
 0.0.0.0 accidentattorneysphiladelphia.com
 0.0.0.0 accord.websitewelcome.com
+0.0.0.0 account.protonvpn.store
 0.0.0.0 accountnumb.com
 0.0.0.0 accounts-logmein.com
 0.0.0.0 accqweqweazo.com
@@ -228,6 +230,7 @@
 0.0.0.0 ag-nn.ru
 0.0.0.0 agannochka228.siteme.org
 0.0.0.0 agapehomecare.net
+0.0.0.0 agent.agentreef.xyz
 0.0.0.0 agent.rooderoofing.com.au
 0.0.0.0 agentprime401.com
 0.0.0.0 agentworker.usa.cc
@@ -358,6 +361,7 @@
 0.0.0.0 amacseurope.com
 0.0.0.0 amatnage.gq
 0.0.0.0 amazing-health.info
+0.0.0.0 amazon-fr.fun
 0.0.0.0 amazonvillage.net
 0.0.0.0 ambliglobal.nut.cc
 0.0.0.0 amcoexpress.com
@@ -833,6 +837,7 @@
 0.0.0.0 briiskgroup.com
 0.0.0.0 brioplay.ru
 0.0.0.0 brodam.ro
+0.0.0.0 brokenbrains.xyz
 0.0.0.0 brokenskull247.com
 0.0.0.0 brokenskull247.ru
 0.0.0.0 brolaskjf.superweb.ws
@@ -1852,12 +1857,14 @@
 0.0.0.0 f0394712.xsph.ru
 0.0.0.0 f0395086.xsph.ru
 0.0.0.0 f0395171.xsph.ru
+0.0.0.0 f0395256.xsph.ru
 0.0.0.0 f0395612.xsph.ru
 0.0.0.0 f0395685.xsph.ru
 0.0.0.0 f0395829.xsph.ru
 0.0.0.0 f0395957.xsph.ru
 0.0.0.0 f0396079.xsph.ru
 0.0.0.0 f0396080.xsph.ru
+0.0.0.0 f0396130.xsph.ru
 0.0.0.0 f0396258.xsph.ru
 0.0.0.0 f0396320.xsph.ru
 0.0.0.0 f0396384.xsph.ru
@@ -1865,11 +1872,28 @@
 0.0.0.0 f0396733.xsph.ru
 0.0.0.0 f0396918.xsph.ru
 0.0.0.0 f0397413.xsph.ru
+0.0.0.0 f0397448.xsph.ru
 0.0.0.0 f0397819.xsph.ru
 0.0.0.0 f0397840.xsph.ru
 0.0.0.0 f0397968.xsph.ru
 0.0.0.0 f0398481.xsph.ru
 0.0.0.0 f0398595.xsph.ru
+0.0.0.0 f0399991.xsph.ru
+0.0.0.0 f0400035.xsph.ru
+0.0.0.0 f0400204.xsph.ru
+0.0.0.0 f0400406.xsph.ru
+0.0.0.0 f0400556.xsph.ru
+0.0.0.0 f0400620.xsph.ru
+0.0.0.0 f0401036.xsph.ru
+0.0.0.0 f0401354.xsph.ru
+0.0.0.0 f0401489.xsph.ru
+0.0.0.0 f0401541.xsph.ru
+0.0.0.0 f0401680.xsph.ru
+0.0.0.0 f0401703.xsph.ru
+0.0.0.0 f0401958.xsph.ru
+0.0.0.0 f0402038.xsph.ru
+0.0.0.0 f0402728.xsph.ru
+0.0.0.0 f0403149.xsph.ru
 0.0.0.0 f100h.com
 0.0.0.0 f2wa.com
 0.0.0.0 f92155ve.beget.tech
@@ -2207,6 +2231,7 @@
 0.0.0.0 goldenfashiondeeds.com
 0.0.0.0 goldenfuturepower5.com
 0.0.0.0 goldenly.in
+0.0.0.0 golder.hk
 0.0.0.0 goldrptop.kl.com.ua
 0.0.0.0 goldsenninc.tk
 0.0.0.0 golf-gti.be
@@ -2381,6 +2406,7 @@
 0.0.0.0 hdtvsounds.ru
 0.0.0.0 healthhub.net.au
 0.0.0.0 healthyweightprofit.com
+0.0.0.0 heard-white-13.myjino.ru
 0.0.0.0 heartychern.com
 0.0.0.0 hecked-by-brain-krebs.biz
 0.0.0.0 hectords.us
@@ -2458,6 +2484,7 @@
 0.0.0.0 hope-care.co.uk
 0.0.0.0 hopelink.com.au
 0.0.0.0 horizonmagazine.com
+0.0.0.0 host-195-2-93-148.hosted-by-vdsina.ru
 0.0.0.0 hostelunke.ml
 0.0.0.0 hostfaze.com
 0.0.0.0 hosting123123.net23.net
@@ -2540,6 +2567,7 @@
 0.0.0.0 iexplorer.redirectme.net
 0.0.0.0 ifbi.netau.net
 0.0.0.0 ifemonums.hostoi.com
+0.0.0.0 ignovikovo.temp.swtest.ru
 0.0.0.0 igorsocko1ov.myjino.ru
 0.0.0.0 igpp-securite.com
 0.0.0.0 igtckeep.com
@@ -2759,6 +2787,7 @@
 0.0.0.0 jkcadeiras.com.br
 0.0.0.0 jkdef8.ws
 0.0.0.0 jlabcheminc.ru
+0.0.0.0 jlckey.000webhostapp.com
 0.0.0.0 jmdsystem.in
 0.0.0.0 jmodz.com
 0.0.0.0 jncjcb.com
@@ -3018,6 +3047,7 @@
 0.0.0.0 l17cce3a.justinstalledpanel.com
 0.0.0.0 l1r.org
 0.0.0.0 l276eb20.justinstalledpanel.com
+0.0.0.0 l2c30494.justinstalledpanel.com
 0.0.0.0 l2cc9521.justinstalledpanel.com
 0.0.0.0 l2e84637.justinstalledpanel.com
 0.0.0.0 l2fog.ru
@@ -3029,8 +3059,10 @@
 0.0.0.0 l5056942.justinstalledpanel.com
 0.0.0.0 l535e9e5.justinstalledpanel.com
 0.0.0.0 l60bdd58.justinstalledpanel.com
+0.0.0.0 l63170c9.justinstalledpanel.com
 0.0.0.0 l63567ur.beget.tech
 0.0.0.0 l6d99373.justinstalledpanel.com
+0.0.0.0 l78036b5.justinstalledpanel.com
 0.0.0.0 l81377c3.justinstalledpanel.com
 0.0.0.0 l8b6a671.justinstalledpanel.com
 0.0.0.0 l8c2224e.justinstalledpanel.com
@@ -3046,6 +3078,7 @@
 0.0.0.0 lacasonadelcartero.cl
 0.0.0.0 ladesignremodeling.com
 0.0.0.0 ladylee.pw
+0.0.0.0 lae9ac50.justinstalledpanel.com
 0.0.0.0 laerskoolkameelfontein.co.za
 0.0.0.0 lagginfo.com
 0.0.0.0 lahtiprecission.com
@@ -3098,6 +3131,8 @@
 0.0.0.0 lbfb3f03.justinstalledpanel.com
 0.0.0.0 lc14169d.justinstalledpanel.com
 0.0.0.0 lcp.cc
+0.0.0.0 ld01c555.justinstalledpanel.com
+0.0.0.0 ld7626cd.justinstalledpanel.com
 0.0.0.0 ld7cad07.justinstalledpanel.com
 0.0.0.0 ldautorepair.com
 0.0.0.0 ldba8c05.justinstalledpanel.com
@@ -3491,6 +3526,7 @@
 0.0.0.0 minecraft-ok.ru
 0.0.0.0 minecraft-only.ru
 0.0.0.0 minecraftsz.site
+0.0.0.0 minecrafttusa1.myjino.ru
 0.0.0.0 minecraftzone.com
 0.0.0.0 minefunc.ml
 0.0.0.0 minefunsamp.tk
@@ -3633,6 +3669,7 @@
 0.0.0.0 mybogeyman.com
 0.0.0.0 mycoffeenet.com
 0.0.0.0 mydocuments.net76.net
+0.0.0.0 myehterwallet.top
 0.0.0.0 myfollowingso.com
 0.0.0.0 myfullz.com
 0.0.0.0 mygamerun.info
@@ -4635,6 +4672,7 @@
 0.0.0.0 selftasarim.com
 0.0.0.0 sellychukwu.ru
 0.0.0.0 selo02.ru
+0.0.0.0 semanariolaprensa.com
 0.0.0.0 semaprin.info
 0.0.0.0 seml.com.pk
 0.0.0.0 semmelroth.info
@@ -4756,6 +4794,7 @@
 0.0.0.0 sino-spriulina.com
 0.0.0.0 sinorichen.cf
 0.0.0.0 sinowaychina.co
+0.0.0.0 sinsixclaw.com
 0.0.0.0 sinutinu.com
 0.0.0.0 sip1distribution.com
 0.0.0.0 siplsystems.com
@@ -4934,6 +4973,7 @@
 0.0.0.0 stastports.com
 0.0.0.0 statensofre.no
 0.0.0.0 statewidelegal.com.au
+0.0.0.0 statistseobd.xyz
 0.0.0.0 stauniverseqp.com
 0.0.0.0 stc-com.com
 0.0.0.0 stcubegames.netxi.in
@@ -5381,6 +5421,7 @@
 0.0.0.0 tumpengsemarang.com
 0.0.0.0 tundeghanawork.co.gp
 0.0.0.0 tung-thai.com
+0.0.0.0 tungyu.cf
 0.0.0.0 tupafleks.zzz.com.ua
 0.0.0.0 turames.site
 0.0.0.0 turames3.site
@@ -5710,6 +5751,7 @@
 0.0.0.0 waxxiv.com
 0.0.0.0 wb350cisce.org
 0.0.0.0 wbs.zephirenr.com
+0.0.0.0 wcvxbvf.ug
 0.0.0.0 wearestillalive.org
 0.0.0.0 wearethestorm.com
 0.0.0.0 web.testing.flexihost.co.nz
@@ -5817,6 +5859,7 @@
 0.0.0.0 wroft-fd.club
 0.0.0.0 wsdfg.com
 0.0.0.0 wssup.com
+0.0.0.0 wtfshop.myjino.ru
 0.0.0.0 wuenschejetzterfuellen.com
 0.0.0.0 wupx.ml
 0.0.0.0 wusetwo.xyz
@@ -6552,6 +6595,7 @@
 0.0.0.0 www.transteka.pl
 0.0.0.0 www.traucotravel.com
 0.0.0.0 www.trentfast.com
+0.0.0.0 www.trimasjaya.com
 0.0.0.0 www.triplealaw.co.ke
 0.0.0.0 www.trump-group.com
 0.0.0.0 www.tsq-hk.com

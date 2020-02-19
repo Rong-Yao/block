@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.050
 # Release: 050
-# Entries: 60,995
+# Entries: 61,014
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 00:10:26
+# Updated: Wed, 19 Feb 20 06:09:55
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -2752,7 +2752,6 @@ activity.m.duiba.com.cn
 activity.tuifish.com
 activity.uc.cn
 activity.umeng.com
-activity.windows.com
 activity.wshareit.com
 activity.yesware.com.herokudns.com
 actontv.122.2o7.net
@@ -3718,6 +3717,7 @@ adfox.yandex.ru
 adfpaces.ero-advertising.com
 adfpkxvaqeyj.com
 adframesrc.com
+adfrastingathles.info
 adfries.info
 adfrika.com
 adfrontiers.com
@@ -8932,7 +8932,6 @@ api.magmamobile.com
 api.maropost.com
 api.mediatailor.eu-west-1.amazonaws.com
 api.megacool.co
-api.metrics.heroku.com
 api.mgid.com
 api.mixpanel.com
 api.mobadvent.com
@@ -15712,6 +15711,7 @@ collector-pool.newrelic.com
 collector-soompi.viki.io
 collector.abc-host.net.au
 collector.analytics.anvato.net
+collector.bikroy.com
 collector.brandify.com
 collector.bughd.com
 collector.capturly.com
@@ -16968,6 +16968,7 @@ cutephoto.cu
 cutescale.online
 cuteturkey.com
 cutmaxstore.com
+cutopportings.info
 cv-ph.rdtcdn.com
 cv.accesstrade.vn
 cv.rdtcdn.com
@@ -19254,6 +19255,7 @@ dub-1-xcp.go.sonobi.com
 dub-1.go.sonobi.com
 dubshub.com
 dubvacasept.com
+duchoono.com
 duclick.baidu.com
 dudebutandlac.info
 duetads.com
@@ -19836,6 +19838,7 @@ edaa.eu
 edacross.org
 edc.adform.net
 edchargina.pro
+edcritessuspi.info
 eddd6b75.api.splkmobile.com
 eddrpnykbofjln.com
 eddy.pro
@@ -24590,6 +24593,7 @@ h1.ripway.com
 h12-media.com
 h12srv.adk2.co
 h21.ru
+h3btqpy2abc3.com
 h3lw971ym6.com
 h5.adgear.com
 h5.appadhoc.com
@@ -28137,6 +28141,7 @@ jarvinzo.com
 jarvisdigital-inv-eu.admixer.net
 jasonsvid.com
 jatxt.com
+jaugloup.com
 jaunithuw.com
 jautaush.net
 javacript.cf
@@ -28438,6 +28443,7 @@ jnyorvlxy.com
 jo.ads.justpremium.com
 jo7cofh3.com
 joamwtfpppibtj.com
+joawapti.net
 jobnowshop.xyz
 jobs.adgear.com
 jobs.advertising.com
@@ -31616,6 +31622,7 @@ mai.group
 maia.iad-03.braze.com
 maibo666.com
 maidlytsnrn.com
+maihaimo.com
 maikuque.net
 mail.adcash.com
 mail.adcolony.com
@@ -32919,6 +32926,7 @@ mightymagoo.com
 mignpaybmqkcy.com
 mihqbmugg.com
 mikeboffer.mytvplayer.hop.clickbank.net
+mikpumwbahkx.com
 mil-colores.com
 milabra.com
 milanospurghi.com
@@ -38068,6 +38076,7 @@ paulsnetwork.com
 paumoogo.net
 paupbxxmhh.com
 paupepsu.click
+paveralleycoun.info
 pavfhwwddf.com
 pawxrbexeylzn.com
 paxmedia.net
@@ -38707,7 +38716,6 @@ pixazza.com
 pixel-a.basis.net
 pixel-a.sitescout.com
 pixel-apac.rubiconproject.com
-pixel-apc.adsymptotic.com
 pixel-eu.rubiconproject.com
 pixel-insight.ucweb.com
 pixel-origin.mathtag.com
@@ -39689,6 +39697,7 @@ potmbbqbaqxwp.com
 potu.xyz
 potvaporizer.com
 poubotem.com
+poudeeri.com
 povqrvsoljy.com
 powellsbooks.122.2o7.net
 power.info.com
@@ -42656,6 +42665,7 @@ ri.clickability.com
 ri.nuggad.net
 ria.demdex.net
 riafinancial.d2.sc.omtrdc.net
+riahungardedig.info
 riansociationentio.info
 ribbon.india.com
 ribcagebags.com
@@ -42770,6 +42780,7 @@ rklluqchluxg.com
 rkpecade.com
 rkrmpg.com
 rkueifizvmwbi.com
+rkvduvtdz.com
 rlaiomvkwz.com
 rlbvwdviqx.com
 rlcdn.com
@@ -45627,6 +45638,7 @@ skydigital.neodatagroup.com
 skygo.neodatagroup.com
 skyligh.co
 skylink.vn
+skylowhat.site
 skymedia.co.uk
 skype.dw.land.to
 skypeclass.com
@@ -48357,6 +48369,7 @@ tallerillescas209.es
 tallgireffe.com
 talterfortmarob.info
 tam.outbrain.com
+tamechangekn.info
 tamgrt.com
 tamiecaseros.pro
 tamilcm.com
@@ -49025,6 +49038,7 @@ thewhizproducts.com
 thewinesteward.com
 thewise.com
 thgalecom.112.2o7.net
+thigeeph.com
 thighiny.com
 thikraik.net
 thiksikr.com
@@ -49051,6 +49065,7 @@ thisisglobal.deliveryengine.adswizz.com
 thisiswaldo.com
 thismetric.com
 thisoldhouse-tagan.adlightning.com
+thitegnu.net
 thivsxubn.com
 thjlnyagmxrbt.com
 thkexopsciqums.com
@@ -49681,6 +49696,7 @@ tq1.uodoo.com
 tqbmcmttzid.com
 tqcxtxglt.com
 tqdarrhactqc.com
+tqddgnqsrya.com
 tqgj.mediav.com
 tqguvxunwvk.com
 tqgxhuajp.com
@@ -50712,6 +50728,7 @@ tracker.baidu.com
 tracker.bang.com
 tracker.beezup.com
 tracker.bestshopping.com
+tracker.bikroy.com
 tracker.blueprintinteractivetest.com
 tracker.brainsins.com
 tracker.btzoo.eu
@@ -53808,6 +53825,7 @@ vivieasy.com
 vivtracking.com
 vivyonline.com
 viwsqbbvfknp.com
+vixirtab.com
 vixnixxer.com
 vixqjiypv.com
 vizaiced.net
@@ -54482,6 +54500,7 @@ wdjaccount.open.uc.cn
 wdjaccountapi.open.uc.cn
 wdjbxcdriyjoeu.com
 wdkbcvnh.com
+wdlnoecwykpon.com
 wdm29.com
 wdmwebs.us
 wdpwhnxfzoozsw.com

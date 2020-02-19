@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.050
 # Release: 050
-# Entries: 63,336
+# Entries: 63,362
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 00:15:01
+# Updated: Wed, 19 Feb 20 06:13:59
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -3171,6 +3171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adfox.ru
 0.0.0.0 adfox.vn
 0.0.0.0 adframesrc.com
+0.0.0.0 adfrastingathles.info
 0.0.0.0 adfrika.com
 0.0.0.0 adfrontiers.com
 0.0.0.0 adfueling.com
@@ -8565,6 +8566,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cadsips.com
 0.0.0.0 cadsipz.com
 0.0.0.0 cadskis.com
+0.0.0.0 cadslimz.com
 0.0.0.0 cadsoks.com
 0.0.0.0 cadsokz.com
 0.0.0.0 cadspmz.com
@@ -8651,6 +8653,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 caniaddestrati.org
 0.0.0.0 canoeklix.com
 0.0.0.0 canofpaint.xyz
+0.0.0.0 canonch.pro
 0.0.0.0 cantn.top
 0.0.0.0 canuckmethodprofit.co
 0.0.0.0 caob5.info
@@ -10778,6 +10781,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cutescale.online
 0.0.0.0 cutiedomain.com
 0.0.0.0 cutivecut.info
+0.0.0.0 cutopportings.info
 0.0.0.0 cutralflibsye.ru
 0.0.0.0 cutw.pro
 0.0.0.0 cuys.ru
@@ -11004,6 +11008,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 d1bevsqehy4npt.cloudfront.net
 0.0.0.0 d1boik8k1ctool.cloudfront.net
+0.0.0.0 d1bxkgbbc428vi.cloudfront.net
 0.0.0.0 d1byvlfiet2h9q.cloudfront.net
 0.0.0.0 d1c0l5ws9ddltf.cloudfront.net
 0.0.0.0 d1ckj42q07f9s3.cloudfront.net
@@ -11066,6 +11071,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1rb5wwywwoqqm.cloudfront.net
 0.0.0.0 d1re760tkiprs5.cloudfront.net
 0.0.0.0 d1rguclfwp7nc8.cloudfront.net
+0.0.0.0 d1rjzrtsxlzawf.cloudfront.net
 0.0.0.0 d1rkf0bq85yx06.cloudfront.net
 0.0.0.0 d1s18kaechs9c9.cloudfront.net
 0.0.0.0 d1s5n6wuwgnxf4.cloudfront.net
@@ -11324,6 +11330,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3rp5jatom3eyn.cloudfront.net
 0.0.0.0 d3sh1r2u9ujvd.cloudfront.net
 0.0.0.0 d3sskjfdrsmdxn.cloudfront.net
+0.0.0.0 d3t3lxfqz2g5hs.cloudfront.net
 0.0.0.0 d3t5ngjixpjdho.cloudfront.net
 0.0.0.0 d3t9nyds4ufoqz.cloudfront.net
 0.0.0.0 d3tivku5hdr7jk.cloudfront.net
@@ -12854,6 +12861,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dubochiy.ru
 0.0.0.0 dubshub.com
 0.0.0.0 dubvacasept.com
+0.0.0.0 duchoono.com
 0.0.0.0 duck.wings-dark.services
 0.0.0.0 duckssolutions.com
 0.0.0.0 dudintrec.ru
@@ -13328,6 +13336,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 edanews.ru
 0.0.0.0 edcffafiadfjfjdiaci.ru
 0.0.0.0 edchargina.pro
+0.0.0.0 edcritessuspi.info
 0.0.0.0 eddjf.com
 0.0.0.0 eddrpnykbofjln.com
 0.0.0.0 edencourtbrita.info
@@ -16368,6 +16377,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 glmaamwyjkx.com
 0.0.0.0 glo-glo-oom.com
 0.0.0.0 gloalrie.com
+0.0.0.0 global-surveys.co
 0.0.0.0 globaladmedia.com
 0.0.0.0 globaladsales.com
 0.0.0.0 globaladv.net
@@ -17139,6 +17149,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h2ku87viwi.com
 0.0.0.0 h2pzh.cn
 0.0.0.0 h31135kjn6ajywtrupze.com
+0.0.0.0 h3btqpy2abc3.com
 0.0.0.0 h3lw971ym6.com
 0.0.0.0 h5.wannaplay.cn
 0.0.0.0 h501.cn
@@ -19765,6 +19776,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jasmin.com
 0.0.0.0 jasonsvid.com
 0.0.0.0 jattepush.com
+0.0.0.0 jaugloup.com
 0.0.0.0 jautaush.net
 0.0.0.0 jav321.com
 0.0.0.0 javacript.cf
@@ -20192,6 +20204,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jo0kfb10xr.ru
 0.0.0.0 jo7cofh3.com
 0.0.0.0 joamwtfpppibtj.com
+0.0.0.0 joawapti.net
 0.0.0.0 jobdjrurl.com
 0.0.0.0 jobslike.win
 0.0.0.0 jobsyndicate.com
@@ -23251,6 +23264,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 maibahe300cc.com
 0.0.0.0 maidlytsnrn.com
 0.0.0.0 maigris.com
+0.0.0.0 maihaimo.com
 0.0.0.0 maikuque.net
 0.0.0.0 mail.banklife.ru
 0.0.0.0 mail.phanquang.vn
@@ -24144,6 +24158,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mihqbmugg.com
 0.0.0.0 miiuv.com
 0.0.0.0 mikas.win
+0.0.0.0 mikpumwbahkx.com
 0.0.0.0 milabra.com
 0.0.0.0 milaly.info
 0.0.0.0 milan-pub.com
@@ -25785,6 +25800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 newtizz.net
 0.0.0.0 newton1.club
 0.0.0.0 newtueads.com
+0.0.0.0 newvideos.xyz
 0.0.0.0 newviralmobistore.com
 0.0.0.0 newwedads.com
 0.0.0.0 newyearads.com
@@ -28069,6 +28085,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 paupbxxmhh.com
 0.0.0.0 paupepsu.click
 0.0.0.0 pautina.mobi
+0.0.0.0 paveralleycoun.info
 0.0.0.0 pavfhwwddf.com
 0.0.0.0 pavlovaks.info
 0.0.0.0 pawpawheidrick.com
@@ -29213,6 +29230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 potu.xyz
 0.0.0.0 potyaglo.info
 0.0.0.0 poubotem.com
+0.0.0.0 poudeeri.com
 0.0.0.0 pougg.com
 0.0.0.0 poulop.com
 0.0.0.0 pourbaiser.com
@@ -31889,6 +31907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rhythmcontent.com
 0.0.0.0 rhythmxchange.com
 0.0.0.0 rhzpcnueogbexb.com
+0.0.0.0 riahungardedig.info
 0.0.0.0 riansociationentio.info
 0.0.0.0 ribbon.india.com
 0.0.0.0 ribnadzo.ru
@@ -31995,6 +32014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rkgznnhikrfphq.com
 0.0.0.0 rkpecade.com
 0.0.0.0 rkueifizvmwbi.com
+0.0.0.0 rkvduvtdz.com
 0.0.0.0 rl7944.ru
 0.0.0.0 rl972.cn
 0.0.0.0 rlbvwdviqx.com
@@ -35437,6 +35457,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 talkfusion.com
 0.0.0.0 tallergestion.com
 0.0.0.0 talysu.info
+0.0.0.0 tamechangekn.info
 0.0.0.0 tamedia.com.tw
 0.0.0.0 tamly.in
 0.0.0.0 tamrczjeedauh.com
@@ -35980,6 +36001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thfw1wuq.site
 0.0.0.0 thienthangaycanh.com
 0.0.0.0 thietkeweb.mediaz.vn
+0.0.0.0 thigeeph.com
 0.0.0.0 thighiny.com
 0.0.0.0 thikraik.net
 0.0.0.0 thiksikr.com
@@ -35989,6 +36011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thishare.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thismetric.com
+0.0.0.0 thitegnu.net
 0.0.0.0 thivsxubn.com
 0.0.0.0 thjlnyagmxrbt.com
 0.0.0.0 thkexopsciqums.com
@@ -36691,6 +36714,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tpwumuxcasj.com
 0.0.0.0 tpxur.top
 0.0.0.0 tqbmcmttzid.com
+0.0.0.0 tqddgnqsrya.com
 0.0.0.0 tqeobp89axcn.com
 0.0.0.0 tqff3qkzsq.com
 0.0.0.0 tqfulmf.com
@@ -38976,6 +39000,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vividcash.com
 0.0.0.0 viwsqbbvfknp.com
 0.0.0.0 vix.criteo.net
+0.0.0.0 vixirtab.com
 0.0.0.0 vixnixxer.com
 0.0.0.0 vixqjiypv.com
 0.0.0.0 vizaiced.net
@@ -39709,6 +39734,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wdiur.com
 0.0.0.0 wdjbxcdriyjoeu.com
 0.0.0.0 wdkbcvnh.com
+0.0.0.0 wdlnoecwykpon.com
 0.0.0.0 wdnflsjig.com
 0.0.0.0 wdpwhnxfzoozsw.com
 0.0.0.0 wdquizratrntwr.com

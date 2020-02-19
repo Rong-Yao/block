@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.050
 # Release: 050
-# Entries: 60,995
+# Entries: 61,014
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 00:10:26
+# Updated: Wed, 19 Feb 20 06:09:55
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2771,7 +2771,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 activity.tuifish.com
 0.0.0.0 activity.uc.cn
 0.0.0.0 activity.umeng.com
-0.0.0.0 activity.windows.com
 0.0.0.0 activity.wshareit.com
 0.0.0.0 activity.yesware.com.herokudns.com
 0.0.0.0 actontv.122.2o7.net
@@ -3737,6 +3736,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adfpaces.ero-advertising.com
 0.0.0.0 adfpkxvaqeyj.com
 0.0.0.0 adframesrc.com
+0.0.0.0 adfrastingathles.info
 0.0.0.0 adfries.info
 0.0.0.0 adfrika.com
 0.0.0.0 adfrontiers.com
@@ -8951,7 +8951,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.maropost.com
 0.0.0.0 api.mediatailor.eu-west-1.amazonaws.com
 0.0.0.0 api.megacool.co
-0.0.0.0 api.metrics.heroku.com
 0.0.0.0 api.mgid.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.mobadvent.com
@@ -15731,6 +15730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector-soompi.viki.io
 0.0.0.0 collector.abc-host.net.au
 0.0.0.0 collector.analytics.anvato.net
+0.0.0.0 collector.bikroy.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 collector.bughd.com
 0.0.0.0 collector.capturly.com
@@ -16987,6 +16987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cutescale.online
 0.0.0.0 cuteturkey.com
 0.0.0.0 cutmaxstore.com
+0.0.0.0 cutopportings.info
 0.0.0.0 cv-ph.rdtcdn.com
 0.0.0.0 cv.accesstrade.vn
 0.0.0.0 cv.rdtcdn.com
@@ -19273,6 +19274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dub-1.go.sonobi.com
 0.0.0.0 dubshub.com
 0.0.0.0 dubvacasept.com
+0.0.0.0 duchoono.com
 0.0.0.0 duclick.baidu.com
 0.0.0.0 dudebutandlac.info
 0.0.0.0 duetads.com
@@ -19855,6 +19857,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 edacross.org
 0.0.0.0 edc.adform.net
 0.0.0.0 edchargina.pro
+0.0.0.0 edcritessuspi.info
 0.0.0.0 eddd6b75.api.splkmobile.com
 0.0.0.0 eddrpnykbofjln.com
 0.0.0.0 eddy.pro
@@ -24609,6 +24612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 h12-media.com
 0.0.0.0 h12srv.adk2.co
 0.0.0.0 h21.ru
+0.0.0.0 h3btqpy2abc3.com
 0.0.0.0 h3lw971ym6.com
 0.0.0.0 h5.adgear.com
 0.0.0.0 h5.appadhoc.com
@@ -28156,6 +28160,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jarvisdigital-inv-eu.admixer.net
 0.0.0.0 jasonsvid.com
 0.0.0.0 jatxt.com
+0.0.0.0 jaugloup.com
 0.0.0.0 jaunithuw.com
 0.0.0.0 jautaush.net
 0.0.0.0 javacript.cf
@@ -28457,6 +28462,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jo.ads.justpremium.com
 0.0.0.0 jo7cofh3.com
 0.0.0.0 joamwtfpppibtj.com
+0.0.0.0 joawapti.net
 0.0.0.0 jobnowshop.xyz
 0.0.0.0 jobs.adgear.com
 0.0.0.0 jobs.advertising.com
@@ -31635,6 +31641,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 maia.iad-03.braze.com
 0.0.0.0 maibo666.com
 0.0.0.0 maidlytsnrn.com
+0.0.0.0 maihaimo.com
 0.0.0.0 maikuque.net
 0.0.0.0 mail.adcash.com
 0.0.0.0 mail.adcolony.com
@@ -32938,6 +32945,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mignpaybmqkcy.com
 0.0.0.0 mihqbmugg.com
 0.0.0.0 mikeboffer.mytvplayer.hop.clickbank.net
+0.0.0.0 mikpumwbahkx.com
 0.0.0.0 mil-colores.com
 0.0.0.0 milabra.com
 0.0.0.0 milanospurghi.com
@@ -38087,6 +38095,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 paumoogo.net
 0.0.0.0 paupbxxmhh.com
 0.0.0.0 paupepsu.click
+0.0.0.0 paveralleycoun.info
 0.0.0.0 pavfhwwddf.com
 0.0.0.0 pawxrbexeylzn.com
 0.0.0.0 paxmedia.net
@@ -38726,7 +38735,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel-apac.rubiconproject.com
-0.0.0.0 pixel-apc.adsymptotic.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-insight.ucweb.com
 0.0.0.0 pixel-origin.mathtag.com
@@ -39708,6 +39716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 potu.xyz
 0.0.0.0 potvaporizer.com
 0.0.0.0 poubotem.com
+0.0.0.0 poudeeri.com
 0.0.0.0 povqrvsoljy.com
 0.0.0.0 powellsbooks.122.2o7.net
 0.0.0.0 power.info.com
@@ -42675,6 +42684,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ri.nuggad.net
 0.0.0.0 ria.demdex.net
 0.0.0.0 riafinancial.d2.sc.omtrdc.net
+0.0.0.0 riahungardedig.info
 0.0.0.0 riansociationentio.info
 0.0.0.0 ribbon.india.com
 0.0.0.0 ribcagebags.com
@@ -42789,6 +42799,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rkpecade.com
 0.0.0.0 rkrmpg.com
 0.0.0.0 rkueifizvmwbi.com
+0.0.0.0 rkvduvtdz.com
 0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rlbvwdviqx.com
 0.0.0.0 rlcdn.com
@@ -45646,6 +45657,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 skygo.neodatagroup.com
 0.0.0.0 skyligh.co
 0.0.0.0 skylink.vn
+0.0.0.0 skylowhat.site
 0.0.0.0 skymedia.co.uk
 0.0.0.0 skype.dw.land.to
 0.0.0.0 skypeclass.com
@@ -48376,6 +48388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tallgireffe.com
 0.0.0.0 talterfortmarob.info
 0.0.0.0 tam.outbrain.com
+0.0.0.0 tamechangekn.info
 0.0.0.0 tamgrt.com
 0.0.0.0 tamiecaseros.pro
 0.0.0.0 tamilcm.com
@@ -49044,6 +49057,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thewinesteward.com
 0.0.0.0 thewise.com
 0.0.0.0 thgalecom.112.2o7.net
+0.0.0.0 thigeeph.com
 0.0.0.0 thighiny.com
 0.0.0.0 thikraik.net
 0.0.0.0 thiksikr.com
@@ -49070,6 +49084,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thismetric.com
 0.0.0.0 thisoldhouse-tagan.adlightning.com
+0.0.0.0 thitegnu.net
 0.0.0.0 thivsxubn.com
 0.0.0.0 thjlnyagmxrbt.com
 0.0.0.0 thkexopsciqums.com
@@ -49700,6 +49715,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tqbmcmttzid.com
 0.0.0.0 tqcxtxglt.com
 0.0.0.0 tqdarrhactqc.com
+0.0.0.0 tqddgnqsrya.com
 0.0.0.0 tqgj.mediav.com
 0.0.0.0 tqguvxunwvk.com
 0.0.0.0 tqgxhuajp.com
@@ -50731,6 +50747,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracker.bang.com
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.bestshopping.com
+0.0.0.0 tracker.bikroy.com
 0.0.0.0 tracker.blueprintinteractivetest.com
 0.0.0.0 tracker.brainsins.com
 0.0.0.0 tracker.btzoo.eu
@@ -53827,6 +53844,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vivtracking.com
 0.0.0.0 vivyonline.com
 0.0.0.0 viwsqbbvfknp.com
+0.0.0.0 vixirtab.com
 0.0.0.0 vixnixxer.com
 0.0.0.0 vixqjiypv.com
 0.0.0.0 vizaiced.net
@@ -54501,6 +54519,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wdjaccountapi.open.uc.cn
 0.0.0.0 wdjbxcdriyjoeu.com
 0.0.0.0 wdkbcvnh.com
+0.0.0.0 wdlnoecwykpon.com
 0.0.0.0 wdm29.com
 0.0.0.0 wdmwebs.us
 0.0.0.0 wdpwhnxfzoozsw.com

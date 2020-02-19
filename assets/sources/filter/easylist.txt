@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
 # Last Converted - 19.02.2020
-# Total Domains - 16433
+# Total Domains - 16458
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -875,6 +875,7 @@
 0.0.0.0 adforgeinc.com
 0.0.0.0 adform.net
 0.0.0.0 adframesrc.com
+0.0.0.0 adfrastingathles.info
 0.0.0.0 adfrika.com
 0.0.0.0 adfrontiers.com
 0.0.0.0 adfunkyserver.com
@@ -2851,6 +2852,7 @@
 0.0.0.0 cadsips.com
 0.0.0.0 cadsipz.com
 0.0.0.0 cadskis.com
+0.0.0.0 cadslimz.com
 0.0.0.0 cadsoks.com
 0.0.0.0 cadsokz.com
 0.0.0.0 cadspmz.com
@@ -2887,6 +2889,7 @@
 0.0.0.0 camvideos.tv
 0.0.0.0 camzap.com
 0.0.0.0 canoeklix.com
+0.0.0.0 canonch.pro
 0.0.0.0 cap-cap-pop.com
 0.0.0.0 capacitygrid.com
 0.0.0.0 capquqhuiazl.com
@@ -3598,6 +3601,7 @@
 0.0.0.0 curtisfrierson.com
 0.0.0.0 customer.heartinternet.co.uk
 0.0.0.0 cutescale.online
+0.0.0.0 cutopportings.info
 0.0.0.0 cutw.pro
 0.0.0.0 cvarxvlbnphcjq.com
 0.0.0.0 cvdvexais.com
@@ -3687,6 +3691,7 @@
 0.0.0.0 d194f913ee63.com
 0.0.0.0 d1aezk8tun0dhm.cloudfront.net
 0.0.0.0 d1aqvw7cn4ydzo.cloudfront.net
+0.0.0.0 d1bxkgbbc428vi.cloudfront.net
 0.0.0.0 d1crt12zco2cvf.cloudfront.net
 0.0.0.0 d1ebha2k07asm5.cloudfront.net
 0.0.0.0 d1grtyyel8f1mh.cloudfront.net
@@ -3704,6 +3709,7 @@
 0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
 0.0.0.0 d1r90st78epsag.cloudfront.net
 0.0.0.0 d1rguclfwp7nc8.cloudfront.net
+0.0.0.0 d1rjzrtsxlzawf.cloudfront.net
 0.0.0.0 d1rkf0bq85yx06.cloudfront.net
 0.0.0.0 d1v99qnc7usc0g.cloudfront.net
 0.0.0.0 d1wi563t0137vz.cloudfront.net
@@ -3775,6 +3781,7 @@
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3rp5jatom3eyn.cloudfront.net
+0.0.0.0 d3t3lxfqz2g5hs.cloudfront.net
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d3uqm14ppr8tkw.cloudfront.net
@@ -4339,6 +4346,7 @@
 0.0.0.0 duamuprs.com
 0.0.0.0 dubshub.com
 0.0.0.0 dubvacasept.com
+0.0.0.0 duchoono.com
 0.0.0.0 duetads.com
 0.0.0.0 dugqbllwslqrlj.com
 0.0.0.0 dujbubzvrdw.com
@@ -4533,6 +4541,7 @@
 0.0.0.0 ecyohwpbcxdjl.com
 0.0.0.0 ed9wkbpy.com
 0.0.0.0 edchargina.pro
+0.0.0.0 edcritessuspi.info
 0.0.0.0 eddrpnykbofjln.com
 0.0.0.0 edencourtbrita.info
 0.0.0.0 edfrencessaryhu.info
@@ -5768,6 +5777,7 @@
 0.0.0.0 glmaamwyjkx.com
 0.0.0.0 glo-glo-oom.com
 0.0.0.0 gloalrie.com
+0.0.0.0 global-surveys.co
 0.0.0.0 globaladmedia.com
 0.0.0.0 globaladsales.com
 0.0.0.0 globaladv.net
@@ -6066,6 +6076,7 @@
 0.0.0.0 gzuvyhqb.com
 0.0.0.0 gzxdkaytxdsyxg.com
 0.0.0.0 h12-media.com
+0.0.0.0 h3btqpy2abc3.com
 0.0.0.0 h3lw971ym6.com
 0.0.0.0 h5tjj3loy2.com
 0.0.0.0 h83zvgrg29.com
@@ -7079,6 +7090,7 @@
 0.0.0.0 jarvinzo.com
 0.0.0.0 jasmin.com
 0.0.0.0 jasonsvid.com
+0.0.0.0 jaugloup.com
 0.0.0.0 jautaush.net
 0.0.0.0 javacript.cf
 0.0.0.0 javacript.ga
@@ -7264,6 +7276,7 @@
 0.0.0.0 jnqbgmlapkkrsj.com
 0.0.0.0 jo7cofh3.com
 0.0.0.0 joamwtfpppibtj.com
+0.0.0.0 joawapti.net
 0.0.0.0 jobsyndicate.com
 0.0.0.0 jobtarget.com
 0.0.0.0 jodellvideos.pro
@@ -8382,6 +8395,7 @@
 0.0.0.0 magufsvogh.com
 0.0.0.0 mahimeta.com
 0.0.0.0 maidlytsnrn.com
+0.0.0.0 maihaimo.com
 0.0.0.0 maikuque.net
 0.0.0.0 mailhxubk.com
 0.0.0.0 mailmarketingmachine.com
@@ -8664,6 +8678,7 @@
 0.0.0.0 mierdydkqvpgno.com
 0.0.0.0 mifxolavi.com
 0.0.0.0 mignpaybmqkcy.com
+0.0.0.0 mikpumwbahkx.com
 0.0.0.0 milabra.com
 0.0.0.0 mileporn.com
 0.0.0.0 millennialmedia.com
@@ -10369,6 +10384,7 @@
 0.0.0.0 patuarioahzaen.bid
 0.0.0.0 paumoogo.net
 0.0.0.0 paupbxxmhh.com
+0.0.0.0 paveralleycoun.info
 0.0.0.0 pavfhwwddf.com
 0.0.0.0 pawxrbexeylzn.com
 0.0.0.0 paxmedia.net
@@ -10894,6 +10910,7 @@
 0.0.0.0 potpourrichordataoscilloscope.com
 0.0.0.0 potu.xyz
 0.0.0.0 poubotem.com
+0.0.0.0 poudeeri.com
 0.0.0.0 pourmajeurs.com
 0.0.0.0 povqrvsoljy.com
 0.0.0.0 powerad.ai
@@ -12246,6 +12263,7 @@
 0.0.0.0 rhythmcontent.com
 0.0.0.0 rhythmxchange.com
 0.0.0.0 rhzpcnueogbexb.com
+0.0.0.0 riahungardedig.info
 0.0.0.0 riansociationentio.info
 0.0.0.0 ribbon.india.com
 0.0.0.0 ribstygzuiz.com
@@ -12299,6 +12317,7 @@
 0.0.0.0 rkgznnhikrfphq.com
 0.0.0.0 rkpecade.com
 0.0.0.0 rkueifizvmwbi.com
+0.0.0.0 rkvduvtdz.com
 0.0.0.0 rlbvwdviqx.com
 0.0.0.0 rlgungosm.com
 0.0.0.0 rljakgkixu.com
@@ -13417,6 +13436,7 @@
 0.0.0.0 talk2none.com
 0.0.0.0 talk4anyone.com
 0.0.0.0 talk4none.com
+0.0.0.0 tamechangekn.info
 0.0.0.0 tamrczjeedauh.com
 0.0.0.0 tangozebra.com
 0.0.0.0 tannelssepara.info
@@ -13603,11 +13623,13 @@
 0.0.0.0 thewebgemnetwork.com
 0.0.0.0 thewheelof.com
 0.0.0.0 thewhizmarketing.com
+0.0.0.0 thigeeph.com
 0.0.0.0 thighiny.com
 0.0.0.0 thikraik.net
 0.0.0.0 thiscdn.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thismetric.com
+0.0.0.0 thitegnu.net
 0.0.0.0 thivsxubn.com
 0.0.0.0 thjlnyagmxrbt.com
 0.0.0.0 thkexopsciqums.com
@@ -13830,6 +13852,7 @@
 0.0.0.0 tptfopotrzg.com
 0.0.0.0 tpwumuxcasj.com
 0.0.0.0 tqbmcmttzid.com
+0.0.0.0 tqddgnqsrya.com
 0.0.0.0 tqguvxunwvk.com
 0.0.0.0 tqixovpneycfmk.com
 0.0.0.0 tqlkg.com
@@ -14704,6 +14727,7 @@
 0.0.0.0 viurihkwo.com
 0.0.0.0 vividcash.com
 0.0.0.0 viwsqbbvfknp.com
+0.0.0.0 vixirtab.com
 0.0.0.0 vixnixxer.com
 0.0.0.0 vizaiced.net
 0.0.0.0 vjcewkcjqu.com
@@ -15010,6 +15034,7 @@
 0.0.0.0 wdaqrxfppj.com
 0.0.0.0 wdbqsuukggoyg.com
 0.0.0.0 wdkbcvnh.com
+0.0.0.0 wdlnoecwykpon.com
 0.0.0.0 wdpwhnxfzoozsw.com
 0.0.0.0 wdquizratrntwr.com
 0.0.0.0 wdrgqoweorjfp.com

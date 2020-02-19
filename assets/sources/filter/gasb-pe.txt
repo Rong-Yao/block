@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 19.02.2020
-# Total Domains - 44522
+# Total Domains - 44520
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -21152,7 +21152,6 @@
 0.0.0.0 milfsearcher.com
 0.0.0.0 milionaire.com
 0.0.0.0 militarymommy.com
-0.0.0.0 millenium-hitz.com
 0.0.0.0 milleniumb.noadware.hop.clickbank.net
 0.0.0.0 millenniumhotelstst.122.2o7.net
 0.0.0.0 millerga.com
@@ -39564,7 +39563,6 @@
 0.0.0.0 www.myleague.com
 0.0.0.0 www.mylibrarytoolbar.com
 0.0.0.0 www.mymacmail.com
-0.0.0.0 www.mymoble.com
 0.0.0.0 www.mymusicinc.com
 0.0.0.0 www.myname.inau.com
 0.0.0.0 www.mynewblog.net

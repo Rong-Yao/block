@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # Last Converted - 19.02.2020
-# Total Domains - 3312
+# Total Domains - 3311
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1466,7 +1466,6 @@
 0.0.0.0 goldenuploading.com
 0.0.0.0 goldgamehacks.com
 0.0.0.0 goldshare.net
-0.0.0.0 goodcheats.net
 0.0.0.0 googleplaycards.dlcodes.com
 0.0.0.0 googleplaycodes.extafiles.com
 0.0.0.0 googletagnamager.com

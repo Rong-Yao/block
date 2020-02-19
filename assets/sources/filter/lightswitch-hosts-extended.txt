@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Last Converted - 19.02.2020
-# Total Domains - 93905
+# Total Domains - 93903
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -37065,7 +37065,6 @@
 0.0.0.0 f6b6x.app.link
 0.0.0.0 f6c0cd2e5db6d8817b8a0153fa35db6b01c058d0722f2cd1964c9ac8.trk.sensic.net
 0.0.0.0 f7-de.digitmate.bid
-0.0.0.0 f7-us-va.adhigh.net
 0.0.0.0 f7-us-va.cpagen.win
 0.0.0.0 f7.cbg.163.com
 0.0.0.0 f700opgs.emltrk.com
@@ -62342,7 +62341,6 @@
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel-ae-du-la-ads.lfstmedia.com
 0.0.0.0 pixel-apac.rubiconproject.com
-0.0.0.0 pixel-apc.adsymptotic.com
 0.0.0.0 pixel-api.bridgewell.com
 0.0.0.0 pixel-api.scupio.com
 0.0.0.0 pixel-c2s.sitescout.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 # Last Converted - 19.02.2020
-# Total Domains - 43
+# Total Domains - 42
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10,7 +10,6 @@
 0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 a.ads2.msn.com
-0.0.0.0 activity.windows.com
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 19.02.2020
-# Total Domains - 35981
+# Total Domains - 35965
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4605,7 +4605,6 @@
 0.0.0.0 akuna.pl
 0.0.0.0 akusherok.ru
 0.0.0.0 akwadrago.pl
-0.0.0.0 akwariumkrakow.pl
 0.0.0.0 akzmaihd.net
 0.0.0.0 ala.durasite.net
 0.0.0.0 alabamabackpage.com
@@ -9732,7 +9731,6 @@
 0.0.0.0 collector.tracepot.com
 0.0.0.0 collectorbs.ctc.ximalaya.com
 0.0.0.0 colonize.com
-0.0.0.0 colorcredit.pl
 0.0.0.0 colorking.es
 0.0.0.0 colormessa.info
 0.0.0.0 columbahouse.com
@@ -26686,7 +26684,6 @@
 0.0.0.0 superinterstitial.com
 0.0.0.0 superlogout.github.io
 0.0.0.0 supernaturalart.com
-0.0.0.0 supernovaband.pl
 0.0.0.0 superpagesdexknowsprod.122.2o7.net
 0.0.0.0 supersciezka.pl
 0.0.0.0 supersonicads-a.akamaihd.net
@@ -30740,7 +30737,6 @@
 0.0.0.0 www.aktywnytylicz.pl
 0.0.0.0 www.akuna.pl
 0.0.0.0 www.akwadrago.pl
-0.0.0.0 www.akwariumkrakow.pl
 0.0.0.0 www.alanor.pl
 0.0.0.0 www.albiondrugs.com
 0.0.0.0 www.aldaniti.net
@@ -30806,7 +30802,6 @@
 0.0.0.0 www.animal36.com
 0.0.0.0 www.animalrank.com
 0.0.0.0 www.animaltoplist.com
-0.0.0.0 www.anitkakurier.com
 0.0.0.0 www.aniventure.co.uk
 0.0.0.0 www.ankiety-konsumenckie.pl
 0.0.0.0 www.annapiaseczno.pl
@@ -31543,7 +31538,6 @@
 0.0.0.0 www.darmowe-ebooki.com.pl
 0.0.0.0 www.darmowe-ebooki.net
 0.0.0.0 www.darmowe-zakupy.com
-0.0.0.0 www.darmowecoinsy.pl
 0.0.0.0 www.darmowetesty.com
 0.0.0.0 www.das33.io
 0.0.0.0 www.dascoin.prowly.com
@@ -31789,7 +31783,6 @@
 0.0.0.0 www.elcap.pl
 0.0.0.0 www.electroenchufe.com
 0.0.0.0 www.electroline.pl
-0.0.0.0 www.electros.co.ua
 0.0.0.0 www.elegrina.pl
 0.0.0.0 www.elektromax.in.net
 0.0.0.0 www.elememory.com
@@ -31888,7 +31881,6 @@
 0.0.0.0 www.fabryka-nagrod.com
 0.0.0.0 www.faccebook.5v.pl
 0.0.0.0 www.face-vip.ujm.pl
-0.0.0.0 www.faceapp.eu
 0.0.0.0 www.facebbook.5v.pl
 0.0.0.0 www.facebook-color.5v.pl
 0.0.0.0 www.facebook-login.5v.pl
@@ -32343,7 +32335,6 @@
 0.0.0.0 www.health-beauty.press
 0.0.0.0 www.health-line.me
 0.0.0.0 www.health-partner.net
-0.0.0.0 www.healthknowledge.my
 0.0.0.0 www.heartrevitalized.com
 0.0.0.0 www.hebdotop.com
 0.0.0.0 www.hecakieca.pl
@@ -32662,7 +32653,6 @@
 0.0.0.0 www.kierunkowy48.pl
 0.0.0.0 www.kikofu.com
 0.0.0.0 www.kineman.pl
-0.0.0.0 www.kinofilm-tv.pl
 0.0.0.0 www.kinoman-tv.eu
 0.0.0.0 www.kinomaniac.pl
 0.0.0.0 www.kinomaniak.pl
@@ -33019,7 +33009,6 @@
 0.0.0.0 www.medtecchina.com
 0.0.0.0 www.meetic-partners.com
 0.0.0.0 www.mega-gry.com
-0.0.0.0 www.megabonus-point3.life
 0.0.0.0 www.megachiny.eu
 0.0.0.0 www.megacounter.de
 0.0.0.0 www.megadownloader.co
@@ -33102,7 +33091,6 @@
 0.0.0.0 www.mohacz.pl
 0.0.0.0 www.mojadedra.pl
 0.0.0.0 www.mojadietanamase.pl
-0.0.0.0 www.mojaesg.pl
 0.0.0.0 www.mojakopia.pl
 0.0.0.0 www.moje-last-minute.pl
 0.0.0.0 www.mojeasg.pl
@@ -33775,7 +33763,6 @@
 0.0.0.0 www.provida.pl
 0.0.0.0 www.pruszkowmieszkania.pl
 0.0.0.0 www.przechwycone-zdjecia.00x.eu
-0.0.0.0 www.przedsiebieblog.pl
 0.0.0.0 www.przedszkoleglobus.pl
 0.0.0.0 www.przedszkolekrainadziecka.pl
 0.0.0.0 www.przedszkoleszkrab.pl
@@ -34054,7 +34041,6 @@
 0.0.0.0 www.sailsteam.pl
 0.0.0.0 www.salawilanow.pl
 0.0.0.0 www.salentoeasy.it
-0.0.0.0 www.salewablock.pl
 0.0.0.0 www.salomonbuty.pl
 0.0.0.0 www.salomonpoland.pl
 0.0.0.0 www.salomonpolska.com
@@ -34324,7 +34310,6 @@
 0.0.0.0 www.sportplus.pro
 0.0.0.0 www.sportsinteraction.com
 0.0.0.0 www.sportsklep.com.pl
-0.0.0.0 www.sportswearpolska.pl
 0.0.0.0 www.spotlessweb.com
 0.0.0.0 www.spplodz.pl
 0.0.0.0 www.sprawdz-ogladaj.bo.pl
@@ -35270,7 +35255,6 @@
 0.0.0.0 www.zostanfitjakja.pl
 0.0.0.0 www.zpafiska.pl
 0.0.0.0 www.zpotrzebyserc.pl
-0.0.0.0 www.zs1chocznia.pl
 0.0.0.0 www.zskleczany.pl
 0.0.0.0 www.zsklembow.pl
 0.0.0.0 www.zsniemce.pl

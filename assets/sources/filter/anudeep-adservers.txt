@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Last Converted - 19.02.2020
-# Total Domains - 20219
+# Total Domains - 20216
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5025,7 +5025,6 @@
 0.0.0.0 appvast.adsafeprotected.com
 0.0.0.0 appvirality.com
 0.0.0.0 appwall.ad.intl.xiaomi.com
-0.0.0.0 appwall.batmobil.net
 0.0.0.0 apr.lijit.com
 0.0.0.0 aprileclean.com
 0.0.0.0 apt.insight.adsrvr.org
@@ -8799,7 +8798,6 @@
 0.0.0.0 f5t-y.tlnk.io
 0.0.0.0 f5v1x3kgv5.com
 0.0.0.0 f6gtulfek4oa5tp9w7wxovhmqeoql1509190660.nuid.imrworldwide.com
-0.0.0.0 f7-us-va.adhigh.net
 0.0.0.0 f7.news-subscribe.com
 0.0.0.0 f7j-3.tlnk.io
 0.0.0.0 f7uf1fcnjx2pxhflwtlkpr8jbvxxp1509506200.nuid.imrworldwide.com
@@ -13856,7 +13854,6 @@
 0.0.0.0 pixe.everesttech.net
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel-apac.rubiconproject.com
-0.0.0.0 pixel-apc.adsymptotic.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-iad0.everesttech.net
 0.0.0.0 pixel-insight.ucweb.com

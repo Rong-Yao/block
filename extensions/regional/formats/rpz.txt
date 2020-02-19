@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.050
 ; Release: 050
-; Entries: 63,336
+; Entries: 63,362
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 00:15:01
+; Updated: Wed, 19 Feb 20 06:13:59
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3160,6 +3160,7 @@ adfornet.com CNAME .
 adfox.ru CNAME .
 adfox.vn CNAME .
 adframesrc.com CNAME .
+adfrastingathles.info CNAME .
 adfrika.com CNAME .
 adfrontiers.com CNAME .
 adfueling.com CNAME .
@@ -8554,6 +8555,7 @@ cadsecs.com CNAME .
 cadsips.com CNAME .
 cadsipz.com CNAME .
 cadskis.com CNAME .
+cadslimz.com CNAME .
 cadsoks.com CNAME .
 cadsokz.com CNAME .
 cadspmz.com CNAME .
@@ -8640,6 +8642,7 @@ cangnews.com CNAME .
 caniaddestrati.org CNAME .
 canoeklix.com CNAME .
 canofpaint.xyz CNAME .
+canonch.pro CNAME .
 cantn.top CNAME .
 canuckmethodprofit.co CNAME .
 caob5.info CNAME .
@@ -10767,6 +10770,7 @@ cut-urls.com CNAME .
 cutescale.online CNAME .
 cutiedomain.com CNAME .
 cutivecut.info CNAME .
+cutopportings.info CNAME .
 cutralflibsye.ru CNAME .
 cutw.pro CNAME .
 cuys.ru CNAME .
@@ -10993,6 +10997,7 @@ d1az0m14mjvs40.cloudfront.net CNAME .
 d1b0fk9ns6n0w9.cloudfront.net CNAME .
 d1bevsqehy4npt.cloudfront.net CNAME .
 d1boik8k1ctool.cloudfront.net CNAME .
+d1bxkgbbc428vi.cloudfront.net CNAME .
 d1byvlfiet2h9q.cloudfront.net CNAME .
 d1c0l5ws9ddltf.cloudfront.net CNAME .
 d1ckj42q07f9s3.cloudfront.net CNAME .
@@ -11055,6 +11060,7 @@ d1r90st78epsag.cloudfront.net CNAME .
 d1rb5wwywwoqqm.cloudfront.net CNAME .
 d1re760tkiprs5.cloudfront.net CNAME .
 d1rguclfwp7nc8.cloudfront.net CNAME .
+d1rjzrtsxlzawf.cloudfront.net CNAME .
 d1rkf0bq85yx06.cloudfront.net CNAME .
 d1s18kaechs9c9.cloudfront.net CNAME .
 d1s5n6wuwgnxf4.cloudfront.net CNAME .
@@ -11313,6 +11319,7 @@ d3rmeear8e0ybo.cloudfront.net CNAME .
 d3rp5jatom3eyn.cloudfront.net CNAME .
 d3sh1r2u9ujvd.cloudfront.net CNAME .
 d3sskjfdrsmdxn.cloudfront.net CNAME .
+d3t3lxfqz2g5hs.cloudfront.net CNAME .
 d3t5ngjixpjdho.cloudfront.net CNAME .
 d3t9nyds4ufoqz.cloudfront.net CNAME .
 d3tivku5hdr7jk.cloudfront.net CNAME .
@@ -12843,6 +12850,7 @@ dubnokhi.ru CNAME .
 dubochiy.ru CNAME .
 dubshub.com CNAME .
 dubvacasept.com CNAME .
+duchoono.com CNAME .
 duck.wings-dark.services CNAME .
 duckssolutions.com CNAME .
 dudintrec.ru CNAME .
@@ -13317,6 +13325,7 @@ edabeznews.ru CNAME .
 edanews.ru CNAME .
 edcffafiadfjfjdiaci.ru CNAME .
 edchargina.pro CNAME .
+edcritessuspi.info CNAME .
 eddjf.com CNAME .
 eddrpnykbofjln.com CNAME .
 edencourtbrita.info CNAME .
@@ -16357,6 +16366,7 @@ glishais.net CNAME .
 glmaamwyjkx.com CNAME .
 glo-glo-oom.com CNAME .
 gloalrie.com CNAME .
+global-surveys.co CNAME .
 globaladmedia.com CNAME .
 globaladsales.com CNAME .
 globaladv.net CNAME .
@@ -17128,6 +17138,7 @@ h1summer.com CNAME .
 h2ku87viwi.com CNAME .
 h2pzh.cn CNAME .
 h31135kjn6ajywtrupze.com CNAME .
+h3btqpy2abc3.com CNAME .
 h3lw971ym6.com CNAME .
 h5.wannaplay.cn CNAME .
 h501.cn CNAME .
@@ -19754,6 +19765,7 @@ jasjus.net CNAME .
 jasmin.com CNAME .
 jasonsvid.com CNAME .
 jattepush.com CNAME .
+jaugloup.com CNAME .
 jautaush.net CNAME .
 jav321.com CNAME .
 javacript.cf CNAME .
@@ -20181,6 +20193,7 @@ jnyngg.cn CNAME .
 jo0kfb10xr.ru CNAME .
 jo7cofh3.com CNAME .
 joamwtfpppibtj.com CNAME .
+joawapti.net CNAME .
 jobdjrurl.com CNAME .
 jobslike.win CNAME .
 jobsyndicate.com CNAME .
@@ -23240,6 +23253,7 @@ mahimeta.com CNAME .
 maibahe300cc.com CNAME .
 maidlytsnrn.com CNAME .
 maigris.com CNAME .
+maihaimo.com CNAME .
 maikuque.net CNAME .
 mail.banklife.ru CNAME .
 mail.phanquang.vn CNAME .
@@ -24133,6 +24147,7 @@ migrandof.com CNAME .
 mihqbmugg.com CNAME .
 miiuv.com CNAME .
 mikas.win CNAME .
+mikpumwbahkx.com CNAME .
 milabra.com CNAME .
 milaly.info CNAME .
 milan-pub.com CNAME .
@@ -25774,6 +25789,7 @@ newthuads.com CNAME .
 newtizz.net CNAME .
 newton1.club CNAME .
 newtueads.com CNAME .
+newvideos.xyz CNAME .
 newviralmobistore.com CNAME .
 newwedads.com CNAME .
 newyearads.com CNAME .
@@ -28058,6 +28074,7 @@ paumoogo.net CNAME .
 paupbxxmhh.com CNAME .
 paupepsu.click CNAME .
 pautina.mobi CNAME .
+paveralleycoun.info CNAME .
 pavfhwwddf.com CNAME .
 pavlovaks.info CNAME .
 pawpawheidrick.com CNAME .
@@ -29202,6 +29219,7 @@ potterpetrey.com CNAME .
 potu.xyz CNAME .
 potyaglo.info CNAME .
 poubotem.com CNAME .
+poudeeri.com CNAME .
 pougg.com CNAME .
 poulop.com CNAME .
 pourbaiser.com CNAME .
@@ -31878,6 +31896,7 @@ rhypgggd.com CNAME .
 rhythmcontent.com CNAME .
 rhythmxchange.com CNAME .
 rhzpcnueogbexb.com CNAME .
+riahungardedig.info CNAME .
 riansociationentio.info CNAME .
 ribbon.india.com CNAME .
 ribnadzo.ru CNAME .
@@ -31984,6 +32003,7 @@ rkdtt0hez7.com CNAME .
 rkgznnhikrfphq.com CNAME .
 rkpecade.com CNAME .
 rkueifizvmwbi.com CNAME .
+rkvduvtdz.com CNAME .
 rl7944.ru CNAME .
 rl972.cn CNAME .
 rlbvwdviqx.com CNAME .
@@ -35426,6 +35446,7 @@ talkahead.com CNAME .
 talkfusion.com CNAME .
 tallergestion.com CNAME .
 talysu.info CNAME .
+tamechangekn.info CNAME .
 tamedia.com.tw CNAME .
 tamly.in CNAME .
 tamrczjeedauh.com CNAME .
@@ -35969,6 +35990,7 @@ thewise.com CNAME .
 thfw1wuq.site CNAME .
 thienthangaycanh.com CNAME .
 thietkeweb.mediaz.vn CNAME .
+thigeeph.com CNAME .
 thighiny.com CNAME .
 thikraik.net CNAME .
 thiksikr.com CNAME .
@@ -35978,6 +36000,7 @@ thisclick.network CNAME .
 thishare.com CNAME .
 thisiswaldo.com CNAME .
 thismetric.com CNAME .
+thitegnu.net CNAME .
 thivsxubn.com CNAME .
 thjlnyagmxrbt.com CNAME .
 thkexopsciqums.com CNAME .
@@ -36680,6 +36703,7 @@ tptrk.ru CNAME .
 tpwumuxcasj.com CNAME .
 tpxur.top CNAME .
 tqbmcmttzid.com CNAME .
+tqddgnqsrya.com CNAME .
 tqeobp89axcn.com CNAME .
 tqff3qkzsq.com CNAME .
 tqfulmf.com CNAME .
@@ -38965,6 +38989,7 @@ vivi987.com CNAME .
 vividcash.com CNAME .
 viwsqbbvfknp.com CNAME .
 vix.criteo.net CNAME .
+vixirtab.com CNAME .
 vixnixxer.com CNAME .
 vixqjiypv.com CNAME .
 vizaiced.net CNAME .
@@ -39698,6 +39723,7 @@ wdig.vo.llnwd.net CNAME .
 wdiur.com CNAME .
 wdjbxcdriyjoeu.com CNAME .
 wdkbcvnh.com CNAME .
+wdlnoecwykpon.com CNAME .
 wdnflsjig.com CNAME .
 wdpwhnxfzoozsw.com CNAME .
 wdquizratrntwr.com CNAME .

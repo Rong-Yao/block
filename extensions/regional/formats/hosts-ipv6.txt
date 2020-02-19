@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.050
 # Release: 050
-# Entries: 63,336
+# Entries: 63,362
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 00:15:01
+# Updated: Wed, 19 Feb 20 06:13:59
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -3171,6 +3171,7 @@ ff02::3 ip6-allhosts
 :: adfox.ru
 :: adfox.vn
 :: adframesrc.com
+:: adfrastingathles.info
 :: adfrika.com
 :: adfrontiers.com
 :: adfueling.com
@@ -8565,6 +8566,7 @@ ff02::3 ip6-allhosts
 :: cadsips.com
 :: cadsipz.com
 :: cadskis.com
+:: cadslimz.com
 :: cadsoks.com
 :: cadsokz.com
 :: cadspmz.com
@@ -8651,6 +8653,7 @@ ff02::3 ip6-allhosts
 :: caniaddestrati.org
 :: canoeklix.com
 :: canofpaint.xyz
+:: canonch.pro
 :: cantn.top
 :: canuckmethodprofit.co
 :: caob5.info
@@ -10778,6 +10781,7 @@ ff02::3 ip6-allhosts
 :: cutescale.online
 :: cutiedomain.com
 :: cutivecut.info
+:: cutopportings.info
 :: cutralflibsye.ru
 :: cutw.pro
 :: cuys.ru
@@ -11004,6 +11008,7 @@ ff02::3 ip6-allhosts
 :: d1b0fk9ns6n0w9.cloudfront.net
 :: d1bevsqehy4npt.cloudfront.net
 :: d1boik8k1ctool.cloudfront.net
+:: d1bxkgbbc428vi.cloudfront.net
 :: d1byvlfiet2h9q.cloudfront.net
 :: d1c0l5ws9ddltf.cloudfront.net
 :: d1ckj42q07f9s3.cloudfront.net
@@ -11066,6 +11071,7 @@ ff02::3 ip6-allhosts
 :: d1rb5wwywwoqqm.cloudfront.net
 :: d1re760tkiprs5.cloudfront.net
 :: d1rguclfwp7nc8.cloudfront.net
+:: d1rjzrtsxlzawf.cloudfront.net
 :: d1rkf0bq85yx06.cloudfront.net
 :: d1s18kaechs9c9.cloudfront.net
 :: d1s5n6wuwgnxf4.cloudfront.net
@@ -11324,6 +11330,7 @@ ff02::3 ip6-allhosts
 :: d3rp5jatom3eyn.cloudfront.net
 :: d3sh1r2u9ujvd.cloudfront.net
 :: d3sskjfdrsmdxn.cloudfront.net
+:: d3t3lxfqz2g5hs.cloudfront.net
 :: d3t5ngjixpjdho.cloudfront.net
 :: d3t9nyds4ufoqz.cloudfront.net
 :: d3tivku5hdr7jk.cloudfront.net
@@ -12854,6 +12861,7 @@ ff02::3 ip6-allhosts
 :: dubochiy.ru
 :: dubshub.com
 :: dubvacasept.com
+:: duchoono.com
 :: duck.wings-dark.services
 :: duckssolutions.com
 :: dudintrec.ru
@@ -13328,6 +13336,7 @@ ff02::3 ip6-allhosts
 :: edanews.ru
 :: edcffafiadfjfjdiaci.ru
 :: edchargina.pro
+:: edcritessuspi.info
 :: eddjf.com
 :: eddrpnykbofjln.com
 :: edencourtbrita.info
@@ -16368,6 +16377,7 @@ ff02::3 ip6-allhosts
 :: glmaamwyjkx.com
 :: glo-glo-oom.com
 :: gloalrie.com
+:: global-surveys.co
 :: globaladmedia.com
 :: globaladsales.com
 :: globaladv.net
@@ -17139,6 +17149,7 @@ ff02::3 ip6-allhosts
 :: h2ku87viwi.com
 :: h2pzh.cn
 :: h31135kjn6ajywtrupze.com
+:: h3btqpy2abc3.com
 :: h3lw971ym6.com
 :: h5.wannaplay.cn
 :: h501.cn
@@ -19765,6 +19776,7 @@ ff02::3 ip6-allhosts
 :: jasmin.com
 :: jasonsvid.com
 :: jattepush.com
+:: jaugloup.com
 :: jautaush.net
 :: jav321.com
 :: javacript.cf
@@ -20192,6 +20204,7 @@ ff02::3 ip6-allhosts
 :: jo0kfb10xr.ru
 :: jo7cofh3.com
 :: joamwtfpppibtj.com
+:: joawapti.net
 :: jobdjrurl.com
 :: jobslike.win
 :: jobsyndicate.com
@@ -23251,6 +23264,7 @@ ff02::3 ip6-allhosts
 :: maibahe300cc.com
 :: maidlytsnrn.com
 :: maigris.com
+:: maihaimo.com
 :: maikuque.net
 :: mail.banklife.ru
 :: mail.phanquang.vn
@@ -24144,6 +24158,7 @@ ff02::3 ip6-allhosts
 :: mihqbmugg.com
 :: miiuv.com
 :: mikas.win
+:: mikpumwbahkx.com
 :: milabra.com
 :: milaly.info
 :: milan-pub.com
@@ -25785,6 +25800,7 @@ ff02::3 ip6-allhosts
 :: newtizz.net
 :: newton1.club
 :: newtueads.com
+:: newvideos.xyz
 :: newviralmobistore.com
 :: newwedads.com
 :: newyearads.com
@@ -28069,6 +28085,7 @@ ff02::3 ip6-allhosts
 :: paupbxxmhh.com
 :: paupepsu.click
 :: pautina.mobi
+:: paveralleycoun.info
 :: pavfhwwddf.com
 :: pavlovaks.info
 :: pawpawheidrick.com
@@ -29213,6 +29230,7 @@ ff02::3 ip6-allhosts
 :: potu.xyz
 :: potyaglo.info
 :: poubotem.com
+:: poudeeri.com
 :: pougg.com
 :: poulop.com
 :: pourbaiser.com
@@ -31889,6 +31907,7 @@ ff02::3 ip6-allhosts
 :: rhythmcontent.com
 :: rhythmxchange.com
 :: rhzpcnueogbexb.com
+:: riahungardedig.info
 :: riansociationentio.info
 :: ribbon.india.com
 :: ribnadzo.ru
@@ -31995,6 +32014,7 @@ ff02::3 ip6-allhosts
 :: rkgznnhikrfphq.com
 :: rkpecade.com
 :: rkueifizvmwbi.com
+:: rkvduvtdz.com
 :: rl7944.ru
 :: rl972.cn
 :: rlbvwdviqx.com
@@ -35437,6 +35457,7 @@ ff02::3 ip6-allhosts
 :: talkfusion.com
 :: tallergestion.com
 :: talysu.info
+:: tamechangekn.info
 :: tamedia.com.tw
 :: tamly.in
 :: tamrczjeedauh.com
@@ -35980,6 +36001,7 @@ ff02::3 ip6-allhosts
 :: thfw1wuq.site
 :: thienthangaycanh.com
 :: thietkeweb.mediaz.vn
+:: thigeeph.com
 :: thighiny.com
 :: thikraik.net
 :: thiksikr.com
@@ -35989,6 +36011,7 @@ ff02::3 ip6-allhosts
 :: thishare.com
 :: thisiswaldo.com
 :: thismetric.com
+:: thitegnu.net
 :: thivsxubn.com
 :: thjlnyagmxrbt.com
 :: thkexopsciqums.com
@@ -36691,6 +36714,7 @@ ff02::3 ip6-allhosts
 :: tpwumuxcasj.com
 :: tpxur.top
 :: tqbmcmttzid.com
+:: tqddgnqsrya.com
 :: tqeobp89axcn.com
 :: tqff3qkzsq.com
 :: tqfulmf.com
@@ -38976,6 +39000,7 @@ ff02::3 ip6-allhosts
 :: vividcash.com
 :: viwsqbbvfknp.com
 :: vix.criteo.net
+:: vixirtab.com
 :: vixnixxer.com
 :: vixqjiypv.com
 :: vizaiced.net
@@ -39709,6 +39734,7 @@ ff02::3 ip6-allhosts
 :: wdiur.com
 :: wdjbxcdriyjoeu.com
 :: wdkbcvnh.com
+:: wdlnoecwykpon.com
 :: wdnflsjig.com
 :: wdpwhnxfzoozsw.com
 :: wdquizratrntwr.com

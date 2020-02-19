@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.050
 # Release: 050
-# Entries: 60,995
+# Entries: 61,014
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 00:10:26
+# Updated: Wed, 19 Feb 20 06:09:55
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -2771,7 +2771,6 @@ ff02::3 ip6-allhosts
 :: activity.tuifish.com
 :: activity.uc.cn
 :: activity.umeng.com
-:: activity.windows.com
 :: activity.wshareit.com
 :: activity.yesware.com.herokudns.com
 :: actontv.122.2o7.net
@@ -3737,6 +3736,7 @@ ff02::3 ip6-allhosts
 :: adfpaces.ero-advertising.com
 :: adfpkxvaqeyj.com
 :: adframesrc.com
+:: adfrastingathles.info
 :: adfries.info
 :: adfrika.com
 :: adfrontiers.com
@@ -8951,7 +8951,6 @@ ff02::3 ip6-allhosts
 :: api.maropost.com
 :: api.mediatailor.eu-west-1.amazonaws.com
 :: api.megacool.co
-:: api.metrics.heroku.com
 :: api.mgid.com
 :: api.mixpanel.com
 :: api.mobadvent.com
@@ -15731,6 +15730,7 @@ ff02::3 ip6-allhosts
 :: collector-soompi.viki.io
 :: collector.abc-host.net.au
 :: collector.analytics.anvato.net
+:: collector.bikroy.com
 :: collector.brandify.com
 :: collector.bughd.com
 :: collector.capturly.com
@@ -16987,6 +16987,7 @@ ff02::3 ip6-allhosts
 :: cutescale.online
 :: cuteturkey.com
 :: cutmaxstore.com
+:: cutopportings.info
 :: cv-ph.rdtcdn.com
 :: cv.accesstrade.vn
 :: cv.rdtcdn.com
@@ -19273,6 +19274,7 @@ ff02::3 ip6-allhosts
 :: dub-1.go.sonobi.com
 :: dubshub.com
 :: dubvacasept.com
+:: duchoono.com
 :: duclick.baidu.com
 :: dudebutandlac.info
 :: duetads.com
@@ -19855,6 +19857,7 @@ ff02::3 ip6-allhosts
 :: edacross.org
 :: edc.adform.net
 :: edchargina.pro
+:: edcritessuspi.info
 :: eddd6b75.api.splkmobile.com
 :: eddrpnykbofjln.com
 :: eddy.pro
@@ -24609,6 +24612,7 @@ ff02::3 ip6-allhosts
 :: h12-media.com
 :: h12srv.adk2.co
 :: h21.ru
+:: h3btqpy2abc3.com
 :: h3lw971ym6.com
 :: h5.adgear.com
 :: h5.appadhoc.com
@@ -28156,6 +28160,7 @@ ff02::3 ip6-allhosts
 :: jarvisdigital-inv-eu.admixer.net
 :: jasonsvid.com
 :: jatxt.com
+:: jaugloup.com
 :: jaunithuw.com
 :: jautaush.net
 :: javacript.cf
@@ -28457,6 +28462,7 @@ ff02::3 ip6-allhosts
 :: jo.ads.justpremium.com
 :: jo7cofh3.com
 :: joamwtfpppibtj.com
+:: joawapti.net
 :: jobnowshop.xyz
 :: jobs.adgear.com
 :: jobs.advertising.com
@@ -31635,6 +31641,7 @@ ff02::3 ip6-allhosts
 :: maia.iad-03.braze.com
 :: maibo666.com
 :: maidlytsnrn.com
+:: maihaimo.com
 :: maikuque.net
 :: mail.adcash.com
 :: mail.adcolony.com
@@ -32938,6 +32945,7 @@ ff02::3 ip6-allhosts
 :: mignpaybmqkcy.com
 :: mihqbmugg.com
 :: mikeboffer.mytvplayer.hop.clickbank.net
+:: mikpumwbahkx.com
 :: mil-colores.com
 :: milabra.com
 :: milanospurghi.com
@@ -38087,6 +38095,7 @@ ff02::3 ip6-allhosts
 :: paumoogo.net
 :: paupbxxmhh.com
 :: paupepsu.click
+:: paveralleycoun.info
 :: pavfhwwddf.com
 :: pawxrbexeylzn.com
 :: paxmedia.net
@@ -38726,7 +38735,6 @@ ff02::3 ip6-allhosts
 :: pixel-a.basis.net
 :: pixel-a.sitescout.com
 :: pixel-apac.rubiconproject.com
-:: pixel-apc.adsymptotic.com
 :: pixel-eu.rubiconproject.com
 :: pixel-insight.ucweb.com
 :: pixel-origin.mathtag.com
@@ -39708,6 +39716,7 @@ ff02::3 ip6-allhosts
 :: potu.xyz
 :: potvaporizer.com
 :: poubotem.com
+:: poudeeri.com
 :: povqrvsoljy.com
 :: powellsbooks.122.2o7.net
 :: power.info.com
@@ -42675,6 +42684,7 @@ ff02::3 ip6-allhosts
 :: ri.nuggad.net
 :: ria.demdex.net
 :: riafinancial.d2.sc.omtrdc.net
+:: riahungardedig.info
 :: riansociationentio.info
 :: ribbon.india.com
 :: ribcagebags.com
@@ -42789,6 +42799,7 @@ ff02::3 ip6-allhosts
 :: rkpecade.com
 :: rkrmpg.com
 :: rkueifizvmwbi.com
+:: rkvduvtdz.com
 :: rlaiomvkwz.com
 :: rlbvwdviqx.com
 :: rlcdn.com
@@ -45646,6 +45657,7 @@ ff02::3 ip6-allhosts
 :: skygo.neodatagroup.com
 :: skyligh.co
 :: skylink.vn
+:: skylowhat.site
 :: skymedia.co.uk
 :: skype.dw.land.to
 :: skypeclass.com
@@ -48376,6 +48388,7 @@ ff02::3 ip6-allhosts
 :: tallgireffe.com
 :: talterfortmarob.info
 :: tam.outbrain.com
+:: tamechangekn.info
 :: tamgrt.com
 :: tamiecaseros.pro
 :: tamilcm.com
@@ -49044,6 +49057,7 @@ ff02::3 ip6-allhosts
 :: thewinesteward.com
 :: thewise.com
 :: thgalecom.112.2o7.net
+:: thigeeph.com
 :: thighiny.com
 :: thikraik.net
 :: thiksikr.com
@@ -49070,6 +49084,7 @@ ff02::3 ip6-allhosts
 :: thisiswaldo.com
 :: thismetric.com
 :: thisoldhouse-tagan.adlightning.com
+:: thitegnu.net
 :: thivsxubn.com
 :: thjlnyagmxrbt.com
 :: thkexopsciqums.com
@@ -49700,6 +49715,7 @@ ff02::3 ip6-allhosts
 :: tqbmcmttzid.com
 :: tqcxtxglt.com
 :: tqdarrhactqc.com
+:: tqddgnqsrya.com
 :: tqgj.mediav.com
 :: tqguvxunwvk.com
 :: tqgxhuajp.com
@@ -50731,6 +50747,7 @@ ff02::3 ip6-allhosts
 :: tracker.bang.com
 :: tracker.beezup.com
 :: tracker.bestshopping.com
+:: tracker.bikroy.com
 :: tracker.blueprintinteractivetest.com
 :: tracker.brainsins.com
 :: tracker.btzoo.eu
@@ -53827,6 +53844,7 @@ ff02::3 ip6-allhosts
 :: vivtracking.com
 :: vivyonline.com
 :: viwsqbbvfknp.com
+:: vixirtab.com
 :: vixnixxer.com
 :: vixqjiypv.com
 :: vizaiced.net
@@ -54501,6 +54519,7 @@ ff02::3 ip6-allhosts
 :: wdjaccountapi.open.uc.cn
 :: wdjbxcdriyjoeu.com
 :: wdkbcvnh.com
+:: wdlnoecwykpon.com
 :: wdm29.com
 :: wdmwebs.us
 :: wdpwhnxfzoozsw.com

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.050
 ; Release: 050
-; Entries: 60,995
+; Entries: 61,014
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 00:10:26
+; Updated: Wed, 19 Feb 20 06:09:55
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2760,7 +2760,6 @@ activity.m.duiba.com.cn CNAME .
 activity.tuifish.com CNAME .
 activity.uc.cn CNAME .
 activity.umeng.com CNAME .
-activity.windows.com CNAME .
 activity.wshareit.com CNAME .
 activity.yesware.com.herokudns.com CNAME .
 actontv.122.2o7.net CNAME .
@@ -3726,6 +3725,7 @@ adfox.yandex.ru CNAME .
 adfpaces.ero-advertising.com CNAME .
 adfpkxvaqeyj.com CNAME .
 adframesrc.com CNAME .
+adfrastingathles.info CNAME .
 adfries.info CNAME .
 adfrika.com CNAME .
 adfrontiers.com CNAME .
@@ -8940,7 +8940,6 @@ api.magmamobile.com CNAME .
 api.maropost.com CNAME .
 api.mediatailor.eu-west-1.amazonaws.com CNAME .
 api.megacool.co CNAME .
-api.metrics.heroku.com CNAME .
 api.mgid.com CNAME .
 api.mixpanel.com CNAME .
 api.mobadvent.com CNAME .
@@ -15720,6 +15719,7 @@ collector-pool.newrelic.com CNAME .
 collector-soompi.viki.io CNAME .
 collector.abc-host.net.au CNAME .
 collector.analytics.anvato.net CNAME .
+collector.bikroy.com CNAME .
 collector.brandify.com CNAME .
 collector.bughd.com CNAME .
 collector.capturly.com CNAME .
@@ -16976,6 +16976,7 @@ cutephoto.cu CNAME .
 cutescale.online CNAME .
 cuteturkey.com CNAME .
 cutmaxstore.com CNAME .
+cutopportings.info CNAME .
 cv-ph.rdtcdn.com CNAME .
 cv.accesstrade.vn CNAME .
 cv.rdtcdn.com CNAME .
@@ -19262,6 +19263,7 @@ dub-1-xcp.go.sonobi.com CNAME .
 dub-1.go.sonobi.com CNAME .
 dubshub.com CNAME .
 dubvacasept.com CNAME .
+duchoono.com CNAME .
 duclick.baidu.com CNAME .
 dudebutandlac.info CNAME .
 duetads.com CNAME .
@@ -19844,6 +19846,7 @@ edaa.eu CNAME .
 edacross.org CNAME .
 edc.adform.net CNAME .
 edchargina.pro CNAME .
+edcritessuspi.info CNAME .
 eddd6b75.api.splkmobile.com CNAME .
 eddrpnykbofjln.com CNAME .
 eddy.pro CNAME .
@@ -24598,6 +24601,7 @@ h1.ripway.com CNAME .
 h12-media.com CNAME .
 h12srv.adk2.co CNAME .
 h21.ru CNAME .
+h3btqpy2abc3.com CNAME .
 h3lw971ym6.com CNAME .
 h5.adgear.com CNAME .
 h5.appadhoc.com CNAME .
@@ -28145,6 +28149,7 @@ jarvinzo.com CNAME .
 jarvisdigital-inv-eu.admixer.net CNAME .
 jasonsvid.com CNAME .
 jatxt.com CNAME .
+jaugloup.com CNAME .
 jaunithuw.com CNAME .
 jautaush.net CNAME .
 javacript.cf CNAME .
@@ -28446,6 +28451,7 @@ jnyorvlxy.com CNAME .
 jo.ads.justpremium.com CNAME .
 jo7cofh3.com CNAME .
 joamwtfpppibtj.com CNAME .
+joawapti.net CNAME .
 jobnowshop.xyz CNAME .
 jobs.adgear.com CNAME .
 jobs.advertising.com CNAME .
@@ -31624,6 +31630,7 @@ mai.group CNAME .
 maia.iad-03.braze.com CNAME .
 maibo666.com CNAME .
 maidlytsnrn.com CNAME .
+maihaimo.com CNAME .
 maikuque.net CNAME .
 mail.adcash.com CNAME .
 mail.adcolony.com CNAME .
@@ -32927,6 +32934,7 @@ mightymagoo.com CNAME .
 mignpaybmqkcy.com CNAME .
 mihqbmugg.com CNAME .
 mikeboffer.mytvplayer.hop.clickbank.net CNAME .
+mikpumwbahkx.com CNAME .
 mil-colores.com CNAME .
 milabra.com CNAME .
 milanospurghi.com CNAME .
@@ -38076,6 +38084,7 @@ paulsnetwork.com CNAME .
 paumoogo.net CNAME .
 paupbxxmhh.com CNAME .
 paupepsu.click CNAME .
+paveralleycoun.info CNAME .
 pavfhwwddf.com CNAME .
 pawxrbexeylzn.com CNAME .
 paxmedia.net CNAME .
@@ -38715,7 +38724,6 @@ pixazza.com CNAME .
 pixel-a.basis.net CNAME .
 pixel-a.sitescout.com CNAME .
 pixel-apac.rubiconproject.com CNAME .
-pixel-apc.adsymptotic.com CNAME .
 pixel-eu.rubiconproject.com CNAME .
 pixel-insight.ucweb.com CNAME .
 pixel-origin.mathtag.com CNAME .
@@ -39697,6 +39705,7 @@ potmbbqbaqxwp.com CNAME .
 potu.xyz CNAME .
 potvaporizer.com CNAME .
 poubotem.com CNAME .
+poudeeri.com CNAME .
 povqrvsoljy.com CNAME .
 powellsbooks.122.2o7.net CNAME .
 power.info.com CNAME .
@@ -42664,6 +42673,7 @@ ri.clickability.com CNAME .
 ri.nuggad.net CNAME .
 ria.demdex.net CNAME .
 riafinancial.d2.sc.omtrdc.net CNAME .
+riahungardedig.info CNAME .
 riansociationentio.info CNAME .
 ribbon.india.com CNAME .
 ribcagebags.com CNAME .
@@ -42778,6 +42788,7 @@ rklluqchluxg.com CNAME .
 rkpecade.com CNAME .
 rkrmpg.com CNAME .
 rkueifizvmwbi.com CNAME .
+rkvduvtdz.com CNAME .
 rlaiomvkwz.com CNAME .
 rlbvwdviqx.com CNAME .
 rlcdn.com CNAME .
@@ -45635,6 +45646,7 @@ skydigital.neodatagroup.com CNAME .
 skygo.neodatagroup.com CNAME .
 skyligh.co CNAME .
 skylink.vn CNAME .
+skylowhat.site CNAME .
 skymedia.co.uk CNAME .
 skype.dw.land.to CNAME .
 skypeclass.com CNAME .
@@ -48365,6 +48377,7 @@ tallerillescas209.es CNAME .
 tallgireffe.com CNAME .
 talterfortmarob.info CNAME .
 tam.outbrain.com CNAME .
+tamechangekn.info CNAME .
 tamgrt.com CNAME .
 tamiecaseros.pro CNAME .
 tamilcm.com CNAME .
@@ -49033,6 +49046,7 @@ thewhizproducts.com CNAME .
 thewinesteward.com CNAME .
 thewise.com CNAME .
 thgalecom.112.2o7.net CNAME .
+thigeeph.com CNAME .
 thighiny.com CNAME .
 thikraik.net CNAME .
 thiksikr.com CNAME .
@@ -49059,6 +49073,7 @@ thisisglobal.deliveryengine.adswizz.com CNAME .
 thisiswaldo.com CNAME .
 thismetric.com CNAME .
 thisoldhouse-tagan.adlightning.com CNAME .
+thitegnu.net CNAME .
 thivsxubn.com CNAME .
 thjlnyagmxrbt.com CNAME .
 thkexopsciqums.com CNAME .
@@ -49689,6 +49704,7 @@ tq1.uodoo.com CNAME .
 tqbmcmttzid.com CNAME .
 tqcxtxglt.com CNAME .
 tqdarrhactqc.com CNAME .
+tqddgnqsrya.com CNAME .
 tqgj.mediav.com CNAME .
 tqguvxunwvk.com CNAME .
 tqgxhuajp.com CNAME .
@@ -50720,6 +50736,7 @@ tracker.baidu.com CNAME .
 tracker.bang.com CNAME .
 tracker.beezup.com CNAME .
 tracker.bestshopping.com CNAME .
+tracker.bikroy.com CNAME .
 tracker.blueprintinteractivetest.com CNAME .
 tracker.brainsins.com CNAME .
 tracker.btzoo.eu CNAME .
@@ -53816,6 +53833,7 @@ vivieasy.com CNAME .
 vivtracking.com CNAME .
 vivyonline.com CNAME .
 viwsqbbvfknp.com CNAME .
+vixirtab.com CNAME .
 vixnixxer.com CNAME .
 vixqjiypv.com CNAME .
 vizaiced.net CNAME .
@@ -54490,6 +54508,7 @@ wdjaccount.open.uc.cn CNAME .
 wdjaccountapi.open.uc.cn CNAME .
 wdjbxcdriyjoeu.com CNAME .
 wdkbcvnh.com CNAME .
+wdlnoecwykpon.com CNAME .
 wdm29.com CNAME .
 wdmwebs.us CNAME .
 wdpwhnxfzoozsw.com CNAME .

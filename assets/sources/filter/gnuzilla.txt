@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 19.02.2020
-# Total Domains - 22366
+# Total Domains - 22377
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1528,6 +1528,7 @@
 0.0.0.0 adurr.com
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv-plus.com
+0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.drtuber.com
 0.0.0.0 adv777.com
 0.0.0.0 adv9.net
@@ -4817,6 +4818,7 @@
 0.0.0.0 cpmterra.com
 0.0.0.0 cpmtree.com
 0.0.0.0 cppnznmorh.com
+0.0.0.0 cpro.baidustatic.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 cptycdzksyvn.com
 0.0.0.0 cpu2cash.link
@@ -5136,6 +5138,7 @@
 0.0.0.0 d1i9kr6k34lyp.cloudfront.net
 0.0.0.0 d1iazwv1n1tsyi.cloudfront.net
 0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
+0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
@@ -5512,6 +5515,7 @@
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 dejionsite.pro
 0.0.0.0 del-del-ete.com
+0.0.0.0 delainlygoverhe.info
 0.0.0.0 delegatediscussion.com
 0.0.0.0 delidatax.net
 0.0.0.0 deliver.ptgncdn.com
@@ -7091,6 +7095,7 @@
 0.0.0.0 fedsit.com
 0.0.0.0 feed-ads.com
 0.0.0.0 feed111.me
+0.0.0.0 feed777.me
 0.0.0.0 feedcat.net
 0.0.0.0 feedgist.com
 0.0.0.0 feedjit.com
@@ -8339,6 +8344,7 @@
 0.0.0.0 guardiandigitalcomparison.co.uk
 0.0.0.0 guardwork.info
 0.0.0.0 gudlhvxz.com
+0.0.0.0 gueqndbe.com
 0.0.0.0 gugemfslzh.com
 0.0.0.0 guhpyglt.com
 0.0.0.0 guiltlessbasketball.com
@@ -9712,6 +9718,7 @@
 0.0.0.0 ixspublic.com
 0.0.0.0 ixtmbdajhvimtv.com
 0.0.0.0 ixueiomwi.com
+0.0.0.0 ixunmkbyxvif.com
 0.0.0.0 ixuytaxnu.com
 0.0.0.0 ixvzraajuiniwg.com
 0.0.0.0 ixwbgjnjf.com
@@ -13654,6 +13661,7 @@
 0.0.0.0 oultuwee.net
 0.0.0.0 oulxdvvpmfcd.com
 0.0.0.0 ounaihekw.bid
+0.0.0.0 ountapaveralle.info
 0.0.0.0 ounyrilukncbj.com
 0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
@@ -16320,6 +16328,7 @@
 0.0.0.0 rktch.com
 0.0.0.0 rktu.com
 0.0.0.0 rkueifizvmwbi.com
+0.0.0.0 rkvduvtdz.com
 0.0.0.0 rl.heise.de
 0.0.0.0 rlbvwdviqx.com
 0.0.0.0 rlcdn.com
@@ -18909,6 +18918,7 @@
 0.0.0.0 tpwumuxcasj.com
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tqbmcmttzid.com
+0.0.0.0 tqddgnqsrya.com
 0.0.0.0 tqguvxunwvk.com
 0.0.0.0 tqixovpneycfmk.com
 0.0.0.0 tqlkg.com
@@ -21719,6 +21729,7 @@
 0.0.0.0 yigao.com
 0.0.0.0 yimfcnxzyqhpih.com
 0.0.0.0 yinmyar.xyz
+0.0.0.0 yinsterkneeline.info
 0.0.0.0 yintkfbxaopyb.com
 0.0.0.0 yiopqbbmugak.com
 0.0.0.0 yiqyefznxc.com

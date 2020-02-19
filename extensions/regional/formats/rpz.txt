@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.050
 ; Release: 050
-; Entries: 63,362
+; Entries: 63,368
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 06:13:59
+; Updated: Wed, 19 Feb 20 12:14:57
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7014,6 +7014,7 @@ bdbdqexkdb.com CNAME .
 bdbdqixkdb.com CNAME .
 bdbdqkxkdb.com CNAME .
 bdbdqnxkdb.com CNAME .
+bdbdqqxkdb.com CNAME .
 bdbdqsxkdb.com CNAME .
 bdcm.kandianla.com CNAME .
 bdcode.2345.com CNAME .
@@ -13525,6 +13526,7 @@ ekbcrhpyfuo.com CNAME .
 ekbiwwngwig.com CNAME .
 ekeide.com CNAME .
 ekggptrw.com CNAME .
+ekhqoivfkm.com CNAME .
 ekinos.net CNAME .
 ekkhgwp5atpuxdq.ru CNAME .
 ekkuztgnjnitmd.com CNAME .
@@ -20606,6 +20608,7 @@ jyjhkz.com CNAME .
 jykqpeumdrjopy.com CNAME .
 jynhztwrsl.com CNAME .
 jynp9m209p.com CNAME .
+jypoagtophu.com CNAME .
 jystea.com CNAME .
 jyujouii.com CNAME .
 jyvtidkx.com CNAME .
@@ -21793,6 +21796,7 @@ lbwtrvpgvqkqc.com CNAME .
 lc.cx CNAME .
 lc1b2.cn CNAME .
 lc2ads.ru CNAME .
+lc442.com CNAME .
 lcads.ru CNAME .
 lcaiwpcktosp.com CNAME .
 lchar.com CNAME .
@@ -22511,6 +22515,7 @@ lnr1.com CNAME .
 lnvnzrqdajau.com CNAME .
 lnwbiuetoymifj.com CNAME .
 lnwqvhcqw.com CNAME .
+lnxsrmsebsd.com CNAME .
 lnyhnpwjviyn.com CNAME .
 lnyypjocad.com CNAME .
 loa-traffic.com CNAME .
@@ -40371,6 +40376,7 @@ wmwloejxww.com CNAME .
 wmwyq.xyz CNAME .
 wmxeexfle.com CNAME .
 wmzona.com CNAME .
+wnaibjbnqown.com CNAME .
 wnbdbmqyerfqs.com CNAME .
 wnbfw.com CNAME .
 wndlkj.com CNAME .

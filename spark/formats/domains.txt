@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.050
 # Release: 050
-# Entries: 61,014
+# Entries: 61,024
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 06:09:55
+# Updated: Wed, 19 Feb 20 12:10:36
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -7061,6 +7061,7 @@ aileenvideos.pro
 ailiyou1999.com
 ailoganalyticsportal-eus.cloudapp.net
 ailtumty.net
+ailwayssteverin.info
 aim.pubmatic.com
 aim4media.com
 aimadigital.com
@@ -19314,6 +19315,7 @@ dvsrlrnpyxwv.com
 dvszrkspd.com
 dvtwezyzog.com
 dvuneqnrkukud.com
+dw9uc6c6b8nwx.cloudfront.net
 dwaceiiywjwcyf.com
 dwarfpool.com
 dwbqmlvjpvv.com
@@ -20065,6 +20067,7 @@ ekbcrhpyfuo.com
 ekbiwwngwig.com
 ekggptrw.com
 ekhgvpsfrwqm.com
+ekhqoivfkm.com
 ekkuztgnjnitmd.com
 ekladata.com
 eklcrpehu.com
@@ -21675,6 +21678,7 @@ ffhwzaenzoue.com
 ffjzebtmdwi.com
 ffoifngclwfuey.com
 ffortongoropenityin.info
+ffortyimagist.info
 ffpnlrnmfyeqx.com
 ffqpdpezdmnpb.com
 ffrsfowwxtlbu.com
@@ -22888,11 +22892,13 @@ gadqgqkdexwspxdc.com
 gads.pubmatic.com
 gads44000.pubmatic.com
 gadsans.com
+gadsanz.com
 gadsats.com
 gadsbee.com
 gadsecz.com
 gadsimz.com
 gadsipz.com
+gadsokz.com
 gaee.hit.gemius.pl
 gaf-company.clean.to
 gaftaums.com
@@ -26557,6 +26563,7 @@ igfuvwscradtpu.bid
 iggukjfuylwyv.com
 ighavizixlohvi.com
 igifhnkw.com
+iglaique.net
 igllgmtrioka.com
 igloohq.com
 igmsjgadiz.com
@@ -27752,6 +27759,7 @@ ipromsi.iprom.net
 ips-img.iperceptions.com
 ips-invite.iperceptions.com
 ips-post.iperceptions.com
+ipsoorel.com
 ipsowrite.com
 ipstack.com
 ipuckjvccooync.com
@@ -28877,6 +28885,7 @@ jyknnhll.yearbrazil.com
 jykqpeumdrjopy.com
 jynhztwrsl.com
 jynp9m209p.com
+jypoagtophu.com
 jyttehhwlm.com
 jyujouii.com
 jyxckvhds.bid
@@ -30549,6 +30558,7 @@ lnpqqigowz.com
 lnvnzrqdajau.com
 lnwbiuetoymifj.com
 lnwqvhcqw.com
+lnxsrmsebsd.com
 lnyhnpwjviyn.com
 lnyypjocad.com
 lo2.me
@@ -37179,7 +37189,6 @@ outlookemailsetup.com
 outlookemailtech.com
 outlookproblemshelp.com
 outlookrepairhelp.com
-outlooksetting.com
 outlooksettings.com
 outloud.outbrain.com
 outporn.com
@@ -50519,7 +50528,6 @@ track.talarsystems.com
 track.taohaobuy.com
 track.tap4joy.com
 track.tapatalk.com
-track.tapgerine.net
 track.tappx.com
 track.tasty-natural-lifestyles.com
 track.tastyfoodcombos.com
@@ -55119,6 +55127,7 @@ wmserver.net
 wmtyrdrpjbhnj.com
 wmvnyunntuuz.com
 wn.pos.baidu.com
+wnaibjbnqown.com
 wnbdbmqyerfqs.com
 wndwhzjmfshthv.com
 wnhzlesdqzu.com
@@ -60550,6 +60559,7 @@ zatrlsov.com
 zaugroaw.net
 zauoped.cf
 zauoped.ml
+zaushegi.net
 zavlamhx.com
 zaxdnhfdchet.com
 zayhipbcxig.com

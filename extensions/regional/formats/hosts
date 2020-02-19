@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.050
 # Release: 050
-# Entries: 63,362
+# Entries: 63,368
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 06:13:59
+# Updated: Wed, 19 Feb 20 12:14:57
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -7025,6 +7025,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdbdqixkdb.com
 0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 bdbdqnxkdb.com
+0.0.0.0 bdbdqqxkdb.com
 0.0.0.0 bdbdqsxkdb.com
 0.0.0.0 bdcm.kandianla.com
 0.0.0.0 bdcode.2345.com
@@ -13536,6 +13537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ekbiwwngwig.com
 0.0.0.0 ekeide.com
 0.0.0.0 ekggptrw.com
+0.0.0.0 ekhqoivfkm.com
 0.0.0.0 ekinos.net
 0.0.0.0 ekkhgwp5atpuxdq.ru
 0.0.0.0 ekkuztgnjnitmd.com
@@ -20617,6 +20619,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jykqpeumdrjopy.com
 0.0.0.0 jynhztwrsl.com
 0.0.0.0 jynp9m209p.com
+0.0.0.0 jypoagtophu.com
 0.0.0.0 jystea.com
 0.0.0.0 jyujouii.com
 0.0.0.0 jyvtidkx.com
@@ -21804,6 +21807,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lc.cx
 0.0.0.0 lc1b2.cn
 0.0.0.0 lc2ads.ru
+0.0.0.0 lc442.com
 0.0.0.0 lcads.ru
 0.0.0.0 lcaiwpcktosp.com
 0.0.0.0 lchar.com
@@ -22522,6 +22526,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lnvnzrqdajau.com
 0.0.0.0 lnwbiuetoymifj.com
 0.0.0.0 lnwqvhcqw.com
+0.0.0.0 lnxsrmsebsd.com
 0.0.0.0 lnyhnpwjviyn.com
 0.0.0.0 lnyypjocad.com
 0.0.0.0 loa-traffic.com
@@ -40382,6 +40387,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wmwyq.xyz
 0.0.0.0 wmxeexfle.com
 0.0.0.0 wmzona.com
+0.0.0.0 wnaibjbnqown.com
 0.0.0.0 wnbdbmqyerfqs.com
 0.0.0.0 wnbfw.com
 0.0.0.0 wndlkj.com

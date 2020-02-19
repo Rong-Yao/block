@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.050
 # Release: 050
-# Entries: 61,014
+# Entries: 61,024
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 06:09:55
+# Updated: Wed, 19 Feb 20 12:10:36
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -7080,6 +7080,7 @@ ff02::3 ip6-allhosts
 :: ailiyou1999.com
 :: ailoganalyticsportal-eus.cloudapp.net
 :: ailtumty.net
+:: ailwayssteverin.info
 :: aim.pubmatic.com
 :: aim4media.com
 :: aimadigital.com
@@ -19333,6 +19334,7 @@ ff02::3 ip6-allhosts
 :: dvszrkspd.com
 :: dvtwezyzog.com
 :: dvuneqnrkukud.com
+:: dw9uc6c6b8nwx.cloudfront.net
 :: dwaceiiywjwcyf.com
 :: dwarfpool.com
 :: dwbqmlvjpvv.com
@@ -20084,6 +20086,7 @@ ff02::3 ip6-allhosts
 :: ekbiwwngwig.com
 :: ekggptrw.com
 :: ekhgvpsfrwqm.com
+:: ekhqoivfkm.com
 :: ekkuztgnjnitmd.com
 :: ekladata.com
 :: eklcrpehu.com
@@ -21694,6 +21697,7 @@ ff02::3 ip6-allhosts
 :: ffjzebtmdwi.com
 :: ffoifngclwfuey.com
 :: ffortongoropenityin.info
+:: ffortyimagist.info
 :: ffpnlrnmfyeqx.com
 :: ffqpdpezdmnpb.com
 :: ffrsfowwxtlbu.com
@@ -22907,11 +22911,13 @@ ff02::3 ip6-allhosts
 :: gads.pubmatic.com
 :: gads44000.pubmatic.com
 :: gadsans.com
+:: gadsanz.com
 :: gadsats.com
 :: gadsbee.com
 :: gadsecz.com
 :: gadsimz.com
 :: gadsipz.com
+:: gadsokz.com
 :: gaee.hit.gemius.pl
 :: gaf-company.clean.to
 :: gaftaums.com
@@ -26576,6 +26582,7 @@ ff02::3 ip6-allhosts
 :: iggukjfuylwyv.com
 :: ighavizixlohvi.com
 :: igifhnkw.com
+:: iglaique.net
 :: igllgmtrioka.com
 :: igloohq.com
 :: igmsjgadiz.com
@@ -27771,6 +27778,7 @@ ff02::3 ip6-allhosts
 :: ips-img.iperceptions.com
 :: ips-invite.iperceptions.com
 :: ips-post.iperceptions.com
+:: ipsoorel.com
 :: ipsowrite.com
 :: ipstack.com
 :: ipuckjvccooync.com
@@ -28896,6 +28904,7 @@ ff02::3 ip6-allhosts
 :: jykqpeumdrjopy.com
 :: jynhztwrsl.com
 :: jynp9m209p.com
+:: jypoagtophu.com
 :: jyttehhwlm.com
 :: jyujouii.com
 :: jyxckvhds.bid
@@ -30568,6 +30577,7 @@ ff02::3 ip6-allhosts
 :: lnvnzrqdajau.com
 :: lnwbiuetoymifj.com
 :: lnwqvhcqw.com
+:: lnxsrmsebsd.com
 :: lnyhnpwjviyn.com
 :: lnyypjocad.com
 :: lo2.me
@@ -37198,7 +37208,6 @@ ff02::3 ip6-allhosts
 :: outlookemailtech.com
 :: outlookproblemshelp.com
 :: outlookrepairhelp.com
-:: outlooksetting.com
 :: outlooksettings.com
 :: outloud.outbrain.com
 :: outporn.com
@@ -50538,7 +50547,6 @@ ff02::3 ip6-allhosts
 :: track.taohaobuy.com
 :: track.tap4joy.com
 :: track.tapatalk.com
-:: track.tapgerine.net
 :: track.tappx.com
 :: track.tasty-natural-lifestyles.com
 :: track.tastyfoodcombos.com
@@ -55138,6 +55146,7 @@ ff02::3 ip6-allhosts
 :: wmtyrdrpjbhnj.com
 :: wmvnyunntuuz.com
 :: wn.pos.baidu.com
+:: wnaibjbnqown.com
 :: wnbdbmqyerfqs.com
 :: wndwhzjmfshthv.com
 :: wnhzlesdqzu.com
@@ -60569,6 +60578,7 @@ ff02::3 ip6-allhosts
 :: zaugroaw.net
 :: zauoped.cf
 :: zauoped.ml
+:: zaushegi.net
 :: zavlamhx.com
 :: zaxdnhfdchet.com
 :: zayhipbcxig.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # Last Converted - 19.02.2020
-# Total Domains - 27686
+# Total Domains - 27684
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -16635,7 +16635,6 @@
 0.0.0.0 outlookemailtech.com
 0.0.0.0 outlookproblemshelp.com
 0.0.0.0 outlookrepairhelp.com
-0.0.0.0 outlooksetting.com
 0.0.0.0 outlooksettings.com
 0.0.0.0 outloud.outbrain.com
 0.0.0.0 outrain.com
@@ -22967,7 +22966,6 @@
 0.0.0.0 track.taohaobuy.com
 0.0.0.0 track.tap4joy.com
 0.0.0.0 track.tapatalk.com
-0.0.0.0 track.tapgerine.net
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tasty-natural-lifestyles.com
 0.0.0.0 track.tastyfoodcombos.com

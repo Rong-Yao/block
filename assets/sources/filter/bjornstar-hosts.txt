@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
 # Last Converted - 19.02.2020
-# Total Domains - 5166
+# Total Domains - 5203
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -50,6 +50,7 @@
 0.0.0.0 2leep.com
 0.0.0.0 2mdn.info
 0.0.0.0 2o7.net
+0.0.0.0 2pairs.site
 0.0.0.0 3-224863.link.iwanttodeliver.com
 0.0.0.0 300x250.exad.me
 0.0.0.0 307878505.ame.ampxchange.com
@@ -361,6 +362,7 @@
 0.0.0.0 ads.reelhd.com
 0.0.0.0 ads.reelvidz.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.traffichaus.com
 0.0.0.0 ads.traffichunt.com
@@ -368,6 +370,7 @@
 0.0.0.0 ads.undertone.com
 0.0.0.0 ads.ventivmedia.com
 0.0.0.0 ads.vertor.com
+0.0.0.0 ads.videoadex.com
 0.0.0.0 ads.wayofthejedi.com
 0.0.0.0 ads.webmd.com
 0.0.0.0 ads.wisevid.com
@@ -466,6 +469,7 @@
 0.0.0.0 aimg.fc2.com
 0.0.0.0 ainess.pro
 0.0.0.0 airbrake.io
+0.0.0.0 airstossiplarge.info
 0.0.0.0 aj1198.online
 0.0.0.0 ak-facebook.com
 0.0.0.0 ak.sail-horizon.com
@@ -478,6 +482,7 @@
 0.0.0.0 aladdin.genieesspv.jp
 0.0.0.0 alicyclic1.site
 0.0.0.0 allmygoodlife.com
+0.0.0.0 allmygreatestlife.com
 0.0.0.0 altfarm.mediaplex.com
 0.0.0.0 alxsite.com
 0.0.0.0 am.nexac.com
@@ -902,6 +907,7 @@
 0.0.0.0 cacheserve.eurogrand.com
 0.0.0.0 cadsats.com
 0.0.0.0 cadsecs.com
+0.0.0.0 cadslimz.com
 0.0.0.0 cadvv.heraldm.com
 0.0.0.0 caithamo.net
 0.0.0.0 caixin.adsame.com
@@ -910,6 +916,7 @@
 0.0.0.0 cams.com
 0.0.0.0 camzap.com
 0.0.0.0 canadapost.112.2o7.net
+0.0.0.0 canonch.pro
 0.0.0.0 cas.avalon.perfdrive.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 cas.jp.as.criteo.com
@@ -928,6 +935,7 @@
 0.0.0.0 cbproads.com
 0.0.0.0 cbsdigitalmedia.112.2o7.net
 0.0.0.0 cbsfcpciitwcky.com
+0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cbsnews9.com
 0.0.0.0 cc.chango.com
 0.0.0.0 cc10706.counter.hackers.lv
@@ -1002,6 +1010,7 @@
 0.0.0.0 cdn.gimmemore.com
 0.0.0.0 cdn.glyde.com
 0.0.0.0 cdn.heapanalytics.com
+0.0.0.0 cdn.hoood.info
 0.0.0.0 cdn.imgbabes.com
 0.0.0.0 cdn.imgflare.com
 0.0.0.0 cdn.impactserving.com
@@ -1027,6 +1036,7 @@
 0.0.0.0 cdn.octoshape.net
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.pardot.com
+0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.performersoft.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
@@ -1149,6 +1159,7 @@
 0.0.0.0 christmasvideos333.com
 0.0.0.0 chrome-devtools-frontend.appspot.com
 0.0.0.0 chtatic.appspot.com
+0.0.0.0 ciusqhujddbggb.com
 0.0.0.0 cjl58f3agc.com
 0.0.0.0 ck.cpms.cc
 0.0.0.0 ck.jp.ap.valuecommerce.com
@@ -1167,6 +1178,7 @@
 0.0.0.0 click.be3a.com
 0.0.0.0 click.dtiserv2.com
 0.0.0.0 click.eclk.club
+0.0.0.0 click.expmediadirect.com
 0.0.0.0 click.jasmin.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 click.vipaffiliatenetwork.com
@@ -1309,6 +1321,7 @@
 0.0.0.0 creatives.badongo.com
 0.0.0.0 creatives.cdn.commindo.de.lg1.simplecdn.net
 0.0.0.0 creatives.livejasmin.com
+0.0.0.0 criminglynuk.pro
 0.0.0.0 criteo.com
 0.0.0.0 croea.com
 0.0.0.0 croissed.info
@@ -1446,6 +1459,8 @@
 0.0.0.0 diacache.daylife.com
 0.0.0.0 diamongs.com
 0.0.0.0 diffuser-cdn.app-us1.com
+0.0.0.0 dig.ultimedia.com
+0.0.0.0 dig2.ultimedia.com
 0.0.0.0 digginst.com
 0.0.0.0 digitaldsp.com
 0.0.0.0 dingo.care2.com
@@ -1479,6 +1494,7 @@
 0.0.0.0 doctoconve.club
 0.0.0.0 dogfood.turbobytes.com
 0.0.0.0 dollarade.com
+0.0.0.0 dolphinprofit.com
 0.0.0.0 domainmanager.com
 0.0.0.0 donecooler.com
 0.0.0.0 dosugcz.biz
@@ -1700,9 +1716,11 @@
 0.0.0.0 fastly2.cedexis.fastlylb.net
 0.0.0.0 fastly3.cedexis.fastlylb.net
 0.0.0.0 fasttube2009.com
+0.0.0.0 fbcdn2.com
 0.0.0.0 fbfunn.com
 0.0.0.0 fbleak.info
 0.0.0.0 fd.rad.msn.com
+0.0.0.0 feed.r-tb.com
 0.0.0.0 feed.rightsnetwork.net
 0.0.0.0 feed2.rightsnetwork.net
 0.0.0.0 feedjit.com
@@ -1776,6 +1794,7 @@
 0.0.0.0 fqkvanldq.com
 0.0.0.0 fqtag.com
 0.0.0.0 frame.thestaticvube.com
+0.0.0.0 framentyder.pro
 0.0.0.0 free-license.imgpop.com
 0.0.0.0 free-license.top-3d.com
 0.0.0.0 free.freepornofreeporn.com
@@ -2077,6 +2096,7 @@
 0.0.0.0 iclick.cm.admaster.com.cn
 0.0.0.0 iclwy.xyz
 0.0.0.0 icon.cnzz.com
+0.0.0.0 icon3.octophor.com
 0.0.0.0 icotop.io
 0.0.0.0 id.google.com
 0.0.0.0 id5-sync.com
@@ -2158,6 +2178,7 @@
 0.0.0.0 img.sedoparking.com
 0.0.0.0 img.shinobi.jp
 0.0.0.0 img.turn.com
+0.0.0.0 img.vmmcdn.com
 0.0.0.0 img.ze5.com
 0.0.0.0 img01.nasmedia.co.kr
 0.0.0.0 img11.megarotic.com
@@ -2256,6 +2277,7 @@
 0.0.0.0 iztomsa.info
 0.0.0.0 j.amoad.com
 0.0.0.0 j.wit.qq.com
+0.0.0.0 j4uluwhw.ucnmpsjghl.website
 0.0.0.0 japan2.ms.windows-driver-42717.win.s3-website-ap-northeast-1.amazonaws.com
 0.0.0.0 jav.55888.eu
 0.0.0.0 javhdporn.com
@@ -2599,6 +2621,7 @@
 0.0.0.0 mediafeed.me
 0.0.0.0 mediafire-d.openx.net
 0.0.0.0 mediagura.com
+0.0.0.0 medialb.digiteka.net
 0.0.0.0 medianaft.com
 0.0.0.0 medianet-d.openx.net
 0.0.0.0 mediaplex.com
@@ -2684,6 +2707,7 @@
 0.0.0.0 mpnv2-prod-c.alcmpn.com
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mprules.com
+0.0.0.0 mptedcazdep.info
 0.0.0.0 mqh.go2cloud.org
 0.0.0.0 mshft.com
 0.0.0.0 msnbc.112.2o7.net
@@ -2815,6 +2839,7 @@
 0.0.0.0 offers-service.cbsinteractive.com
 0.0.0.0 ogratsan.ru
 0.0.0.0 oguorftbvegb.com
+0.0.0.0 ohbayersbur.pro
 0.0.0.0 ohcs.uu.gl
 0.0.0.0 oinqqbzs.com
 0.0.0.0 olthorol.com
@@ -3085,6 +3110,7 @@
 0.0.0.0 premium-cams.com
 0.0.0.0 premiumsrv.aniview.com
 0.0.0.0 presidery.info
+0.0.0.0 press.sslproviders.net
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 pricee.com
 0.0.0.0 prism.app-us1.com
@@ -3162,6 +3188,7 @@
 0.0.0.0 pushlat.com
 0.0.0.0 pushno.com
 0.0.0.0 pushokey.com
+0.0.0.0 pushpush.net
 0.0.0.0 pushtraffic.net
 0.0.0.0 pushwhy.com
 0.0.0.0 pussl48.com
@@ -3219,6 +3246,7 @@
 0.0.0.0 r1.3crowd.com
 0.0.0.0 r2.trackedweb.net
 0.0.0.0 r3---sn-q4f7sn7s.c.2mdn.net
+0.0.0.0 r4nwdude.com
 0.0.0.0 ra.stargate.si
 0.0.0.0 raasnet.com
 0.0.0.0 radar.cedexis.com
@@ -3719,6 +3747,7 @@
 0.0.0.0 stat.vidcr.com
 0.0.0.0 stat2.web.yy.com
 0.0.0.0 static-cdn.spot.im
+0.0.0.0 static-cdn.spott.ai
 0.0.0.0 static-tw.plista.com
 0.0.0.0 static-v.tawk.to
 0.0.0.0 static.4chan-ads.org
@@ -3919,6 +3948,7 @@
 0.0.0.0 t.go.sohu.com
 0.0.0.0 t.grtyi.com
 0.0.0.0 t.grtyo.com
+0.0.0.0 t.hoood.info
 0.0.0.0 t.hrtye.com
 0.0.0.0 t.iloveyouxi.com
 0.0.0.0 t.incomingtracker.com
@@ -4068,6 +4098,7 @@
 0.0.0.0 track.007cpa.com
 0.0.0.0 track.11nux.com
 0.0.0.0 track.adform.net
+0.0.0.0 track.builderredirect.com
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.freemmo2017.com
 0.0.0.0 track.gawker.com
@@ -4167,6 +4198,7 @@
 0.0.0.0 tt3.zedo.com
 0.0.0.0 ttcdn.info
 0.0.0.0 ttdetect.staticimgfarm.com
+0.0.0.0 ttoc8ok.com
 0.0.0.0 ttshow.cciuop.com
 0.0.0.0 ttw.htmlhubing.xyz
 0.0.0.0 tu9.3wk.cc
@@ -4230,6 +4262,7 @@
 0.0.0.0 uimg.union178.com
 0.0.0.0 uimg.xiaoangel.com
 0.0.0.0 ujlpbcsx.com
+0.0.0.0 ujpvnnmnsoypsa.com
 0.0.0.0 ujrfwuzv.com
 0.0.0.0 uk.ads.hexus.net
 0.0.0.0 uk.adserver.yahoo.com
@@ -4279,6 +4312,7 @@
 0.0.0.0 utilities.tagsweekly.com
 0.0.0.0 uuaajohul.com
 0.0.0.0 uv9ieb2ohr.com
+0.0.0.0 uvonahaze.xyz
 0.0.0.0 uvrago.ru
 0.0.0.0 uytestion.info
 0.0.0.0 uzaxyokicg.ru
@@ -4576,6 +4610,7 @@
 0.0.0.0 www.chicoryapp.com
 0.0.0.0 www.chinawomendating.asia
 0.0.0.0 www.chinesean.com
+0.0.0.0 www.ciusqhujddbggb.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clclckck.com
 0.0.0.0 www.click-vdo.com
@@ -4912,7 +4947,9 @@
 0.0.0.0 www.tui1999.com
 0.0.0.0 www.tweetup.com
 0.0.0.0 www.uadpost.com
+0.0.0.0 www.ujpvnnmnsoypsa.com
 0.0.0.0 www.ultimate-downloads.com
+0.0.0.0 www.ultimedia.com
 0.0.0.0 www.ulust.com
 0.0.0.0 www.upload2.co
 0.0.0.0 www.upload2.com

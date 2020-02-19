@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 19.02.2020
-# Total Domains - 5948
+# Total Domains - 5943
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2902,7 +2902,6 @@
 0.0.0.0 trusttastic.com
 0.0.0.0 trybikowo.pl
 0.0.0.0 trzywolnemysli.pl
-0.0.0.0 tuesyuioodpps.xyz
 0.0.0.0 tunga.homedns.org
 0.0.0.0 tuniaf.com
 0.0.0.0 tupperware.pl
@@ -3387,7 +3386,6 @@
 0.0.0.0 www.biotalerz.pl
 0.0.0.0 www.bit-coin-trader.com
 0.0.0.0 www.bitcoin-revolution.pl
-0.0.0.0 www.bitcoin-trader-app.com
 0.0.0.0 www.bitcoincodesverigerecension.com
 0.0.0.0 www.bitcoinmillionairepro.com
 0.0.0.0 www.bitcointodaynews.me
@@ -3733,7 +3731,6 @@
 0.0.0.0 www.dziennik.warszawa.pl
 0.0.0.0 www.dziennikkcal.pl
 0.0.0.0 www.dzikieziemniaki.pl
-0.0.0.0 www.e-artfoto.pl
 0.0.0.0 www.e-bestsell.pl
 0.0.0.0 www.e-blackwhite.pl
 0.0.0.0 www.e-cda.pl
@@ -4281,7 +4278,6 @@
 0.0.0.0 www.kikofu.com
 0.0.0.0 www.kineman.pl
 0.0.0.0 www.kinoman-tv.eu
-0.0.0.0 www.kinomaniac.pl
 0.0.0.0 www.kinomaniak.pl
 0.0.0.0 www.kinovod.tv
 0.0.0.0 www.kinujemy.pl
@@ -5730,7 +5726,6 @@
 0.0.0.0 www.xn--fitflopsanday-7hc.pl
 0.0.0.0 www.xn--pandorabiuteria-qkd.pl
 0.0.0.0 www.xoreha84.bid
-0.0.0.0 www.xtrak.me
 0.0.0.0 www.xzegarsmiercix.prv.pl
 0.0.0.0 www.ychicenter.com
 0.0.0.0 www.yeezy-boost350.pl

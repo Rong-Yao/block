@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Last Converted - 19.02.2020
-# Total Domains - 20216
+# Total Domains - 20212
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3884,7 +3884,6 @@
 0.0.0.0 ads-sc2-lb9.adsymptotic.com
 0.0.0.0 ads-sdk.avidly.com
 0.0.0.0 ads-sdk.upltv.com
-0.0.0.0 ads-sg-aws.adsymptotic.com
 0.0.0.0 ads-stage-adaptv.vidible.tv
 0.0.0.0 ads-trk-stage.vidible.tv
 0.0.0.0 ads-trk.vidible.tv
@@ -14146,7 +14145,6 @@
 0.0.0.0 pl115638.puserving.com
 0.0.0.0 pl11595461.puserving.com
 0.0.0.0 pl117016.puserving.com
-0.0.0.0 pl117566.puserving.com
 0.0.0.0 pl118422.puserving.com
 0.0.0.0 pl11854705.puserving.com
 0.0.0.0 pl118992.puserving.com
@@ -17728,7 +17726,6 @@
 0.0.0.0 track.solocpm.com
 0.0.0.0 track.special-promotions.online
 0.0.0.0 track.supersonicads.com
-0.0.0.0 track.tapgerine.net
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.tend.io
 0.0.0.0 track.tenjin.com
@@ -18574,7 +18571,6 @@
 0.0.0.0 vast-cdn.adhigh.net
 0.0.0.0 vast-f13-us-va.adhigh.net
 0.0.0.0 vast-f14-us-va.adhigh.net
-0.0.0.0 vast-f15-us-va.adhigh.net
 0.0.0.0 vast-f5-us-va.adhigh.net
 0.0.0.0 vast-f6-us-va.adhigh.net
 0.0.0.0 vast-pop-ams.mathtag.com

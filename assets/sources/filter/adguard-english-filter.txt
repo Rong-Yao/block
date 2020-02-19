@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 19.02.2020
-# Total Domains - 18316
+# Total Domains - 18320
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5294,6 +5294,7 @@
 0.0.0.0 ekbiwwngwig.com
 0.0.0.0 ekeide.com
 0.0.0.0 ekggptrw.com
+0.0.0.0 ekhqoivfkm.com
 0.0.0.0 ekkuztgnjnitmd.com
 0.0.0.0 eklcrpehu.com
 0.0.0.0 ekmas.com
@@ -8376,6 +8377,7 @@
 0.0.0.0 jykqpeumdrjopy.com
 0.0.0.0 jynhztwrsl.com
 0.0.0.0 jynp9m209p.com
+0.0.0.0 jypoagtophu.com
 0.0.0.0 jyujouii.com
 0.0.0.0 jyymhnyr.com
 0.0.0.0 jz9ugaqb.com
@@ -9155,6 +9157,7 @@
 0.0.0.0 lnvnzrqdajau.com
 0.0.0.0 lnwbiuetoymifj.com
 0.0.0.0 lnwqvhcqw.com
+0.0.0.0 lnxsrmsebsd.com
 0.0.0.0 lnyhnpwjviyn.com
 0.0.0.0 lnyypjocad.com
 0.0.0.0 loa-traffic.com
@@ -16985,6 +16988,7 @@
 0.0.0.0 wmrlljpj.com
 0.0.0.0 wmtyrdrpjbhnj.com
 0.0.0.0 wmwloejxww.com
+0.0.0.0 wnaibjbnqown.com
 0.0.0.0 wndwhzjmfshthv.com
 0.0.0.0 wnhzlesdqzu.com
 0.0.0.0 wnlhbehajh.com

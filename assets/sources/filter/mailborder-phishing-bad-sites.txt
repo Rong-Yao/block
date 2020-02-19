@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
 # Last Converted - 19.02.2020
-# Total Domains - 13866
+# Total Domains - 13865
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2538,7 +2538,6 @@
 0.0.0.0 cyberoxen.com
 0.0.0.0 cybersecuritypal.com
 0.0.0.0 cyntax.com
-0.0.0.0 cysmith.net
 0.0.0.0 cyxemail.getforge.io
 0.0.0.0 cz-ebay.cz
 0.0.0.0 czkn8xehmmleg4e02wdynynzf.designmysite.pro

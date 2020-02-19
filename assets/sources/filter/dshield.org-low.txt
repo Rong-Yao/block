@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 # Last Converted - 19.02.2020
-# Total Domains - 61349
+# Total Domains - 61348
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3312,7 +3312,6 @@
 0.0.0.0 amazonrefundpaypay.com
 0.0.0.0 amazontips.net
 0.0.0.0 amazonvideoreviews.net
-0.0.0.0 amazoo.com.br
 0.0.0.0 amazqn-einlllogen-eurologi.chytrak.cz
 0.0.0.0 amazy-eth.com
 0.0.0.0 ambabns.info

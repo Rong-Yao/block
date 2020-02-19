@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.050
 # Release: 050
-# Entries: 61,014
+# Entries: 61,024
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 19 Feb 20 06:09:55
+# Updated: Wed, 19 Feb 20 12:10:36
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -7080,6 +7080,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ailiyou1999.com
 0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 ailtumty.net
+0.0.0.0 ailwayssteverin.info
 0.0.0.0 aim.pubmatic.com
 0.0.0.0 aim4media.com
 0.0.0.0 aimadigital.com
@@ -19333,6 +19334,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dvszrkspd.com
 0.0.0.0 dvtwezyzog.com
 0.0.0.0 dvuneqnrkukud.com
+0.0.0.0 dw9uc6c6b8nwx.cloudfront.net
 0.0.0.0 dwaceiiywjwcyf.com
 0.0.0.0 dwarfpool.com
 0.0.0.0 dwbqmlvjpvv.com
@@ -20084,6 +20086,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ekbiwwngwig.com
 0.0.0.0 ekggptrw.com
 0.0.0.0 ekhgvpsfrwqm.com
+0.0.0.0 ekhqoivfkm.com
 0.0.0.0 ekkuztgnjnitmd.com
 0.0.0.0 ekladata.com
 0.0.0.0 eklcrpehu.com
@@ -21694,6 +21697,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ffjzebtmdwi.com
 0.0.0.0 ffoifngclwfuey.com
 0.0.0.0 ffortongoropenityin.info
+0.0.0.0 ffortyimagist.info
 0.0.0.0 ffpnlrnmfyeqx.com
 0.0.0.0 ffqpdpezdmnpb.com
 0.0.0.0 ffrsfowwxtlbu.com
@@ -22907,11 +22911,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gads44000.pubmatic.com
 0.0.0.0 gadsans.com
+0.0.0.0 gadsanz.com
 0.0.0.0 gadsats.com
 0.0.0.0 gadsbee.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadsokz.com
 0.0.0.0 gaee.hit.gemius.pl
 0.0.0.0 gaf-company.clean.to
 0.0.0.0 gaftaums.com
@@ -26576,6 +26582,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iggukjfuylwyv.com
 0.0.0.0 ighavizixlohvi.com
 0.0.0.0 igifhnkw.com
+0.0.0.0 iglaique.net
 0.0.0.0 igllgmtrioka.com
 0.0.0.0 igloohq.com
 0.0.0.0 igmsjgadiz.com
@@ -27771,6 +27778,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ips-img.iperceptions.com
 0.0.0.0 ips-invite.iperceptions.com
 0.0.0.0 ips-post.iperceptions.com
+0.0.0.0 ipsoorel.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 ipstack.com
 0.0.0.0 ipuckjvccooync.com
@@ -28896,6 +28904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jykqpeumdrjopy.com
 0.0.0.0 jynhztwrsl.com
 0.0.0.0 jynp9m209p.com
+0.0.0.0 jypoagtophu.com
 0.0.0.0 jyttehhwlm.com
 0.0.0.0 jyujouii.com
 0.0.0.0 jyxckvhds.bid
@@ -30568,6 +30577,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lnvnzrqdajau.com
 0.0.0.0 lnwbiuetoymifj.com
 0.0.0.0 lnwqvhcqw.com
+0.0.0.0 lnxsrmsebsd.com
 0.0.0.0 lnyhnpwjviyn.com
 0.0.0.0 lnyypjocad.com
 0.0.0.0 lo2.me
@@ -37198,7 +37208,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 outlookemailtech.com
 0.0.0.0 outlookproblemshelp.com
 0.0.0.0 outlookrepairhelp.com
-0.0.0.0 outlooksetting.com
 0.0.0.0 outlooksettings.com
 0.0.0.0 outloud.outbrain.com
 0.0.0.0 outporn.com
@@ -50538,7 +50547,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.taohaobuy.com
 0.0.0.0 track.tap4joy.com
 0.0.0.0 track.tapatalk.com
-0.0.0.0 track.tapgerine.net
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tasty-natural-lifestyles.com
 0.0.0.0 track.tastyfoodcombos.com
@@ -55138,6 +55146,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wmtyrdrpjbhnj.com
 0.0.0.0 wmvnyunntuuz.com
 0.0.0.0 wn.pos.baidu.com
+0.0.0.0 wnaibjbnqown.com
 0.0.0.0 wnbdbmqyerfqs.com
 0.0.0.0 wndwhzjmfshthv.com
 0.0.0.0 wnhzlesdqzu.com
@@ -60569,6 +60578,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zaugroaw.net
 0.0.0.0 zauoped.cf
 0.0.0.0 zauoped.ml
+0.0.0.0 zaushegi.net
 0.0.0.0 zavlamhx.com
 0.0.0.0 zaxdnhfdchet.com
 0.0.0.0 zayhipbcxig.com

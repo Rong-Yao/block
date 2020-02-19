@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
 # Last Converted - 19.02.2020
-# Total Domains - 23027
+# Total Domains - 23038
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1895,6 +1895,7 @@
 0.0.0.0 ailawlani.club
 0.0.0.0 aileenvideos.pro
 0.0.0.0 ailtumty.net
+0.0.0.0 ailwayssteverin.info
 0.0.0.0 aim4media.com
 0.0.0.0 aimaptair.club
 0.0.0.0 aimatch.com
@@ -6228,6 +6229,7 @@
 0.0.0.0 dvuneqnrkukud.com
 0.0.0.0 dw-eu.com.com
 0.0.0.0 dw.cbsimg.net
+0.0.0.0 dw9uc6c6b8nwx.cloudfront.net
 0.0.0.0 dwaceiiywjwcyf.com
 0.0.0.0 dwczfwnjg.com
 0.0.0.0 dwgfwxiecp.com
@@ -6587,6 +6589,7 @@
 0.0.0.0 ekbiwwngwig.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 ekggptrw.com
+0.0.0.0 ekhqoivfkm.com
 0.0.0.0 ekkuztgnjnitmd.com
 0.0.0.0 eklcrpehu.com
 0.0.0.0 ekmas.com
@@ -7331,6 +7334,7 @@
 0.0.0.0 ffhwzaenzoue.com
 0.0.0.0 ffjzebtmdwi.com
 0.0.0.0 ffortongoropenityin.info
+0.0.0.0 ffortyimagist.info
 0.0.0.0 ffpnlrnmfyeqx.com
 0.0.0.0 ffqpdpezdmnpb.com
 0.0.0.0 ffwlbiabff.com
@@ -7915,6 +7919,7 @@
 0.0.0.0 gacela.eu
 0.0.0.0 gadgetresearch.net
 0.0.0.0 gadsans.com
+0.0.0.0 gadsanz.com
 0.0.0.0 gadsats.com
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
@@ -9413,6 +9418,7 @@
 0.0.0.0 igg.biz
 0.0.0.0 iggukjfuylwyv.com
 0.0.0.0 ighavizixlohvi.com
+0.0.0.0 iglaique.net
 0.0.0.0 igllgmtrioka.com
 0.0.0.0 igloohq.com
 0.0.0.0 igmsjgadiz.com
@@ -9828,6 +9834,7 @@
 0.0.0.0 iprofit.cc
 0.0.0.0 ipromote.com
 0.0.0.0 iprotrk.com
+0.0.0.0 ipsoorel.com
 0.0.0.0 ipsowrite.com
 0.0.0.0 ipstack.com
 0.0.0.0 ipstats.de
@@ -10400,6 +10407,7 @@
 0.0.0.0 jykqpeumdrjopy.com
 0.0.0.0 jynhztwrsl.com
 0.0.0.0 jynp9m209p.com
+0.0.0.0 jypoagtophu.com
 0.0.0.0 jyujouii.com
 0.0.0.0 jyymhnyr.com
 0.0.0.0 jz9ugaqb.com
@@ -11292,6 +11300,7 @@
 0.0.0.0 lnvnzrqdajau.com
 0.0.0.0 lnwbiuetoymifj.com
 0.0.0.0 lnwqvhcqw.com
+0.0.0.0 lnxsrmsebsd.com
 0.0.0.0 lnyhnpwjviyn.com
 0.0.0.0 lnyypjocad.com
 0.0.0.0 loa-traffic.com
@@ -21646,6 +21655,7 @@
 0.0.0.0 wmqdgaptep.com
 0.0.0.0 wmrlljpj.com
 0.0.0.0 wmtyrdrpjbhnj.com
+0.0.0.0 wnaibjbnqown.com
 0.0.0.0 wndwhzjmfshthv.com
 0.0.0.0 wnhzlesdqzu.com
 0.0.0.0 wnlhbehajh.com
@@ -22676,6 +22686,7 @@
 0.0.0.0 zasccycohek.com
 0.0.0.0 zatrlsov.com
 0.0.0.0 zaugroaw.net
+0.0.0.0 zaushegi.net
 0.0.0.0 zavlamhx.com
 0.0.0.0 zavrotfro.com
 0.0.0.0 zaxdnhfdchet.com

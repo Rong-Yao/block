@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.050
 ; Release: 050
-; Entries: 61,014
+; Entries: 61,024
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 19 Feb 20 06:09:55
+; Updated: Wed, 19 Feb 20 12:10:36
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7069,6 +7069,7 @@ aileenvideos.pro CNAME .
 ailiyou1999.com CNAME .
 ailoganalyticsportal-eus.cloudapp.net CNAME .
 ailtumty.net CNAME .
+ailwayssteverin.info CNAME .
 aim.pubmatic.com CNAME .
 aim4media.com CNAME .
 aimadigital.com CNAME .
@@ -19322,6 +19323,7 @@ dvsrlrnpyxwv.com CNAME .
 dvszrkspd.com CNAME .
 dvtwezyzog.com CNAME .
 dvuneqnrkukud.com CNAME .
+dw9uc6c6b8nwx.cloudfront.net CNAME .
 dwaceiiywjwcyf.com CNAME .
 dwarfpool.com CNAME .
 dwbqmlvjpvv.com CNAME .
@@ -20073,6 +20075,7 @@ ekbcrhpyfuo.com CNAME .
 ekbiwwngwig.com CNAME .
 ekggptrw.com CNAME .
 ekhgvpsfrwqm.com CNAME .
+ekhqoivfkm.com CNAME .
 ekkuztgnjnitmd.com CNAME .
 ekladata.com CNAME .
 eklcrpehu.com CNAME .
@@ -21683,6 +21686,7 @@ ffhwzaenzoue.com CNAME .
 ffjzebtmdwi.com CNAME .
 ffoifngclwfuey.com CNAME .
 ffortongoropenityin.info CNAME .
+ffortyimagist.info CNAME .
 ffpnlrnmfyeqx.com CNAME .
 ffqpdpezdmnpb.com CNAME .
 ffrsfowwxtlbu.com CNAME .
@@ -22896,11 +22900,13 @@ gadqgqkdexwspxdc.com CNAME .
 gads.pubmatic.com CNAME .
 gads44000.pubmatic.com CNAME .
 gadsans.com CNAME .
+gadsanz.com CNAME .
 gadsats.com CNAME .
 gadsbee.com CNAME .
 gadsecz.com CNAME .
 gadsimz.com CNAME .
 gadsipz.com CNAME .
+gadsokz.com CNAME .
 gaee.hit.gemius.pl CNAME .
 gaf-company.clean.to CNAME .
 gaftaums.com CNAME .
@@ -26565,6 +26571,7 @@ igfuvwscradtpu.bid CNAME .
 iggukjfuylwyv.com CNAME .
 ighavizixlohvi.com CNAME .
 igifhnkw.com CNAME .
+iglaique.net CNAME .
 igllgmtrioka.com CNAME .
 igloohq.com CNAME .
 igmsjgadiz.com CNAME .
@@ -27760,6 +27767,7 @@ ipromsi.iprom.net CNAME .
 ips-img.iperceptions.com CNAME .
 ips-invite.iperceptions.com CNAME .
 ips-post.iperceptions.com CNAME .
+ipsoorel.com CNAME .
 ipsowrite.com CNAME .
 ipstack.com CNAME .
 ipuckjvccooync.com CNAME .
@@ -28885,6 +28893,7 @@ jyknnhll.yearbrazil.com CNAME .
 jykqpeumdrjopy.com CNAME .
 jynhztwrsl.com CNAME .
 jynp9m209p.com CNAME .
+jypoagtophu.com CNAME .
 jyttehhwlm.com CNAME .
 jyujouii.com CNAME .
 jyxckvhds.bid CNAME .
@@ -30557,6 +30566,7 @@ lnpqqigowz.com CNAME .
 lnvnzrqdajau.com CNAME .
 lnwbiuetoymifj.com CNAME .
 lnwqvhcqw.com CNAME .
+lnxsrmsebsd.com CNAME .
 lnyhnpwjviyn.com CNAME .
 lnyypjocad.com CNAME .
 lo2.me CNAME .
@@ -37187,7 +37197,6 @@ outlookemailsetup.com CNAME .
 outlookemailtech.com CNAME .
 outlookproblemshelp.com CNAME .
 outlookrepairhelp.com CNAME .
-outlooksetting.com CNAME .
 outlooksettings.com CNAME .
 outloud.outbrain.com CNAME .
 outporn.com CNAME .
@@ -50527,7 +50536,6 @@ track.talarsystems.com CNAME .
 track.taohaobuy.com CNAME .
 track.tap4joy.com CNAME .
 track.tapatalk.com CNAME .
-track.tapgerine.net CNAME .
 track.tappx.com CNAME .
 track.tasty-natural-lifestyles.com CNAME .
 track.tastyfoodcombos.com CNAME .
@@ -55127,6 +55135,7 @@ wmserver.net CNAME .
 wmtyrdrpjbhnj.com CNAME .
 wmvnyunntuuz.com CNAME .
 wn.pos.baidu.com CNAME .
+wnaibjbnqown.com CNAME .
 wnbdbmqyerfqs.com CNAME .
 wndwhzjmfshthv.com CNAME .
 wnhzlesdqzu.com CNAME .
@@ -60558,6 +60567,7 @@ zatrlsov.com CNAME .
 zaugroaw.net CNAME .
 zauoped.cf CNAME .
 zauoped.ml CNAME .
+zaushegi.net CNAME .
 zavlamhx.com CNAME .
 zaxdnhfdchet.com CNAME .
 zayhipbcxig.com CNAME .

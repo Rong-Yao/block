@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 19.02.2020
-# Total Domains - 59180
+# Total Domains - 59179
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -49752,7 +49752,6 @@
 0.0.0.0 track.tagtoo.co
 0.0.0.0 track.tagtoo.com.tw
 0.0.0.0 track.tapatalk.com
-0.0.0.0 track.tapgerine.net
 0.0.0.0 track.tappx.com
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com

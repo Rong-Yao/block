@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 19.02.2020
-# Total Domains - 35965
+# Total Domains - 35960
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -28648,7 +28648,6 @@
 0.0.0.0 tudc-sdk-ie.afmobitek.com
 0.0.0.0 tudnivalok.com
 0.0.0.0 tudnodkell.info
-0.0.0.0 tuesyuioodpps.xyz
 0.0.0.0 tui.intelli-direct.com
 0.0.0.0 tui.taobao.com
 0.0.0.0 tuiguang.meitu.com
@@ -31053,7 +31052,6 @@
 0.0.0.0 www.bit-coin-trader.com
 0.0.0.0 www.bitcoadz.io
 0.0.0.0 www.bitcoin-revolution.pl
-0.0.0.0 www.bitcoin-trader-app.com
 0.0.0.0 www.bitcoincodesverigerecension.com
 0.0.0.0 www.bitcoinmillionairepro.com
 0.0.0.0 www.bitcointodaynews.me
@@ -31715,7 +31713,6 @@
 0.0.0.0 www.dziennikkcal.pl
 0.0.0.0 www.dzikieziemniaki.pl
 0.0.0.0 www.dzzrenjanin.rs
-0.0.0.0 www.e-artfoto.pl
 0.0.0.0 www.e-bestsell.pl
 0.0.0.0 www.e-blackwhite.pl
 0.0.0.0 www.e-cda.pl
@@ -32654,7 +32651,6 @@
 0.0.0.0 www.kikofu.com
 0.0.0.0 www.kineman.pl
 0.0.0.0 www.kinoman-tv.eu
-0.0.0.0 www.kinomaniac.pl
 0.0.0.0 www.kinomaniak.pl
 0.0.0.0 www.kinovod.tv
 0.0.0.0 www.kinujemy.pl
@@ -35129,7 +35125,6 @@
 0.0.0.0 www.xsedu.zj.cn
 0.0.0.0 www.xstat.pl
 0.0.0.0 www.xtrafic.ro
-0.0.0.0 www.xtrak.me
 0.0.0.0 www.xvideoslive.com
 0.0.0.0 www.xxxbannerswap.com
 0.0.0.0 www.xxxcounter.com

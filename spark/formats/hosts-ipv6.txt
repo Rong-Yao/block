@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.051
 # Release: 051
-# Entries: 61,098
+# Entries: 61,109
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 00:11:22
+# Updated: Thu, 20 Feb 20 06:09:54
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -2453,6 +2453,7 @@ ff02::3 ip6-allhosts
 :: aallycspkdf.com
 :: aalog.umengcloud.com
 :: aamapi.com
+:: aamejtdlmk.com
 :: aamobile.info
 :: aan.cdn.speedshiftmedia.com
 :: aan.speedshiftmedia.com
@@ -16227,6 +16228,7 @@ ff02::3 ip6-allhosts
 :: cope.it
 :: copicvarianuty.info
 :: copperchickens.com
+:: copvigvmzj.com
 :: copycarpenter.com
 :: copyrightaccesscontrols.com
 :: coquine-dispo.com
@@ -16910,6 +16912,7 @@ ff02::3 ip6-allhosts
 :: ctrmanager.com
 :: ctrsopfwiadfjn.com
 :: cts.w55c.net
+:: ctsjackupspete.info
 :: ctsrwmcshv.com
 :: cttghjfhsw.com
 :: cttnlnsnwdokqb.com
@@ -18554,6 +18557,7 @@ ff02::3 ip6-allhosts
 :: ditdotsol.com
 :: ditds.xyz
 :: ditincoriligh.pro
+:: ditookry.com
 :: ditouyldfqgt.com
 :: ditwrite.com
 :: diveringecondsw.info
@@ -23648,6 +23652,7 @@ ff02::3 ip6-allhosts
 :: gleechie.net
 :: gleechood.com
 :: gleedaik.net
+:: gleergie.net
 :: gleetait.net
 :: glenm.mtxcapital.com
 :: gletaums.net
@@ -24660,6 +24665,7 @@ ff02::3 ip6-allhosts
 :: hadlacrighterthen.pro
 :: haedong.es.kr
 :: hafksvqiir.com
+:: haftobso.net
 :: haggilder.com
 :: hagiqxizxqf.com
 :: hagoit.com
@@ -24934,6 +24940,7 @@ ff02::3 ip6-allhosts
 :: hebiichigo.com
 :: hecheckbabronref.info
 :: hechisheortal.pro
+:: heckagny.com
 :: heckhaphanofres.info
 :: hecrowcati.info
 :: hedlimitatelearlyb.info
@@ -29168,6 +29175,7 @@ ff02::3 ip6-allhosts
 :: kfitivcucxzk.com
 :: kfozongcvn.com
 :: kfpkzbgwuxm.bid
+:: kfptslry.com
 :: kfpwayrztgjj.com
 :: kfqronzxcrdt.com
 :: kfritiigmqk.com
@@ -35002,6 +35010,7 @@ ff02::3 ip6-allhosts
 :: newtopsites.com
 :: newtrkdomain.com
 :: newtueads.com
+:: newvideos.xyz
 :: newwebdomains.online
 :: newwebpick.com
 :: newwedads.com
@@ -37156,6 +37165,7 @@ ff02::3 ip6-allhosts
 :: otparcaltonther.pro
 :: otpckmnnfm.com
 :: otpercpiheno.hu
+:: otqhemtwoene.com
 :: otqzpgagsstvth.com
 :: otracking.com
 :: otrjvabiv.bid
@@ -41751,7 +41761,6 @@ ff02::3 ip6-allhosts
 :: r.w.inmobi.com
 :: r.wales
 :: r.wallstrads.com
-:: r.yieldkit.com
 :: r.zdbb.net
 :: r0.mradx.net
 :: r1-front-01.pushwoosh.com
@@ -52442,6 +52451,7 @@ ff02::3 ip6-allhosts
 :: umhpzzloestt.com
 :: umimob.com
 :: umlrvgjkexv.com
+:: ummerciseha.info
 :: umnsvtykkptl.com
 :: umpackpc.ucweb.com
 :: umqhjmowzjrl.com
@@ -60619,6 +60629,7 @@ ff02::3 ip6-allhosts
 :: zag.122.2o7.net
 :: zahlmvosqsxmp.com
 :: zaijacho.net
+:: zaivikuk.com
 :: zajawwgpl.com
 :: zajshoeses.site
 :: zalo-ads-td.zadn.vn

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.051
 ; Release: 051
-; Entries: 61,098
+; Entries: 61,109
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 00:11:22
+; Updated: Thu, 20 Feb 20 06:09:54
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2442,6 +2442,7 @@ aalbc.advertserve.com CNAME .
 aallycspkdf.com CNAME .
 aalog.umengcloud.com CNAME .
 aamapi.com CNAME .
+aamejtdlmk.com CNAME .
 aamobile.info CNAME .
 aan.cdn.speedshiftmedia.com CNAME .
 aan.speedshiftmedia.com CNAME .
@@ -16216,6 +16217,7 @@ copay.io CNAME .
 cope.it CNAME .
 copicvarianuty.info CNAME .
 copperchickens.com CNAME .
+copvigvmzj.com CNAME .
 copycarpenter.com CNAME .
 copyrightaccesscontrols.com CNAME .
 coquine-dispo.com CNAME .
@@ -16899,6 +16901,7 @@ ctrlaltdel99.com CNAME .
 ctrmanager.com CNAME .
 ctrsopfwiadfjn.com CNAME .
 cts.w55c.net CNAME .
+ctsjackupspete.info CNAME .
 ctsrwmcshv.com CNAME .
 cttghjfhsw.com CNAME .
 cttnlnsnwdokqb.com CNAME .
@@ -18543,6 +18546,7 @@ ditcoin.io CNAME .
 ditdotsol.com CNAME .
 ditds.xyz CNAME .
 ditincoriligh.pro CNAME .
+ditookry.com CNAME .
 ditouyldfqgt.com CNAME .
 ditwrite.com CNAME .
 diveringecondsw.info CNAME .
@@ -23637,6 +23641,7 @@ gleebsex.net CNAME .
 gleechie.net CNAME .
 gleechood.com CNAME .
 gleedaik.net CNAME .
+gleergie.net CNAME .
 gleetait.net CNAME .
 glenm.mtxcapital.com CNAME .
 gletaums.net CNAME .
@@ -24649,6 +24654,7 @@ hades.getsocial.im CNAME .
 hadlacrighterthen.pro CNAME .
 haedong.es.kr CNAME .
 hafksvqiir.com CNAME .
+haftobso.net CNAME .
 haggilder.com CNAME .
 hagiqxizxqf.com CNAME .
 hagoit.com CNAME .
@@ -24923,6 +24929,7 @@ hebdotop.com CNAME .
 hebiichigo.com CNAME .
 hecheckbabronref.info CNAME .
 hechisheortal.pro CNAME .
+heckagny.com CNAME .
 heckhaphanofres.info CNAME .
 hecrowcati.info CNAME .
 hedlimitatelearlyb.info CNAME .
@@ -29157,6 +29164,7 @@ kfdqqqmorlt.com CNAME .
 kfitivcucxzk.com CNAME .
 kfozongcvn.com CNAME .
 kfpkzbgwuxm.bid CNAME .
+kfptslry.com CNAME .
 kfpwayrztgjj.com CNAME .
 kfqronzxcrdt.com CNAME .
 kfritiigmqk.com CNAME .
@@ -34991,6 +34999,7 @@ newthuads.com CNAME .
 newtopsites.com CNAME .
 newtrkdomain.com CNAME .
 newtueads.com CNAME .
+newvideos.xyz CNAME .
 newwebdomains.online CNAME .
 newwebpick.com CNAME .
 newwedads.com CNAME .
@@ -37145,6 +37154,7 @@ otoxkqlivsqr.com CNAME .
 otparcaltonther.pro CNAME .
 otpckmnnfm.com CNAME .
 otpercpiheno.hu CNAME .
+otqhemtwoene.com CNAME .
 otqzpgagsstvth.com CNAME .
 otracking.com CNAME .
 otrjvabiv.bid CNAME .
@@ -41740,7 +41750,6 @@ r.turn.com.akadns.net CNAME .
 r.w.inmobi.com CNAME .
 r.wales CNAME .
 r.wallstrads.com CNAME .
-r.yieldkit.com CNAME .
 r.zdbb.net CNAME .
 r0.mradx.net CNAME .
 r1-front-01.pushwoosh.com CNAME .
@@ -52431,6 +52440,7 @@ umgbvaurcx.com CNAME .
 umhpzzloestt.com CNAME .
 umimob.com CNAME .
 umlrvgjkexv.com CNAME .
+ummerciseha.info CNAME .
 umnsvtykkptl.com CNAME .
 umpackpc.ucweb.com CNAME .
 umqhjmowzjrl.com CNAME .
@@ -60608,6 +60618,7 @@ zag.112.2o7.net CNAME .
 zag.122.2o7.net CNAME .
 zahlmvosqsxmp.com CNAME .
 zaijacho.net CNAME .
+zaivikuk.com CNAME .
 zajawwgpl.com CNAME .
 zajshoeses.site CNAME .
 zalo-ads-td.zadn.vn CNAME .

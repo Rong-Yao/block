@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 20.02.2020
-# Total Domains - 18338
+# Total Domains - 18349
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -680,6 +680,7 @@
 0.0.0.0 aaitudxr.com
 0.0.0.0 aallycspkdf.com
 0.0.0.0 aamapi.com
+0.0.0.0 aamejtdlmk.com
 0.0.0.0 aanqylta.com
 0.0.0.0 aappf.pt
 0.0.0.0 aaqpsddtjnsmug.com
@@ -3889,6 +3890,7 @@
 0.0.0.0 cootewie.com
 0.0.0.0 coothupu.net
 0.0.0.0 copacet.com
+0.0.0.0 copvigvmzj.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 cor-natty.com
 0.0.0.0 corateencountry.pro
@@ -4050,6 +4052,7 @@
 0.0.0.0 ctrhub.com
 0.0.0.0 ctrmanager.com
 0.0.0.0 ctrsopfwiadfjn.com
+0.0.0.0 ctsjackupspete.info
 0.0.0.0 ctsrwmcshv.com
 0.0.0.0 cttghjfhsw.com
 0.0.0.0 cttnlnsnwdokqb.com
@@ -4323,6 +4326,7 @@
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 d3jgr4uve1d188.cloudfront.net
+0.0.0.0 d3kpkrgd3aj4o7.cloudfront.net
 0.0.0.0 d3l320urli0p1u.cloudfront.net
 0.0.0.0 d3lvr7yuk4uaui.cloudfront.net
 0.0.0.0 d3m79ugzs2d8im.cloudfront.net
@@ -4704,6 +4708,7 @@
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditds.xyz
 0.0.0.0 ditincoriligh.pro
+0.0.0.0 ditookry.com
 0.0.0.0 ditwrite.com
 0.0.0.0 divascam.com
 0.0.0.0 diveringecondsw.info
@@ -6546,6 +6551,7 @@
 0.0.0.0 gleebsex.net
 0.0.0.0 gleechie.net
 0.0.0.0 gleechood.com
+0.0.0.0 gleergie.net
 0.0.0.0 gleersoo.net
 0.0.0.0 gleetait.net
 0.0.0.0 gletaums.net
@@ -6909,6 +6915,7 @@
 0.0.0.0 hadczwhwfvhcc.com
 0.0.0.0 hadlacrighterthen.pro
 0.0.0.0 hafksvqiir.com
+0.0.0.0 haftobso.net
 0.0.0.0 haggilder.com
 0.0.0.0 hagiqxizxqf.com
 0.0.0.0 hagoit.com
@@ -7010,6 +7017,7 @@
 0.0.0.0 hebadu.com
 0.0.0.0 hebiichigo.com
 0.0.0.0 hechaocheng.cn
+0.0.0.0 heckagny.com
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hedlimitatelearlyb.info
 0.0.0.0 hedtgodingsincy.info
@@ -8514,6 +8522,7 @@
 0.0.0.0 keywordsconnect.com
 0.0.0.0 kfitivcucxzk.com
 0.0.0.0 kfozongcvn.com
+0.0.0.0 kfptslry.com
 0.0.0.0 kfqronzxcrdt.com
 0.0.0.0 kfritiigmqk.com
 0.0.0.0 kfrnlaiqm.com
@@ -11362,6 +11371,7 @@
 0.0.0.0 otnolatrnup.com
 0.0.0.0 otoxkqlivsqr.com
 0.0.0.0 otpckmnnfm.com
+0.0.0.0 otqhemtwoene.com
 0.0.0.0 otqzpgagsstvth.com
 0.0.0.0 otrjvabiv.bid
 0.0.0.0 otruzjgxof.com
@@ -14839,7 +14849,6 @@
 0.0.0.0 struq.com
 0.0.0.0 stsodds.sts.pl
 0.0.0.0 stuff-nzwhistleout.s3.amazonaws.com
-0.0.0.0 stunninglover.com
 0.0.0.0 stvayyokjvxnl.com
 0.0.0.0 stygg.xyz
 0.0.0.0 style-eyes.eu
@@ -15973,6 +15982,7 @@
 0.0.0.0 umgbvaurcx.com
 0.0.0.0 umhpzzloestt.com
 0.0.0.0 umlrvgjkexv.com
+0.0.0.0 ummerciseha.info
 0.0.0.0 umqhjmowzjrl.com
 0.0.0.0 umusjdiehxbn.com
 0.0.0.0 umvgcqaxmie.com
@@ -17986,6 +17996,7 @@
 0.0.0.0 zaeyaeph.com
 0.0.0.0 zafrc.5780.site
 0.0.0.0 zaijacho.net
+0.0.0.0 zaivikuk.com
 0.0.0.0 zajawwgpl.com
 0.0.0.0 zangocash.com
 0.0.0.0 zanox.com

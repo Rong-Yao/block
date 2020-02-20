@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
 # Last Converted - 20.02.2020
-# Total Domains - 25730
+# Total Domains - 25738
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -999,6 +999,7 @@
 0.0.0.0 ad-shot.com
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 ad-sponsor.com
+0.0.0.0 ad-srv-track.com
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-stir.com
 0.0.0.0 ad-sun.de
@@ -10752,6 +10753,7 @@
 0.0.0.0 imbafgnoipmv.com
 0.0.0.0 imbetan.info
 0.0.0.0 imbpmlyhkk.com
+0.0.0.0 imbwnxknxzmo.com
 0.0.0.0 imcht.net
 0.0.0.0 imediaaudiences.com
 0.0.0.0 imediarevenue.com
@@ -12327,6 +12329,7 @@
 0.0.0.0 labadon.com
 0.0.0.0 labdwkqyavb.com
 0.0.0.0 laborates.com
+0.0.0.0 labortiontrifee.info
 0.0.0.0 lactonssofut.ru
 0.0.0.0 lactotof.ru
 0.0.0.0 ladbrokesaffiliates.com.au
@@ -12503,6 +12506,7 @@
 0.0.0.0 leaplunchroom.com
 0.0.0.0 leaptrade.com
 0.0.0.0 leastersmiled.pro
+0.0.0.0 leathtexactlycin.info
 0.0.0.0 lebneeklnuru.com
 0.0.0.0 lebqrivt.com
 0.0.0.0 ledhatbet.com
@@ -14000,6 +14004,7 @@
 0.0.0.0 mmtro.com
 0.0.0.0 mmxbgakffqemu.com
 0.0.0.0 mn1nm.com
+0.0.0.0 mnaljqzekv.com
 0.0.0.0 mnbfujorh.com
 0.0.0.0 mnbvjhg.com
 0.0.0.0 mnetads.com
@@ -18376,6 +18381,7 @@
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 refpa.top
 0.0.0.0 refpaumckl.top
+0.0.0.0 refractionius.com
 0.0.0.0 reftedlettiny.info
 0.0.0.0 refunsiy.net
 0.0.0.0 reg88.ru
@@ -21106,6 +21112,7 @@
 0.0.0.0 tdsrmbl.net
 0.0.0.0 tdstats.com
 0.0.0.0 tdstorage.site
+0.0.0.0 tdxipgdorydvzo.com
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 tea.pornolomka.video
 0.0.0.0 teachac.com
@@ -23603,6 +23610,7 @@
 0.0.0.0 vqmdezgkkklcc.com
 0.0.0.0 vqnruxpecsn.com
 0.0.0.0 vqqvpouifhv.com
+0.0.0.0 vqsggzvcaujh.com
 0.0.0.0 vqzqkhumdad.com
 0.0.0.0 vrewpywootyu.com
 0.0.0.0 vrmuyscnqgsg.com

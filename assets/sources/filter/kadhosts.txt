@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 20.02.2020
-# Total Domains - 5940
+# Total Domains - 5946
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1493,6 +1493,7 @@
 0.0.0.0 kulturalubuska.pl
 0.0.0.0 kupgo.net
 0.0.0.0 kupujemy.to
+0.0.0.0 kur24pl.eu
 0.0.0.0 kuriero.pl
 0.0.0.0 kurtkacgallegro.com
 0.0.0.0 kurtkiwyprzedaz.pl
@@ -2524,6 +2525,7 @@
 0.0.0.0 serwis.kb.help
 0.0.0.0 serwisagd-waw.pl
 0.0.0.0 serwislaptopowwarszawa.com.pl
+0.0.0.0 setup-firefox.host
 0.0.0.0 sexmonitor.top
 0.0.0.0 sexopia.pl
 0.0.0.0 sgipn.pl
@@ -4344,6 +4346,7 @@
 0.0.0.0 www.kulalusramag.net
 0.0.0.0 www.kulturalubuska.pl
 0.0.0.0 www.kupujemy.to
+0.0.0.0 www.kur24pl.eu
 0.0.0.0 www.kuriero.pl
 0.0.0.0 www.kurtkacgallegro.com
 0.0.0.0 www.kurtkiwyprzedaz.pl
@@ -5189,6 +5192,7 @@
 0.0.0.0 www.serwis.kb.help
 0.0.0.0 www.serwisagd-waw.pl
 0.0.0.0 www.serwislaptopowwarszawa.com.pl
+0.0.0.0 www.setup-firefox.host
 0.0.0.0 www.sexopia.pl
 0.0.0.0 www.sgipn.pl
 0.0.0.0 www.shael.org
@@ -5712,6 +5716,7 @@
 0.0.0.0 www.wypoczywajunas.pl
 0.0.0.0 www.wyprzedazobuwie.pl
 0.0.0.0 www.wyremontujklinike.pl
+0.0.0.0 www.wys24h.eu
 0.0.0.0 www.wytypowany-zwyciezca.com
 0.0.0.0 www.wytypowany-zwyciezca.pl
 0.0.0.0 www.wzdrowiupiekno.pl
@@ -5831,6 +5836,7 @@
 0.0.0.0 wypoczywajunas.pl
 0.0.0.0 wyprzedazobuwie.pl
 0.0.0.0 wyremontujklinike.pl
+0.0.0.0 wys24h.eu
 0.0.0.0 wyspaofert.com
 0.0.0.0 wytypowany-zwyciezca.com
 0.0.0.0 wzdrowiupiekno.pl

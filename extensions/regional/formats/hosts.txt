@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.051
 # Release: 051
-# Entries: 63,388
+# Entries: 63,400
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 00:16:43
+# Updated: Thu, 20 Feb 20 06:13:37
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2368,6 +2368,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aakxh.com
 0.0.0.0 aallycspkdf.com
 0.0.0.0 aamapi.com
+0.0.0.0 aamejtdlmk.com
 0.0.0.0 aanqylta.com
 0.0.0.0 aanyway.ru
 0.0.0.0 aappf.pt
@@ -10277,6 +10278,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 copercato.com
 0.0.0.0 copiapop.net
 0.0.0.0 copicvarianuty.info
+0.0.0.0 copvigvmzj.com
 0.0.0.0 copyop-ads.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 coquines-dispo.com
@@ -10724,6 +10726,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ctripatm.cn
 0.0.0.0 ctrmanager.com
 0.0.0.0 ctrsopfwiadfjn.com
+0.0.0.0 ctsjackupspete.info
 0.0.0.0 ctsrwmcshv.com
 0.0.0.0 ctsywy.com
 0.0.0.0 cttghjfhsw.com
@@ -11302,6 +11305,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3k5fl0ycdyj0l.cloudfront.net
 0.0.0.0 d3k68ig7ckr3r6.cloudfront.net
 0.0.0.0 d3kacx5v2eocxa.cloudfront.net
+0.0.0.0 d3kpkrgd3aj4o7.cloudfront.net
 0.0.0.0 d3l320urli0p1u.cloudfront.net
 0.0.0.0 d3lidvwz6p81oz.cloudfront.net
 0.0.0.0 d3lu45piikoyqh.cloudfront.net
@@ -12248,6 +12252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditds.xyz
 0.0.0.0 ditincoriligh.pro
+0.0.0.0 ditookry.com
 0.0.0.0 ditwrite.com
 0.0.0.0 diuling.com
 0.0.0.0 divascam.com
@@ -16373,6 +16378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gleechie.net
 0.0.0.0 gleechood.com
 0.0.0.0 gleedaik.net
+0.0.0.0 gleergie.net
 0.0.0.0 gleersoo.net
 0.0.0.0 gleetait.net
 0.0.0.0 glenoldencedarburg.com
@@ -17191,6 +17197,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hafbezbemwwd.com
 0.0.0.0 hafdfjefeafcegcjgeh.ru
 0.0.0.0 hafksvqiir.com
+0.0.0.0 haftobso.net
 0.0.0.0 hagarstowndilworth.com
 0.0.0.0 haggilder.com
 0.0.0.0 hagiqxizxqf.com
@@ -17452,6 +17459,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hebzycw.com
 0.0.0.0 hecaningar.ru
 0.0.0.0 hechaocheng.cn
+0.0.0.0 heckagny.com
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hecrowcati.info
 0.0.0.0 hedevokjwl.biz
@@ -20908,6 +20916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kfitivcucxzk.com
 0.0.0.0 kfluoa.com
 0.0.0.0 kfozongcvn.com
+0.0.0.0 kfptslry.com
 0.0.0.0 kfqked6fgj.com
 0.0.0.0 kfqronzxcrdt.com
 0.0.0.0 kfrar.club
@@ -27547,6 +27556,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otoply.ru
 0.0.0.0 otoxkqlivsqr.com
 0.0.0.0 otpckmnnfm.com
+0.0.0.0 otqhemtwoene.com
 0.0.0.0 otqzpgagsstvth.com
 0.0.0.0 otrapuse.lv
 0.0.0.0 otrek.ru
@@ -37875,6 +37885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 umjsik.com
 0.0.0.0 umlrvgjkexv.com
 0.0.0.0 umm6.cn
+0.0.0.0 ummerciseha.info
 0.0.0.0 umountry.info
 0.0.0.0 umqhjmowzjrl.com
 0.0.0.0 umusjdiehxbn.com
@@ -62616,6 +62627,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zaicouwy.net
 0.0.0.0 zaijacho.net
 0.0.0.0 zain.biz
+0.0.0.0 zaivikuk.com
 0.0.0.0 zajawwgpl.com
 0.0.0.0 zaklabe.ru
 0.0.0.0 zakladka.org.ua

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 20.02.2020
-# Total Domains - 22419
+# Total Domains - 22430
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -696,6 +696,7 @@
 0.0.0.0 aaitudxr.com
 0.0.0.0 aallycspkdf.com
 0.0.0.0 aamapi.com
+0.0.0.0 aamejtdlmk.com
 0.0.0.0 aamsitecertifier.com
 0.0.0.0 aappf.pt
 0.0.0.0 aapsis.com
@@ -841,6 +842,7 @@
 0.0.0.0 ad-server.co.za
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-sponsor.com
+0.0.0.0 ad-srv-track.com
 0.0.0.0 ad-srv.net
 0.0.0.0 ad-stir.com
 0.0.0.0 ad-u.com
@@ -4672,6 +4674,7 @@
 0.0.0.0 coothupu.net
 0.0.0.0 copacet.com
 0.0.0.0 copperegg.com
+0.0.0.0 copvigvmzj.com
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 cor-natty.com
@@ -6023,6 +6026,7 @@
 0.0.0.0 dtvlalitvg.com
 0.0.0.0 dtxngr.com
 0.0.0.0 dtzads.com
+0.0.0.0 du01z5hhojprz.cloudfront.net
 0.0.0.0 du2uh7rq0r0d3.cloudfront.net
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
@@ -9265,6 +9269,7 @@
 0.0.0.0 imbafgnoipmv.com
 0.0.0.0 imbetan.info
 0.0.0.0 imbpmlyhkk.com
+0.0.0.0 imbwnxknxzmo.com
 0.0.0.0 imcht.net
 0.0.0.0 imediaaudiences.com
 0.0.0.0 imediarevenue.com
@@ -10616,6 +10621,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 labdwkqyavb.com
 0.0.0.0 laborates.com
+0.0.0.0 labortiontrifee.info
 0.0.0.0 ladbrokesaffiliates.com.au
 0.0.0.0 ladiathdefinishe.info
 0.0.0.0 ladnova.info
@@ -10755,6 +10761,7 @@
 0.0.0.0 leaplunchroom.com
 0.0.0.0 leaptrade.com
 0.0.0.0 leastersmiled.pro
+0.0.0.0 leathtexactlycin.info
 0.0.0.0 lebneeklnuru.com
 0.0.0.0 lebqrivt.com
 0.0.0.0 leche69.com
@@ -11861,6 +11868,7 @@
 0.0.0.0 minodazi.com
 0.0.0.0 mioxtidzcrh.com
 0.0.0.0 miracan.pw
+0.0.0.0 mirafaren.pw
 0.0.0.0 mirago.com
 0.0.0.0 mirrorpersonalinjury.co.uk
 0.0.0.0 misslk.com
@@ -11965,6 +11973,7 @@
 0.0.0.0 mmwebhandler.888.com
 0.0.0.0 mmxbgakffqemu.com
 0.0.0.0 mn1nm.com
+0.0.0.0 mnaljqzekv.com
 0.0.0.0 mnbfujorh.com
 0.0.0.0 mnbvjhg.com
 0.0.0.0 mncvjhg.com
@@ -18484,6 +18493,7 @@
 0.0.0.0 tdsjsext1.com
 0.0.0.0 tdsrmbl.net
 0.0.0.0 tdstats.com
+0.0.0.0 tdxipgdorydvzo.com
 0.0.0.0 te.mytoys.de
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 teads.tv
@@ -20513,6 +20523,7 @@
 0.0.0.0 vqmdezgkkklcc.com
 0.0.0.0 vqnruxpecsn.com
 0.0.0.0 vqqvpouifhv.com
+0.0.0.0 vqsggzvcaujh.com
 0.0.0.0 vqzqkhumdad.com
 0.0.0.0 vrewpywootyu.com
 0.0.0.0 vrmuyscnqgsg.com

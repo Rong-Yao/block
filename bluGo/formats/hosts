@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.051
 # Release: 051
-# Entries: 122,914
+# Entries: 122,925
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 00:11:27
+# Updated: Thu, 20 Feb 20 06:09:58
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -4265,6 +4265,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aalog.umengcloud.com
 0.0.0.0 aalures.com
 0.0.0.0 aamapi.com
+0.0.0.0 aamejtdlmk.com
 0.0.0.0 aamobile.info
 0.0.0.0 aamsitecertifier.com
 0.0.0.0 aan.cdn.speedshiftmedia.com
@@ -28144,6 +28145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 copperegg.com
 0.0.0.0 coppers.sytes.net
 0.0.0.0 copticpope.org
+0.0.0.0 copvigvmzj.com
 0.0.0.0 copy.social
 0.0.0.0 copybinaryprofits.com
 0.0.0.0 copycarpenter.com
@@ -29610,6 +29612,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ctrmanager.com
 0.0.0.0 ctrsopfwiadfjn.com
 0.0.0.0 cts.w55c.net
+0.0.0.0 ctsjackupspete.info
 0.0.0.0 ctsrwmcshv.com
 0.0.0.0 cttghjfhsw.com
 0.0.0.0 cttnlnsnwdokqb.com
@@ -33233,6 +33236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ditdotsol.com
 0.0.0.0 ditds.xyz
 0.0.0.0 ditincoriligh.pro
+0.0.0.0 ditookry.com
 0.0.0.0 ditouyldfqgt.com
 0.0.0.0 dittel.sk
 0.0.0.0 ditwrite.com
@@ -44845,6 +44849,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gleechie.net
 0.0.0.0 gleechood.com
 0.0.0.0 gleedaik.net
+0.0.0.0 gleergie.net
 0.0.0.0 gleetait.net
 0.0.0.0 glendyling.ddns.net
 0.0.0.0 glenebrooks.com
@@ -46976,6 +46981,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 haezawhdumz.bid
 0.0.0.0 hafksvqiir.com
 0.0.0.0 hafsayasmin.000webhostapp.com
+0.0.0.0 haftobso.net
 0.0.0.0 hagamosalgo.co
 0.0.0.0 hagane.com.br
 0.0.0.0 hagebakken.no
@@ -47592,6 +47598,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hecheckbabronref.info
 0.0.0.0 hechisheortal.pro
 0.0.0.0 hecka.myddns.me
+0.0.0.0 heckagny.com
 0.0.0.0 heckcallohertons.info
 0.0.0.0 heckhaphanofres.info
 0.0.0.0 hecks.ddosdev.com
@@ -57630,6 +57637,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kflimllvanjv.com
 0.0.0.0 kfozongcvn.com
 0.0.0.0 kfpkzbgwuxm.bid
+0.0.0.0 kfptslry.com
 0.0.0.0 kfpwayrztgjj.com
 0.0.0.0 kfqronzxcrdt.com
 0.0.0.0 kfritiigmqk.com
@@ -70266,6 +70274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 newtrkdomain.com
 0.0.0.0 newtueads.com
 0.0.0.0 newuyuy2012.osa.pl
+0.0.0.0 newvideos.xyz
 0.0.0.0 newwallet.ether1.org
 0.0.0.0 newweb.faucethub.io
 0.0.0.0 newwebdomains.online
@@ -74233,6 +74242,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otparcaltonther.pro
 0.0.0.0 otpckmnnfm.com
 0.0.0.0 otpercpiheno.hu
+0.0.0.0 otqhemtwoene.com
 0.0.0.0 otqzpgagsstvth.com
 0.0.0.0 otracking.com
 0.0.0.0 otramano.org
@@ -82100,7 +82110,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.wallstrads.com
 0.0.0.0 r.webturn.ru
 0.0.0.0 r.xcycm.com
-0.0.0.0 r.yieldkit.com
 0.0.0.0 r.youmi.net
 0.0.0.0 r.zdbb.net
 0.0.0.0 r.ziyedwb.com
@@ -102166,6 +102175,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 umiortechnical.com
 0.0.0.0 umjdbaog.bid
 0.0.0.0 umlrvgjkexv.com
+0.0.0.0 ummerciseha.info
 0.0.0.0 umnsvtykkptl.com
 0.0.0.0 umo.io
 0.0.0.0 umpackpc.ucweb.com
@@ -121892,6 +121902,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zahlmvosqsxmp.com
 0.0.0.0 zahrachem.com
 0.0.0.0 zaijacho.net
+0.0.0.0 zaivikuk.com
 0.0.0.0 zajawwgpl.com
 0.0.0.0 zajazdbanderoza.pl
 0.0.0.0 zajazdoaza.pl

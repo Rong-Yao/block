@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://adaway.org/hosts.txt
 # Last Converted - 20.02.2020
-# Total Domains - 11052
+# Total Domains - 11051
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -9173,7 +9173,6 @@
 0.0.0.0 snssdk1233.onelink.me
 0.0.0.0 sobar.baidu.com
 0.0.0.0 socdm.com
-0.0.0.0 socialize.eu1.gigya.com
 0.0.0.0 socialknowledge-d.openx.net
 0.0.0.0 sociaplus.com
 0.0.0.0 sociomantic.com

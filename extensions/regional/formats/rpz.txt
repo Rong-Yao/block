@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.051
 ; Release: 051
-; Entries: 63,388
+; Entries: 63,400
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 00:16:43
+; Updated: Thu, 20 Feb 20 06:13:37
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2357,6 +2357,7 @@ aaitudxr.com CNAME .
 aakxh.com CNAME .
 aallycspkdf.com CNAME .
 aamapi.com CNAME .
+aamejtdlmk.com CNAME .
 aanqylta.com CNAME .
 aanyway.ru CNAME .
 aappf.pt CNAME .
@@ -10266,6 +10267,7 @@ copacet.com CNAME .
 copercato.com CNAME .
 copiapop.net CNAME .
 copicvarianuty.info CNAME .
+copvigvmzj.com CNAME .
 copyop-ads.com CNAME .
 copyrightaccesscontrols.com CNAME .
 coquines-dispo.com CNAME .
@@ -10713,6 +10715,7 @@ ctrhub.com CNAME .
 ctripatm.cn CNAME .
 ctrmanager.com CNAME .
 ctrsopfwiadfjn.com CNAME .
+ctsjackupspete.info CNAME .
 ctsrwmcshv.com CNAME .
 ctsywy.com CNAME .
 cttghjfhsw.com CNAME .
@@ -11291,6 +11294,7 @@ d3jw53rnbzs7gr.cloudfront.net CNAME .
 d3k5fl0ycdyj0l.cloudfront.net CNAME .
 d3k68ig7ckr3r6.cloudfront.net CNAME .
 d3kacx5v2eocxa.cloudfront.net CNAME .
+d3kpkrgd3aj4o7.cloudfront.net CNAME .
 d3l320urli0p1u.cloudfront.net CNAME .
 d3lidvwz6p81oz.cloudfront.net CNAME .
 d3lu45piikoyqh.cloudfront.net CNAME .
@@ -12237,6 +12241,7 @@ ditabu.pro CNAME .
 ditdotsol.com CNAME .
 ditds.xyz CNAME .
 ditincoriligh.pro CNAME .
+ditookry.com CNAME .
 ditwrite.com CNAME .
 diuling.com CNAME .
 divascam.com CNAME .
@@ -16362,6 +16367,7 @@ gleebsex.net CNAME .
 gleechie.net CNAME .
 gleechood.com CNAME .
 gleedaik.net CNAME .
+gleergie.net CNAME .
 gleersoo.net CNAME .
 gleetait.net CNAME .
 glenoldencedarburg.com CNAME .
@@ -17180,6 +17186,7 @@ haeechihhfajibdfaef.ru CNAME .
 hafbezbemwwd.com CNAME .
 hafdfjefeafcegcjgeh.ru CNAME .
 hafksvqiir.com CNAME .
+haftobso.net CNAME .
 hagarstowndilworth.com CNAME .
 haggilder.com CNAME .
 hagiqxizxqf.com CNAME .
@@ -17441,6 +17448,7 @@ hebiichigo.com CNAME .
 hebzycw.com CNAME .
 hecaningar.ru CNAME .
 hechaocheng.cn CNAME .
+heckagny.com CNAME .
 heckhaphanofres.info CNAME .
 hecrowcati.info CNAME .
 hedevokjwl.biz CNAME .
@@ -20897,6 +20905,7 @@ kfiopkln.com CNAME .
 kfitivcucxzk.com CNAME .
 kfluoa.com CNAME .
 kfozongcvn.com CNAME .
+kfptslry.com CNAME .
 kfqked6fgj.com CNAME .
 kfqronzxcrdt.com CNAME .
 kfrar.club CNAME .
@@ -27536,6 +27545,7 @@ otogkg.com CNAME .
 otoply.ru CNAME .
 otoxkqlivsqr.com CNAME .
 otpckmnnfm.com CNAME .
+otqhemtwoene.com CNAME .
 otqzpgagsstvth.com CNAME .
 otrapuse.lv CNAME .
 otrek.ru CNAME .
@@ -37864,6 +37874,7 @@ umhpzzloestt.com CNAME .
 umjsik.com CNAME .
 umlrvgjkexv.com CNAME .
 umm6.cn CNAME .
+ummerciseha.info CNAME .
 umountry.info CNAME .
 umqhjmowzjrl.com CNAME .
 umusjdiehxbn.com CNAME .
@@ -62605,6 +62616,7 @@ zahlmvosqsxmp.com CNAME .
 zaicouwy.net CNAME .
 zaijacho.net CNAME .
 zain.biz CNAME .
+zaivikuk.com CNAME .
 zajawwgpl.com CNAME .
 zaklabe.ru CNAME .
 zakladka.org.ua CNAME .

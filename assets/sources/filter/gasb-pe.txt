@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 20.02.2020
-# Total Domains - 44518
+# Total Domains - 44515
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -410,7 +410,6 @@
 0.0.0.0 24pmad.com
 0.0.0.0 24start.com
 0.0.0.0 24teen.com
-0.0.0.0 24x7help.co.uk
 0.0.0.0 24x7live.net
 0.0.0.0 25.gameadmin.pay.clickbank.net
 0.0.0.0 25dollargiftcard.com
@@ -39492,7 +39491,6 @@
 0.0.0.0 www.mtree.com
 0.0.0.0 www.mtreexxx.net
 0.0.0.0 www.mtvrealworld.com
-0.0.0.0 www.mtxa.net
 0.0.0.0 www.muchosucko.com
 0.0.0.0 www.mujaffaspillet.dk
 0.0.0.0 www.mujweb.cz
@@ -44478,7 +44476,6 @@
 0.0.0.0 zoogdisany.com
 0.0.0.0 zoogdiseny.com
 0.0.0.0 zoogdisny.com
-0.0.0.0 zoogdsney.com
 0.0.0.0 zoomdinosaur.com
 0.0.0.0 zoomegasite.com
 0.0.0.0 zoomovies.org

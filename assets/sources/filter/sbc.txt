@@ -1,8 +1,8 @@
 # Title: sbc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
-# Last Converted - 20.02.2020
-# Total Domains - 35960
+# Last Converted - 21.02.2020
+# Total Domains - 35959
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -33800,7 +33800,6 @@
 0.0.0.0 www.purplehorses.net
 0.0.0.0 www.push-notification.tools
 0.0.0.0 www.pussysaga.com
-0.0.0.0 www.puszczykbukowy.pl
 0.0.0.0 www.px1alsry.com
 0.0.0.0 www.px24.com
 0.0.0.0 www.pyilgdamion.city

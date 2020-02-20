@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.02.051
-; Release: 051
-; Entries: 63,416
+; Version: 20.02.052
+; Release: 052
+; Entries: 63,429
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 18:14:57
+; Updated: Fri, 21 Feb 20 00:14:16
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4910,6 +4910,7 @@ ahw3.com CNAME .
 ahwrin88tl.com CNAME .
 ahwzvnqc.com CNAME .
 ahyau.com CNAME .
+ahyhhxpeeswgtl.com CNAME .
 ahyuns.com CNAME .
 ai.bioon.com CNAME .
 ai.me CNAME .
@@ -7652,6 +7653,7 @@ blessdi.com CNAME .
 blfyquz.cn CNAME .
 blgrwhaww.com CNAME .
 blhjbepkhmuunbjxmidaq.com CNAME .
+bliink.io CNAME .
 blindbetpoker.com CNAME .
 blinkadr.com CNAME .
 blinkogold.ru CNAME .
@@ -8125,6 +8127,7 @@ brushmoney.com CNAME .
 brvyjcu0ablfhwx.ru CNAME .
 bryvvdtek.com CNAME .
 brznetwork.com CNAME .
+bs.commontools.net CNAME .
 bs.mail.ru CNAME .
 bs.mybb.ru CNAME .
 bs.nakanohito.jp CNAME .
@@ -11051,6 +11054,7 @@ d1mob6w0cdx3a7.cloudfront.net CNAME .
 d1mroptkfdxko5.cloudfront.net CNAME .
 d1mub3aw743hsf.cloudfront.net CNAME .
 d1my4dwo04nr8a.cloudfront.net CNAME .
+d1n1ppeppre6d4.cloudfront.net CNAME .
 d1n3tk65esqc4k.cloudfront.net CNAME .
 d1n7ypf85zfej7.cloudfront.net CNAME .
 d1nmxiiewlx627.cloudfront.net CNAME .
@@ -12437,6 +12441,7 @@ dnftqfwycmfqrs.com CNAME .
 dngsuhxuzb.com CNAME .
 dnkwgzmuxv.com CNAME .
 dnl-adv-ssl.tf1.fr CNAME .
+dnoyrz.com CNAME .
 dnpehliwdvjkp.com CNAME .
 dnr51y6xj4.com CNAME .
 dnrywryy.com CNAME .
@@ -20573,6 +20578,7 @@ jvykohlq.com CNAME .
 jvzwcgobd.com CNAME .
 jwaavsze.com CNAME .
 jwbroglwc.com CNAME .
+jwcavytgs.com CNAME .
 jwcpqgfhlrt.com CNAME .
 jwdw40f8j0.com CNAME .
 jwgsepzz.com CNAME .
@@ -24336,6 +24342,7 @@ mlgtlxyicweqn.com CNAME .
 mlion.cn CNAME .
 mlivaka.ru CNAME .
 mljhpoy.com CNAME .
+mllfdnjrnkvhmd.com CNAME .
 mlllllllmmm.ovh CNAME .
 mllllllmmm.ovh CNAME .
 mlllllmmmm.ovh CNAME .
@@ -25431,6 +25438,7 @@ nb42mac.com CNAME .
 nba.emohe.com CNAME .
 nbalive.pw CNAME .
 nbaob.com CNAME .
+nbasicalbuffere.info CNAME .
 nbbqgaeqnxun.com CNAME .
 nbdkorea.com CNAME .
 nbdvbpzgwkfgq.com CNAME .
@@ -34216,6 +34224,7 @@ sohjah-thahka.info CNAME .
 sohu999.com CNAME .
 sohucs.com CNAME .
 soibuuqqhuyo.com CNAME .
+soilebol.com CNAME .
 sokitosa.com CNAME .
 soknm.com CNAME .
 sokrostream.tv CNAME .
@@ -35579,6 +35588,7 @@ taril2.ru CNAME .
 taril3.ru CNAME .
 tarjetarojaonline.tv CNAME .
 tarry.ru CNAME .
+tartoals.net CNAME .
 taruhanbetting.com CNAME .
 taruhanbolaku.com CNAME .
 taruhancasino.com CNAME .
@@ -35965,6 +35975,7 @@ theclickers.net CNAME .
 thecliff.mangoads.vn CNAME .
 thecloudtrader.com CNAME .
 thedoujin.com CNAME .
+theeburs.com CNAME .
 theedgepoker.com CNAME .
 theersoa.net CNAME .
 theexgirlfriends.com CNAME .
@@ -36148,6 +36159,7 @@ tiexing.com CNAME .
 tieyggub.com CNAME .
 tifbhyfrik.com CNAME .
 tifrive.ru CNAME .
+tifybecausingp.info CNAME .
 tifzusomh.com CNAME .
 tigart.club CNAME .
 tiger947x.ru CNAME .
@@ -62558,6 +62570,7 @@ yzexonvknhw.com CNAME .
 yzh360.com CNAME .
 yzjlsb.com CNAME .
 yzlwuuzzehjh.com CNAME .
+yzmiwdjviuzk.com CNAME .
 yzoyfmwr.com CNAME .
 yzpesotyxwvpd.com CNAME .
 yzreywobobmw.com CNAME .

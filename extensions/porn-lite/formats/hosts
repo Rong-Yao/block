@@ -24,12 +24,12 @@
 # Title: Energized Porn Lite Extension
 # Description: Lite Extension Porn Pack.
 # Format: hosts
-# Version: 20.02.051
-# Release: 051
-# Entries: 41,426
+# Version: 20.02.052
+# Release: 052
+# Entries: 41,425
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 18:14:53
+# Updated: Fri, 21 Feb 20 00:14:13
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts
 # --------------------------------------------
 #
@@ -18294,7 +18294,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbit.net
 0.0.0.0 nboxidmsg.freetzi.com
 0.0.0.0 ncbcorporation.com
-0.0.0.0 ncc.sex-explorer.com
 0.0.0.0 ncdhome.com
 0.0.0.0 nctoolz.com
 0.0.0.0 ndcontent.com

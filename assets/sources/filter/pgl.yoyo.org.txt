@@ -1,8 +1,8 @@
 # Title: pgl.yoyo.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
-# Last Converted - 20.02.2020
-# Total Domains - 2725
+# Last Converted - 21.02.2020
+# Total Domains - 2726
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2391,6 +2391,7 @@
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
+0.0.0.0 takethatad.com
 0.0.0.0 takru.com
 0.0.0.0 talentedsteel.com
 0.0.0.0 tamgrt.com

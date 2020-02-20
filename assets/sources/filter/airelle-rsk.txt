@@ -1,8 +1,8 @@
 # Title: airelle-rsk Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
-# Last Converted - 20.02.2020
-# Total Domains - 39924
+# Last Converted - 21.02.2020
+# Total Domains - 39922
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -32003,7 +32003,6 @@
 0.0.0.0 ncantalejo.com
 0.0.0.0 ncatp.net
 0.0.0.0 ncbwhb.com
-0.0.0.0 ncc.sex-explorer.com
 0.0.0.0 ncenterpanel.cn
 0.0.0.0 nchsoftware.com
 0.0.0.0 ncph.net
@@ -35906,7 +35905,6 @@
 0.0.0.0 shop.futurefactory-software.com
 0.0.0.0 shop.kvgems-preciousstones.com
 0.0.0.0 shopalyst.com
-0.0.0.0 shopcards.net
 0.0.0.0 shopilize.com
 0.0.0.0 shopknights.com
 0.0.0.0 shopnav.com

@@ -1,8 +1,8 @@
 # Title: gasb-pe Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
-# Last Converted - 20.02.2020
-# Total Domains - 44509
+# Last Converted - 21.02.2020
+# Total Domains - 44503
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -11781,7 +11781,6 @@
 0.0.0.0 dlapplication.com
 0.0.0.0 dldoktor.com
 0.0.0.0 dlfeed.com
-0.0.0.0 dlfree.info
 0.0.0.0 dlfreesoft.net
 0.0.0.0 dlgreatsoft.net
 0.0.0.0 dljp.com
@@ -22376,7 +22375,6 @@
 0.0.0.0 nc.atdmt.com
 0.0.0.0 ncast.cn
 0.0.0.0 ncbuy.com
-0.0.0.0 ncc.sex-explorer.com
 0.0.0.0 ncfoods.ffkitchen.hop.clickbank.net
 0.0.0.0 ncik.com
 0.0.0.0 ncikjr.com
@@ -28357,7 +28355,6 @@
 0.0.0.0 shop86.biz
 0.0.0.0 shopathomeselect.com
 0.0.0.0 shopbyrequest.iwon.com
-0.0.0.0 shopcards.net
 0.0.0.0 shopcatalogs.net
 0.0.0.0 shopfind.com
 0.0.0.0 shopforgood.com
@@ -29597,7 +29594,6 @@
 0.0.0.0 static.storm8.com
 0.0.0.0 static.virgul.com
 0.0.0.0 static.vpptechnologies.com
-0.0.0.0 static.waverevenue.com
 0.0.0.0 static.woopra.com
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static.zangocash.com
@@ -35857,7 +35853,6 @@
 0.0.0.0 www.clean-hosted-galleries.com
 0.0.0.0 www.cleanbrowser.com
 0.0.0.0 www.cleansoftwares.com
-0.0.0.0 www.clear-search.com
 0.0.0.0 www.clearbluemedia.com
 0.0.0.0 www.clearflow.com
 0.0.0.0 www.clearregistry.com
@@ -41880,7 +41875,6 @@
 0.0.0.0 www.techhelplinenumber.com
 0.0.0.0 www.techiex.net
 0.0.0.0 www.techiwarehouse.com
-0.0.0.0 www.techkangaroos.com
 0.0.0.0 www.technetweb.com
 0.0.0.0 www.technical-zone.com
 0.0.0.0 www.technicalhelplinenumber.com

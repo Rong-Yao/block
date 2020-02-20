@@ -1,8 +1,8 @@
 # Title: quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Last Converted - 20.02.2020
-# Total Domains - 14130
+# Last Converted - 21.02.2020
+# Total Domains - 14136
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -352,6 +352,7 @@
 0.0.0.0 advertising.bbcworldwide.com
 0.0.0.0 advertising.com
 0.0.0.0 advertising.microsoft.com
+0.0.0.0 adverts.ie
 0.0.0.0 advertserve.com
 0.0.0.0 advglobalnltrck.com
 0.0.0.0 adviceglobal.com.mt
@@ -448,6 +449,7 @@
 0.0.0.0 alphacreatesend2.com
 0.0.0.0 altabold1.com
 0.0.0.0 altitude-arena.com
+0.0.0.0 altmetric.com
 0.0.0.0 amessagewithabottle.com
 0.0.0.0 amgdgt.com
 0.0.0.0 amobee.com
@@ -627,6 +629,7 @@
 0.0.0.0 batchgeo.com
 0.0.0.0 baw5tracker.com
 0.0.0.0 baynote.net
+0.0.0.0 bcovery.com
 0.0.0.0 bcplayer.net
 0.0.0.0 bdex.com
 0.0.0.0 bdg001a.com
@@ -883,6 +886,7 @@
 0.0.0.0 clear-reports.com
 0.0.0.0 clearcode.cc
 0.0.0.0 clevernt.com
+0.0.0.0 click.emails-comparethemarket.com
 0.0.0.0 click.monetizer.info
 0.0.0.0 click.union.ucweb.com
 0.0.0.0 clickadu.com
@@ -1216,6 +1220,7 @@
 0.0.0.0 digitalreflectionpanel.com
 0.0.0.0 digitalreflectionpanel.net
 0.0.0.0 digitalwindow.com
+0.0.0.0 digitru.st
 0.0.0.0 direct-aws-a1.com
 0.0.0.0 direct-azr-78.com
 0.0.0.0 direct-serve.com
@@ -1232,6 +1237,7 @@
 0.0.0.0 dl-rms.com
 0.0.0.0 dleke.com
 0.0.0.0 dlqm.net
+0.0.0.0 dmgmediaprivacy.co.uk
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtrk.net
 0.0.0.0 dmtry.com

@@ -1,8 +1,8 @@
 # Title: adguard-english-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
-# Last Converted - 20.02.2020
-# Total Domains - 18360
+# Last Converted - 21.02.2020
+# Total Domains - 18370
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1773,6 +1773,7 @@
 0.0.0.0 ahuivddkvrrebo.com
 0.0.0.0 ahuosyyqprt.com
 0.0.0.0 ahwzvnqc.com
+0.0.0.0 ahyhhxpeeswgtl.com
 0.0.0.0 aibcqjlvxxd.com
 0.0.0.0 aichaima.top
 0.0.0.0 aickeeho.com
@@ -2834,6 +2835,7 @@
 0.0.0.0 blatungo.com
 0.0.0.0 blebesidents.info
 0.0.0.0 blgrwhaww.com
+0.0.0.0 bliink.io
 0.0.0.0 blinkadr.com
 0.0.0.0 blisldgsqk.com
 0.0.0.0 blismedia.com
@@ -4204,6 +4206,7 @@
 0.0.0.0 d1mroptkfdxko5.cloudfront.net
 0.0.0.0 d1mub3aw743hsf.cloudfront.net
 0.0.0.0 d1my4dwo04nr8a.cloudfront.net
+0.0.0.0 d1n1ppeppre6d4.cloudfront.net
 0.0.0.0 d1n3tk65esqc4k.cloudfront.net
 0.0.0.0 d1n7ypf85zfej7.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
@@ -8371,6 +8374,7 @@
 0.0.0.0 jvykohlq.com
 0.0.0.0 jvzwcgobd.com
 0.0.0.0 jwbroglwc.com
+0.0.0.0 jwcavytgs.com
 0.0.0.0 jwgsepzz.com
 0.0.0.0 jwmnryeoc.com
 0.0.0.0 jwofadcwpocm.com
@@ -9848,6 +9852,7 @@
 0.0.0.0 ml314.com
 0.0.0.0 mldsiekmhy.com
 0.0.0.0 mlgtlxyicweqn.com
+0.0.0.0 mllfdnjrnkvhmd.com
 0.0.0.0 mlltyllhgohn.com
 0.0.0.0 mlnadvertising.com
 0.0.0.0 mlonsougoylpbu.com
@@ -10281,6 +10286,7 @@
 0.0.0.0 navaxudoru.com
 0.0.0.0 naxrjxij.com
 0.0.0.0 nb42mac.com
+0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbbqgaeqnxun.com
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbijjhqnzcwr.com
@@ -15076,6 +15082,7 @@
 0.0.0.0 targetpoint.com
 0.0.0.0 targetpush.co.kr
 0.0.0.0 targetspot.com
+0.0.0.0 tartoals.net
 0.0.0.0 tarxjwdkx.com
 0.0.0.0 taryarguestio.info
 0.0.0.0 tasvjsmnegj.com
@@ -15221,6 +15228,7 @@
 0.0.0.0 thebunsenburner.com
 0.0.0.0 thecloudtrader.com
 0.0.0.0 thedoujin.com
+0.0.0.0 theeburs.com
 0.0.0.0 theersoa.net
 0.0.0.0 thefaren.pw
 0.0.0.0 thefastpush.com
@@ -15303,6 +15311,7 @@
 0.0.0.0 tielsdhblnmiv.com
 0.0.0.0 tieyggub.com
 0.0.0.0 tifbhyfrik.com
+0.0.0.0 tifybecausingp.info
 0.0.0.0 tifzusomh.com
 0.0.0.0 tijoctqry.com
 0.0.0.0 tijorari.com
@@ -17979,6 +17988,7 @@
 0.0.0.0 yzetmrsww.com
 0.0.0.0 yzexonvknhw.com
 0.0.0.0 yzlwuuzzehjh.com
+0.0.0.0 yzmiwdjviuzk.com
 0.0.0.0 yzoyfmwr.com
 0.0.0.0 yzpesotyxwvpd.com
 0.0.0.0 yzsmaimlijx.com

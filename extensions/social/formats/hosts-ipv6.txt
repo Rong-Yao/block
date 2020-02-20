@@ -24,12 +24,12 @@
 # Title: Energized Social Extension
 # Description: Social Sites and Apps Blocking.
 # Format: hosts IPV6
-# Version: 20.02.051
-# Release: 051
+# Version: 20.02.052
+# Release: 052
 # Entries: 6,310
 # Pack Code: EX50C14L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 18:14:56
+# Updated: Fri, 21 Feb 20 00:14:15
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/social/formats/hosts-ipv6.txt
 # --------------------------------------------
 #

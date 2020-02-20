@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.02.051
-; Release: 051
-; Entries: 61,124
+; Version: 20.02.052
+; Release: 052
+; Entries: 61,131
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 18:10:52
+; Updated: Fri, 21 Feb 20 00:10:23
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2175,6 +2175,7 @@ a.0e4b0abb1f69821da471689f323e049b.com CNAME .
 a.43904e9a7b81ff2442277dfe99a6ac5a.com CNAME .
 a.4ee395e5b8a076c7bd8592851ff8cad.com CNAME .
 a.6d47c1118927cf53ba9654931df80e8d.com CNAME .
+a.76674bdad304297eda3d325f449f6f49.com CNAME .
 a.ab90be9135de1428ae387956ebd06722.com CNAME .
 a.abnad.net CNAME .
 a.acrabakasaka.com CNAME .
@@ -7035,6 +7036,7 @@ ahuivddkvrrebo.com CNAME .
 ahuosyyqprt.com CNAME .
 ahwjxktemuyz.com CNAME .
 ahwzvnqc.com CNAME .
+ahyhhxpeeswgtl.com CNAME .
 ahzahg6ohb.com CNAME .
 ai-cf.addthis.com CNAME .
 ai-embedded.addthis.com CNAME .
@@ -28885,6 +28887,7 @@ jvykohlq.com CNAME .
 jvzwcgobd.com CNAME .
 jwa-d.openx.net CNAME .
 jwbroglwc.com CNAME .
+jwcavytgs.com CNAME .
 jwgsepzz.com CNAME .
 jwmnryeoc.com CNAME .
 jwofadcwpocm.com CNAME .
@@ -33189,6 +33192,7 @@ mlg-d.openx.net CNAME .
 mlgtlxyicweqn.com CNAME .
 mlhpclmaba.bid CNAME .
 mlinktracker.com CNAME .
+mllfdnjrnkvhmd.com CNAME .
 mlltyllhgohn.com CNAME .
 mlm.de CNAME .
 mlnadvertising.com CNAME .
@@ -33678,6 +33682,7 @@ moolahmedia.com CNAME .
 moon.holeanimal.xyz CNAME .
 moonbit.co.in CNAME .
 moondash.co.in CNAME .
+moonicorn.network CNAME .
 moonify.io CNAME .
 moonlightingapi-ads.com CNAME .
 moonn.rocks CNAME .
@@ -42592,6 +42597,7 @@ resources.presage.io CNAME .
 resources.taboola.com CNAME .
 resources.tapjoy.com CNAME .
 respecials.com CNAME .
+responservbzh.icu CNAME .
 responses.df.telemetry.microsoft.com CNAME .
 responsidelok.info CNAME .
 responsiveads.com CNAME .
@@ -48442,6 +48448,7 @@ taiwhups.net CNAME .
 take-your-prize22.life CNAME .
 takeoutn.tk CNAME .
 takeprofitsystem.com CNAME .
+takethatad.com CNAME .
 takethisoffer.com CNAME .
 takip.site CNAME .
 takmoodmarket.com CNAME .
@@ -49500,7 +49507,6 @@ tnkfactory.com CNAME .
 tnkqfatbtlaw.com CNAME .
 tnlfupvrlr.com CNAME .
 tnlshxmc.com CNAME .
-tnmedia.co CNAME .
 tns-counter.ru CNAME .
 tns-gallup.dk CNAME .
 tns.adriver.ru CNAME .
@@ -60572,6 +60578,7 @@ yzesxnzfhyy.com CNAME .
 yzetmrsww.com CNAME .
 yzexonvknhw.com CNAME .
 yzlwuuzzehjh.com CNAME .
+yzmiwdjviuzk.com CNAME .
 yzoyfmwr.com CNAME .
 yzpesotyxwvpd.com CNAME .
 yzreywobobmw.com CNAME .

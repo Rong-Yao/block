@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: domain list
-# Version: 20.02.051
-# Release: 051
-# Entries: 63,416
+# Version: 20.02.052
+# Release: 052
+# Entries: 63,429
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 18:14:57
+# Updated: Fri, 21 Feb 20 00:14:16
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -4902,6 +4902,7 @@ ahw3.com
 ahwrin88tl.com
 ahwzvnqc.com
 ahyau.com
+ahyhhxpeeswgtl.com
 ahyuns.com
 ai.bioon.com
 ai.me
@@ -7644,6 +7645,7 @@ blessdi.com
 blfyquz.cn
 blgrwhaww.com
 blhjbepkhmuunbjxmidaq.com
+bliink.io
 blindbetpoker.com
 blinkadr.com
 blinkogold.ru
@@ -8117,6 +8119,7 @@ brushmoney.com
 brvyjcu0ablfhwx.ru
 bryvvdtek.com
 brznetwork.com
+bs.commontools.net
 bs.mail.ru
 bs.mybb.ru
 bs.nakanohito.jp
@@ -11043,6 +11046,7 @@ d1mob6w0cdx3a7.cloudfront.net
 d1mroptkfdxko5.cloudfront.net
 d1mub3aw743hsf.cloudfront.net
 d1my4dwo04nr8a.cloudfront.net
+d1n1ppeppre6d4.cloudfront.net
 d1n3tk65esqc4k.cloudfront.net
 d1n7ypf85zfej7.cloudfront.net
 d1nmxiiewlx627.cloudfront.net
@@ -12429,6 +12433,7 @@ dnftqfwycmfqrs.com
 dngsuhxuzb.com
 dnkwgzmuxv.com
 dnl-adv-ssl.tf1.fr
+dnoyrz.com
 dnpehliwdvjkp.com
 dnr51y6xj4.com
 dnrywryy.com
@@ -20565,6 +20570,7 @@ jvykohlq.com
 jvzwcgobd.com
 jwaavsze.com
 jwbroglwc.com
+jwcavytgs.com
 jwcpqgfhlrt.com
 jwdw40f8j0.com
 jwgsepzz.com
@@ -24328,6 +24334,7 @@ mlgtlxyicweqn.com
 mlion.cn
 mlivaka.ru
 mljhpoy.com
+mllfdnjrnkvhmd.com
 mlllllllmmm.ovh
 mllllllmmm.ovh
 mlllllmmmm.ovh
@@ -25423,6 +25430,7 @@ nb42mac.com
 nba.emohe.com
 nbalive.pw
 nbaob.com
+nbasicalbuffere.info
 nbbqgaeqnxun.com
 nbdkorea.com
 nbdvbpzgwkfgq.com
@@ -34208,6 +34216,7 @@ sohjah-thahka.info
 sohu999.com
 sohucs.com
 soibuuqqhuyo.com
+soilebol.com
 sokitosa.com
 soknm.com
 sokrostream.tv
@@ -35571,6 +35580,7 @@ taril2.ru
 taril3.ru
 tarjetarojaonline.tv
 tarry.ru
+tartoals.net
 taruhanbetting.com
 taruhanbolaku.com
 taruhancasino.com
@@ -35957,6 +35967,7 @@ theclickers.net
 thecliff.mangoads.vn
 thecloudtrader.com
 thedoujin.com
+theeburs.com
 theedgepoker.com
 theersoa.net
 theexgirlfriends.com
@@ -36140,6 +36151,7 @@ tiexing.com
 tieyggub.com
 tifbhyfrik.com
 tifrive.ru
+tifybecausingp.info
 tifzusomh.com
 tigart.club
 tiger947x.ru
@@ -62550,6 +62562,7 @@ yzexonvknhw.com
 yzh360.com
 yzjlsb.com
 yzlwuuzzehjh.com
+yzmiwdjviuzk.com
 yzoyfmwr.com
 yzpesotyxwvpd.com
 yzreywobobmw.com

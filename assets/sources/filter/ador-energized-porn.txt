@@ -1,8 +1,8 @@
 # Title: ador-energized-porn Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts-porn
-# Last Converted - 20.02.2020
-# Total Domains - 12843
+# Last Converted - 21.02.2020
+# Total Domains - 12842
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5003,7 +5003,6 @@
 0.0.0.0 naughtymachinima.com
 0.0.0.0 naughtypigtails.reelgalleries.com
 0.0.0.0 naughtywebcams.com
-0.0.0.0 ncc.sex-explorer.com
 0.0.0.0 ndcontent.com
 0.0.0.0 neangel.com
 0.0.0.0 neathdporn.com

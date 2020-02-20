@@ -24,12 +24,12 @@
 ; Title: Energized Blu Go Protection
 ; Description: A Lightweight Mid Ranger Protection Pack.
 ; Format: rpz
-; Version: 20.02.051
-; Release: 051
-; Entries: 123,055
+; Version: 20.02.052
+; Release: 052
+; Entries: 123,061
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 18:10:55
+; Updated: Fri, 21 Feb 20 00:10:27
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3740,6 +3740,7 @@ a.4ee395e5b8a076c7bd8592851ff8cad.com CNAME .
 a.52wubi.com CNAME .
 a.52zxw.com CNAME .
 a.6d47c1118927cf53ba9654931df80e8d.com CNAME .
+a.76674bdad304297eda3d325f449f6f49.com CNAME .
 a.77shw.com CNAME .
 a.90370.com CNAME .
 a.ab90be9135de1428ae387956ebd06722.com CNAME .
@@ -10817,6 +10818,7 @@ ahvnvtxbk.bid CNAME .
 ahwjxktemuyz.com CNAME .
 ahwzvnqc.com CNAME .
 ahxldgy.com CNAME .
+ahyhhxpeeswgtl.com CNAME .
 ahyuzjgukqyd.com CNAME .
 ahzahg6ohb.com CNAME .
 ahzh-pv.com CNAME .
@@ -57009,6 +57011,7 @@ jwa-d.openx.net CNAME .
 jwbdezxfl.bid CNAME .
 jwbroglwc.com CNAME .
 jwbuxywauut.com CNAME .
+jwcavytgs.com CNAME .
 jwcpqgfhlrt.com CNAME .
 jwduahujge.ru CNAME .
 jwfdyujffrzt.com CNAME .
@@ -66444,6 +66447,7 @@ mlinktracker.com CNAME .
 mljetherwallet.com CNAME .
 mlkejhpgb.bid CNAME .
 mlkqusrmsfib.com CNAME .
+mllfdnjrnkvhmd.com CNAME .
 mlltyllhgohn.com CNAME .
 mlm.de CNAME .
 mlmjxddzdazr.com CNAME .
@@ -67361,6 +67365,7 @@ moon.holeanimal.xyz CNAME .
 moonbit.co.in CNAME .
 mooncoin.securepayment.cc CNAME .
 moondash.co.in CNAME .
+moonicorn.network CNAME .
 moonify.io CNAME .
 moonlightingapi-ads.com CNAME .
 moonmerchant.in CNAME .
@@ -83798,6 +83803,7 @@ resp.respectandacceptdiversity.com CNAME .
 respecials.com CNAME .
 response.pure360.com CNAME .
 responsegenie.com CNAME .
+responservbzh.icu CNAME .
 responses.df.telemetry.microsoft.com CNAME .
 responsetap.com CNAME .
 responsidelok.info CNAME .
@@ -95592,6 +95598,7 @@ takemaruko.web.fc2.com CNAME .
 takeoutn.tk CNAME .
 takeprofitsystem.com CNAME .
 takerest.net CNAME .
+takethatad.com CNAME .
 takethisoffer.com CNAME .
 taking-technician.000webhostapp.com CNAME .
 takip.site CNAME .
@@ -97793,7 +97800,6 @@ tnlconstruction.com CNAME .
 tnlfupvrlr.com CNAME .
 tnllizzqv.bid CNAME .
 tnlshxmc.com CNAME .
-tnmedia.co CNAME .
 tnmzfygctupqr.bid CNAME .
 tnpool.ryo-currency.com CNAME .
 tns-counter.ru CNAME .
@@ -116146,7 +116152,6 @@ www.puserving.com CNAME .
 www.push-notification.tools CNAME .
 www.pushiplay.pw CNAME .
 www.pussysaga.com CNAME .
-www.puszczykbukowy.pl CNAME .
 www.puttingupwitherin.com CNAME .
 www.puurreflex.com CNAME .
 www.pvtizjqlcvj.com CNAME .
@@ -121908,6 +121913,7 @@ yzesxnzfhyy.com CNAME .
 yzetmrsww.com CNAME .
 yzexonvknhw.com CNAME .
 yzlwuuzzehjh.com CNAME .
+yzmiwdjviuzk.com CNAME .
 yzoyfmwr.com CNAME .
 yzpesotyxwvpd.com CNAME .
 yzreywobobmw.com CNAME .

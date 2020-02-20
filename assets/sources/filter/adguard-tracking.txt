@@ -1,8 +1,8 @@
 # Title: adguard-tracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - 20.02.2020
-# Total Domains - 2819
+# Last Converted - 21.02.2020
+# Total Domains - 2822
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -277,6 +277,7 @@
 0.0.0.0 backlink-test.de
 0.0.0.0 backlink-umsonst.de
 0.0.0.0 backlinkdino.de
+0.0.0.0 bagbeam.com
 0.0.0.0 balancebreath.com
 0.0.0.0 balloontexture.com
 0.0.0.0 bam-x.com
@@ -1235,6 +1236,7 @@
 0.0.0.0 iqfp1.com
 0.0.0.0 iraiser.eu
 0.0.0.0 irs09.com
+0.0.0.0 irxcm.com
 0.0.0.0 is.sabah.com.tr
 0.0.0.0 ist-track.com
 0.0.0.0 istat24.com
@@ -2534,6 +2536,7 @@
 0.0.0.0 unbecominghall.com
 0.0.0.0 unequalbrake.com
 0.0.0.0 unicaondemand.com
+0.0.0.0 unid.go.com
 0.0.0.0 universaltrackingcontainer.com
 0.0.0.0 unknowntray.com
 0.0.0.0 unusualtitle.com

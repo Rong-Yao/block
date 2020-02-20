@@ -1,8 +1,8 @@
 # Title: kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 20.02.2020
-# Total Domains - 5946
+# Last Converted - 21.02.2020
+# Total Domains - 5945
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5030,7 +5030,6 @@
 0.0.0.0 www.pumawyprzedaz.pl
 0.0.0.0 www.purething.pl
 0.0.0.0 www.push-notification.tools
-0.0.0.0 www.puszczykbukowy.pl
 0.0.0.0 www.px1alsry.com
 0.0.0.0 www.pyrchla.pl
 0.0.0.0 www.pysznatoskania.pl

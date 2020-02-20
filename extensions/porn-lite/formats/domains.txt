@@ -24,12 +24,12 @@
 # Title: Energized Porn Lite Extension
 # Description: Lite Extension Porn Pack.
 # Format: domain list
-# Version: 20.02.051
-# Release: 051
-# Entries: 41,426
+# Version: 20.02.052
+# Release: 052
+# Entries: 41,425
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 18:14:53
+# Updated: Fri, 21 Feb 20 00:14:13
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/domains.txt
 # --------------------------------------------
 #
@@ -18275,7 +18275,6 @@ nbcuno.com
 nbit.net
 nboxidmsg.freetzi.com
 ncbcorporation.com
-ncc.sex-explorer.com
 ncdhome.com
 nctoolz.com
 ndcontent.com

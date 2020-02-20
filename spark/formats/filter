@@ -24,13 +24,13 @@
 ! Title: Energized Spark Protection
 ! Description: True Lite Protection Pack.
 ! Format: adblock
-! Version: 20.02.051
-! Release: 051
+! Version: 20.02.052
+! Release: 052
 ! Expires: 1 day (update frequency)
-! Entries: 61,124
+! Entries: 61,131
 ! Pack Code: E5P4RK-P
 ! License: MIT, https://energized.pro/license
-! Updated: Thu, 20 Feb 20 18:10:52
+! Updated: Fri, 21 Feb 20 00:10:23
 ! RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/filter
 ! --------------------------------------------
 !
@@ -2168,6 +2168,7 @@
 ||a.43904e9a7b81ff2442277dfe99a6ac5a.com^
 ||a.4ee395e5b8a076c7bd8592851ff8cad.com^
 ||a.6d47c1118927cf53ba9654931df80e8d.com^
+||a.76674bdad304297eda3d325f449f6f49.com^
 ||a.ab90be9135de1428ae387956ebd06722.com^
 ||a.abnad.net^
 ||a.acrabakasaka.com^
@@ -7028,6 +7029,7 @@
 ||ahuosyyqprt.com^
 ||ahwjxktemuyz.com^
 ||ahwzvnqc.com^
+||ahyhhxpeeswgtl.com^
 ||ahzahg6ohb.com^
 ||ai-cf.addthis.com^
 ||ai-embedded.addthis.com^
@@ -28878,6 +28880,7 @@
 ||jvzwcgobd.com^
 ||jwa-d.openx.net^
 ||jwbroglwc.com^
+||jwcavytgs.com^
 ||jwgsepzz.com^
 ||jwmnryeoc.com^
 ||jwofadcwpocm.com^
@@ -33182,6 +33185,7 @@
 ||mlgtlxyicweqn.com^
 ||mlhpclmaba.bid^
 ||mlinktracker.com^
+||mllfdnjrnkvhmd.com^
 ||mlltyllhgohn.com^
 ||mlm.de^
 ||mlnadvertising.com^
@@ -33671,6 +33675,7 @@
 ||moon.holeanimal.xyz^
 ||moonbit.co.in^
 ||moondash.co.in^
+||moonicorn.network^
 ||moonify.io^
 ||moonlightingapi-ads.com^
 ||moonn.rocks^
@@ -42585,6 +42590,7 @@
 ||resources.taboola.com^
 ||resources.tapjoy.com^
 ||respecials.com^
+||responservbzh.icu^
 ||responses.df.telemetry.microsoft.com^
 ||responsidelok.info^
 ||responsiveads.com^
@@ -48435,6 +48441,7 @@
 ||take-your-prize22.life^
 ||takeoutn.tk^
 ||takeprofitsystem.com^
+||takethatad.com^
 ||takethisoffer.com^
 ||takip.site^
 ||takmoodmarket.com^
@@ -49493,7 +49500,6 @@
 ||tnkqfatbtlaw.com^
 ||tnlfupvrlr.com^
 ||tnlshxmc.com^
-||tnmedia.co^
 ||tns-counter.ru^
 ||tns-gallup.dk^
 ||tns.adriver.ru^
@@ -60565,6 +60571,7 @@
 ||yzetmrsww.com^
 ||yzexonvknhw.com^
 ||yzlwuuzzehjh.com^
+||yzmiwdjviuzk.com^
 ||yzoyfmwr.com^
 ||yzpesotyxwvpd.com^
 ||yzreywobobmw.com^

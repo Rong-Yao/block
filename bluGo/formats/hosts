@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.02.051
-# Release: 051
-# Entries: 123,055
+# Version: 20.02.052
+# Release: 052
+# Entries: 123,061
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 18:10:55
+# Updated: Fri, 21 Feb 20 00:10:27
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -3751,6 +3751,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.52wubi.com
 0.0.0.0 a.52zxw.com
 0.0.0.0 a.6d47c1118927cf53ba9654931df80e8d.com
+0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a.77shw.com
 0.0.0.0 a.90370.com
 0.0.0.0 a.ab90be9135de1428ae387956ebd06722.com
@@ -10828,6 +10829,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ahwjxktemuyz.com
 0.0.0.0 ahwzvnqc.com
 0.0.0.0 ahxldgy.com
+0.0.0.0 ahyhhxpeeswgtl.com
 0.0.0.0 ahyuzjgukqyd.com
 0.0.0.0 ahzahg6ohb.com
 0.0.0.0 ahzh-pv.com
@@ -57020,6 +57022,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jwbdezxfl.bid
 0.0.0.0 jwbroglwc.com
 0.0.0.0 jwbuxywauut.com
+0.0.0.0 jwcavytgs.com
 0.0.0.0 jwcpqgfhlrt.com
 0.0.0.0 jwduahujge.ru
 0.0.0.0 jwfdyujffrzt.com
@@ -66455,6 +66458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mljetherwallet.com
 0.0.0.0 mlkejhpgb.bid
 0.0.0.0 mlkqusrmsfib.com
+0.0.0.0 mllfdnjrnkvhmd.com
 0.0.0.0 mlltyllhgohn.com
 0.0.0.0 mlm.de
 0.0.0.0 mlmjxddzdazr.com
@@ -67372,6 +67376,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moonbit.co.in
 0.0.0.0 mooncoin.securepayment.cc
 0.0.0.0 moondash.co.in
+0.0.0.0 moonicorn.network
 0.0.0.0 moonify.io
 0.0.0.0 moonlightingapi-ads.com
 0.0.0.0 moonmerchant.in
@@ -83809,6 +83814,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 respecials.com
 0.0.0.0 response.pure360.com
 0.0.0.0 responsegenie.com
+0.0.0.0 responservbzh.icu
 0.0.0.0 responses.df.telemetry.microsoft.com
 0.0.0.0 responsetap.com
 0.0.0.0 responsidelok.info
@@ -95603,6 +95609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 takeoutn.tk
 0.0.0.0 takeprofitsystem.com
 0.0.0.0 takerest.net
+0.0.0.0 takethatad.com
 0.0.0.0 takethisoffer.com
 0.0.0.0 taking-technician.000webhostapp.com
 0.0.0.0 takip.site
@@ -97804,7 +97811,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tnlfupvrlr.com
 0.0.0.0 tnllizzqv.bid
 0.0.0.0 tnlshxmc.com
-0.0.0.0 tnmedia.co
 0.0.0.0 tnmzfygctupqr.bid
 0.0.0.0 tnpool.ryo-currency.com
 0.0.0.0 tns-counter.ru
@@ -116157,7 +116163,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.push-notification.tools
 0.0.0.0 www.pushiplay.pw
 0.0.0.0 www.pussysaga.com
-0.0.0.0 www.puszczykbukowy.pl
 0.0.0.0 www.puttingupwitherin.com
 0.0.0.0 www.puurreflex.com
 0.0.0.0 www.pvtizjqlcvj.com
@@ -121919,6 +121924,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yzetmrsww.com
 0.0.0.0 yzexonvknhw.com
 0.0.0.0 yzlwuuzzehjh.com
+0.0.0.0 yzmiwdjviuzk.com
 0.0.0.0 yzoyfmwr.com
 0.0.0.0 yzpesotyxwvpd.com
 0.0.0.0 yzreywobobmw.com

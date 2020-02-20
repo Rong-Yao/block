@@ -24,12 +24,12 @@
 # Title: Energized Xtreme Protection
 # Description: An Extreme Solution for Ultimate Protection.
 # Format: domain list
-# Version: 20.02.051
-# Release: 051
+# Version: 20.02.052
+# Release: 052
 # Entries: 32,644
 # Pack Code: EX7R3M3-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 18:15:01
+# Updated: Fri, 21 Feb 20 00:14:20
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/xtreme/formats/domains.txt
 # --------------------------------------------
 #

@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.02.051
-# Release: 051
-# Entries: 61,124
+# Version: 20.02.052
+# Release: 052
+# Entries: 61,131
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 18:10:52
+# Updated: Fri, 21 Feb 20 00:10:23
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2186,6 +2186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.43904e9a7b81ff2442277dfe99a6ac5a.com
 0.0.0.0 a.4ee395e5b8a076c7bd8592851ff8cad.com
 0.0.0.0 a.6d47c1118927cf53ba9654931df80e8d.com
+0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a.ab90be9135de1428ae387956ebd06722.com
 0.0.0.0 a.abnad.net
 0.0.0.0 a.acrabakasaka.com
@@ -7046,6 +7047,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ahuosyyqprt.com
 0.0.0.0 ahwjxktemuyz.com
 0.0.0.0 ahwzvnqc.com
+0.0.0.0 ahyhhxpeeswgtl.com
 0.0.0.0 ahzahg6ohb.com
 0.0.0.0 ai-cf.addthis.com
 0.0.0.0 ai-embedded.addthis.com
@@ -28896,6 +28898,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jvzwcgobd.com
 0.0.0.0 jwa-d.openx.net
 0.0.0.0 jwbroglwc.com
+0.0.0.0 jwcavytgs.com
 0.0.0.0 jwgsepzz.com
 0.0.0.0 jwmnryeoc.com
 0.0.0.0 jwofadcwpocm.com
@@ -33200,6 +33203,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mlgtlxyicweqn.com
 0.0.0.0 mlhpclmaba.bid
 0.0.0.0 mlinktracker.com
+0.0.0.0 mllfdnjrnkvhmd.com
 0.0.0.0 mlltyllhgohn.com
 0.0.0.0 mlm.de
 0.0.0.0 mlnadvertising.com
@@ -33689,6 +33693,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moon.holeanimal.xyz
 0.0.0.0 moonbit.co.in
 0.0.0.0 moondash.co.in
+0.0.0.0 moonicorn.network
 0.0.0.0 moonify.io
 0.0.0.0 moonlightingapi-ads.com
 0.0.0.0 moonn.rocks
@@ -42603,6 +42608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 resources.taboola.com
 0.0.0.0 resources.tapjoy.com
 0.0.0.0 respecials.com
+0.0.0.0 responservbzh.icu
 0.0.0.0 responses.df.telemetry.microsoft.com
 0.0.0.0 responsidelok.info
 0.0.0.0 responsiveads.com
@@ -48453,6 +48459,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 take-your-prize22.life
 0.0.0.0 takeoutn.tk
 0.0.0.0 takeprofitsystem.com
+0.0.0.0 takethatad.com
 0.0.0.0 takethisoffer.com
 0.0.0.0 takip.site
 0.0.0.0 takmoodmarket.com
@@ -49511,7 +49518,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tnkqfatbtlaw.com
 0.0.0.0 tnlfupvrlr.com
 0.0.0.0 tnlshxmc.com
-0.0.0.0 tnmedia.co
 0.0.0.0 tns-counter.ru
 0.0.0.0 tns-gallup.dk
 0.0.0.0 tns.adriver.ru
@@ -60583,6 +60589,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yzetmrsww.com
 0.0.0.0 yzexonvknhw.com
 0.0.0.0 yzlwuuzzehjh.com
+0.0.0.0 yzmiwdjviuzk.com
 0.0.0.0 yzoyfmwr.com
 0.0.0.0 yzpesotyxwvpd.com
 0.0.0.0 yzreywobobmw.com

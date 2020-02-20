@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.051
 # Release: 051
-# Entries: 61,108
+# Entries: 61,124
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 12:09:51
+# Updated: Thu, 20 Feb 20 18:10:52
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -9670,6 +9670,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aqftikmr.com
 0.0.0.0 aqjdigkqvmakz.com
 0.0.0.0 aqkjvfaprmez.com
+0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqnaqn.com
 0.0.0.0 aqocbcnfxkuw.com
 0.0.0.0 aqodwthjaq.com
@@ -11835,6 +11836,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 blender3d.fr
 0.0.0.0 blethenmaine.112.2o7.net
 0.0.0.0 blgrwhaww.com
+0.0.0.0 bliink.io
 0.0.0.0 blikk.pushengage.com
 0.0.0.0 blinding-heat-4778.firebaseio.com
 0.0.0.0 bling1.midasplayer.com
@@ -15334,6 +15336,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cmhomlaipa.com
 0.0.0.0 cmi.flurry.com
 0.0.0.0 cmicapui.ce.gov.br
+0.0.0.0 cmkotfol.com
 0.0.0.0 cmllk1.info
 0.0.0.0 cmncgeqivmjki.com
 0.0.0.0 cmnhwzdsvr.com
@@ -18896,6 +18899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 doretma.com
 0.0.0.0 dormitysature.info
 0.0.0.0 dorthuredwardles.info
+0.0.0.0 dortoolr.com
 0.0.0.0 dos.velek.com
 0.0.0.0 dosanrnlq.com
 0.0.0.0 doshaido.com
@@ -28357,6 +28361,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jibysqppqkprj.com
 0.0.0.0 jice.admaster.com.cn
 0.0.0.0 jicfbcczdh.com
+0.0.0.0 jicmutse.com
 0.0.0.0 jigamingciti.com
 0.0.0.0 jiixdtavic.com
 0.0.0.0 jiiyddosyv.com
@@ -32420,6 +32425,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 medusasailor.com
 0.0.0.0 medyagundem.com
 0.0.0.0 medyanet.net
+0.0.0.0 meehaina.net
 0.0.0.0 meendocash.com
 0.0.0.0 meepwrite.com
 0.0.0.0 meet-gem.com
@@ -34071,6 +34077,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 multiview.122.2o7.net
 0.0.0.0 multiview.com
 0.0.0.0 mumbldnn.com
+0.0.0.0 mumienphi.pro
 0.0.0.0 mun.122.2o7.net
 0.0.0.0 mundo-baby.com
 0.0.0.0 mundodelperros.com
@@ -34631,6 +34638,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbads.com
 0.0.0.0 nbagametimeprod.112.2o7.net
 0.0.0.0 nbajerseysales.pro
+0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbastreamio.imageshack.host
 0.0.0.0 nbbqgaeqnxun.com
 0.0.0.0 nbcudisplay.s.moatpixel.com
@@ -35351,7 +35359,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 no.advertising.com
 0.0.0.0 noadblock.net
 0.0.0.0 noadblock.org
+0.0.0.0 noagloot.net
 0.0.0.0 noakauhe.com
+0.0.0.0 noaloheb.com
 0.0.0.0 noaptauw.com
 0.0.0.0 noblemagnition.com
 0.0.0.0 nobodyspeakstruth.narod.ru
@@ -35438,6 +35448,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noobgirls.com
 0.0.0.0 noosaphy.net
 0.0.0.0 noracora.com
+0.0.0.0 norakseemlyntr.info
 0.0.0.0 norc.red
 0.0.0.0 norclothes.club
 0.0.0.0 norct.com
@@ -46171,6 +46182,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sonypanasia.112.2o7.net
 0.0.0.0 sonyscei.112.2o7.net
 0.0.0.0 soodatmish.com
+0.0.0.0 soofeest.net
 0.0.0.0 soofoupt.com
 0.0.0.0 sooiipveodjxb.com
 0.0.0.0 sooloaph.com
@@ -48569,6 +48581,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 targetspot.com
 0.0.0.0 tarno.tradedoubler.com
 0.0.0.0 tarteaucitron.ml
+0.0.0.0 tartoals.net
 0.0.0.0 tarttendency.com
 0.0.0.0 tarxjwdkx.com
 0.0.0.0 taryarguestio.info
@@ -49059,6 +49072,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thedailystarcom.112.2o7.net
 0.0.0.0 thedevband.com
 0.0.0.0 thedoctors.healthfindings.website
+0.0.0.0 theeburs.com
 0.0.0.0 theersoa.net
 0.0.0.0 thefaren.pw
 0.0.0.0 thefastpush.com
@@ -49263,6 +49277,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tienribwjswv.com
 0.0.0.0 tieyggub.com
 0.0.0.0 tifbhyfrik.com
+0.0.0.0 tifybecausingp.info
 0.0.0.0 tifzusomh.com
 0.0.0.0 tigerpharma.com
 0.0.0.0 tigershark.adultadworld.com
@@ -51277,6 +51292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 traefik02-ext-us-wdc.int.glispa.com
 0.0.0.0 traefik03-ext-us-nyc.int.glispa.com
 0.0.0.0 traefik03-ext-us-wdc.int.glispa.com
+0.0.0.0 trafadsense.ru
 0.0.0.0 trafbox.game-insight.com
 0.0.0.0 traff1.com
 0.0.0.0 traffboost.net
@@ -54421,6 +54437,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 waiads.com
 0.0.0.0 wainveredspar.info
 0.0.0.0 wait3sec.org
+0.0.0.0 waitingpresen.info
 0.0.0.0 wakapita.com
 0.0.0.0 wakeup247.klick.vn
 0.0.0.0 wakogzmgjqucs.com
@@ -57673,7 +57690,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mytraf.ru
 0.0.0.0 www.myuitm.com
 0.0.0.0 www.mywot.net
-0.0.0.0 www.n149adserv.com
 0.0.0.0 www.n7621.voluumtrk.com
 0.0.0.0 www.na47.com
 0.0.0.0 www.nagubalqryvirelv.com

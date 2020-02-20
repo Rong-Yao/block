@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
 # Last Converted - 20.02.2020
-# Total Domains - 16493
+# Total Domains - 16510
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1844,6 +1844,7 @@
 0.0.0.0 aqftikmr.com
 0.0.0.0 aqjdigkqvmakz.com
 0.0.0.0 aqkjvfaprmez.com
+0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrglffxw.com
 0.0.0.0 aquete.com
@@ -2509,6 +2510,7 @@
 0.0.0.0 blatungo.com
 0.0.0.0 blebesidents.info
 0.0.0.0 blgrwhaww.com
+0.0.0.0 bliink.io
 0.0.0.0 blinkadr.com
 0.0.0.0 blisldgsqk.com
 0.0.0.0 blismedia.com
@@ -3304,6 +3306,7 @@
 0.0.0.0 cmfads.com
 0.0.0.0 cmfflktyndtqnt.com
 0.0.0.0 cmhomlaipa.com
+0.0.0.0 cmkotfol.com
 0.0.0.0 cml5egriskie.xyz
 0.0.0.0 cmllk1.info
 0.0.0.0 cmllk2.info
@@ -3705,6 +3708,7 @@
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
 0.0.0.0 d1mib12jcgwmnv.cloudfront.net
+0.0.0.0 d1n1ppeppre6d4.cloudfront.net
 0.0.0.0 d1n3tk65esqc4k.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1pdpbxj733bb1.cloudfront.net
@@ -4218,6 +4222,7 @@
 0.0.0.0 dorapodorasham.com
 0.0.0.0 dormitysature.info
 0.0.0.0 dorthuredwardles.info
+0.0.0.0 dortoolr.com
 0.0.0.0 doshaido.com
 0.0.0.0 dosugcz.biz
 0.0.0.0 dot.eporner.com
@@ -4397,6 +4402,7 @@
 0.0.0.0 dwopbruzifg.com
 0.0.0.0 dwuvmraztukg.com
 0.0.0.0 dxiixnrumvni.com
+0.0.0.0 dxkkb5tytkivf.cloudfront.net
 0.0.0.0 dxkkixczpsdaw.com
 0.0.0.0 dxprljqoay4rt.cloudfront.net
 0.0.0.0 dxqorupwedbotu.com
@@ -7217,6 +7223,7 @@
 0.0.0.0 jiawen88.com
 0.0.0.0 jibysqppqkprj.com
 0.0.0.0 jicfbcczdh.com
+0.0.0.0 jicmutse.com
 0.0.0.0 jif5o70u.pro
 0.0.0.0 jiixdtavic.com
 0.0.0.0 jiiyddosyv.com
@@ -8604,6 +8611,7 @@
 0.0.0.0 medrx.telstra.com.au
 0.0.0.0 medyagundem.com
 0.0.0.0 medyanet.net
+0.0.0.0 meehaina.net
 0.0.0.0 meendocash.com
 0.0.0.0 meepwrite.com
 0.0.0.0 meetic-partners.com
@@ -9140,6 +9148,7 @@
 0.0.0.0 nauthoun.net
 0.0.0.0 navaxudoru.com
 0.0.0.0 naxrjxij.com
+0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbbqgaeqnxun.com
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbijjhqnzcwr.com
@@ -9402,6 +9411,8 @@
 0.0.0.0 nnvqabkpa.com
 0.0.0.0 noadblock.net
 0.0.0.0 noadblock.org
+0.0.0.0 noagloot.net
+0.0.0.0 noaloheb.com
 0.0.0.0 noaptauw.com
 0.0.0.0 noblemagnition.com
 0.0.0.0 nobpgppgbucy.com
@@ -9417,6 +9428,7 @@
 0.0.0.0 nonstoppartner.de
 0.0.0.0 noosaphy.net
 0.0.0.0 noowmedia.com
+0.0.0.0 norakseemlyntr.info
 0.0.0.0 nordvpn.net
 0.0.0.0 norentisol.com
 0.0.0.0 noretia.com
@@ -13109,6 +13121,7 @@
 0.0.0.0 sonagerthrou.com
 0.0.0.0 sonnerie.net
 0.0.0.0 sonobi.com
+0.0.0.0 soofeest.net
 0.0.0.0 soofoupt.com
 0.0.0.0 sooiipveodjxb.com
 0.0.0.0 soonbigo.com
@@ -13175,6 +13188,7 @@
 0.0.0.0 sprintrade.com
 0.0.0.0 sprkl.io
 0.0.0.0 sproose.com
+0.0.0.0 sprout-ad.com
 0.0.0.0 spunkycash.com
 0.0.0.0 spuobvix.com
 0.0.0.0 spwssohsyqgq.com
@@ -13490,6 +13504,7 @@
 0.0.0.0 targetnet.com
 0.0.0.0 targetpoint.com
 0.0.0.0 targetspot.com
+0.0.0.0 tartoals.net
 0.0.0.0 tarxjwdkx.com
 0.0.0.0 taryarguestio.info
 0.0.0.0 tasvjsmnegj.com
@@ -13700,6 +13715,7 @@
 0.0.0.0 tielsdhblnmiv.com
 0.0.0.0 tieyggub.com
 0.0.0.0 tifbhyfrik.com
+0.0.0.0 tifybecausingp.info
 0.0.0.0 tifzusomh.com
 0.0.0.0 tijoctqry.com
 0.0.0.0 tijorari.com
@@ -14995,6 +15011,7 @@
 0.0.0.0 wagoapse.com
 0.0.0.0 wahoha.com
 0.0.0.0 wainveredspar.info
+0.0.0.0 waitingpresen.info
 0.0.0.0 wakapita.com
 0.0.0.0 wakogzmgjqucs.com
 0.0.0.0 wall.vgr.com

@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.051
 # Release: 051
-# Entries: 41,427
+# Entries: 41,426
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 12:13:39
+# Updated: Thu, 20 Feb 20 18:14:53
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts.txt
 # --------------------------------------------
 #
@@ -24917,7 +24917,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.pornolab.net
 0.0.0.0 static.punishtube.com
 0.0.0.0 static.rarbg.com
-0.0.0.0 static.sex-explorer.com
 0.0.0.0 static.sexu.com
 0.0.0.0 static.slutroulette.com
 0.0.0.0 static.spankbang.com

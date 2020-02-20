@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # Last Converted - 20.02.2020
-# Total Domains - 1923
+# Total Domains - 1922
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1592,7 +1592,6 @@
 0.0.0.0 www.myoffers.co.uk
 0.0.0.0 www.mysearch-engine.com
 0.0.0.0 www.myshopmarketim.com
-0.0.0.0 www.n149adserv.com
 0.0.0.0 www.nbrtrack.com
 0.0.0.0 www.nestscape.com
 0.0.0.0 www.netcscape.com

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.051
 ; Release: 051
-; Entries: 63,401
+; Entries: 63,416
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 12:13:42
+; Updated: Thu, 20 Feb 20 18:14:57
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -5808,6 +5808,7 @@ aqftikmr.com CNAME .
 aqgyju.cn CNAME .
 aqjdigkqvmakz.com CNAME .
 aqkjvfaprmez.com CNAME .
+aqkrqjvc.com CNAME .
 aqotbmnzra.com CNAME .
 aqrglffxw.com CNAME .
 aquaplatform.com CNAME .
@@ -7014,6 +7015,7 @@ bdasd.chinabig.com.cn CNAME .
 bdasd.wmxa.cn CNAME .
 bdbdqdxkdb.com CNAME .
 bdbdqexkdb.com CNAME .
+bdbdqfxkdb.com CNAME .
 bdbdqixkdb.com CNAME .
 bdbdqkxkdb.com CNAME .
 bdbdqnxkdb.com CNAME .
@@ -9860,6 +9862,7 @@ cmfflktyndtqnt.com CNAME .
 cmhomlaipa.com CNAME .
 cmix.org CNAME .
 cmjjzwddw.com CNAME .
+cmkotfol.com CNAME .
 cml5egriskie.xyz CNAME .
 cmllk1.info CNAME .
 cmllk2.info CNAME .
@@ -12401,6 +12404,7 @@ dmnangpsbpm.com CNAME .
 dmnlight.com CNAME .
 dmodernedindivin.info CNAME .
 dmoid.top CNAME .
+dmouy.cn CNAME .
 dmp-log.yomedia.vn CNAME .
 dmp.eclick.vn CNAME .
 dmp.mall.tv CNAME .
@@ -12561,6 +12565,7 @@ dornut.com CNAME .
 doroga.kugesi.ru CNAME .
 dorogodom.club CNAME .
 dorthuredwardles.info CNAME .
+dortoolr.com CNAME .
 doryhome.com CNAME .
 doshaido.com CNAME .
 doskki.com CNAME .
@@ -12968,6 +12973,7 @@ dx82u1pulx6jk.cloudfront.net CNAME .
 dxasracer.bid CNAME .
 dxcssc.cn CNAME .
 dxiixnrumvni.com CNAME .
+dxkkb5tytkivf.cloudfront.net CNAME .
 dxkkixczpsdaw.com CNAME .
 dxmci.com CNAME .
 dxnzgeyxjhzym.com CNAME .
@@ -20031,6 +20037,7 @@ jiawen88.com CNAME .
 jibn12.jintang114.org CNAME .
 jibysqppqkprj.com CNAME .
 jicfbcczdh.com CNAME .
+jicmutse.com CNAME .
 jiehantai.com CNAME .
 jiekc.com CNAME .
 jieyixiu.com CNAME .
@@ -23867,6 +23874,7 @@ medware.top CNAME .
 medyagundem.com CNAME .
 medyanet.net CNAME .
 medzdravinfo.ru CNAME .
+meehaina.net CNAME .
 meelba.com CNAME .
 meemdo.net CNAME .
 meemobi.ru CNAME .
@@ -26107,7 +26115,9 @@ no-hide.com CNAME .
 noadblock.net CNAME .
 noadblock.org CNAME .
 noadirect.com CNAME .
+noagloot.net CNAME .
 noakauhe.com CNAME .
+noaloheb.com CNAME .
 noamiscience.pro CNAME .
 noapsuza.net CNAME .
 noaptauw.com CNAME .
@@ -26157,6 +26167,7 @@ noowmedia.com CNAME .
 noproblfr.com CNAME .
 noptes.ru CNAME .
 noqukjy.com CNAME .
+norakseemlyntr.info CNAME .
 nord-raum.com CNAME .
 nordvpn.net CNAME .
 norentisol.com CNAME .
@@ -32250,6 +32261,7 @@ rowketly.com CNAME .
 rowthetresparhed.net CNAME .
 roxby.org CNAME .
 roxedltd.co.id CNAME .
+roxot-panel.com CNAME .
 roxyaffiliates.com CNAME .
 royal-cash.com CNAME .
 royalads.net CNAME .
@@ -34247,6 +34259,7 @@ sonumal.com CNAME .
 sony.adsplay.xyz CNAME .
 sony1.adsplay.xyz CNAME .
 soodatmish.com CNAME .
+soofeest.net CNAME .
 soofoupt.com CNAME .
 sooiipveodjxb.com CNAME .
 sooloaph.com CNAME .
@@ -35508,6 +35521,7 @@ taobaojx.com CNAME .
 taobayun.cn CNAME .
 taoclfxgf.com CNAME .
 taodropship.com CNAME .
+taoguanda.com CNAME .
 taohanpai.com CNAME .
 taojingu.cn CNAME .
 taotu001.com CNAME .
@@ -39577,6 +39591,7 @@ waiads.com CNAME .
 waigettwini.ml CNAME .
 waihui518.com CNAME .
 wainveredspar.info CNAME .
+waitingpresen.info CNAME .
 waitor.info CNAME .
 wakapita.com CNAME .
 wakeup.klick.vn CNAME .

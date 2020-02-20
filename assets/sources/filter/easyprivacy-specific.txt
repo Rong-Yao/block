@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
 # Last Converted - 20.02.2020
-# Total Domains - 843
+# Total Domains - 844
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -783,6 +783,7 @@
 0.0.0.0 trx.smdatalabs.com
 0.0.0.0 tsj0.madeindesign.com
 0.0.0.0 ttauri.laptopmag.com
+0.0.0.0 ttauri.livescience.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 tvl8.supdecreation.com

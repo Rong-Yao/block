@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts-porn
 # Last Converted - 20.02.2020
-# Total Domains - 12844
+# Total Domains - 12843
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6600,7 +6600,6 @@
 0.0.0.0 static.pornolab.net
 0.0.0.0 static.punishtube.com
 0.0.0.0 static.rarbg.com
-0.0.0.0 static.sex-explorer.com
 0.0.0.0 static.sexu.com
 0.0.0.0 static.slutroulette.com
 0.0.0.0 static.spankbang.com

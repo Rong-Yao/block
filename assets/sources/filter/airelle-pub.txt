@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
 # Last Converted - 20.02.2020
-# Total Domains - 56500
+# Total Domains - 56499
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -53224,7 +53224,6 @@
 0.0.0.0 www.myxxxlinks.com
 0.0.0.0 www.n-designs09.com
 0.0.0.0 www.n.popclck.org
-0.0.0.0 www.n149adserv.com
 0.0.0.0 www.n1nc.org
 0.0.0.0 www.n3-lunch.net
 0.0.0.0 www.n64adserv.com

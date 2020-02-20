@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 20.02.2020
-# Total Domains - 44514
+# Total Domains - 44509
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -12690,7 +12690,6 @@
 0.0.0.0 ekotap.pl
 0.0.0.0 ekscot.com
 0.0.0.0 elainecmcm.sites.uol.com.br
-0.0.0.0 elancenet.org
 0.0.0.0 elasticchange.com
 0.0.0.0 eldiariodeguadalajara.com
 0.0.0.0 elearningschool.org
@@ -21154,7 +21153,6 @@
 0.0.0.0 milottery.com
 0.0.0.0 mimg-snv.mediaplex.com
 0.0.0.0 mimusicamp3.com
-0.0.0.0 mindandspirt.com
 0.0.0.0 mindbay.intellicontact.com
 0.0.0.0 mindbodygreen-d.openx.net
 0.0.0.0 minddrivers.com
@@ -27436,7 +27434,6 @@
 0.0.0.0 scut.ru
 0.0.0.0 scuuuba.ourtoolbar.com
 0.0.0.0 sd3x.com
-0.0.0.0 sdbot.n3.net
 0.0.0.0 sdc.atw.hu
 0.0.0.0 sdc.bawag.com
 0.0.0.0 sdc.state.nc.us
@@ -29593,7 +29590,6 @@
 0.0.0.0 static.plista.com
 0.0.0.0 static.sascdn.com
 0.0.0.0 static.scanscout.com
-0.0.0.0 static.sex-explorer.com
 0.0.0.0 static.skimlinks.com
 0.0.0.0 static.smi2.net
 0.0.0.0 static.sparechange.io
@@ -34843,7 +34839,6 @@
 0.0.0.0 www.americangreetingcards.com
 0.0.0.0 www.americanirlines.com
 0.0.0.0 www.americansecurityventures.com
-0.0.0.0 www.americansexonline.com
 0.0.0.0 www.americlicks.com
 0.0.0.0 www.amerimerchant.net
 0.0.0.0 www.ameritraade.com

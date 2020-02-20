@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
 # Last Converted - 20.02.2020
-# Total Domains - 2723
+# Total Domains - 2725
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2499,6 +2499,8 @@
 0.0.0.0 tracker.vgame.us
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.ibxlink.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.publicidees.com
 0.0.0.0 tracking01.walmart.com
 0.0.0.0 tracking101.com

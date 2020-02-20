@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.051
 # Release: 051
-# Entries: 63,401
+# Entries: 63,416
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 12:13:42
+# Updated: Thu, 20 Feb 20 18:14:57
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -5819,6 +5819,7 @@ ff02::3 ip6-allhosts
 :: aqgyju.cn
 :: aqjdigkqvmakz.com
 :: aqkjvfaprmez.com
+:: aqkrqjvc.com
 :: aqotbmnzra.com
 :: aqrglffxw.com
 :: aquaplatform.com
@@ -7025,6 +7026,7 @@ ff02::3 ip6-allhosts
 :: bdasd.wmxa.cn
 :: bdbdqdxkdb.com
 :: bdbdqexkdb.com
+:: bdbdqfxkdb.com
 :: bdbdqixkdb.com
 :: bdbdqkxkdb.com
 :: bdbdqnxkdb.com
@@ -9871,6 +9873,7 @@ ff02::3 ip6-allhosts
 :: cmhomlaipa.com
 :: cmix.org
 :: cmjjzwddw.com
+:: cmkotfol.com
 :: cml5egriskie.xyz
 :: cmllk1.info
 :: cmllk2.info
@@ -12412,6 +12415,7 @@ ff02::3 ip6-allhosts
 :: dmnlight.com
 :: dmodernedindivin.info
 :: dmoid.top
+:: dmouy.cn
 :: dmp-log.yomedia.vn
 :: dmp.eclick.vn
 :: dmp.mall.tv
@@ -12572,6 +12576,7 @@ ff02::3 ip6-allhosts
 :: doroga.kugesi.ru
 :: dorogodom.club
 :: dorthuredwardles.info
+:: dortoolr.com
 :: doryhome.com
 :: doshaido.com
 :: doskki.com
@@ -12979,6 +12984,7 @@ ff02::3 ip6-allhosts
 :: dxasracer.bid
 :: dxcssc.cn
 :: dxiixnrumvni.com
+:: dxkkb5tytkivf.cloudfront.net
 :: dxkkixczpsdaw.com
 :: dxmci.com
 :: dxnzgeyxjhzym.com
@@ -20042,6 +20048,7 @@ ff02::3 ip6-allhosts
 :: jibn12.jintang114.org
 :: jibysqppqkprj.com
 :: jicfbcczdh.com
+:: jicmutse.com
 :: jiehantai.com
 :: jiekc.com
 :: jieyixiu.com
@@ -23878,6 +23885,7 @@ ff02::3 ip6-allhosts
 :: medyagundem.com
 :: medyanet.net
 :: medzdravinfo.ru
+:: meehaina.net
 :: meelba.com
 :: meemdo.net
 :: meemobi.ru
@@ -26118,7 +26126,9 @@ ff02::3 ip6-allhosts
 :: noadblock.net
 :: noadblock.org
 :: noadirect.com
+:: noagloot.net
 :: noakauhe.com
+:: noaloheb.com
 :: noamiscience.pro
 :: noapsuza.net
 :: noaptauw.com
@@ -26168,6 +26178,7 @@ ff02::3 ip6-allhosts
 :: noproblfr.com
 :: noptes.ru
 :: noqukjy.com
+:: norakseemlyntr.info
 :: nord-raum.com
 :: nordvpn.net
 :: norentisol.com
@@ -32261,6 +32272,7 @@ ff02::3 ip6-allhosts
 :: rowthetresparhed.net
 :: roxby.org
 :: roxedltd.co.id
+:: roxot-panel.com
 :: roxyaffiliates.com
 :: royal-cash.com
 :: royalads.net
@@ -34258,6 +34270,7 @@ ff02::3 ip6-allhosts
 :: sony.adsplay.xyz
 :: sony1.adsplay.xyz
 :: soodatmish.com
+:: soofeest.net
 :: soofoupt.com
 :: sooiipveodjxb.com
 :: sooloaph.com
@@ -35519,6 +35532,7 @@ ff02::3 ip6-allhosts
 :: taobayun.cn
 :: taoclfxgf.com
 :: taodropship.com
+:: taoguanda.com
 :: taohanpai.com
 :: taojingu.cn
 :: taotu001.com
@@ -39588,6 +39602,7 @@ ff02::3 ip6-allhosts
 :: waigettwini.ml
 :: waihui518.com
 :: wainveredspar.info
+:: waitingpresen.info
 :: waitor.info
 :: wakapita.com
 :: wakeup.klick.vn

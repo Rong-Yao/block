@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.051
 ; Release: 051
-; Entries: 41,427
+; Entries: 41,426
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 12:13:39
+; Updated: Thu, 20 Feb 20 18:14:53
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -24906,7 +24906,6 @@ static.pornhd.com CNAME .
 static.pornolab.net CNAME .
 static.punishtube.com CNAME .
 static.rarbg.com CNAME .
-static.sex-explorer.com CNAME .
 static.sexu.com CNAME .
 static.slutroulette.com CNAME .
 static.spankbang.com CNAME .

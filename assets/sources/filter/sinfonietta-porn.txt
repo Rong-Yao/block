@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
 # Last Converted - 20.02.2020
-# Total Domains - 8660
+# Total Domains - 8659
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5263,7 +5263,6 @@
 0.0.0.0 static.gfx.streamen.com
 0.0.0.0 static.ifa.camads.net
 0.0.0.0 static.rarbg.com
-0.0.0.0 static.sex-explorer.com
 0.0.0.0 static.wickedcdn.com
 0.0.0.0 static.xvideos.com
 0.0.0.0 statm.the-adult-company.com

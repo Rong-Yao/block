@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.051
 ; Release: 051
-; Entries: 61,108
+; Entries: 61,124
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 12:09:51
+; Updated: Thu, 20 Feb 20 18:10:52
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9659,6 +9659,7 @@ aqfpqzxzk.com CNAME .
 aqftikmr.com CNAME .
 aqjdigkqvmakz.com CNAME .
 aqkjvfaprmez.com CNAME .
+aqkrqjvc.com CNAME .
 aqnaqn.com CNAME .
 aqocbcnfxkuw.com CNAME .
 aqodwthjaq.com CNAME .
@@ -11824,6 +11825,7 @@ blekko.com CNAME .
 blender3d.fr CNAME .
 blethenmaine.112.2o7.net CNAME .
 blgrwhaww.com CNAME .
+bliink.io CNAME .
 blikk.pushengage.com CNAME .
 blinding-heat-4778.firebaseio.com CNAME .
 bling1.midasplayer.com CNAME .
@@ -15323,6 +15325,7 @@ cmgfeeds.cmgdigital.com CNAME .
 cmhomlaipa.com CNAME .
 cmi.flurry.com CNAME .
 cmicapui.ce.gov.br CNAME .
+cmkotfol.com CNAME .
 cmllk1.info CNAME .
 cmncgeqivmjki.com CNAME .
 cmnhwzdsvr.com CNAME .
@@ -18885,6 +18888,7 @@ dorectertnerow.info CNAME .
 doretma.com CNAME .
 dormitysature.info CNAME .
 dorthuredwardles.info CNAME .
+dortoolr.com CNAME .
 dos.velek.com CNAME .
 dosanrnlq.com CNAME .
 doshaido.com CNAME .
@@ -28346,6 +28350,7 @@ jiawen88.com CNAME .
 jibysqppqkprj.com CNAME .
 jice.admaster.com.cn CNAME .
 jicfbcczdh.com CNAME .
+jicmutse.com CNAME .
 jigamingciti.com CNAME .
 jiixdtavic.com CNAME .
 jiiyddosyv.com CNAME .
@@ -32409,6 +32414,7 @@ medtest.nexage.com CNAME .
 medusasailor.com CNAME .
 medyagundem.com CNAME .
 medyanet.net CNAME .
+meehaina.net CNAME .
 meendocash.com CNAME .
 meepwrite.com CNAME .
 meet-gem.com CNAME .
@@ -34060,6 +34066,7 @@ multissp.yieldlab.net CNAME .
 multiview.122.2o7.net CNAME .
 multiview.com CNAME .
 mumbldnn.com CNAME .
+mumienphi.pro CNAME .
 mun.122.2o7.net CNAME .
 mundo-baby.com CNAME .
 mundodelperros.com CNAME .
@@ -34620,6 +34627,7 @@ nba.112.2o7.net CNAME .
 nbads.com CNAME .
 nbagametimeprod.112.2o7.net CNAME .
 nbajerseysales.pro CNAME .
+nbasicalbuffere.info CNAME .
 nbastreamio.imageshack.host CNAME .
 nbbqgaeqnxun.com CNAME .
 nbcudisplay.s.moatpixel.com CNAME .
@@ -35340,7 +35348,9 @@ no.adserver.yahoo.com CNAME .
 no.advertising.com CNAME .
 noadblock.net CNAME .
 noadblock.org CNAME .
+noagloot.net CNAME .
 noakauhe.com CNAME .
+noaloheb.com CNAME .
 noaptauw.com CNAME .
 noblemagnition.com CNAME .
 nobodyspeakstruth.narod.ru CNAME .
@@ -35427,6 +35437,7 @@ nonstoppartner.de CNAME .
 noobgirls.com CNAME .
 noosaphy.net CNAME .
 noracora.com CNAME .
+norakseemlyntr.info CNAME .
 norc.red CNAME .
 norclothes.club CNAME .
 norct.com CNAME .
@@ -46160,6 +46171,7 @@ sonymediasoftware.112.2o7.net CNAME .
 sonypanasia.112.2o7.net CNAME .
 sonyscei.112.2o7.net CNAME .
 soodatmish.com CNAME .
+soofeest.net CNAME .
 soofoupt.com CNAME .
 sooiipveodjxb.com CNAME .
 sooloaph.com CNAME .
@@ -48558,6 +48570,7 @@ targetpoint.com CNAME .
 targetspot.com CNAME .
 tarno.tradedoubler.com CNAME .
 tarteaucitron.ml CNAME .
+tartoals.net CNAME .
 tarttendency.com CNAME .
 tarxjwdkx.com CNAME .
 taryarguestio.info CNAME .
@@ -49048,6 +49061,7 @@ thedailymeal.media.net CNAME .
 thedailystarcom.112.2o7.net CNAME .
 thedevband.com CNAME .
 thedoctors.healthfindings.website CNAME .
+theeburs.com CNAME .
 theersoa.net CNAME .
 thefaren.pw CNAME .
 thefastpush.com CNAME .
@@ -49252,6 +49266,7 @@ tiendazapatoses.com CNAME .
 tienribwjswv.com CNAME .
 tieyggub.com CNAME .
 tifbhyfrik.com CNAME .
+tifybecausingp.info CNAME .
 tifzusomh.com CNAME .
 tigerpharma.com CNAME .
 tigershark.adultadworld.com CNAME .
@@ -51266,6 +51281,7 @@ traefik02-ext-us-nyc.int.glispa.com CNAME .
 traefik02-ext-us-wdc.int.glispa.com CNAME .
 traefik03-ext-us-nyc.int.glispa.com CNAME .
 traefik03-ext-us-wdc.int.glispa.com CNAME .
+trafadsense.ru CNAME .
 trafbox.game-insight.com CNAME .
 traff1.com CNAME .
 traffboost.net CNAME .
@@ -54410,6 +54426,7 @@ wahoha.com CNAME .
 waiads.com CNAME .
 wainveredspar.info CNAME .
 wait3sec.org CNAME .
+waitingpresen.info CNAME .
 wakapita.com CNAME .
 wakeup247.klick.vn CNAME .
 wakogzmgjqucs.com CNAME .
@@ -57662,7 +57679,6 @@ www.mytraf.info CNAME .
 www.mytraf.ru CNAME .
 www.myuitm.com CNAME .
 www.mywot.net CNAME .
-www.n149adserv.com CNAME .
 www.n7621.voluumtrk.com CNAME .
 www.na47.com CNAME .
 www.nagubalqryvirelv.com CNAME .

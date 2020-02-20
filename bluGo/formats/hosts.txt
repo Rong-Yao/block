@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.051
 # Release: 051
-# Entries: 123,038
+# Entries: 123,055
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 12:09:55
+# Updated: Thu, 20 Feb 20 18:10:55
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts.txt
 # --------------------------------------------
 #
@@ -15308,6 +15308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aqftikmr.com
 0.0.0.0 aqjdigkqvmakz.com
 0.0.0.0 aqkjvfaprmez.com
+0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqkujuggztyn.bid
 0.0.0.0 aqnaqn.com
 0.0.0.0 aqocbcnfxkuw.com
@@ -19922,6 +19923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 blggrounds.ca
 0.0.0.0 blgrwhaww.com
 0.0.0.0 blh.btcc.com
+0.0.0.0 bliink.io
 0.0.0.0 blikk.pushengage.com
 0.0.0.0 bliman.com
 0.0.0.0 blinding-heat-4778.firebaseio.com
@@ -26526,6 +26528,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cminors-pool.com
 0.0.0.0 cmisaludocupacional.com
 0.0.0.0 cmjjzwddw.com
+0.0.0.0 cmkotfol.com
 0.0.0.0 cml.sad.ukrd.com
 0.0.0.0 cmllk1.info
 0.0.0.0 cmm-asia.bitpool.ro
@@ -34099,6 +34102,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dorpk2sa2i.dayzcy3xae.madpendesign.com.au
 0.0.0.0 dorszfishandchips.pl
 0.0.0.0 dorthuredwardles.info
+0.0.0.0 dortoolr.com
 0.0.0.0 dos.velek.com
 0.0.0.0 dosanrnlq.com
 0.0.0.0 dosh.shscrypto.net
@@ -55880,6 +55884,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jic.talkingdata.com
 0.0.0.0 jice.admaster.com.cn
 0.0.0.0 jicfbcczdh.com
+0.0.0.0 jicmutse.com
 0.0.0.0 jiek04.com
 0.0.0.0 jienoo.com
 0.0.0.0 jifen.2345.com
@@ -64881,6 +64886,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 medyagundem.com
 0.0.0.0 medyanet.net
 0.0.0.0 meeaowsxneps.com
+0.0.0.0 meehaina.net
 0.0.0.0 meendocash.com
 0.0.0.0 meepwrite.com
 0.0.0.0 meeramu.com
@@ -68181,6 +68187,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 multiview.122.2o7.net
 0.0.0.0 multiview.com
 0.0.0.0 mumbldnn.com
+0.0.0.0 mumienphi.pro
 0.0.0.0 mumm.bubler.com
 0.0.0.0 mumojuw.ddns.net
 0.0.0.0 mun.122.2o7.net
@@ -69483,6 +69490,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbagametimeprod.112.2o7.net
 0.0.0.0 nbai.miner.id
 0.0.0.0 nbajerseysales.pro
+0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbastreamio.imageshack.host
 0.0.0.0 nbbqgaeqnxun.com
 0.0.0.0 nbbr.unipool.pro
@@ -71234,8 +71242,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 noadblock.net
 0.0.0.0 noadblock.org
+0.0.0.0 noagloot.net
 0.0.0.0 noah.v2.dedicatedpool.com
 0.0.0.0 noakauhe.com
+0.0.0.0 noaloheb.com
 0.0.0.0 noalove.com
 0.0.0.0 noaptauw.com
 0.0.0.0 noauth.stage.sparkpool.com
@@ -71470,6 +71480,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noracora.com
 0.0.0.0 noradgroup.com
 0.0.0.0 noraip111.ddns.net
+0.0.0.0 norakseemlyntr.info
 0.0.0.0 noralterapibursa.com
 0.0.0.0 noraxx.ethosdistro.com
 0.0.0.0 norc.red
@@ -90874,6 +90885,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sonyscei.112.2o7.net
 0.0.0.0 soo.sg
 0.0.0.0 soodatmish.com
+0.0.0.0 soofeest.net
 0.0.0.0 soofoupt.com
 0.0.0.0 sooiipveodjxb.com
 0.0.0.0 sookle.com
@@ -95796,6 +95808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tarnowskirap.pl
 0.0.0.0 tarteaucitron.ml
 0.0.0.0 tartis78tscolla.rr.nu
+0.0.0.0 tartoals.net
 0.0.0.0 tarttendency.com
 0.0.0.0 taruhanolahraga.com
 0.0.0.0 tarxjwdkx.com
@@ -96947,6 +96960,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thedoctors.healthfindings.website
 0.0.0.0 thedreadpool.eu
 0.0.0.0 theearprompterbook.com
+0.0.0.0 theeburs.com
 0.0.0.0 theersoa.net
 0.0.0.0 theevermore.com.au
 0.0.0.0 theeyeshaveitfc.com
@@ -97346,6 +97360,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tieyggub.com
 0.0.0.0 tifbhyfrik.com
 0.0.0.0 tiffany-homes.com
+0.0.0.0 tifybecausingp.info
 0.0.0.0 tifzusomh.com
 0.0.0.0 tigerpharma.com
 0.0.0.0 tigershark.adultadworld.com
@@ -100154,6 +100169,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 traefik02-ext-us-wdc.int.glispa.com
 0.0.0.0 traefik03-ext-us-nyc.int.glispa.com
 0.0.0.0 traefik03-ext-us-wdc.int.glispa.com
+0.0.0.0 trafadsense.ru
 0.0.0.0 trafbox.game-insight.com
 0.0.0.0 trafex.net
 0.0.0.0 traff1.com
@@ -100928,6 +100944,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tta-property.fi
 0.0.0.0 tta.org.mk
 0.0.0.0 ttauri.laptopmag.com
+0.0.0.0 ttauri.livescience.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 ttd.ads.placeiq.com
@@ -105804,6 +105821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 waikoloacanoeclub.com
 0.0.0.0 wainveredspar.info
 0.0.0.0 wait3sec.org
+0.0.0.0 waitingpresen.info
 0.0.0.0 wakandumetrading.com
 0.0.0.0 wakanfoundation.com
 0.0.0.0 wakapita.com
@@ -114882,7 +114900,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.myxmr.pw
 0.0.0.0 www.mzo.com.pl
 0.0.0.0 www.n-mobile.net
-0.0.0.0 www.n149adserv.com
 0.0.0.0 www.n3rd3d.com
 0.0.0.0 www.n7621.voluumtrk.com
 0.0.0.0 www.na47.com

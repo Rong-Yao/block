@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 20.02.2020
-# Total Domains - 18348
+# Total Domains - 18360
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2091,6 +2091,7 @@
 0.0.0.0 aqftikmr.com
 0.0.0.0 aqjdigkqvmakz.com
 0.0.0.0 aqkjvfaprmez.com
+0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrglffxw.com
 0.0.0.0 aquete.com
@@ -3741,6 +3742,7 @@
 0.0.0.0 cmfads.com
 0.0.0.0 cmfflktyndtqnt.com
 0.0.0.0 cmhomlaipa.com
+0.0.0.0 cmkotfol.com
 0.0.0.0 cml5egriskie.xyz
 0.0.0.0 cmllk1.info
 0.0.0.0 cmllk2.info
@@ -4840,6 +4842,7 @@
 0.0.0.0 dorectertnerow.info
 0.0.0.0 dormitysature.info
 0.0.0.0 dorthuredwardles.info
+0.0.0.0 dortoolr.com
 0.0.0.0 doshaido.com
 0.0.0.0 dosugcz.biz
 0.0.0.0 dot.eporner.com
@@ -5044,6 +5047,7 @@
 0.0.0.0 dwore.bid
 0.0.0.0 dwuvmraztukg.com
 0.0.0.0 dxiixnrumvni.com
+0.0.0.0 dxkkb5tytkivf.cloudfront.net
 0.0.0.0 dxkkixczpsdaw.com
 0.0.0.0 dxprljqoay4rt.cloudfront.net
 0.0.0.0 dxqorupwedbotu.com
@@ -8133,6 +8137,7 @@
 0.0.0.0 jiawen88.com
 0.0.0.0 jibysqppqkprj.com
 0.0.0.0 jicfbcczdh.com
+0.0.0.0 jicmutse.com
 0.0.0.0 jif5o70u.pro
 0.0.0.0 jiixdtavic.com
 0.0.0.0 jiiyddosyv.com
@@ -9681,6 +9686,7 @@
 0.0.0.0 medrx.telstra.com.au
 0.0.0.0 medyagundem.com
 0.0.0.0 medyanet.net
+0.0.0.0 meehaina.net
 0.0.0.0 meendocash.com
 0.0.0.0 meepwrite.com
 0.0.0.0 meetic-partners.com
@@ -10559,7 +10565,9 @@
 0.0.0.0 nnvqabkpa.com
 0.0.0.0 noadblock.net
 0.0.0.0 noadblock.org
+0.0.0.0 noagloot.net
 0.0.0.0 noakauhe.com
+0.0.0.0 noaloheb.com
 0.0.0.0 noamiscience.pro
 0.0.0.0 noaptauw.com
 0.0.0.0 noblemagnition.com
@@ -10579,6 +10587,7 @@
 0.0.0.0 noowmedia.com
 0.0.0.0 noproblfr.com
 0.0.0.0 noqukjy.com
+0.0.0.0 norakseemlyntr.info
 0.0.0.0 nordvpn.net
 0.0.0.0 norentisol.com
 0.0.0.0 noretia.com
@@ -14614,6 +14623,7 @@
 0.0.0.0 sonnerie.net
 0.0.0.0 sonobi.com
 0.0.0.0 sonumal.com
+0.0.0.0 soofeest.net
 0.0.0.0 soofoupt.com
 0.0.0.0 sooiipveodjxb.com
 0.0.0.0 soonbigo.com
@@ -14689,6 +14699,7 @@
 0.0.0.0 sprintrade.com
 0.0.0.0 sprkl.io
 0.0.0.0 sproose.com
+0.0.0.0 sprout-ad.com
 0.0.0.0 spunkycash.com
 0.0.0.0 spunto.ru
 0.0.0.0 spuobvix.com
@@ -16713,6 +16724,7 @@
 0.0.0.0 wagoapse.com
 0.0.0.0 wahoha.com
 0.0.0.0 wainveredspar.info
+0.0.0.0 waitingpresen.info
 0.0.0.0 wakapita.com
 0.0.0.0 wakogzmgjqucs.com
 0.0.0.0 walasearch.com

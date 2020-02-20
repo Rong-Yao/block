@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 20.02.2020
-# Total Domains - 35961
+# Total Domains - 35960
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -33188,7 +33188,6 @@
 0.0.0.0 www.myworld.com
 0.0.0.0 www.mywot.net
 0.0.0.0 www.n-mobile.net
-0.0.0.0 www.n149adserv.com
 0.0.0.0 www.na47.com
 0.0.0.0 www.nabazarze.pl
 0.0.0.0 www.nadhirotultaqwa.com

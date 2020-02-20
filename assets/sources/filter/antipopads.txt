@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # Last Converted - 20.02.2020
-# Total Domains - 11297
+# Total Domains - 11299
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -334,6 +334,7 @@
 0.0.0.0 aqftikmr.com
 0.0.0.0 aqjdigkqvmakz.com
 0.0.0.0 aqkjvfaprmez.com
+0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqkujuggztyn.bid
 0.0.0.0 aqocbcnfxkuw.com
 0.0.0.0 aqodwthjaq.com
@@ -1232,6 +1233,7 @@
 0.0.0.0 cmhomlaipa.com
 0.0.0.0 cmhwwdwfiyx.com
 0.0.0.0 cmjjzwddw.com
+0.0.0.0 cmkotfol.com
 0.0.0.0 cmncgeqivmjki.com
 0.0.0.0 cmnhwzdsvr.com
 0.0.0.0 cmpkynhhmkni.com

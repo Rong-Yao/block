@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 20.02.2020
-# Total Domains - 39925
+# Total Domains - 39924
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -38966,7 +38966,6 @@
 0.0.0.0 www.myspybot.com
 0.0.0.0 www.mystyleparrucchieri.com
 0.0.0.0 www.mywoc.ca
-0.0.0.0 www.n149adserv.com
 0.0.0.0 www.namen-ahnen.de
 0.0.0.0 www.namens-bedeutung.de
 0.0.0.0 www.namensfinder.com

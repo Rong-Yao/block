@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 # Last Converted - 20.02.2020
-# Total Domains - 839
+# Total Domains - 841
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -502,6 +502,7 @@
 0.0.0.0 moviesfly.club
 0.0.0.0 mpqfzyh.com
 0.0.0.0 multinews.me
+0.0.0.0 mumienphi.pro
 0.0.0.0 mw19c3mi5a.com
 0.0.0.0 my83s1kw3u.com
 0.0.0.0 mygoodlives.com
@@ -753,6 +754,7 @@
 0.0.0.0 tracking.scenepass.com
 0.0.0.0 trackpprofile.com
 0.0.0.0 trackpush.com
+0.0.0.0 trafadsense.ru
 0.0.0.0 traffdaq.com
 0.0.0.0 transmatico.com
 0.0.0.0 trcklks.com

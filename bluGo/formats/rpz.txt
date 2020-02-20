@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.051
 ; Release: 051
-; Entries: 123,038
+; Entries: 123,055
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 12:09:55
+; Updated: Thu, 20 Feb 20 18:10:55
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -15297,6 +15297,7 @@ aqfpqzxzk.com CNAME .
 aqftikmr.com CNAME .
 aqjdigkqvmakz.com CNAME .
 aqkjvfaprmez.com CNAME .
+aqkrqjvc.com CNAME .
 aqkujuggztyn.bid CNAME .
 aqnaqn.com CNAME .
 aqocbcnfxkuw.com CNAME .
@@ -19911,6 +19912,7 @@ blethenmaine.112.2o7.net CNAME .
 blggrounds.ca CNAME .
 blgrwhaww.com CNAME .
 blh.btcc.com CNAME .
+bliink.io CNAME .
 blikk.pushengage.com CNAME .
 bliman.com CNAME .
 blinding-heat-4778.firebaseio.com CNAME .
@@ -26515,6 +26517,7 @@ cmillervarealty.000webhostapp.com CNAME .
 cminors-pool.com CNAME .
 cmisaludocupacional.com CNAME .
 cmjjzwddw.com CNAME .
+cmkotfol.com CNAME .
 cml.sad.ukrd.com CNAME .
 cmllk1.info CNAME .
 cmm-asia.bitpool.ro CNAME .
@@ -34088,6 +34091,7 @@ doroncreations.com CNAME .
 dorpk2sa2i.dayzcy3xae.madpendesign.com.au CNAME .
 dorszfishandchips.pl CNAME .
 dorthuredwardles.info CNAME .
+dortoolr.com CNAME .
 dos.velek.com CNAME .
 dosanrnlq.com CNAME .
 dosh.shscrypto.net CNAME .
@@ -55869,6 +55873,7 @@ jibysqppqkprj.com CNAME .
 jic.talkingdata.com CNAME .
 jice.admaster.com.cn CNAME .
 jicfbcczdh.com CNAME .
+jicmutse.com CNAME .
 jiek04.com CNAME .
 jienoo.com CNAME .
 jifen.2345.com CNAME .
@@ -64870,6 +64875,7 @@ medwayvillagepizza.com CNAME .
 medyagundem.com CNAME .
 medyanet.net CNAME .
 meeaowsxneps.com CNAME .
+meehaina.net CNAME .
 meendocash.com CNAME .
 meepwrite.com CNAME .
 meeramu.com CNAME .
@@ -68170,6 +68176,7 @@ multissp.yieldlab.net CNAME .
 multiview.122.2o7.net CNAME .
 multiview.com CNAME .
 mumbldnn.com CNAME .
+mumienphi.pro CNAME .
 mumm.bubler.com CNAME .
 mumojuw.ddns.net CNAME .
 mun.122.2o7.net CNAME .
@@ -69472,6 +69479,7 @@ nbads.com CNAME .
 nbagametimeprod.112.2o7.net CNAME .
 nbai.miner.id CNAME .
 nbajerseysales.pro CNAME .
+nbasicalbuffere.info CNAME .
 nbastreamio.imageshack.host CNAME .
 nbbqgaeqnxun.com CNAME .
 nbbr.unipool.pro CNAME .
@@ -71223,8 +71231,10 @@ no22.coinfoundry.org CNAME .
 noa0.compteczam.fr CNAME .
 noadblock.net CNAME .
 noadblock.org CNAME .
+noagloot.net CNAME .
 noah.v2.dedicatedpool.com CNAME .
 noakauhe.com CNAME .
+noaloheb.com CNAME .
 noalove.com CNAME .
 noaptauw.com CNAME .
 noauth.stage.sparkpool.com CNAME .
@@ -71459,6 +71469,7 @@ nops01.nanopool.org CNAME .
 noracora.com CNAME .
 noradgroup.com CNAME .
 noraip111.ddns.net CNAME .
+norakseemlyntr.info CNAME .
 noralterapibursa.com CNAME .
 noraxx.ethosdistro.com CNAME .
 norc.red CNAME .
@@ -90863,6 +90874,7 @@ sonypanasia.112.2o7.net CNAME .
 sonyscei.112.2o7.net CNAME .
 soo.sg CNAME .
 soodatmish.com CNAME .
+soofeest.net CNAME .
 soofoupt.com CNAME .
 sooiipveodjxb.com CNAME .
 sookle.com CNAME .
@@ -95785,6 +95797,7 @@ tarnow360.pl CNAME .
 tarnowskirap.pl CNAME .
 tarteaucitron.ml CNAME .
 tartis78tscolla.rr.nu CNAME .
+tartoals.net CNAME .
 tarttendency.com CNAME .
 taruhanolahraga.com CNAME .
 tarxjwdkx.com CNAME .
@@ -96936,6 +96949,7 @@ thedivorcecenter.com CNAME .
 thedoctors.healthfindings.website CNAME .
 thedreadpool.eu CNAME .
 theearprompterbook.com CNAME .
+theeburs.com CNAME .
 theersoa.net CNAME .
 theevermore.com.au CNAME .
 theeyeshaveitfc.com CNAME .
@@ -97335,6 +97349,7 @@ tiersock.com CNAME .
 tieyggub.com CNAME .
 tifbhyfrik.com CNAME .
 tiffany-homes.com CNAME .
+tifybecausingp.info CNAME .
 tifzusomh.com CNAME .
 tigerpharma.com CNAME .
 tigershark.adultadworld.com CNAME .
@@ -100143,6 +100158,7 @@ traefik02-ext-us-nyc.int.glispa.com CNAME .
 traefik02-ext-us-wdc.int.glispa.com CNAME .
 traefik03-ext-us-nyc.int.glispa.com CNAME .
 traefik03-ext-us-wdc.int.glispa.com CNAME .
+trafadsense.ru CNAME .
 trafbox.game-insight.com CNAME .
 trafex.net CNAME .
 traff1.com CNAME .
@@ -100917,6 +100933,7 @@ tt123.hao0202.com CNAME .
 tta-property.fi CNAME .
 tta.org.mk CNAME .
 ttauri.laptopmag.com CNAME .
+ttauri.livescience.com CNAME .
 ttauri.tomsguide.com CNAME .
 ttauri.tomshardware.com CNAME .
 ttd.ads.placeiq.com CNAME .
@@ -105793,6 +105810,7 @@ waikikitarifa.com CNAME .
 waikoloacanoeclub.com CNAME .
 wainveredspar.info CNAME .
 wait3sec.org CNAME .
+waitingpresen.info CNAME .
 wakandumetrading.com CNAME .
 wakanfoundation.com CNAME .
 wakapita.com CNAME .
@@ -114871,7 +114889,6 @@ www.mywot.net CNAME .
 www.myxmr.pw CNAME .
 www.mzo.com.pl CNAME .
 www.n-mobile.net CNAME .
-www.n149adserv.com CNAME .
 www.n3rd3d.com CNAME .
 www.n7621.voluumtrk.com CNAME .
 www.na47.com CNAME .

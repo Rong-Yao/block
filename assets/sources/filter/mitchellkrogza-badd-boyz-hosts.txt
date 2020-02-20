@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # Last Converted - 20.02.2020
-# Total Domains - 755
+# Total Domains - 756
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -231,6 +231,7 @@
 0.0.0.0 5i2.net
 0.0.0.0 5u.com
 0.0.0.0 5udt.com
+0.0.0.0 5wh.co.zw
 0.0.0.0 5yfi7sy.com
 0.0.0.0 6000518.com
 0.0.0.0 600co.info

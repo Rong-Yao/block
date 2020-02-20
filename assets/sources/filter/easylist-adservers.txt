@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 # Last Converted - 20.02.2020
-# Total Domains - 14100
+# Total Domains - 14099
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -698,7 +698,6 @@
 0.0.0.0 adchemical.com
 0.0.0.0 adclerks.com
 0.0.0.0 adclick.lv
-0.0.0.0 adclick.pk
 0.0.0.0 adclickafrica.com
 0.0.0.0 adclickmedia.com
 0.0.0.0 adclicks.io

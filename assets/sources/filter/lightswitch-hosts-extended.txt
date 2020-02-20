@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Last Converted - 20.02.2020
-# Total Domains - 94107
+# Total Domains - 94104
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -36946,7 +36946,6 @@
 0.0.0.0 f1-us-va.digitmate.bid
 0.0.0.0 f1.flyertown.ca
 0.0.0.0 f1.nakanohito.jp
-0.0.0.0 f11-us-va.adhigh.net
 0.0.0.0 f11-us-va.cpagen.win
 0.0.0.0 f11.adventori.com
 0.0.0.0 f12-us-va.cpagen.win
@@ -46875,7 +46874,6 @@
 0.0.0.0 ivid-f2-de.digitmate.bid
 0.0.0.0 ivid-f2-us-ca.cpagen.win
 0.0.0.0 ivid-f2-us-tx.adhigh.net
-0.0.0.0 ivid-f2-us-va.adhigh.net
 0.0.0.0 ivid-f2-us-va.cpagen.win
 0.0.0.0 ivid-f20-us-va.cpagen.win
 0.0.0.0 ivid-f21-de-tmp.adhigh.net
@@ -83162,7 +83160,6 @@
 0.0.0.0 vast-f13-us-va.digitmate.bid
 0.0.0.0 vast-f14-de.digitmate.bid
 0.0.0.0 vast-f14-us-ca.digitmate.bid
-0.0.0.0 vast-f14-us-va.adhigh.net
 0.0.0.0 vast-f14-us-va.digitmate.bid
 0.0.0.0 vast-f15-us-va.digitmate.bid
 0.0.0.0 vast-f16-us-va.digitmate.bid

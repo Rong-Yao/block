@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.051
 # Release: 051
-# Entries: 61,109
+# Entries: 61,108
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 06:09:54
+# Updated: Thu, 20 Feb 20 12:09:51
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -3547,7 +3547,6 @@ adclick.g.doublecklick.net
 adclick.g.doubleclick.net
 adclick.hit.gemius.pl
 adclick.lv
-adclick.pk
 adclick.ushareit.com
 adclick.zkmobi.com
 adclickafrica.com

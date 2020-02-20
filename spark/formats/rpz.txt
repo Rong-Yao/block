@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.051
 ; Release: 051
-; Entries: 61,109
+; Entries: 61,108
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Thu, 20 Feb 20 06:09:54
+; Updated: Thu, 20 Feb 20 12:09:51
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3555,7 +3555,6 @@ adclick.g.doublecklick.net CNAME .
 adclick.g.doubleclick.net CNAME .
 adclick.hit.gemius.pl CNAME .
 adclick.lv CNAME .
-adclick.pk CNAME .
 adclick.ushareit.com CNAME .
 adclick.zkmobi.com CNAME .
 adclickafrica.com CNAME .

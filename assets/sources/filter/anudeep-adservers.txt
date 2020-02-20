@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Last Converted - 20.02.2020
-# Total Domains - 20204
+# Total Domains - 20200
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -8784,7 +8784,6 @@
 0.0.0.0 f03-4.tlnk.io
 0.0.0.0 f0a-b.tlnk.io
 0.0.0.0 f0ad.notifychheck.com
-0.0.0.0 f11-us-va.adhigh.net
 0.0.0.0 f2m-o.tlnk.io
 0.0.0.0 f31a64ee-6883-45f7-ac47-ac40842c8401.nuid.imrworldwide.com
 0.0.0.0 f4.facebook-info.co
@@ -10782,8 +10781,6 @@
 0.0.0.0 ius.qualtrics.com
 0.0.0.0 ivey.az1.qualtrics.com
 0.0.0.0 ivid-cdn.adhigh.net
-0.0.0.0 ivid-f2-us-va.adhigh.net
-0.0.0.0 ivid-f4-us-va.adhigh.net
 0.0.0.0 ivid-px.adhigh.net
 0.0.0.0 ivivva.btttag.com
 0.0.0.0 ivnytx9tq2knro7stjdg6qpayw1mi1511341850.nuid.imrworldwide.com
@@ -18564,7 +18561,6 @@
 0.0.0.0 vashoot.rtb.adx1.com
 0.0.0.0 vashootssp.rtb.adx1.com
 0.0.0.0 vast-cdn.adhigh.net
-0.0.0.0 vast-f14-us-va.adhigh.net
 0.0.0.0 vast-pop-ams.mathtag.com
 0.0.0.0 vast-pop-ewr.mathtag.com
 0.0.0.0 vast-pop-ord.mathtag.com

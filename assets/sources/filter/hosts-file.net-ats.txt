@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
 # Last Converted - 20.02.2020
-# Total Domains - 31587
+# Total Domains - 31585
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -425,7 +425,6 @@
 0.0.0.0 a.collective-media.net.49419.9289.302br.net
 0.0.0.0 a.collective-media.net.49420.9289.302br.net
 0.0.0.0 a.collective-media.net.49421.9289.302br.net
-0.0.0.0 a.collective-media.net.49474.9362.302br.net
 0.0.0.0 a.collective-media.net.49478.9362.302br.net
 0.0.0.0 a.collective-media.net.49485.9362.302br.net
 0.0.0.0 a.collective-media.net.49490.9362.302br.net
@@ -13536,7 +13535,6 @@
 0.0.0.0 adclick.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.lv
-0.0.0.0 adclick.pk
 0.0.0.0 adclick.ru
 0.0.0.0 adclickafrica.com
 0.0.0.0 adclickint.go2cloud.org

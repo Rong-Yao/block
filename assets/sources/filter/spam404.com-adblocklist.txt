@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # Last Converted - 20.02.2020
-# Total Domains - 3307
+# Total Domains - 3308
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2087,6 +2087,7 @@
 0.0.0.0 merrygamble.com
 0.0.0.0 mesexclusivites.fr
 0.0.0.0 meveze.ru
+0.0.0.0 mew.company
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
 0.0.0.0 mgcheats.com

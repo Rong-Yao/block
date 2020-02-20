@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.051
 # Release: 051
-# Entries: 63,400
+# Entries: 63,401
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 06:13:37
+# Updated: Thu, 20 Feb 20 12:13:42
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -18524,6 +18524,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 icebeatuy.com
 0.0.0.0 icebns.com
 0.0.0.0 icelam.ru
+0.0.0.0 icemf.com
 0.0.0.0 iceroket.com
 0.0.0.0 icetraffic.com
 0.0.0.0 icfgedouno.com

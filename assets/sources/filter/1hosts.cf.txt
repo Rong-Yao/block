@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 20.02.2020
-# Total Domains - 59177
+# Total Domains - 59176
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3534,7 +3534,6 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.lt
 0.0.0.0 adclick.lv
-0.0.0.0 adclick.pk
 0.0.0.0 adclick.ru
 0.0.0.0 adclick.stuff.co.nz
 0.0.0.0 adclick.zkmobi.com

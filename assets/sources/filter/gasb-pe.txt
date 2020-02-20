@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 20.02.2020
-# Total Domains - 44515
+# Total Domains - 44514
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -35981,7 +35981,6 @@
 0.0.0.0 www.collcom.com
 0.0.0.0 www.collegepokerchampionship.com
 0.0.0.0 www.collegesucks.com
-0.0.0.0 www.colonize.com
 0.0.0.0 www.coloradoavalance.com
 0.0.0.0 www.coloradolotto.com
 0.0.0.0 www.colosseumcasino.com

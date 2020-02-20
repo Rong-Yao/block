@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 20.02.2020
-# Total Domains - 35962
+# Total Domains - 35961
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -14996,7 +14996,6 @@
 0.0.0.0 hungergame.com
 0.0.0.0 hunks-naked.com
 0.0.0.0 hunktoons.com
-0.0.0.0 hunshop.natureflower.com
 0.0.0.0 hunt4porn.com
 0.0.0.0 hunterstyle24.com
 0.0.0.0 huntmad.com

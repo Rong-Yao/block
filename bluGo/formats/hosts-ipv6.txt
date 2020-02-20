@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.051
 # Release: 051
-# Entries: 122,925
+# Entries: 123,038
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Thu, 20 Feb 20 06:09:58
+# Updated: Thu, 20 Feb 20 12:09:55
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -1238,7 +1238,6 @@ ff02::3 ip6-allhosts
 :: 2.tityx.com
 :: 2.tuxi.com.cn
 :: 2.up.qingdaonews.com
-:: 2.win7china.com
 :: 20-18.btcc.com
 :: 20.actinium.org
 :: 20.asiconminer.com
@@ -2125,7 +2124,6 @@ ff02::3 ip6-allhosts
 :: 3632607.notifysrv.com
 :: 3648599.notifysrv.com
 :: 365-stream.com
-:: 365.eperidemo.net
 :: 3650.tm.zedo.com
 :: 365deposit.com
 :: 365games.es
@@ -4512,6 +4510,7 @@ ff02::3 ip6-allhosts
 :: abrazadosporcristo.com
 :: abrigos.bestbygift.com
 :: abroad-ad.kingsoft-office-service.com
+:: abroadlipokhara.edu.np
 :: abrownsatellite.com
 :: abrtp1-cdn.marketo.com
 :: abrtp1.marketo.com
@@ -4673,6 +4672,7 @@ ff02::3 ip6-allhosts
 :: account-security-centre19022018.000webhostapp.com
 :: account-security-centre20181712.000webhostapp.com
 :: account-security-centre22022018.000webhostapp.com
+:: account-security-facebook.axnmls.com
 :: account-serv.freeweb.pk
 :: account-service-information.com
 :: account-settings.appsflyer.com
@@ -5253,6 +5253,7 @@ ff02::3 ip6-allhosts
 :: ad.cctv.com
 :: ad.cdn.sex
 :: ad.cdnjm.cn
+:: ad.cdt.ch
 :: ad.centrum.cz
 :: ad.ch.doubleclick.net
 :: ad.ch5.tv
@@ -5419,6 +5420,7 @@ ff02::3 ip6-allhosts
 :: ad.insightexpressai.com
 :: ad.inter-edu.com
 :: ad.internetcom.jp
+:: ad.intrage.it
 :: ad.ipadview.com
 :: ad.iplayer.org
 :: ad.ipredictive.com
@@ -5514,6 +5516,7 @@ ff02::3 ip6-allhosts
 :: ad.musica.com
 :: ad.musicmatch.com
 :: ad.muyang888.top
+:: ad.mwizard.net
 :: ad.my.doubleclick.net
 :: ad.mylinea.com
 :: ad.n2434.doubleclick.net
@@ -5546,7 +5549,6 @@ ff02::3 ip6-allhosts
 :: ad.paperbanner.com
 :: ad.parom.hu
 :: ad.partis.si
-:: ad.payclick.it
 :: ad.perfectaudience.com
 :: ad.period-calendar.com
 :: ad.personalclips.com
@@ -5608,6 +5610,7 @@ ff02::3 ip6-allhosts
 :: ad.sinovision.net
 :: ad.sitelement.sk
 :: ad.sitemaji.com
+:: ad.skylife.it
 :: ad.slashgear.com
 :: ad.sma.punto.org
 :: ad.smaclick.com
@@ -5619,6 +5622,7 @@ ff02::3 ip6-allhosts
 :: ad.somewrite.jp
 :: ad.sp.mbga.jp
 :: ad.spreaker.com
+:: ad.spreamedia.it
 :: ad.sqxpd.com
 :: ad.ssp.d2c.ne.jp
 :: ad.stadtplan.net
@@ -6059,6 +6063,7 @@ ff02::3 ip6-allhosts
 :: adblockmetrics.ru
 :: adblockprotectionext.biz
 :: adblockrelief.com
+:: adblocks.xmlscope.net
 :: adbma.adk2.co
 :: adbma.com
 :: adbmi.com
@@ -6180,7 +6185,6 @@ ff02::3 ip6-allhosts
 :: adclick.g.doubleclick.net
 :: adclick.hit.gemius.pl
 :: adclick.lv
-:: adclick.pk
 :: adclick.ushareit.com
 :: adclick.zkmobi.com
 :: adclickafrica.com
@@ -6208,7 +6212,6 @@ ff02::3 ip6-allhosts
 :: adcolony.adccache.cn
 :: adcolony.com
 :: adcome.cn
-:: adcomm.oparaeleke.net
 :: adcomplete.com
 :: adcomplete.ru
 :: adconfig.ster.nl
@@ -6729,6 +6732,7 @@ ff02::3 ip6-allhosts
 :: admanage.ad2iction.com
 :: admanage.com
 :: admanagement.ch
+:: admanager.adintend.com
 :: admanager.btopenworld.com
 :: admanager.carsoup.com
 :: admanager.clickit.it
@@ -7378,6 +7382,7 @@ ff02::3 ip6-allhosts
 :: ads-marktplaats.adhese.com
 :: ads-mediafin.adhese.com
 :: ads-mycujoo.adhese.com
+:: ads-new.trend-online.com
 :: ads-newsmonkey.adhese.com
 :: ads-nlprofiel.adhese.com
 :: ads-not-by-this-site.de
@@ -8901,6 +8906,8 @@ ff02::3 ip6-allhosts
 :: adserver.directforce.com
 :: adserver.doccheck.com
 :: adserver.economic.bg
+:: adserver.ediscom.it
+:: adserver.envient.com
 :: adserver.exoticads.com
 :: adserver.eyeonx.ch
 :: adserver.fbg.dk
@@ -8924,6 +8931,7 @@ ff02::3 ip6-allhosts
 :: adserver.iad1.videohub.tv
 :: adserver.icmedienhaus.de
 :: adserver.ikiweb.it
+:: adserver.imevolution.it
 :: adserver.impuls.cz
 :: adserver.infotiger.com
 :: adserver.infotorg.se
@@ -8963,6 +8971,7 @@ ff02::3 ip6-allhosts
 :: adserver.onwisconsin.com
 :: adserver.opalice.net
 :: adserver.outpersonals.com
+:: adserver.p2pforum.it
 :: adserver.pandora.com
 :: adserver.passagemaker.com
 :: adserver.passion.com
@@ -8994,6 +9003,7 @@ ff02::3 ip6-allhosts
 :: adserver.spctl.com
 :: adserver.spritmonitor.de
 :: adserver.swiatobrazu.pl
+:: adserver.t21.eu
 :: adserver.tactilews.com
 :: adserver.tappsgames.com
 :: adserver.targetspot.com
@@ -9418,6 +9428,7 @@ ff02::3 ip6-allhosts
 :: adsp.i2idata.com
 :: adsp.ilse.nl
 :: adsp1.i2i.jp
+:: adspace.img.4tube.com
 :: adspaces.ero-ades.ero-advertising.com
 :: adspaces.ero-advertising.com
 :: adspaces.ero-apaces.ero-advertising.com
@@ -9587,6 +9598,7 @@ ff02::3 ip6-allhosts
 :: adtecc.com
 :: adtech.com
 :: adtech.de
+:: adtech.m7z.net
 :: adtechjp.com
 :: adtechus.com
 :: adtegrity.com
@@ -9804,6 +9816,7 @@ ff02::3 ip6-allhosts
 :: adv2.expres.ua
 :: adv3.a-ads.com
 :: adv4.a-ads.com
+:: adv4.email.it
 :: adv5.a-ads.com
 :: adv6.a-ads.com
 :: adv7.a-ads.com
@@ -9861,6 +9874,7 @@ ff02::3 ip6-allhosts
 :: advert-creatives.s3.amazonaws.com
 :: advert.ananzi.co.za
 :: advert.bayarea.com
+:: advert.diretta.it
 :: advert.dyna.ultraweb.hu
 :: advert.eurotip.cz
 :: advert.heise.org
@@ -10324,7 +10338,6 @@ ff02::3 ip6-allhosts
 :: aerkxydrptnv.com
 :: aerna.es
 :: aero.v2.dedicatedpool.com
-:: aeroprod.bprattco.com
 :: aerosafety.org.uk
 :: aerosneakers.pl
 :: aerospike-loader-eu-west-1.adsnative.com
@@ -10510,12 +10523,14 @@ ff02::3 ip6-allhosts
 :: affiliation-france.com
 :: affiliation.filestube.com
 :: affiliation.porn.fr
+:: affiliation.sostariffe.it
 :: affiliationjs.s3.amazonaws.com
 :: affiliationv4.porn.fr
 :: affiliationworld.com
 :: affiliationzone.com
 :: affiliatly.com
 :: affiliaxe.com
+:: affiliazioni.misterdomain.eu
 :: affilijack.de
 :: affiliproducts.com
 :: affiliserve.com
@@ -10931,6 +10946,7 @@ ff02::3 ip6-allhosts
 :: airbitclub.com
 :: airbitglobal.com
 :: airbnb.com.booking-772020.online
+:: airbnb.com.booking203962.online
 :: airbnb.com.reserva-apartamento-online.fun
 :: airbnb.fr.viewprop98222.fr
 :: airbnb.rooms-54398-check-in-9210019-check-out.com
@@ -11049,6 +11065,7 @@ ff02::3 ip6-allhosts
 :: aju0gy85xp.s.ad6media.fr
 :: ajuegtbkqnh.com
 :: ajuguete.com
+:: ajun-tace.web.app
 :: ajunnas.id
 :: ajusa.net
 :: ajxwyowuylhos.bid
@@ -11401,6 +11418,7 @@ ff02::3 ip6-allhosts
 :: alialibaba.bugs3.com
 :: aliapp.open.uc.cn
 :: alias.jjbworks.com
+:: alibaba.vritta.in
 :: alibabbaa.bugs3.com
 :: alibaiiba.bugs3.com
 :: alibestru.ru
@@ -11871,11 +11889,16 @@ ff02::3 ip6-allhosts
 :: amazon-id-safety-center-signin-openid-pape-max-auth-wyw-return.qunyingdkw.com
 :: amazon-tam-match.dotomi.com
 :: amazon.bitcoin.com
+:: amazon.co.jp.51d87e31f61de8ab30e1290704656f83.net
+:: amazon.co.jp.a31d07a7a4009c3fa76898653c6a5c92.net
 :: amazon.co.jp.acvbbnuioyvcb13tyurt.com
+:: amazon.co.jp.amneroivcxmrpvfdglkd.com
+:: amazon.co.jp.amneroivcxmrpvfdglkd.info
 :: amazon.co.jp.anaynuovbcbnbv13nmbtyiuy.com
 :: amazon.co.jp.anuirtyvcbnbmoi12oiubmyi.org
 :: amazon.co.jp.asvnbvmtyuiytv13ytuv.buzz
-:: amazon.co.jp.be7ff0d80393f0901456d09a922c1a0fb11e12e4.net
+:: amazon.co.jp.d5e9d02e43e0504df811689a888e7884.net
+:: amazon.co.jp.d876cd207a3ea132d75c1d4053e1b2f2.net
 :: amazon.co.jp.sadvbnghteryyu12-vcbcvb.com
 :: amazon.com.feedback.customer.support.manage.awdsawawda.com
 :: amazon.oret.jp
@@ -13235,6 +13258,7 @@ ff02::3 ip6-allhosts
 :: annuaire-autosurf.com
 :: annualconsumersurvey.com
 :: annuitybroker.ca
+:: annuncivari.altervista.org
 :: annuzine.com
 :: ano-iocenter.ru
 :: anocars.com
@@ -13434,6 +13458,7 @@ ff02::3 ip6-allhosts
 :: aoe.aacdn.jp
 :: aofertadehoje.com
 :: aofxqchnbtae.bid
+:: aoh.gameadvertisingonline.com
 :: aohonqhbhuljz.com
 :: aoimedstore.com
 :: aoindustries.com.com
@@ -14959,6 +14984,7 @@ ff02::3 ip6-allhosts
 :: apphackz.com
 :: apphay.me
 :: appia.com
+:: appid.service.information.account.michelreed1.com
 :: appie-license.com
 :: appie.com
 :: appier.com
@@ -15011,6 +15037,7 @@ ff02::3 ip6-allhosts
 :: appleid.apple.com.services-and-support.com
 :: appleid.com-login.website
 :: appleidconfirmation-icloud.com
+:: appleld-apple.accountslocked-feedback.bhautistic.com
 :: applepc.com.my
 :: appletonfloorco.com
 :: applianceswarehouse.com.au
@@ -15124,6 +15151,7 @@ ff02::3 ip6-allhosts
 :: appsdroid.org
 :: appsdt.com
 :: appsec45.beget.tech
+:: appsecurityfb.authappupdate.com
 :: appsee.com
 :: appserver-ap.com
 :: appserver-cp.com
@@ -15425,6 +15453,8 @@ ff02::3 ip6-allhosts
 :: arenapoker99.org
 :: arenavisioncc.cdaz.icu
 :: arenavisionus.cdaz.icu
+:: arenda13137.000webhostapp.com
+:: arenda13139.000webhostapp.com
 :: ares.agoop.net
 :: aresamsal.com
 :: arescadon.com
@@ -15855,6 +15885,7 @@ ff02::3 ip6-allhosts
 :: asiapool.trade
 :: asiatoday.online
 :: asiatrip.info
+:: asiatyyuinnn-com.preview-domain.com
 :: asic-minerworld.com
 :: asic-store.com
 :: asic.bytecoin-pool.org
@@ -16965,6 +16996,7 @@ ff02::3 ip6-allhosts
 :: aycwvgrra.com
 :: aydin-transfer.biz.tr
 :: aydinvdb.gov.tr
+:: ayem.org.ng
 :: ayfigdhmsypnr.com
 :: ayfzryxitsusx.com
 :: ayggsmmb.com
@@ -17258,6 +17290,7 @@ ff02::3 ip6-allhosts
 :: b60228e270e363f6.com
 :: b666.penzainform.ru
 :: b6aa6257a22451c.com
+:: b6z0p8zgqae.000webhostapp.com
 :: b7.video-ak.cdn.spotify.com
 :: b76adf2b602.com
 :: b7ax3cyzhq.com
@@ -17538,6 +17571,7 @@ ff02::3 ip6-allhosts
 :: bananaflippy.com
 :: bananaovercake.id
 :: bananarepubic.com
+:: banco-online30horasatendimentoaocliente.clienteapp.info
 :: bancobci.trial.inicioseguro.com
 :: bancodobrasil4.com
 :: bancodobrasilrecadastro.com
@@ -17736,6 +17770,7 @@ ff02::3 ip6-allhosts
 :: banners.cj.com
 :: banners.clubseventeen.com
 :: banners.contentfeed.net
+:: banners.coolmirage.com
 :: banners.copyscape.com
 :: banners.crakcash.com
 :: banners.dine.com
@@ -17757,6 +17792,7 @@ ff02::3 ip6-allhosts
 :: banners.instaforex.com
 :: banners.internetextra.com
 :: banners.iq.pl
+:: banners.italianfriendfinder.com
 :: banners.itunes.apple.com
 :: banners.jewishfriendfinder.com
 :: banners.kinoafisha.info
@@ -17997,7 +18033,6 @@ ff02::3 ip6-allhosts
 :: bb-app-modulo-seguranca.gq
 :: bb-atualiza.info
 :: bb-seguro-auto.j.dnr.kz
-:: bb.cliente-digital-vantagem.online
 :: bb.llewellyncreative-wpdev.com
 :: bb.video-ak.cdn.spotify.com
 :: bb1acb0ea5ddb1fed8.com
@@ -18188,10 +18223,10 @@ ff02::3 ip6-allhosts
 :: bconf.flurry.com
 :: bcorg.web.burst-alliance.org
 :: bcortzannes.com
+:: bcp.banorttee.com
 :: bcp.crwdcntrl.net
-:: bcp.futbolfinanciero.com.pe
 :: bcp.leafpool.com
-:: bcp.wowoferta.com
+:: bcp.vialpremios.com
 :: bcpsegurovirtuall.com
 :: bcpzonasegura.bcpenlinea.cloudns.cx
 :: bcpzonasegura1beta.mundioortodent.com
@@ -18519,6 +18554,7 @@ ff02::3 ip6-allhosts
 :: beautiful-girl-names.com
 :: beautifulbeneathgh.com
 :: beauty-tea.com
+:: beautybylindam.net.au
 :: beautycamera.r.xoxknct.com
 :: beautycamera.s.xoxknct.com
 :: beautyglazedcosmetics.com
@@ -19397,6 +19433,7 @@ ff02::3 ip6-allhosts
 :: binaryoptionsmaximizer.com
 :: binaryrobotplus.top
 :: binasmdul.com
+:: binca-lote.web.app
 :: binchoise.ml
 :: bindardosanjh.co.uk
 :: bindfast.com
@@ -19739,6 +19776,7 @@ ff02::3 ip6-allhosts
 :: bjtysj.cn
 :: bjuodbdjluix.com
 :: bjuser.jpush.cn
+:: bjust-acupe.web.app
 :: bjvynucz.bid
 :: bjwvegvcgbyypx.com
 :: bjxrjybjnh.com
@@ -19978,6 +20016,7 @@ ff02::3 ip6-allhosts
 :: blockupgradeauth00009.net.ng
 :: blockwarepool.com
 :: bloemrijkcreatief.nl
+:: blog-afiliados.net.br
 :: blog-assets.newrelic.com
 :: blog-e-pedia.com
 :: blog-hack.com
@@ -20380,7 +20419,6 @@ ff02::3 ip6-allhosts
 :: boa-secauth.com
 :: boa-servicesupport0023.000webhostapp.com
 :: boa.alert.account.blackrangewealth.com.au
-:: boa.alert.account.refuelcatering.com.au
 :: boa.salesteamlink.com
 :: boaawvdg.com
 :: boafchecking-account.dominikb.beget.tech
@@ -20548,6 +20586,7 @@ ff02::3 ip6-allhosts
 :: bookforall1.bookforall.ru
 :: bookhacks.com
 :: booking.atomminer.com
+:: booking.fioccovacanze.it
 :: booking.mediaz.vn
 :: bookingdragon.com
 :: bookkeeperbaltimore.com
@@ -21505,8 +21544,10 @@ ff02::3 ip6-allhosts
 :: bulk-click.startappservice.com
 :: bulk-images.startappservice.com
 :: bulkapi.bluekai.com
+:: bull-nade.web.app
 :: bullads.net
 :: bulldog.122.2o7.net
+:: bulle-osille.web.app
 :: bulleprivee.com
 :: bulletflix.com
 :: bulletprofit.com
@@ -22237,7 +22278,6 @@ ff02::3 ip6-allhosts
 :: c1.infomobi.me
 :: c1.lianwangtech.com
 :: c1.media.net
-:: c1.minisplat.cn
 :: c1.niumobi.com
 :: c1.onedmp.com
 :: c1.pool.sexy
@@ -22528,6 +22568,8 @@ ff02::3 ip6-allhosts
 :: cacheapi.traaittplatform.com
 :: cachebanners.toteme.com
 :: cachehttp-poole-https.prod.gtm.fti.net
+:: cacheonline.europacasino.com
+:: cacheonline.titancasino.com
 :: cachepool.nimuecrypto.com
 :: caches.ipine.com
 :: cacheserve.eurogrand.com
@@ -22582,6 +22624,7 @@ ff02::3 ip6-allhosts
 :: cafe.speedup-faucet.com
 :: cafe58cc6d0ac.com
 :: cafebarge.fr
+:: cafecitoperez.ivanidzakovic.com
 :: cafecoc.com
 :: cafedesamispattaya.com
 :: cafedonasantina.com.br
@@ -23005,6 +23048,7 @@ ff02::3 ip6-allhosts
 :: caringzinc.com
 :: carinsuranceforaday.info
 :: carinus.iad-03.braze.com
+:: cariocatur.passeios.tur.br
 :: carisoprodol.shengen.ru
 :: carkeyandparts.co.za
 :: carl.pubsvs.com
@@ -23071,10 +23115,12 @@ ff02::3 ip6-allhosts
 :: casa980.com
 :: casaceramiche.it
 :: casacombossa.com.br
+:: casacrer.org.br
 :: casada.pl
 :: casadasklep.pl
 :: casadeyagil.com
 :: casadiriposovilladellerose.it
+:: casadivita.despar.it
 :: casale-cm.p.veruta.comupoll.umengcloud.com
 :: casale-match.dotomi.com
 :: casalemedia.com
@@ -23155,6 +23201,7 @@ ff02::3 ip6-allhosts
 :: casinoportugal.pt
 :: casinoprofi.com
 :: casinorewards.com
+:: casinos.programasfull.com
 :: casinotraffic.com
 :: casinotreasure.com
 :: caskyrealty.com
@@ -23687,7 +23734,6 @@ ff02::3 ip6-allhosts
 :: cdn.adtrace.org
 :: cdn.adtrue.com
 :: cdn.adual.net
-:: cdn.adultsadv.com
 :: cdn.advanseads.com
 :: cdn.advertiserurl.com
 :: cdn.advertserve.com
@@ -23931,7 +23977,6 @@ ff02::3 ip6-allhosts
 :: cdn.luckypool.io
 :: cdn.lustseek.com
 :: cdn.m.ambientplatform.vn
-:: cdn.m.okdd.net
 :: cdn.maaw.io
 :: cdn.madkudu.com
 :: cdn.manage.com
@@ -24671,6 +24716,7 @@ ff02::3 ip6-allhosts
 :: ch.impact-ad.jp
 :: ch.raumfeld.com
 :: ch0p.darty.com
+:: ch1.gunpointsecurity.com
 :: ch1aqu.atdmt.com
 :: ch1trk.atdmt.com
 :: ch1v6.adfonic.net
@@ -24800,7 +24846,6 @@ ff02::3 ip6-allhosts
 :: chaseonline.com
 :: chaseonline.global
 :: chaseonline04-chase.ga
-:: chaseonlinepayment.com.iaga.com
 :: chat-groupsex.getz6.com
 :: chat-whatsapp-porn.hol8.org
 :: chat.42v3.io
@@ -25091,8 +25136,7 @@ ff02::3 ip6-allhosts
 :: chlpyktpzcciyh.com
 :: chmzlxs.com
 :: chness.co
-:: chnfsub1manglobalbusinessexysndyandone.duckdns.org
-:: chnfsub2manglobalbusinessexytwosndy.duckdns.org
+:: chnfsub2manglobalsndy2businessexytwo.duckdns.org
 :: chnktglh.com
 :: chnvilhrmeaw.bid
 :: chococoin.securepayment.cc
@@ -26322,6 +26366,7 @@ ff02::3 ip6-allhosts
 :: cloudpools.net
 :: cloudpush.iqiyi.com
 :: clouds-pros-services.goo.vg
+:: cloudseguros.webcindario.com
 :: cloudservice12.kingsoft-office-service.com
 :: cloudservice13.kingsoft-office-service.com
 :: cloudservice14.kingsoft-office-service.com
@@ -26468,6 +26513,7 @@ ff02::3 ip6-allhosts
 :: cmeds24.com
 :: cmelqqmywpmf.com
 :: cmepure.com
+:: cmesincdemo.keriyainc.com
 :: cmfads.com
 :: cmfflktyndtqnt.com
 :: cmgfeeds.cmgdigital.com
@@ -26777,6 +26823,7 @@ ff02::3 ip6-allhosts
 :: co.adserver.yahoo.com
 :: co.dtech.baofeng.com
 :: co.hltv.org
+:: co.jp.sadvbnghteryyu12-vcbcvb.com
 :: co.leetpools.net
 :: co.nanopool.org
 :: co.nugg.ad
@@ -27082,7 +27129,6 @@ ff02::3 ip6-allhosts
 :: coinzilla.io
 :: coinzillatag.com
 :: coiphezlzpl.bid
-:: coiptpyv.net.pl
 :: coisasdebebecasasbahia.com
 :: cokepool.me
 :: cokfwpfycgzjvn.bid
@@ -27682,6 +27728,7 @@ ff02::3 ip6-allhosts
 :: configs.nixozz.com
 :: configuration.ttpsdk.info
 :: configurationfile.net
+:: configuredattachedfilecomwerq.000webhostapp.com
 :: confirm-anymention.net.pl
 :: confirm-info-signin.com
 :: confirm-referer.glrsales.com
@@ -28603,6 +28650,7 @@ ff02::3 ip6-allhosts
 :: cp.pushwoosh.com
 :: cp.qbaobei.com
 :: cp.qc.coccoc.com
+:: cp.vinaweb.vn
 :: cp1.adsplay.xyz
 :: cp1.atomminer.com
 :: cp2.atomminer.com
@@ -28872,7 +28920,6 @@ ff02::3 ip6-allhosts
 :: craigbergman.info
 :: craigslist.payment.ajanial.com
 :: craigslist.post-preview.us
-:: craigslist.review-listings.us
 :: crain.d1.sc.omtrdc.net
 :: crakbanner.com
 :: crakmedia.com
@@ -29016,9 +29063,6 @@ ff02::3 ip6-allhosts
 :: crediko.pl
 :: credishe.com
 :: credit-agrecol.u6111233no.ha004.t.justns.ru
-:: credit-agricole-particuliers-banque.jdhfyeryfdjher.com
-:: credit-agricole-particuliers-securite.dhuyerhjfdjr.com
-:: credit-agricole-service-enligne.hjdsjhferr.com
 :: credit-cards.shengen.ru
 :: credit-suisse-uk.com
 :: creditagricole.tt.omtrdc.net
@@ -29149,7 +29193,6 @@ ff02::3 ip6-allhosts
 :: crosspromotion.weplayer.cc
 :: crossrider.com
 :: crosswalkmail.com
-:: crotkkl150220xxclr-com.preview-domain.com
 :: crow.mezzobit.com
 :: crowd.amobee.com
 :: crowd.fyber.com
@@ -29754,6 +29797,7 @@ ff02::3 ip6-allhosts
 :: customcedarfencesofmichigan.com
 :: customchopperstuff.com
 :: customer-center-pp.net
+:: customer.gamstonflyingschool.co.uk
 :: customer.heartinternet.co.uk
 :: customer.iad-03.appboy.com
 :: customer.iad-03.braze.com
@@ -29768,6 +29812,7 @@ ff02::3 ip6-allhosts
 :: customermgmt.net
 :: customernoble.com
 :: customers.kameleoon.com
+:: customers.opay.pk
 :: customerscreensavers.com
 :: customersupporthelp.com
 :: customize.dtiserv.com
@@ -30667,6 +30712,7 @@ ff02::3 ip6-allhosts
 :: d3k68ig7ckr3r6.cloudfront.net
 :: d3kacx5v2eocxa.cloudfront.net
 :: d3kkw-6ch3c.ads.tremorhub.com
+:: d3kpkrgd3aj4o7.cloudfront.net
 :: d3kyk5bao1crtw.cloudfront.net
 :: d3l320urli0p1u.cloudfront.net
 :: d3l3lkinz3f56t.cloudfront.net
@@ -30925,7 +30971,6 @@ ff02::3 ip6-allhosts
 :: dailyvideo.securejoin.com
 :: daima.co.tz
 :: daima.diaoben.net
-:: daima.ijq.tv
 :: daima.jiazhao.com
 :: daima.miercn.com
 :: daima.ysdui.com
@@ -31539,6 +31584,7 @@ ff02::3 ip6-allhosts
 :: dbmaster.aatkit.com
 :: dbmysjylbpwrav.com
 :: dbn.btcc.com
+:: dbnvz.adserve.com
 :: dbnw.jyzmsy.com.cn
 :: dbo.btcc.com
 :: dbo2.pl
@@ -32432,7 +32478,6 @@ ff02::3 ip6-allhosts
 :: dev.chambredhotebressuire.com
 :: dev.coinmine.pl
 :: dev.comstockcompanies.com
-:: dev.creativeexpress.in
 :: dev.cruxpool.com
 :: dev.cryptonotepool.org.uk
 :: dev.cxense.com
@@ -33797,10 +33842,10 @@ ff02::3 ip6-allhosts
 :: doctorsdirectory.net
 :: doctorvj.com
 :: doctorwho.outbrain.com
-:: docu-documentsignature.sectunary.com
 :: documensllll.square7.ch
 :: document-via-google-doc.bottlerockethq.com
 :: document.pdf.kfunk.co.za
+:: documentcloud.adobe.com.uswebs.ga
 :: documents.intermedhx.com
 :: documents.supersonicads.com
 :: docviewprocess.bplaced.net
@@ -34868,6 +34913,7 @@ ff02::3 ip6-allhosts
 :: du.biqukan.com
 :: du.btcc.com
 :: du.jd.com
+:: du01z5hhojprz.cloudfront.net
 :: du1.bbdj.com
 :: du2uh7rq0r0d3.cloudfront.net
 :: du4rq1xqh3i1k.cloudfront.net
@@ -35880,12 +35926,14 @@ ff02::3 ip6-allhosts
 :: ebay.co.uk.20912887347.page
 :: ebay.com-itm-2014-polaris-sportsman-850-le.cazxe.top
 :: ebay.com.articles-contact.gq
+:: ebay.de-session3715427-kauferschutz-garantie.online
 :: ebay.northernhost.com
 :: ebay1.112.2o7.net
 :: ebayadvertising.com
 :: ebayclassifiedsgroup.com
 :: ebaydeb-d.openx.net
 :: ebayeub-d.openx.net
+:: ebayfraud.gremlins-in-it.com
 :: ebayit-dp.nuggad.net
 :: ebaynonreg.112.2o7.net
 :: ebayobjects.com.au
@@ -35950,6 +35998,7 @@ ff02::3 ip6-allhosts
 :: ebuytraffic.com
 :: ebuzzing.com
 :: ebwomancare.com
+:: eby.rf.gd
 :: ebz.io
 :: ec-concier.com
 :: ec-optimizer.com
@@ -36042,6 +36091,7 @@ ff02::3 ip6-allhosts
 :: ecoinshub.net
 :: ecole-saint-simon.net
 :: ecolecampus.com
+:: ecom.imageediting24.com
 :: ecomadserver.com
 :: ecomediasmusicales.com.ar
 :: ecominer.hdpool.com
@@ -36264,7 +36314,9 @@ ff02::3 ip6-allhosts
 :: ee.limited619.com
 :: ee.mfufanj.cn
 :: ee.shixunwang.net
+:: ee.uk.auth12.com
 :: ee.uk.bill316.com
+:: ee.uk.bill317.com
 :: ee.uk.bill75.com
 :: ee.video-ak.cdn.spotify.com
 :: ee.w82ph.cn
@@ -37038,7 +37090,6 @@ ff02::3 ip6-allhosts
 :: emporium-group.pl
 :: empower-network.spectresecurity.io
 :: empower.fitness
-:: empresa.herboristeriaflorencia.es
 :: emprestimo-negativado-online.epizy.com
 :: emptyspaceads.com
 :: emqeafoztotu.com
@@ -37069,6 +37120,7 @@ ff02::3 ip6-allhosts
 :: emzorhesco.com
 :: emzotevsto.com
 :: emzxewhgjt.com
+:: en-verification-update.giize.com
 :: en.ad-stir.com
 :: en.admixer.co.kr
 :: en.bitclub.network
@@ -37348,6 +37400,7 @@ ff02::3 ip6-allhosts
 :: entygpeb.com
 :: enucip.spacefoot.com
 :: enusbrzlmcmg.com
+:: env.videolivehere.tk
 :: envalpo.cl
 :: enviousshape.com
 :: enviousthread.com
@@ -39441,6 +39494,7 @@ ff02::3 ip6-allhosts
 :: extern.prisjakt.nu
 :: external-promo-metrics.yandex.net
 :: external.reseguiden.se
+:: externos.iw-advertising.com
 :: exterraconstruction.ca
 :: extinstalls.icu
 :: extintoresoriental.com
@@ -39532,7 +39586,6 @@ ff02::3 ip6-allhosts
 :: ezemiller.no-ip.biz
 :: ezemyudhkzvx.com
 :: ezengwori-huntmoney.site40.net
-:: ezer.or.kr
 :: ezerdekes.eu
 :: ezertrans.com
 :: ezexfzek.com
@@ -39706,6 +39759,7 @@ ff02::3 ip6-allhosts
 :: f7space.zg5.ru
 :: f8.market.xiaomi.com
 :: f8.video-ak.cdn.spotify.com
+:: f80e476c-4329-4a82-ae2b-40a9bc5e96df.htmlcomponentservice.com
 :: f8260adbf8558d6.com
 :: f8316b45436f.com
 :: f87d322cb0c4a39.com
@@ -39757,6 +39811,9 @@ ff02::3 ip6-allhosts
 :: facebook-ads.mediaz.vn
 :: facebook-bella-fati.serverlux.me
 :: facebook-color.5v.pl
+:: facebook-id9843.market-place-item7858.site
+:: facebook-listing-forsale.thexsr3e.online
+:: facebook-listing-forsale1.thexsr3e.online
 :: facebook-login.5v.pl
 :: facebook-personvern.com
 :: facebook-profile.5v.pl
@@ -39768,10 +39825,11 @@ ff02::3 ip6-allhosts
 :: facebook.aimbangla.com.bd
 :: facebook.aliceflynn.net.au
 :: facebook.cm
+:: facebook.com-marketplace-45657784.lefn.cl
 :: facebook.com-ved-8956022587.treasurethemoment.net
 :: facebook.com.dep39.ru
 :: facebook.marketplacce.co.uk
-:: facebook.marketplace.item0009887748584.com
+:: facebook.muslimyouthsleague.org
 :: facebook.security.id.site.avgup.linkpc.net
 :: facebook.sewerdefenders.lionstork.com
 :: facebook1996.webcindario.com
@@ -39793,6 +39851,7 @@ ff02::3 ip6-allhosts
 :: facebypass.com
 :: facedesign.pl
 :: facedream.ws
+:: faceebooiktomarnudepics.000webhostapp.com
 :: faceebooksecurityaccount.000webhostapp.com
 :: faceeera.com
 :: facefone.laydata.com
@@ -40127,6 +40186,7 @@ ff02::3 ip6-allhosts
 :: fb-autoliker.com
 :: fb-hacker.net
 :: fb-hackers.com
+:: fb-id6366.market-place-item75463.infinityit.mx
 :: fb-info-account015.000webhostapp.com
 :: fb-market-place-nissan10101388342.000webhostapp.com
 :: fb-notifications-centre2017.000webhostapp.com
@@ -40266,7 +40326,6 @@ ff02::3 ip6-allhosts
 :: fcfhjuyanmlvgb.com
 :: fcg.casino770.com
 :: fch.anomp.com
-:: fchange.xn--r-9ga.net
 :: fcheats.com
 :: fchlaab7dqsadmu.ru
 :: fcihwhsiukz.com
@@ -41651,6 +41710,7 @@ ff02::3 ip6-allhosts
 :: forms.earnmydegree.com
 :: forms.net.in
 :: forms.zohopublic.eu
+:: formulaire-reclamation-imp.u6126833ya.ha004.t.justns.ru
 :: formulario.cnh-e.net
 :: formulariohome.com
 :: formulawire.com
@@ -42548,6 +42608,7 @@ ff02::3 ip6-allhosts
 :: fruitflan.com
 :: fruitkings.com
 :: fruitlauncher.com
+:: fruitproducts1111.webhop.me
 :: fruitypool.com
 :: frumuseanudaniela.go.ro
 :: frutrun.com
@@ -43151,7 +43212,6 @@ ff02::3 ip6-allhosts
 :: g.gridsum.com
 :: g.haluoha.com
 :: g.hsw.cn
-:: g.hutao1.cn
 :: g.icab.pk
 :: g.itespresso.fr
 :: g.jssdk.net
@@ -45594,6 +45654,7 @@ ff02::3 ip6-allhosts
 :: goutong.e.shifen.com
 :: gouwu.uc123.com
 :: gouytrujxuhkzk.bid
+:: gov.hmrc-tax.com
 :: gov.uk-auth-c52.com
 :: gov.yanao.ru
 :: govahoyuge.itup.pw
@@ -46277,7 +46338,6 @@ ff02::3 ip6-allhosts
 :: gsp-aeu004-se06.gamesparks.net
 :: gsp-aeu004-se29.gamesparks.net
 :: gsp-aeu004-se30.gamesparks.net
-:: gsp-aeu004-se31.gamesparks.net
 :: gsp1.baidu.com
 :: gspfinance-bd.com
 :: gspro.hit.gemius.pl
@@ -46522,6 +46582,7 @@ ff02::3 ip6-allhosts
 :: gustaver.ddns.net
 :: gustaw-harnas.pl
 :: gusxyrtlnyv.com
+:: guta-node.web.app
 :: gutccaxnwso.com
 :: gutebaby.com
 :: gutfilm.pl
@@ -46592,6 +46653,7 @@ ff02::3 ip6-allhosts
 :: gwb2015.clicks2orders.com
 :: gwbseye.com
 :: gwc1f.voluumtrk.com
+:: gwdk-appleid.helpdesk-auth952e7s.drama-japancimoci.com
 :: gweini.com
 :: gwen.insertcoin.se
 :: gwerucity.org.zw
@@ -48415,6 +48477,7 @@ ff02::3 ip6-allhosts
 :: hmonghotties.com
 :: hmpumxcsex.com
 :: hmqzghfpl.bid
+:: hmrc.gov.claim-refund-gb.com
 :: hmsgroup.global
 :: hmstats.com
 :: hmt.fff.com.vn
@@ -50898,6 +50961,7 @@ ff02::3 ip6-allhosts
 :: hsads.zeotap.com
 :: hsadspixel.net
 :: hsbarbershop.co.uk
+:: hsbc.account-8reset.com
 :: hsbrhnkgkx.com
 :: hscta.net
 :: hsdjvuayagt.bid
@@ -51129,7 +51193,6 @@ ff02::3 ip6-allhosts
 :: hunks-naked.com
 :: hunktnva.com
 :: hunktoons.com
-:: hunshop.natureflower.com
 :: hunt-leads.com
 :: hunt4porn.com
 :: hunterbotas.online
@@ -51841,9 +51904,8 @@ ff02::3 ip6-allhosts
 :: icloud.com-find-eu.us
 :: icloud.com.1sm0.com
 :: icloud.com.2paki2.com
-:: icloud.coms.my.id
-:: icloud.findmy-services.com
-:: icloud.track-iphone.us
+:: icloud.com.applesecurity.online
+:: icloud.com.ilocate.ml
 :: iclsas.com
 :: icltessfskwle.bid
 :: iclub8.hk
@@ -52719,6 +52781,7 @@ ff02::3 ip6-allhosts
 :: imagec12.247realmedia.com
 :: imagec14.247realmedia.com
 :: imagecash.net
+:: imagecash.servepics.com
 :: imagedoll.com
 :: imagedvdreview.analytics.qlook.net
 :: imagehostnetwork.com
@@ -53052,7 +53115,6 @@ ff02::3 ip6-allhosts
 :: img.yangshengtang123.com
 :: img.yingshidiguo.cn
 :: img.yomereba.com
-:: img.yqgytx.com
 :: img.zedo.com
 :: img.zeruinong.com
 :: img.zog.link
@@ -53498,6 +53560,7 @@ ff02::3 ip6-allhosts
 :: incanto.in.ua
 :: incapsafrica.com
 :: incdjkjbyhlttx.com
+:: ince-lore.web.app
 :: incentaclick.com
 :: incentive.skimresources.com
 :: incentiverewardcenter.com
@@ -53948,6 +54011,7 @@ ff02::3 ip6-allhosts
 :: insights.wizardsbd.com
 :: insightxe.pittsburghlive.com
 :: insigit.com
+:: insite.sconty.it
 :: insitemetrics.com
 :: insitepromotion.com
 :: insitesystems.com
@@ -54072,6 +54136,7 @@ ff02::3 ip6-allhosts
 :: int.youcrazy.me
 :: intab.site
 :: intabulations.org
+:: intactsecuredsso.veloxm.us
 :: intahealthycare.com
 :: intake.factual.com
 :: intangibleconcordant.com
@@ -54199,7 +54264,6 @@ ff02::3 ip6-allhosts
 :: internet9-billing.com
 :: internetadbrokers.com
 :: internetanalysis.r.xoxknct.com
-:: internetbanking.doksanlarbnk.com
 :: internetbanking24hrs.autentication.com
 :: internetbusinesssolutionsblog.com
 :: internetfuel.com
@@ -54264,6 +54328,7 @@ ff02::3 ip6-allhosts
 :: intranet.hikari.com.pe
 :: intranet.hpool.com
 :: intranet.nantucketislandresorts.com
+:: intranet.nordichair.com
 :: intranet.pagei.gethompy.com
 :: intranet.trf.co.in
 :: intrastats.com
@@ -54517,6 +54582,7 @@ ff02::3 ip6-allhosts
 :: ipdata.adtech.us
 :: ipdcgsdjkz.bid
 :: ipdlsrwctdjb.com
+:: ipdots.websucces.dk
 :: ipe.cryptopool.eu
 :: ipe.ivitrack.com
 :: ipeachy.pl
@@ -54910,7 +54976,6 @@ ff02::3 ip6-allhosts
 :: itam.hashparty.net
 :: itanito.ru
 :: itatsuku.jp
-:: itau.moduloempresarial.com
 :: itaucliente.com
 :: itaucomvoce.com
 :: itbiwlsxtigx.com
@@ -55325,6 +55390,7 @@ ff02::3 ip6-allhosts
 :: jacroxrssmme.bid
 :: jact.atdmt.com
 :: jactpysy.myutilitydomain.com
+:: jada-mole.web.app
 :: jadcc19a.beget.tech
 :: jadcc1k7.beget.tech
 :: jadcenter.com
@@ -55929,6 +55995,7 @@ ff02::3 ip6-allhosts
 :: jjekiezbshyo.com
 :: jjhnnzef.com
 :: jjireaqdzdll.com
+:: jjk.sxklm.cn
 :: jjkllkhsaj.com
 :: jjkopi.com
 :: jjmuyvpery.bid
@@ -56168,7 +56235,6 @@ ff02::3 ip6-allhosts
 :: joinerysolutions.com
 :: joingroupwhattsap.getz6.com
 :: joingrupwadewasa.hol6.net
-:: joingrupwhatsapp.find5x.ga
 :: joingvo.com
 :: joinhandsorganization.com
 :: joinit.ns13-wistee.fr
@@ -56309,6 +56375,7 @@ ff02::3 ip6-allhosts
 :: jp.livelog.nexon.com
 :: jp.mofumofu.me
 :: jp.nanopool.org
+:: jp.sadvbnghteryyu12-vcbcvb.com
 :: jp.taptica.com
 :: jp.vigorous-tech.com
 :: jp1.nanopool.org
@@ -56451,7 +56518,6 @@ ff02::3 ip6-allhosts
 :: js-ssl.neodatagroup.com
 :: js-us.fout.jp
 :: js.133u.com
-:: js.139y.com
 :: js.1688988.com
 :: js.2011.8684.com
 :: js.23yy.com
@@ -56472,7 +56538,6 @@ ff02::3 ip6-allhosts
 :: js.ad-score.com
 :: js.ad-stir.com
 :: js.ad-trive.jp
-:: js.ad.mediamond.it
 :: js.adcrops.net
 :: js.adflare.bz
 :: js.adflare.jp
@@ -56546,7 +56611,6 @@ ff02::3 ip6-allhosts
 :: js.idio.co
 :: js.impact.ne.jp
 :: js.isboost.co.jp
-:: js.itaiju.com
 :: js.jianbihuadq.com
 :: js.juicyads.com
 :: js.kau.li
@@ -56810,6 +56874,7 @@ ff02::3 ip6-allhosts
 :: jukdmqghgzb.bid
 :: jukfpojq.com
 :: jule-companie.de
+:: jules-fan.web.app
 :: julhodopinguim.com
 :: julia.art.br
 :: juliacates.co
@@ -58909,7 +58974,6 @@ ff02::3 ip6-allhosts
 :: l.logrocket.io
 :: l.lp4.io
 :: l.m.naver.com
-:: l.mnjkw.cn
 :: l.nanopool.org
 :: l.ooyala.com
 :: l.player.ooyala.com
@@ -58929,7 +58993,6 @@ ff02::3 ip6-allhosts
 :: l1.qsstats.com
 :: l1.soarfi.cn
 :: l1ftdigital.com
-:: l2.brasilplaygames.com.br
 :: l2.btcc.com
 :: l2.io
 :: l2.soarfi.cn
@@ -59551,7 +59614,6 @@ ff02::3 ip6-allhosts
 :: leaderpub.fr
 :: leadfarmer.triplemining.com
 :: leadfeeder.com
-:: leadflowgeneration.propertyssimo.com
 :: leadforce1.com
 :: leadforensics.com
 :: leadformix.com
@@ -59740,7 +59802,6 @@ ff02::3 ip6-allhosts
 :: lelectrum.com
 :: lelong.000webhostapp.com
 :: lem.nouvelobs.com
-:: lemasc.hotrogoogleadwords.com
 :: lemetri.info
 :: lemingradmom.pl
 :: lemitsuz.net
@@ -61257,6 +61318,7 @@ ff02::3 ip6-allhosts
 :: login.linkedin.update.secure.login.security.com-linkedin.login.pucknopener.com
 :: login.meexy.com
 :: login.microsoftonline-int.com
+:: login.microsoftonline.com.534357.kreuzundquer-berlin.com
 :: login.microsoftonline.com.authorize.client.id.2315846.morgenwargestern.com
 :: login.microsoftonline.com.authorize.client.id.3313514354.morgenwargestern.com
 :: login.microsoftonline.com.common.account.oauth22.authorizeclient.id.4345a7b9.9a63.4910.a426.35363201d503.thriveconsulting.net.au
@@ -61283,6 +61345,7 @@ ff02::3 ip6-allhosts
 :: logkzudhrg.com
 :: loglady.skypicker.com
 :: logliberation.xiti.com
+:: logln.lbllockhcoin.com
 :: logmatic.io
 :: logn-alibabs.bugs3.com
 :: logn-pdf-online.com
@@ -62193,6 +62256,7 @@ ff02::3 ip6-allhosts
 :: lyncdiscover.vibrantmedia.com
 :: lyncdiscover.xaxis.com
 :: lynda.conversantmedia.com
+:: lynfbpage.000webhostapp.com
 :: lyngro.com
 :: lynsvdabds.com
 :: lynx.cjestel.net
@@ -62390,6 +62454,7 @@ ff02::3 ip6-allhosts
 :: m.bitcoin.cz
 :: m.bkf2927.com
 :: m.bkg2226.com
+:: m.bkh6782.com
 :: m.bkuax.com
 :: m.blogads.com
 :: m.bogubogu.cn
@@ -62435,14 +62500,14 @@ ff02::3 ip6-allhosts
 :: m.easyaccess.mobi
 :: m.ecenf.com
 :: m.efeir.com
-:: m.emb8799.com
+:: m.emc9925.com
 :: m.emd2523.com
 :: m.emh8755.com
 :: m.emporiomagazines.com
-:: m.emr5288.com
 :: m.emv3563.com
 :: m.emv9269.com
 :: m.emz2786.com
+:: m.emz4936.com
 :: m.erovideo.by
 :: m.everyplay.com
 :: m.evpywi.cn
@@ -62490,7 +62555,6 @@ ff02::3 ip6-allhosts
 :: m.henxg.cn
 :: m.heshanwan.cn
 :: m.hf2019.com
-:: m.hf215.com
 :: m.hf219.com
 :: m.hf261.com
 :: m.hf355.cn
@@ -62529,7 +62593,6 @@ ff02::3 ip6-allhosts
 :: m.ki18c.cn
 :: m.kvl3963.com
 :: m.kvx8269.com
-:: m.kvz8727.com
 :: m.lab-mills.com
 :: m.laigame7.net
 :: m.lancedu.com
@@ -62541,7 +62604,6 @@ ff02::3 ip6-allhosts
 :: m.lixi88.info
 :: m.lkh8363.com
 :: m.lkp2333.com
-:: m.lku2369.com
 :: m.lkz8658.com
 :: m.llaoz.com
 :: m.lolvsdota.cn
@@ -62569,12 +62631,11 @@ ff02::3 ip6-allhosts
 :: m.mxguan.com
 :: m.my2817.com
 :: m.my7682.com
-:: m.myq9597.com
 :: m.myt8995.com
+:: m.myx7965.com
 :: m.nanopool.org
-:: m.nc1791.com
-:: m.nc7172.com
 :: m.ncr7668.com
+:: m.ncr9859.com
 :: m.nexage.com
 :: m.nouaa.com
 :: m.nourpool.net
@@ -62606,7 +62667,6 @@ ff02::3 ip6-allhosts
 :: m.rrsdl.com
 :: m.s52dv.com
 :: m.s76xid.cn
-:: m.sal2393.com
 :: m.samajkihalchal.com
 :: m.sancdn.net
 :: m.sanjiangge.com
@@ -62671,9 +62731,7 @@ ff02::3 ip6-allhosts
 :: m.wooboo.com.cn
 :: m.wshufa.com
 :: m.wtb5333.com
-:: m.wtf3758.com
-:: m.wth6922.com
-:: m.wtr5378.com
+:: m.wtk5793.com
 :: m.wuqutu.com
 :: m.wv26d.cn
 :: m.wxjrd.cn
@@ -62991,6 +63049,7 @@ ff02::3 ip6-allhosts
 :: magadownloader.com
 :: magaoferta.bolaosoccerbets.site
 :: magararepublic.com
+:: magazineluiza.feiraodepanelas2020.com
 :: magazineoft.com
 :: magazinevenda.com
 :: magda.zelentourism.com
@@ -63067,7 +63126,6 @@ ff02::3 ip6-allhosts
 :: mai-friss.com
 :: mai-hirek.net
 :: mai.group
-:: mai7z163.zdyo.xkjddkjddidixosojznnnxdiiehsbsb3883hdhwjx9dhssjsns8.karmar.com.au
 :: maia.iad-03.braze.com
 :: maia.v2.dedicatedpool.com
 :: maibo666.com
@@ -63100,7 +63158,6 @@ ff02::3 ip6-allhosts
 :: mail.asambleanacional.gob.ec
 :: mail.asiaprofit.biz
 :: mail.atomminer.com
-:: mail.auca.ac.rw
 :: mail.aussie-pools.com
 :: mail.avis.cm
 :: mail.b3pool.com
@@ -63215,10 +63272,10 @@ ff02::3 ip6-allhosts
 :: mail.gdm.bubblemine.com
 :: mail.geekcash.org
 :: mail.gilherfishing.com
+:: mail.globalmannpowerservices.com
 :: mail.gnark-mining.com
 :: mail.gntl.co.uk
 :: mail.gpumining.ir
-:: mail.group18.onviy.com
 :: mail.gruppoagostini.com
 :: mail.hajj.zeem.sa
 :: mail.halcyonih.com
@@ -63247,6 +63304,7 @@ ff02::3 ip6-allhosts
 :: mail.kojak-group.com
 :: mail.konjungate.net
 :: mail.kremogskum.com
+:: mail.lehavre-fr.com
 :: mail.letsmine.it
 :: mail.letyourhomepayyou.com
 :: mail.litecoinpool.org
@@ -64793,7 +64851,6 @@ ff02::3 ip6-allhosts
 :: medicaltourismhome.com
 :: medicaltours.pl
 :: medicaltrust24.com
-:: medichem.net.in
 :: medicinemasters.org
 :: mediclaim.odhavnidhi.org
 :: medicreporters.com
@@ -65412,6 +65469,7 @@ ff02::3 ip6-allhosts
 :: meuxestvodec.bid
 :: mevents.trusteer.com
 :: meveze.ru
+:: mew.company
 :: mewapi.musicoin.tw
 :: mewnetwag.site
 :: mexedyfzdx.bid
@@ -65677,6 +65735,7 @@ ff02::3 ip6-allhosts
 :: microsofto.sytes.net
 :: microsoftoffice.112.2o7.net
 :: microsoftonlinedocuments.onlyoffice.eu
+:: microsoftonlinevoicecall.000webhostapp.com
 :: microsoftoutlook.duckdns.org
 :: microsoftoutlookhelp.com
 :: microsoftproblems.com
@@ -66788,6 +66847,7 @@ ff02::3 ip6-allhosts
 :: mobile.eyes-market.com
 :: mobile.fastclick.net
 :: mobile.free-downloadtrack.com
+:: mobile.free.fr.moncompte.frconsultationnfs.com
 :: mobile.freebasics.com
 :: mobile.game-insight.com
 :: mobile.gunungemas.cc
@@ -69037,6 +69097,8 @@ ff02::3 ip6-allhosts
 :: naayna.com
 :: nab-safe.cloudns.cx
 :: nab.com-device820019382.tileulwazi.co.za
+:: nab.com.au.defence-setup.services
+:: nab.com.au.nab-def.services
 :: nabaza.com
 :: nabazarze.pl
 :: nabbr.com
@@ -69762,6 +69824,7 @@ ff02::3 ip6-allhosts
 :: nend.net
 :: nenito.com
 :: nenrk.us
+:: nent-lote.web.app
 :: neo-neo-xeo.com
 :: neo.go.sonobi.com
 :: neo.rf.gd
@@ -69874,6 +69937,7 @@ ff02::3 ip6-allhosts
 :: netflix4all.com
 :: netflixaccount.com-promotions.us
 :: netflixaccount.org
+:: netflixbillingcycle.netflixnoname.com
 :: netflixgratis2018.ddns.net
 :: netflixpremiumfree.sharezips.info
 :: netgate.nanopool.org
@@ -70705,6 +70769,7 @@ ff02::3 ip6-allhosts
 :: nirqmbrzplvtjr.com
 :: nirror.abtasty.com
 :: nirvanalikit.com
+:: nisape-dinne.web.app
 :: nisd.org.np
 :: nisekostaff.com
 :: nisekotourguide.net
@@ -71336,6 +71401,7 @@ ff02::3 ip6-allhosts
 :: nofhtrsaz.com
 :: nofoxnalt.com
 :: nofreezingmac.work
+:: nofuce-dore.web.app
 :: noglolra.com
 :: nogxucpaktrya.com
 :: nohasevilla.es
@@ -71356,6 +71422,7 @@ ff02::3 ip6-allhosts
 :: nokaut.link
 :: noktapc.com.tr
 :: nol.miners.pro
+:: nolate-ucage.web.app
 :: nold.bsod.pw
 :: nolpjfsu.com
 :: nolzqbzxiq.com
@@ -71634,7 +71701,6 @@ ff02::3 ip6-allhosts
 :: nowsetup.freeupgradelive.com
 :: nowspots.com
 :: nowymmrxj.com
-:: nox.landscom.org
 :: noxagile.duapp.com
 :: noxmr-asia1.nanopool.org
 :: noxmr-eu1.nanopool.org
@@ -72314,8 +72380,6 @@ ff02::3 ip6-allhosts
 :: o.freebasics.com
 :: o.gweini.com
 :: o.if.qidian.com
-:: o.lj7t6e.cn
-:: o.minisplat.cn
 :: o.opentable.com
 :: o.phb123.com
 :: o.skimresources.com
@@ -72488,6 +72552,7 @@ ff02::3 ip6-allhosts
 :: oauth.stage.ethfans.org
 :: oauth.stage.sparkpool.com
 :: oauth.test.ethfans.org
+:: oauth.vk.com.authorize-client-id-4083558scope-107374redirecturi.top15casinobonus.com
 :: oawoo.frenchgerlemanelectric.com
 :: oaxpcohp.com
 :: oaxwtgfhsxod.com
@@ -72568,6 +72633,7 @@ ff02::3 ip6-allhosts
 :: obyz.de
 :: obzatop.info
 :: oc.dedicatedpool.com
+:: oc.glennbradford.com
 :: oc.umeng.co
 :: oc.umeng.com
 :: oca.telemetry.microsoft.com
@@ -72795,8 +72861,10 @@ ff02::3 ip6-allhosts
 :: office.nugg.ad
 :: office.pdss2access.com
 :: office.ratiss.org
+:: office365.it.support.emailblox.com
 :: office365.software2.co
 :: office365update.duckdns.org
+:: officec0y0nk9n6x5jf82.z19.web.core.windows.net
 :: officehelptogo.com
 :: officeinnovations.co.za
 :: officemember.tripod.com
@@ -73495,7 +73563,6 @@ ff02::3 ip6-allhosts
 :: onlineslotmaschine.com
 :: onlinestars.space
 :: onlinestudio.ir
-:: onlinesuss.videosusd.xyz
 :: onlinetexasstateuniversityservice.wufoo.com
 :: onlinetips.baofeng5.baofeng.net
 :: onlinetribun.com
@@ -74375,6 +74442,7 @@ ff02::3 ip6-allhosts
 :: ouzqwetenps.com
 :: ov.nanopool.org
 :: ov.yahoo.co.jp
+:: ov2.ag6.bdx.live-banner.com
 :: ov5tb.bemobtrk.com
 :: ova8idoc8u.unvx9uiqcc.madpendesign.com.au
 :: ovb.pl
@@ -74697,7 +74765,6 @@ ff02::3 ip6-allhosts
 :: p.porn.fr
 :: p.predictvideo.com
 :: p.presage.io
-:: p.pypl-checkinformation.betscapital.co.za
 :: p.qijijs.top
 :: p.raasnet.com
 :: p.raidmedia.com.cn
@@ -75274,6 +75341,7 @@ ff02::3 ip6-allhosts
 :: paimgcdn.baidu.com
 :: paincake.yoll.net
 :: paindontlast.com
+:: painel.takepro.com.br
 :: painolympics.info
 :: painolympics.org
 :: paintballunited.com.my
@@ -75376,6 +75444,7 @@ ff02::3 ip6-allhosts
 :: panelist-api.vertoanalytics.com
 :: panelist.placed.com
 :: panelreturn.tld.cc
+:: panels.webservv.design
 :: panelsave.com
 :: paner.altervista.org
 :: pangeran88.000webhostapp.com
@@ -75822,7 +75891,6 @@ ff02::3 ip6-allhosts
 :: paygate.shareitpay.in
 :: paykobo.com
 :: paymeiva8989.webcindario.com
-:: payment-method-domain.noobbisaapa22.com
 :: payment.coinmine.pw
 :: payment.rungrinh.vn
 :: paymentidaccepted-courts-paypal.com
@@ -75850,7 +75918,6 @@ ff02::3 ip6-allhosts
 :: paypal-service-limited-case.com
 :: paypal.112.2o7.net
 :: paypal.billing-fees.com
-:: paypal.boostgenics.com
 :: paypal.co.uk.2ipv.top
 :: paypal.co.uk.dnxo.icu
 :: paypal.co.uk.mas5.icu
@@ -75871,7 +75938,6 @@ ff02::3 ip6-allhosts
 :: paypal.invulgedrag.nl
 :: paypal.meinkonto-hilfe-ssl.de
 :: paypal.org.ng
-:: paypal.ref-584.com
 :: paypal.verifiedcheckaccount.icu
 :: paypal.verylegit.link
 :: paypal0r.beget.tech
@@ -76442,6 +76508,7 @@ ff02::3 ip6-allhosts
 :: pexaproject.com
 :: peypcjxllo.bid
 :: peyttlwbznahi.com
+:: pezonasegvra.viabcp2.com
 :: pezrphjl.com
 :: pf-2.pchome.net
 :: pf.newegg.com
@@ -76747,7 +76814,6 @@ ff02::3 ip6-allhosts
 :: phukrovo.com
 :: phulammarket.com
 :: phunware.com
-:: phuongdanhvonghe.edu.vn
 :: phuphi.com
 :: phuttha9.beget.tech
 :: phx-4.xmrpool.net
@@ -77727,6 +77793,7 @@ ff02::3 ip6-allhosts
 :: plannto.com
 :: plantapod.com.au
 :: plantdigestion.com
+:: plantiodeigrejas.org.br
 :: plants-vs-zombies.co
 :: plantsgalore.co.ke
 :: plantsvszombies2download.me
@@ -80142,9 +80209,7 @@ ff02::3 ip6-allhosts
 :: prtjzzyfi.com
 :: prtracker.com
 :: prudsys-rde.de
-:: prueba.pantoanima.es
 :: prueba27563fb.webcindario.com
-:: pruebas.dentaldelangel.com
 :: prugskh.com
 :: prugskh.net
 :: prulogzjtyksnh.com
@@ -80459,7 +80524,6 @@ ff02::3 ip6-allhosts
 :: pub.yllix.com
 :: pub0.sitetag.us
 :: pub1.co
-:: pub2.cdn.webmanagercenter.com
 :: pub2.webmanagercenter.com
 :: pub2srv.com
 :: pubads.g.doubleclick.net
@@ -80714,6 +80778,7 @@ ff02::3 ip6-allhosts
 :: purevideo.com
 :: purk.luckypool.io
 :: puroclean.com
+:: purplechristmas.litmus.online
 :: purpleflag.net
 :: purpleoak.co.in
 :: purplepatch.online
@@ -80950,6 +81015,7 @@ ff02::3 ip6-allhosts
 :: pw8tq9wk.top
 :: pwa-chk.org.pk
 :: pwa.telephoneannuaire.fr
+:: pwapi.washingtonpost.com
 :: pwaqmmquztyne.com
 :: pwbelmont.com.au
 :: pwc-outlook.brightcove.com
@@ -83043,6 +83109,7 @@ ff02::3 ip6-allhosts
 :: recznekatalogowanie.pl
 :: red-js.github.io
 :: red.altpool.eu
+:: red.as1.falkag.de
 :: red.dedicatedpool.com
 :: red.hatena.ne.jp
 :: red.st-hatena.com
@@ -83193,6 +83260,7 @@ ff02::3 ip6-allhosts
 :: reedbusiness.com
 :: reedbusiness.net
 :: reedge.com
+:: reedios.krungsri-online.org
 :: reef.pickaxe.pro
 :: reelcentric.com
 :: reelhd.com
@@ -83244,6 +83312,7 @@ ff02::3 ip6-allhosts
 :: refpamjeql.top
 :: refpaqru.host
 :: refpaydc.top
+:: refprogramma.000webhostapp.com
 :: refresh-js.bitbucket.io
 :: refreshnerer27.info
 :: refreshnerer27rb.info
@@ -83442,7 +83511,6 @@ ff02::3 ip6-allhosts
 :: remarketingpixel.com
 :: remarketstats.com
 :: remax.talkdrawer.com
-:: remboursement-fisc.from-nv.com
 :: remboursement-gouv.com
 :: remekcikkek.com
 :: remfoto.pl
@@ -83722,6 +83790,7 @@ ff02::3 ip6-allhosts
 :: resources.mixpanel.com
 :: resources.newrelic.com
 :: resources.presage.io
+:: resources.saldiprivati.com
 :: resources.taboola.com
 :: resources.tapjoy.com
 :: resourcesubmitter.com
@@ -84225,6 +84294,7 @@ ff02::3 ip6-allhosts
 :: rivcash.com
 :: rivekre.ru
 :: rivenbet.com
+:: rivenditori.aruba.it
 :: river.zhidao.baidu.com
 :: riverbed.pl
 :: riverdeep.112.2o7.net
@@ -84826,6 +84896,7 @@ ff02::3 ip6-allhosts
 :: rrmqirchpasqyw.com
 :: rrnqzntj.com
 :: rroyintwabqyua.com
+:: rrp.edu.pe
 :: rrpartners.122.2o7.net
 :: rrpjunmcv.com
 :: rrptobfpqeftyg.com
@@ -86267,7 +86338,6 @@ ff02::3 ip6-allhosts
 :: samdi.or.kr
 :: same.chinadaily.com.cn
 :: same.eastmoney.com
-:: same.jrj.com.cn
 :: same.stockstar.com
 :: same02.jrj.com.cn
 :: samedaycourier-deliveryservices.org.uk
@@ -86378,6 +86448,7 @@ ff02::3 ip6-allhosts
 :: santacruzsentinel.112.2o7.net
 :: santacruzsentinelcom.112.2o7.net
 :: santacruzsuspension.com
+:: santamama.ac.ug
 :: santamariaestates.com
 :: santander.jelastic.dogado.eu
 :: santarellano.com
@@ -86665,11 +86736,14 @@ ff02::3 ip6-allhosts
 :: scaledb.com
 :: scaleway.ovh
 :: scambiobanner.aruba.it
+:: scambiobanner.net-parade.it
+:: scan-particulier.service-online.web4939.cweb02.gamingweb.de
 :: scan.blockbitcoin.tk
 :: scan.censys.xyz
 :: scan.realnewstime.xyz
 :: scan.vfk2k5s5tfjr27tz.tk
 :: scanmedios.com
+:: scannedoffice365documents.weebly.com
 :: scanner.magical.coffee
 :: scanner1.alwayshashing.com
 :: scannet.tv.kuyun.com
@@ -86785,6 +86859,7 @@ ff02::3 ip6-allhosts
 :: scorecardresearch.com
 :: scorecardrewards-survey.com
 :: scorpioncigar.com
+:: scotiabank.ids-demos.com
 :: scottfaulconbridge.com
 :: scotthelme.report-uri.com
 :: scottmorrison.info
@@ -87377,6 +87452,7 @@ ff02::3 ip6-allhosts
 :: secure-assets.rubiconproject.com
 :: secure-au.imrworldwide.com
 :: secure-cert.imrworldwide.com
+:: secure-chasee.arc238.gr
 :: secure-check-your-payment.com
 :: secure-chn.imrworldwide.com
 :: secure-claimsaccnotifications00.000webhostapp.com
@@ -87446,9 +87522,11 @@ ff02::3 ip6-allhosts
 :: secure.cryptominer.net
 :: secure.dsp.com
 :: secure.eagletribune.com
+:: secure.emp-online.it
 :: secure.exoclick.com
 :: secure.fastclick.net
 :: secure.flashtalking.com
+:: secure.fxcash.com
 :: secure.gaug.es
 :: secure.getclicky.com
 :: secure.gooddata.com
@@ -87457,13 +87535,13 @@ ff02::3 ip6-allhosts
 :: secure.img-cdn.mediaplex.com
 :: secure.imrworldwide.com
 :: secure.informaction.com
+:: secure.informations.ninjamarketingman.com
 :: secure.ingdirect.fr.reinomusical.com
 :: secure.insightexpressai.com
 :: secure.iqmining.com
 :: secure.juicyads.com
 :: secure.leadback.advertising.com
 :: secure.leadforensics.com
-:: secure.legalmetric.com
 :: secure.livechatinc.com
 :: secure.login.paypol.cgi.bin.ultra-kelp.com
 :: secure.lomadee.com
@@ -87474,6 +87552,7 @@ ff02::3 ip6-allhosts
 :: secure.mobile.contentabc.com
 :: secure.netscope.marktest.pt
 :: secure.nmd.dk
+:: secure.paypal.com-ws.com
 :: secure.personali.com
 :: secure.platnosci-online.me
 :: secure.pointspay.com
@@ -87487,8 +87566,6 @@ ff02::3 ip6-allhosts
 :: secure.runescape.com-iii.top
 :: secure.runescape.com-kci.top
 :: secure.runescape.com-rka.top
-:: secure.runescape.com-sv.info
-:: secure.runescape.com-un.ru
 :: secure.runescape.com-vvl.icu
 :: secure.runescape.com-vxa.top
 :: secure.runescape.com-zx.ru
@@ -87579,7 +87656,6 @@ ff02::3 ip6-allhosts
 :: security-serverup.servecounterstrike.com
 :: security-support-nab.com
 :: security.baidu.co.th
-:: security.hsbc.updateaccount.co.uk
 :: security.instartlogic.com
 :: security.taptica.com
 :: security60-e.com
@@ -88006,6 +88082,7 @@ ff02::3 ip6-allhosts
 :: serv-ac.com
 :: serv.adspeed.com
 :: serv.boltz.xyz
+:: serv.infinichat.net
 :: serv.nanopool.org
 :: serv.tooplay.com
 :: serv0.com
@@ -88146,6 +88223,7 @@ ff02::3 ip6-allhosts
 :: server4.web-stat.com
 :: server5.prohashing.com
 :: server5319.us.to
+:: serverad.hostingtalk.it
 :: serverbid.com
 :: serverc.shoofle.tv
 :: serverc.vidazoo.com.herokudns.com
@@ -89140,6 +89218,7 @@ ff02::3 ip6-allhosts
 :: signcontract-etherwallet.net
 :: signifyd.com
 :: signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl
+:: signin-ebay-de-ws-ebayisapi.10001mb.com
 :: signin.amazon.co.uk-prime.form-unsuscribe.id-5564.charlescooper.com.au
 :: signin.brightcove.com
 :: signin.dynatrace.com
@@ -89581,6 +89660,7 @@ ff02::3 ip6-allhosts
 :: skechersshoes.pl
 :: skecherstanio.pl
 :: skeettools.com
+:: skelutunintech.weebly.com
 :: skexyyqu.com
 :: skf-fag-bearings.com
 :: skgde.adocean.pl
@@ -89866,7 +89946,6 @@ ff02::3 ip6-allhosts
 :: smai1.com
 :: smail.umeng.com
 :: smallberries.hodlpool.com
-:: sman1pulung.sch.id
 :: smanytdialdw.info
 :: smapohsnoww.com
 :: smart-789.image.mucang.cn
@@ -90881,6 +90960,7 @@ ff02::3 ip6-allhosts
 :: sources.ethosdistro.com
 :: sourcescdn.xiaobingw.cn
 :: soure-made.web.app
+:: sourist-rema.web.app
 :: sourmath.com
 :: sousaira.com
 :: south-asia.mibpool.com
@@ -91598,6 +91678,7 @@ ff02::3 ip6-allhosts
 :: sroomd.ddns.net
 :: sroomdd.ddns.net
 :: sroomf.ddns.net
+:: sroomf70nasiru.duckdns.org
 :: sroomlol.ddns.net
 :: sroomn.ddns.net
 :: sroomn1.ddns.net
@@ -91767,6 +91848,7 @@ ff02::3 ip6-allhosts
 :: ssh.lapiscolorido.com
 :: ssh.nanopool.org
 :: ssh.theminingpool.online
+:: sshhhhhsa.000webhostapp.com
 :: sshowads.pubmatic.com
 :: sshvbkdyxprk.com
 :: ssiapawz.com
@@ -91827,6 +91909,7 @@ ff02::3 ip6-allhosts
 :: ssl.youkag.com
 :: ssl.zoomanalytics.co
 :: ssl.zy3dku.cn
+:: ssl1.speedera.net
 :: ssl2.dottexpress.com
 :: ssl2.gdqifang.com
 :: ssl2anyone2.com
@@ -92899,6 +92982,7 @@ ff02::3 ip6-allhosts
 :: stats.bbc.co.uk
 :: stats.becu.org
 :: stats.berkman.harvard.edu
+:: stats.betradar.com
 :: stats.biglistbigsales.com.re.getclicky.com
 :: stats.bilsyndication.com
 :: stats.bitcoin.it
@@ -93447,7 +93531,9 @@ ff02::3 ip6-allhosts
 :: stiffstem.com
 :: stignita.zapto.org
 :: stiker.kl.com.ua
+:: stikervkcom34643.000webhostapp.com
 :: stikesbethesda.ac.id
+:: stikirvkhjg.000webhostapp.com
 :: stilfb.com
 :: stimergeners.pro
 :: stimg.iand2ch.net
@@ -93741,7 +93827,6 @@ ff02::3 ip6-allhosts
 :: streamjs.investing.com
 :: streamkey-inv-eu.admixer.net
 :: streamkey-inv-eus.admixer.net
-:: streamline2go.streamlinegraphics.net
 :: streamlyn-d.openx.net
 :: streampire.live
 :: streampire.net
@@ -93800,6 +93885,7 @@ ff02::3 ip6-allhosts
 :: structurerod.com
 :: structures-made-easy.co.uk
 :: struq.com
+:: sts-hilti.hinduhush.website
 :: sts.advertising.microsoft.com
 :: sts.batmobi.net
 :: sts.coinfoundry.org
@@ -94257,6 +94343,7 @@ ff02::3 ip6-allhosts
 :: support-applebr.com
 :: support-application.merit.me
 :: support-center-information.com
+:: support-chase.cakesmithdesserts.com
 :: support-cn.hashpool.com
 :: support-customer-unlock.com
 :: support-developer.applovin.com
@@ -94600,7 +94687,6 @@ ff02::3 ip6-allhosts
 :: swe.shylsp.com
 :: sweatybettytracksdk.optimove.net
 :: swebanalytics.eniro.se
-:: swedbank-lt.kitformat.com
 :: sweeney-elb.appboy.com
 :: sweepsit.win
 :: sweepstakescentralusa.com
@@ -95098,6 +95184,7 @@ ff02::3 ip6-allhosts
 :: t.gammaplatform.com
 :: t.gdt.qq.com
 :: t.geedai.com
+:: t.genovesevanderhoof.com
 :: t.go.sohu.com
 :: t.goadservices.com
 :: t.gotporn.com
@@ -95763,8 +95850,10 @@ ff02::3 ip6-allhosts
 :: tawiqiauikutwo.com
 :: tawla.or.tz
 :: tax-refund.co.uk-ref1d3j.com
+:: tax-refund.form.co.uk-ref0g7h.com
 :: tax.account-1payment.com
 :: tax.refund-form6ll4.com
+:: tax.refund-form9ll6i.com
 :: tax.thepiratemine.nl
 :: taxcom-online.ru
 :: taxeducation.in
@@ -96516,7 +96605,6 @@ ff02::3 ip6-allhosts
 :: testing.miningbeaver.ga
 :: testing.nudev.net
 :: testing.younetmedia.com
-:: testing1234.sanbard.com
 :: testinteligencji.bo.pl
 :: testkondostone.web.fc2.com
 :: testlife.ruyigou.com
@@ -100454,6 +100542,7 @@ ff02::3 ip6-allhosts
 :: trit.minercountry.com
 :: tritanium.my-mining-pool.de
 :: tritaniummining.com
+:: tritechamericallc.is-a-landscaper.com
 :: tritird.codpool.com
 :: triton-bitsum.smartcoinpool.com
 :: triton.aussie-pools.com
@@ -100813,6 +100902,7 @@ ff02::3 ip6-allhosts
 :: tst.kaptcha.com
 :: tst14netreal.com
 :: tstreesandtreasures.com
+:: tstwbst.000webhostapp.com
 :: tsu-68.com
 :: tsuitufixxlf.com
 :: tsupbmgacu.com
@@ -101457,7 +101547,6 @@ ff02::3 ip6-allhosts
 :: u.yiiwoo.com
 :: u.yizuya.com
 :: u0.extreme-dm.com
-:: u0.s.minisplat.cn
 :: u0003321.cp.regruhosting.ru
 :: u002fnews.bitcoin.com
 :: u002fwallet.bitcoin.com
@@ -101490,21 +101579,15 @@ ff02::3 ip6-allhosts
 :: u532344488.hostingerapp.com
 :: u55.evama.at
 :: u566472v66.ha003.t.justns.ru
-:: u588732zeo.ha003.t.justns.ru
 :: u59192300n.ha003.t.justns.ru
-:: u5942030gf.ha003.t.justns.ru
 :: u5950630mc.ha003.t.justns.ru
 :: u595sebqih.com
 :: u5c93.com
 :: u5e.com
-:: u60337326o.ha003.t.justns.ru
-:: u6043932ce.ha003.t.justns.ru
-:: u6095333a3.ha004.t.justns.ru
-:: u6096433au.ha004.t.justns.ru
-:: u6100933gh.ha004.t.justns.ru
 :: u6101733ha.ha004.t.justns.ru
 :: u6125033xe.ha004.t.justns.ru
 :: u6126733y9.ha004.t.justns.ru
+:: u61414347h.ha004.t.justns.ru
 :: u64895004ikkff.000webhostapp.com
 :: u76dfsdasa.appspot.com
 :: u85foldero.com
@@ -101828,6 +101911,7 @@ ff02::3 ip6-allhosts
 :: uezxmehb.com
 :: uezychzvo.com
 :: ufelatujvbhtbo.com
+:: ufen-foge.web.app
 :: ufeuyyfoguo.com
 :: ufgtddsuhlo.com
 :: ufkdsnlvxoqw.com
@@ -102527,6 +102611,7 @@ ff02::3 ip6-allhosts
 :: update.aubemobile.com
 :: update.aut5.com
 :: update.central-messages.com
+:: update.chestyi.com
 :: update.client.baidu.com
 :: update.estrongs.com
 :: update.ethosdistro.com
@@ -102563,7 +102648,6 @@ ff02::3 ip6-allhosts
 :: updatefbs-1bfc.at.ua
 :: updatefbs-1lpu.at.ua
 :: updatenewversion.freeupgradelive.com
-:: updateourtime.shampoosantanterbaik.com
 :: updatepage.kuwo.cn
 :: updateplayer-flash.icu
 :: updater.crowdtangle.com
@@ -102604,6 +102688,7 @@ ff02::3 ip6-allhosts
 :: uplexa.miner.rocks
 :: uplexa.poolbux.com
 :: upliftsearch.com
+:: uplink.aruba.it
 :: upload-center.byethost4.com
 :: upload.a-ads.com
 :: upload.adtech.fr
@@ -103704,7 +103789,6 @@ ff02::3 ip6-allhosts
 :: vancouversun-com.c.richmetrics.com
 :: vanderebony.pro
 :: vanderweelegroup.com
-:: vanessa971profile.online.photos966611-item.com
 :: vanessbn.beget.tech
 :: vanfireworks.com
 :: vangelic.one
@@ -104290,7 +104374,6 @@ ff02::3 ip6-allhosts
 :: vgyakiejafjjj.com
 :: vh1com.112.2o7.net
 :: vhbyakilp.com
-:: vhdogaru-001-site11.btempurl.com
 :: vhdvllhgyrjy.com
 :: vhec.jhjhyn.cn
 :: vhiuhrwapdirpu.com
@@ -104941,8 +105024,10 @@ ff02::3 ip6-allhosts
 :: vjzcgotoy.com
 :: vk-19.000webhostapp.com
 :: vk-foto542.000webhostapp.com
+:: vk0ntakkte.000webhostapp.com
 :: vk10.viptop.ru
 :: vk2ca.com
+:: vk43.000webhostapp.com
 :: vkadmin.info
 :: vkafirac.com
 :: vkanime1.000webhostapp.com
@@ -104953,13 +105038,13 @@ ff02::3 ip6-allhosts
 :: vkcdnservice.com
 :: vkcoom2018.beget.tech
 :: vkfishtest.hop.ru
+:: vkgolos20.000webhostapp.com
 :: vkhrnisuky.com
 :: vkmcom.beget.tech
 :: vkmonster.com
 :: vknrfwwxhxaxupqp.pro
 :: vkoldru.000webhostapp.com
 :: vkont.bos.ru
-:: vkontakte.0catch.com
 :: vkontakte.byethost18.com
 :: vkontaktecom.vov.ru
 :: vkpage.000webhostapp.com
@@ -106120,6 +106205,10 @@ ff02::3 ip6-allhosts
 :: wdc8.mediation.nexage.com
 :: wdc8.nexage.com
 :: wdcstage-rtb.applovin.com
+:: wdestaques19.vamos-ver-os-descontosdodia.com
+:: wdestaques20.ofertadasemanapremiada.com
+:: wdestaques21.ofertadasemanapremiada.com
+:: wdestaques22.vamos-ver-os-descontosdodia.com
 :: wdfl.co
 :: wdjaccount.open.uc.cn
 :: wdjaccountapi.open.uc.cn
@@ -106183,8 +106272,6 @@ ff02::3 ip6-allhosts
 :: web.ali213.net
 :: web.analytics.yahoo.com
 :: web.aptuswealthadvisor.com
-:: web.authentic-update.amazon.account.shurtengss.com
-:: web.authentic-update.amazon.account.us.noteteaching.com
 :: web.biblepay.org
 :: web.bitcoinn.biz
 :: web.btncdn.com
@@ -106218,7 +106305,6 @@ ff02::3 ip6-allhosts
 :: web.kuaisouwifi.com
 :: web.localytics.com
 :: web.m182.vhostgo.com
-:: web.manage.update.amazon.account.heeatme.com
 :: web.mavensd.org
 :: web.minerpool.net
 :: web.minexmr24.ru
@@ -106269,6 +106355,7 @@ ff02::3 ip6-allhosts
 :: web3742.cweb02.gamingweb.de
 :: web4.realtracker.com
 :: web4446.bitcoin.com
+:: web4929.cweb02.gamingweb.de
 :: web4wedding.es
 :: web529.can29.de
 :: web6.gloto.com
@@ -106360,6 +106447,7 @@ ff02::3 ip6-allhosts
 :: webdisk.bitcoinrigs.org
 :: webdisk.bitpool.ro
 :: webdisk.bkc.bubblemine.com
+:: webdisk.boegan.com
 :: webdisk.bold.bubblemine.com
 :: webdisk.btc.bubblemine.com
 :: webdisk.bubblemine.com
@@ -107104,6 +107192,7 @@ ff02::3 ip6-allhosts
 :: widgets-3-omni-iframe.livetex.ru
 :: widgets.amung.us
 :: widgets.binotel.com
+:: widgets.cam-content.com
 :: widgets.comcontent.net
 :: widgets.fccinteractive.com
 :: widgets.fie-data.co.uk
@@ -107884,6 +107973,7 @@ ff02::3 ip6-allhosts
 :: ws.osenilo.com
 :: ws.push-notifs.com
 :: ws.sharethis.com
+:: ws.shoppydoo.com
 :: ws.siamining.com
 :: ws.sj.qq.com
 :: ws.voiceads.cn
@@ -108074,7 +108164,7 @@ ff02::3 ip6-allhosts
 :: wvrmnqgmemkw.com
 :: wvrntfonizbxn.com
 :: wvvftburvtyz.com
-:: wvvw.telecreditomovilbcp.tech
+:: wvvw.bcpzonasegurabeta.viablcp.me
 :: wvw-payipal.com
 :: wvw.allaroundautorepair.com
 :: wvw.yahoo-mai.com-secured-web.validator.accounts.medipluscur.com
@@ -108461,7 +108551,6 @@ ff02::3 ip6-allhosts
 :: www.31.tityx.com
 :: www.31d.net
 :: www.32666099.com
-:: www.33544444.com
 :: www.3388pjdc.com
 :: www.360ads.com
 :: www.360clg.cn
@@ -108664,6 +108753,7 @@ ff02::3 ip6-allhosts
 :: www.accessvegas.com
 :: www.accidentadvicehelpline.co.uk
 :: www.acclaimenvironmental.co.uk
+:: www.account-security-facebook.axnmls.com
 :: www.account-update.amazon.co.jp.f98c621688931f2f62774ea0ad48c.com
 :: www.accreconsult.pl
 :: www.accu-chek.it
@@ -108926,6 +109016,7 @@ ff02::3 ip6-allhosts
 :: www.adsances.ero-advertising.com
 :: www.adsbtrack.com
 :: www.adsbtrk.com
+:: www.adsbywords.com
 :: www.adscampaign.com
 :: www.adscience.nl
 :: www.adsco.re
@@ -109107,6 +109198,7 @@ ff02::3 ip6-allhosts
 :: www.air-max.se
 :: www.air-pegasus.com
 :: www.airadmins.com
+:: www.airbnb-rooms-9123.com
 :: www.aircargo.az
 :: www.airdrop.excc.co
 :: www.airesdesalta.com.ar
@@ -109173,7 +109265,6 @@ ff02::3 ip6-allhosts
 :: www.alien.coinium.org
 :: www.aliitp.triplemining.com
 :: www.alim.com.pl
-:: www.alineclothing.com
 :: www.alisepool.xyz
 :: www.alivar.vn
 :: www.all-carsforsale.co.uk
@@ -109220,7 +109311,6 @@ ff02::3 ip6-allhosts
 :: www.altcoinpool.club
 :: www.altcoinpool.com
 :: www.altcoinpool.eu
-:: www.altel.org
 :: www.altepro.ru
 :: www.alteregocafe.pl
 :: www.altid-ad.com
@@ -109237,10 +109327,14 @@ ff02::3 ip6-allhosts
 :: www.amayalingerie.com
 :: www.amazon.co.jp.08fc80de8121419136e443a70489c123.net
 :: www.amazon.co.jp.994b8ad8-e7c7-4c59-8e88-4c27f57f5224.knightcoderz.com
+:: www.amazon.co.jp.amneroivcxmrpvfdglkd.com
+:: www.amazon.co.jp.amneroivcxmrpvfdglkd.info
 :: www.amazon.co.jp.cantonmanga.cn
+:: www.amazon.co.jp.chinasbot.com
 :: www.amazon.co.jp.com-w.win
 :: www.amazon.co.jp.k2dh0pa9n2h7m2f2h4j2b67t4ki.xyz
 :: www.amazon.co.jp.zajiwnnwdja12wefqfd.net
+:: www.amazon.co.jp.zamosnlosqj78saa.net
 :: www.amazonco.uk
 :: www.amazonteam.org
 :: www.ambassadeurs.alsace
@@ -109252,7 +109346,6 @@ ff02::3 ip6-allhosts
 :: www.amdl.gov.ma
 :: www.amelander.nl
 :: www.american-prize-center.com
-:: www.americanexpressnoreply.club
 :: www.americanexpressnoreply.xyz
 :: www.americanoncologyinstitute.co.in
 :: www.ami.tn
@@ -109562,7 +109655,6 @@ ff02::3 ip6-allhosts
 :: www.autenticahub.com
 :: www.authcaptcha.com
 :: www.authedwebmine.cz
-:: www.autismneca.com
 :: www.auto-ecole-rennes.com
 :: www.auto-overview.com
 :: www.autoads.asia
@@ -109667,7 +109759,6 @@ ff02::3 ip6-allhosts
 :: www.bancoestado.cl-j.pw
 :: www.bancomer.com-accesoaclientesbbva.classarchiv.fr
 :: www.bancomer.com.mx.enlinea01.jala-namibia.com
-:: www.bancomercantil-org.haxsecurity.org
 :: www.bandaomodel.com
 :: www.bangbuddy.com
 :: www.bangbuzz.fr
@@ -109812,7 +109903,6 @@ ff02::3 ip6-allhosts
 :: www.bgrea.karoo.net
 :: www.bholainjabsy.com
 :: www.bhutangeniustours.com
-:: www.bhytgs.com
 :: www.bi-de-wisch.de
 :: www.bianchispizza.com
 :: www.bibliodro.pl
@@ -109988,7 +110078,6 @@ ff02::3 ip6-allhosts
 :: www.bnmq.com
 :: www.bnnr.nl
 :: www.bnserving.com
-:: www.boa.alert.account.refuelcatering.com.au
 :: www.boattraider.com
 :: www.bobp.org.uk
 :: www.bodasexclusivas.com
@@ -110047,7 +110136,6 @@ ff02::3 ip6-allhosts
 :: www.bramax-poznan.pl
 :: www.bramka-sms-za-darmo.pl
 :: www.bramyioslony.pl
-:: www.brand2hand.com
 :: www.brandedleadgeneration.com
 :: www.brangelic.com
 :: www.brasimoveis.com.br
@@ -110060,11 +110148,11 @@ ff02::3 ip6-allhosts
 :: www.briarhurst.org
 :: www.bricomiechow.pl
 :: www.bride1.com
+:: www.bridgeportwvhomeinspection.com
 :: www.bridgesearch.com
 :: www.brightadnetwork.com
 :: www.brightec.pl
 :: www.brightonclick.com
-:: www.brightparcel.com
 :: www.brikee.com
 :: www.britney.com.pl
 :: www.britoveiculos.com
@@ -110131,7 +110219,6 @@ ff02::3 ip6-allhosts
 :: www.bubblenet.fr
 :: www.buckfast-zucht.de
 :: www.buddyway.pl
-:: www.budsrecipes.com
 :: www.buffetgrilofalante.com.br
 :: www.buforstudio.pl
 :: www.buglife.com
@@ -110300,7 +110387,6 @@ ff02::3 ip6-allhosts
 :: www.carloanonaphone.com
 :: www.carmelite.org
 :: www.carnaval-promocional.com
-:: www.carnavaliquidaame.com
 :: www.carolinacfc.org
 :: www.carrelliusati.it
 :: www.carrosserie-promocar.net
@@ -110444,6 +110530,7 @@ ff02::3 ip6-allhosts
 :: www.chinesean.com
 :: www.chipcar.pl
 :: www.chipo.republika.pl
+:: www.chironweb.org
 :: www.chlcotrk.com
 :: www.chocolaterie-servant.com
 :: www.chocoslim.pro
@@ -110473,6 +110560,7 @@ ff02::3 ip6-allhosts
 :: www.cielofidelidade.135.it
 :: www.cienciatour.com
 :: www.cig-arrete.com
+:: www.cine-zoom.com
 :: www.cinefique.com
 :: www.cinemaplanet.pl
 :: www.cinemateka.pl
@@ -110611,6 +110699,7 @@ ff02::3 ip6-allhosts
 :: www.coachhouseballarat.com
 :: www.coandroid.ru
 :: www.cocan20-21.cm
+:: www.cocktailhouse.in
 :: www.cocoopt.com
 :: www.codeads.com
 :: www.codeonclick.com
@@ -110659,7 +110748,6 @@ ff02::3 ip6-allhosts
 :: www.coinverti.com
 :: www.coinwebmining.com
 :: www.coinworker.com
-:: www.coinzcain.com
 :: www.coinzilla.io
 :: www.cokhach.com
 :: www.col.cryptominer.net
@@ -110671,6 +110759,7 @@ ff02::3 ip6-allhosts
 :: www.college-pathologistes.com
 :: www.collinsfoundation.org
 :: www.colman-oreilly.com
+:: www.colocations.lu
 :: www.coloritpak.by
 :: www.colorking.es
 :: www.colway-international.com.pl
@@ -110699,6 +110788,7 @@ ff02::3 ip6-allhosts
 :: www.compelconsultancy.com
 :: www.comperialead.pl
 :: www.compland.ee
+:: www.completeseuanosemprelindo.com
 :: www.compsec.co.nz
 :: www.compufixshop.com
 :: www.computertechsupport.us
@@ -110824,7 +110914,6 @@ ff02::3 ip6-allhosts
 :: www.crackserver.com
 :: www.craftproaudio.com
 :: www.craignorthcutt.com
-:: www.craigslist.review-listings.us
 :: www.crakmedia.com
 :: www.cranepay.io
 :: www.crashlytics.com
@@ -111118,6 +111207,7 @@ ff02::3 ip6-allhosts
 :: www.descontosdemais.com
 :: www.desentupidor.org
 :: www.desertboots.pl
+:: www.desertfruit.com.na
 :: www.destine.broker.go.ro
 :: www.deszczysko.pl
 :: www.deta.ero-advertising.com
@@ -111233,7 +111323,6 @@ ff02::3 ip6-allhosts
 :: www.dnsseed.italocoin.com
 :: www.dnsseed.vinumeris.com
 :: www.dntx.com
-:: www.dobadongthap.vn
 :: www.dobre-filmy.pl
 :: www.dobre-programy.pl
 :: www.dobre-programy.xyz
@@ -111281,6 +111370,7 @@ ff02::3 ip6-allhosts
 :: www.donicezmarmuru.pl
 :: www.donneuropa.it
 :: www.donotwatch.org
+:: www.donplitka.in.ua
 :: www.dont.skip-ads.net
 :: www.doodlemobile.com
 :: www.dorki.org
@@ -111365,7 +111455,6 @@ ff02::3 ip6-allhosts
 :: www.dsa.pl
 :: www.dsafnzdy.guran.sk
 :: www.dsc1996.org
-:: www.dsk-tmn.ru
 :: www.dt2xr6g2i5.com
 :: www.duapps.com
 :: www.dubaikidcare.com
@@ -111433,7 +111522,6 @@ ff02::3 ip6-allhosts
 :: www.easy2date.net
 :: www.easy2mine.com
 :: www.easyaccess.mobi
-:: www.easycarparts.net
 :: www.easycounter.com
 :: www.easydownload.pl
 :: www.easyhash.de
@@ -111490,7 +111578,6 @@ ff02::3 ip6-allhosts
 :: www.eduancm.com
 :: www.educalidad.cl
 :: www.eduforma.com.br
-:: www.edugauge.co.in
 :: www.eduhull.pl
 :: www.edukacjawakcji.pl
 :: www.edukacjawysylkowa.pl
@@ -111520,6 +111607,7 @@ ff02::3 ip6-allhosts
 :: www.eine.at
 :: www.einfach-iota.de
 :: www.einsteindiploms.com
+:: www.eismv.org
 :: www.eivamos.com
 :: www.ekanembtc.com
 :: www.ekino.com.pl
@@ -111851,11 +111939,15 @@ ff02::3 ip6-allhosts
 :: www.facebok.com.ba
 :: www.facebook-apps.com
 :: www.facebook-color.5v.pl
+:: www.facebook-id9843.market-place-item7858.site
+:: www.facebook-listing-forsale.thexsr3e.online
+:: www.facebook-listing-forsale1.thexsr3e.online
 :: www.facebook-login.5v.pl
 :: www.facebook-profile.5v.pl
 :: www.facebook.5v.pl
 :: www.facebook.aimbangla.com.bd
 :: www.facebook.cm
+:: www.facebook.com-marketplace-45657784.lefn.cl
 :: www.facebook.com.dep39.ru
 :: www.facebook.com.mlkdwu.com
 :: www.facebook.com.myhr.app.aruntest.shnpoc.net
@@ -111910,7 +112002,6 @@ ff02::3 ip6-allhosts
 :: www.fastlink.pl
 :: www.fastpillshop.ru
 :: www.fastpool.xyz
-:: www.fasttuning.kiev.ua
 :: www.fastusersonline.com
 :: www.fasulo.org
 :: www.fata.ero-advertising.com
@@ -111922,6 +112013,7 @@ ff02::3 ip6-allhosts
 :: www.faucet.works
 :: www.fauscet.burst-team.us
 :: www.fayloobmennik.net
+:: www.fb-id6366.market-place-item75463.infinityit.mx
 :: www.fb-szpieguj.likesyou.org
 :: www.fbfd396918c60838.com
 :: www.fbhrobud.pl
@@ -111939,6 +112031,7 @@ ff02::3 ip6-allhosts
 :: www.feitianma.com
 :: www.feixin2.com
 :: www.feiyang163.com
+:: www.feliz-2020-agora-top.com
 :: www.fenixsiennica.pl
 :: www.fennerdunlopamericas.com
 :: www.fenoria.pl
@@ -112400,6 +112493,7 @@ ff02::3 ip6-allhosts
 :: www.gerichtszeichnungen.de
 :: www.gerkencapiital.com
 :: www.germistonmiraclecentre.co.za
+:: www.gesical.com
 :: www.gest24.pl
 :: www.get-quadcleaner.com
 :: www.getadmiral.com
@@ -112476,6 +112570,7 @@ ff02::3 ip6-allhosts
 :: www.glinkss.com
 :: www.gllik.pl
 :: www.global-ambassadors.org
+:: www.globaladv.net
 :: www.globalbuffer.com
 :: www.globalcharge.com
 :: www.globalcontact.pl
@@ -112517,7 +112612,6 @@ ff02::3 ip6-allhosts
 :: www.goggl.com
 :: www.goggle.com
 :: www.goiptech.com
-:: www.goisproperty.com
 :: www.gojiberry500.pl
 :: www.gok.wladyslawow.pl
 :: www.golbola8.com
@@ -112618,6 +112712,7 @@ ff02::3 ip6-allhosts
 :: www.greengaming.de
 :: www.greenproduction.pl
 :: www.greenr.pl
+:: www.greenseedhome.com
 :: www.greenshot.fr
 :: www.greentools.com.tr
 :: www.greerlies.pro
@@ -112785,6 +112880,7 @@ ff02::3 ip6-allhosts
 :: www.hduxeodjdhry.com
 :: www.headlinecamp.com
 :: www.headshok.pl
+:: www.healmedicaltrauma.com
 :: www.health-beauty.press
 :: www.health-line.me
 :: www.health-partner.net
@@ -112806,6 +112902,7 @@ ff02::3 ip6-allhosts
 :: www.hellburn.ru
 :: www.hellosilk.com
 :: www.helltraffic.com
+:: www.help.com-network.in
 :: www.help.qpool.info
 :: www.helpdesk-tech.com
 :: www.helpercheckerextt.biz
@@ -112851,6 +112948,7 @@ ff02::3 ip6-allhosts
 :: www.hilltopads.net
 :: www.himandy.com
 :: www.hipnozawpolsce.pl
+:: www.hippotoursrwanda.com
 :: www.hisense.cn
 :: www.hisense.com
 :: www.histats.com
@@ -112890,7 +112988,6 @@ ff02::3 ip6-allhosts
 :: www.holzrueckewagen.de
 :: www.homecrafts.pk
 :: www.homeexpres.net
-:: www.homejeffery.com
 :: www.homemedia.in.net
 :: www.homesplus.nf.net
 :: www.homody.com
@@ -112930,6 +113027,7 @@ ff02::3 ip6-allhosts
 :: www.hotgiftzone.com
 :: www.hothub.pl
 :: www.hotjar.com
+:: www.hotlinkie.com
 :: www.hotlog.ru
 :: www.hotpool.co
 :: www.hotpool.com
@@ -112946,7 +113044,7 @@ ff02::3 ip6-allhosts
 :: www.hrmining.pro
 :: www.hrtya.com
 :: www.hs.appsdorado.com
-:: www.hsb.c-unlock.co.uk
+:: www.hsmok.com
 :: www.hsselite.com
 :: www.ht8n8.voluumtrk.com
 :: www.htgpsnbtha.com
@@ -112965,6 +113063,7 @@ ff02::3 ip6-allhosts
 :: www.huobipool.com
 :: www.hurtowniagmf.pl
 :: www.hurtowniaolenka.pl
+:: www.hurtq.com
 :: www.hvpps.net
 :: www.hxcav77.com
 :: www.hxtrack.com
@@ -113009,7 +113108,6 @@ ff02::3 ip6-allhosts
 :: www.icopool.club
 :: www.icp.edu.pk
 :: www.icsagency.ro
-:: www.icscards-actualiteit.web4921.cweb02.gamingweb.de
 :: www.icscards-actueel.web4922.cweb02.gamingweb.de
 :: www.id-apple.eu
 :: www.iddqd.vip
@@ -113034,6 +113132,7 @@ ff02::3 ip6-allhosts
 :: www.igame4free.com
 :: www.igbcolombia.com
 :: www.igforfiverr.com
+:: www.ihostone.com
 :: www.ihydroflaskshop.com
 :: www.iiewl.com
 :: www.ijerd.com
@@ -113110,6 +113209,7 @@ ff02::3 ip6-allhosts
 :: www.infra-builders.com
 :: www.infra.by
 :: www.infraguruproperty.com
+:: www.ingdirect-banco.com
 :: www.inglesenveranoenjavea.com
 :: www.inizia.fr
 :: www.inkscape.es
@@ -113242,7 +113342,6 @@ ff02::3 ip6-allhosts
 :: www.italocoin.com
 :: www.italyiimp.com
 :: www.itam.hashparty.net
-:: www.itausecuritysmscheck.com
 :: www.itc.cryptominer.net
 :: www.itcity.pl
 :: www.itefaq-ps.com
@@ -113252,7 +113351,6 @@ ff02::3 ip6-allhosts
 :: www.itrackerpro.com
 :: www.itstublife.com
 :: www.itunes.com.srnve.cn
-:: www.itunes.mail.reuan.cn
 :: www.itunes.mail.ryawqu.cn
 :: www.itvwro.pl
 :: www.iubenda.com
@@ -113309,6 +113407,7 @@ ff02::3 ip6-allhosts
 :: www.japscat.org
 :: www.japtron.es
 :: www.jaragua.moda
+:: www.jared-palmer.com
 :: www.jasnyogrod.pl
 :: www.jasonb.net
 :: www.jaster.pl
@@ -113470,6 +113569,7 @@ ff02::3 ip6-allhosts
 :: www.kardborren.se
 :: www.kardiolog-luberda.pl
 :: www.karencupp.com
+:: www.karmar.com.au
 :: www.karnatakanewstoday.com
 :: www.karokorale.pl
 :: www.karolinabuczek.pl
@@ -113497,6 +113597,7 @@ ff02::3 ip6-allhosts
 :: www.keenbuty.pl
 :: www.keepass.com
 :: www.keepass.fr
+:: www.keepaustinonline.com
 :: www.keepitavocado.com
 :: www.keepload.online
 :: www.keeprunning.pl
@@ -113546,6 +113647,7 @@ ff02::3 ip6-allhosts
 :: www.kipcoin.org
 :: www.kirala.az
 :: www.kiramine.com
+:: www.kiri-coaching.com
 :: www.kiri.com.au
 :: www.kirstenbijlsma.com
 :: www.kishazy.hu
@@ -113680,7 +113782,6 @@ ff02::3 ip6-allhosts
 :: www.kurtkacgallegro.com
 :: www.kurtkiwyprzedaz.pl
 :: www.kushalnaik.net
-:: www.kutxakultur.eus
 :: www.kuwikciesielski.pl
 :: www.kuzniamagii.pl
 :: www.kw.ads.justpremium.com
@@ -113775,6 +113876,7 @@ ff02::3 ip6-allhosts
 :: www.leafcreative.pl
 :: www.leafdesign.jp
 :: www.leafpool.com
+:: www.leamar.com
 :: www.learnatiq.com
 :: www.learning2excel.com
 :: www.lebakwatery.pl
@@ -113793,6 +113895,7 @@ ff02::3 ip6-allhosts
 :: www.lemonparty.org
 :: www.leninsubscribe.com
 :: www.lenzmx.com
+:: www.leoclix.in
 :: www.leonardopivi.it
 :: www.leonardoveronesi.com
 :: www.leonbergery.com.pl
@@ -113820,7 +113923,6 @@ ff02::3 ip6-allhosts
 :: www.licensedwholesalesportsgifts.com
 :: www.liceopaulina.cl
 :: www.liceumjp2glowno.pl
-:: www.lidermap.net
 :: www.life-star.pl
 :: www.lifeforminc.com
 :: www.lifehackz.net
@@ -113845,10 +113947,10 @@ ff02::3 ip6-allhosts
 :: www.limkon.com
 :: www.limpotools.com
 :: www.linaconnect.com
+:: www.lindgreens.dk
 :: www.lindsayopiyo.com
 :: www.line-pool.ru
 :: www.linea-herba.it
-:: www.linea1s.com
 :: www.linezing.com
 :: www.linkconnector.com
 :: www.linkcounter.com
@@ -113868,13 +113970,13 @@ ff02::3 ip6-allhosts
 :: www.linkwithin.com
 :: www.linkz.it
 :: www.linnlilja.se
+:: www.linp.ir
 :: www.linse.ga
 :: www.linux145858.speedup-faucet.com
 :: www.linuxpoludzku.pl
 :: www.linx.mastermining.net
 :: www.lionagency.sk
 :: www.lionsclubpaderno.it
-:: www.liquidacaodeprodutos2020.com
 :: www.liqwid.net
 :: www.liteapp.mobi
 :: www.litebar.mastermining.net
@@ -113976,7 +114078,6 @@ ff02::3 ip6-allhosts
 :: www.loveaholics.com
 :: www.lowaosan.com
 :: www.lowes-pianos-and-organs.com
-:: www.loyaltyrewards.zone
 :: www.lp-site.com
 :: www.lp.aquaeng.ru
 :: www.lp7.pl
@@ -113998,7 +114099,6 @@ ff02::3 ip6-allhosts
 :: www.lubinco.co.il
 :: www.luchtenbergdecor.com.br
 :: www.lucitrip.com
-:: www.luciusvista.icu
 :: www.luckpool.net
 :: www.luckpool.org
 :: www.lucky-day-uk.com
@@ -114058,6 +114158,7 @@ ff02::3 ip6-allhosts
 :: www.maendo.tv
 :: www.maestrokolo.pl
 :: www.magadownloader.com
+:: www.magaluliquidando.com
 :: www.magaluoff.com
 :: www.magaluuqueimatotal.com
 :: www.magdalenatul.pl
@@ -114097,7 +114198,6 @@ ff02::3 ip6-allhosts
 :: www.majorminers.com
 :: www.makanaliabadian.ir
 :: www.makarenagaski.pl
-:: www.makepower.co.in
 :: www.makingcreatives.com
 :: www.maksymrzeminski.pl
 :: www.malayporn.me
@@ -114172,7 +114272,6 @@ ff02::3 ip6-allhosts
 :: www.massabola.com
 :: www.mastaros.com
 :: www.master.burst-alliance.org
-:: www.mastergrouphldg.com
 :: www.mastermindconseil.com
 :: www.mastermine.eu
 :: www.mastermining.net
@@ -114286,7 +114385,6 @@ ff02::3 ip6-allhosts
 :: www.megawinners.mobi
 :: www.megazakupy.net
 :: www.megolbassia.com
-:: www.meihuitech.com
 :: www.meipian7.cn
 :: www.meitumq.com
 :: www.meitustat.com
@@ -114338,7 +114436,6 @@ ff02::3 ip6-allhosts
 :: www.mhthemes.com
 :: www.mhubthailand.com
 :: www.miami.ero-advertising.com
-:: www.miamibrokersgroup.com
 :: www.miamism.com
 :: www.mibpool.com
 :: www.micepool.com
@@ -114470,6 +114567,7 @@ ff02::3 ip6-allhosts
 :: www.miningrigrentals.com
 :: www.mininh.bitcoin.cz
 :: www.minipensjonatadmiral.pl
+:: www.ministonshastor.com
 :: www.minkssalon.com
 :: www.minmissy.gq
 :: www.minning.bitcoin.cz
@@ -114483,6 +114581,7 @@ ff02::3 ip6-allhosts
 :: www.mirago.com
 :: www.mirest.com
 :: www.misericordia.pistoia.it
+:: www.misrecetasnaturales.com
 :: www.missinsomnia.pl
 :: www.missionoutreachcowboychurch.org
 :: www.missionpanelset.com
@@ -114555,6 +114654,7 @@ ff02::3 ip6-allhosts
 :: www.modelalfa.pl
 :: www.modelkompetencyjny.pl
 :: www.modello.co.il
+:: www.modernsteelbd.com
 :: www.modernwholesaledistributorandsales.com
 :: www.modertec.com
 :: www.modipool.com
@@ -114659,6 +114759,7 @@ ff02::3 ip6-allhosts
 :: www.mrj.co.za
 :: www.mrlerone.com
 :: www.mrscrosters.s360.is
+:: www.mrta-pinkline.com
 :: www.ms-mvp.org
 :: www.msg-2.me
 :: www.mshelp247.weebly.com
@@ -114730,6 +114831,7 @@ ff02::3 ip6-allhosts
 :: www.mycossco.com
 :: www.mycpvlife.com
 :: www.mydati.com
+:: www.mydevsystems.com
 :: www.mydiabetycy.pl
 :: www.mydocomoab.com
 :: www.mydocomocopt.org
@@ -114747,6 +114849,7 @@ ff02::3 ip6-allhosts
 :: www.myishop.co.uk
 :: www.myjustyworld.pl
 :: www.mykingdombooks.com
+:: www.myllvv.top
 :: www.mylonasparts.gr
 :: www.mylovecards.com
 :: www.mymilitarytravel.com
@@ -114758,6 +114861,7 @@ ff02::3 ip6-allhosts
 :: www.myornamenti.com
 :: www.mypagerank.net
 :: www.myphonephreak.com
+:: www.mypostolamyzion.mobi
 :: www.myreferer.com
 :: www.myrobotearn.top
 :: www.mysafemarket.com
@@ -114878,6 +114982,7 @@ ff02::3 ip6-allhosts
 :: www.netcscape.com
 :: www.netdirect.nl
 :: www.netfilmy.pl
+:: www.netflixbillingcycle.netflixnoname.com
 :: www.netgearrouterhelp.com
 :: www.netleaders.com
 :: www.netman.plus.com
@@ -114905,7 +115010,6 @@ ff02::3 ip6-allhosts
 :: www.newcryptogift.com
 :: www.neweed.org
 :: www.newfilending.com
-:: www.newjoysf.org
 :: www.newlimitedoffer.com
 :: www.newmediaz.com
 :: www.newpassporn.com
@@ -115024,6 +115128,7 @@ ff02::3 ip6-allhosts
 :: www.notification-list.com
 :: www.notmining.org
 :: www.notoaharmony.com
+:: www.notonlywork.com
 :: www.notostaphy.com.ph
 :: www.nourpool.net
 :: www.nova.mastermining.net
@@ -115126,7 +115231,6 @@ ff02::3 ip6-allhosts
 :: www.odysseypremier.com
 :: www.oei1.gq
 :: www.oemzjlekhzq.com
-:: www.ofertasdalu2020.com
 :: www.off---line.com
 :: www.offerent.com
 :: www.offerte-crociere.com
@@ -115313,6 +115417,7 @@ ff02::3 ip6-allhosts
 :: www.out365officeit.com
 :: www.outbrain.com
 :: www.outdoorsporting.com
+:: www.outletlakebuenavista.com.br
 :: www.outletowo.com
 :: www.outlinearray.com
 :: www.outlookemailsetup.com
@@ -115478,6 +115583,7 @@ ff02::3 ip6-allhosts
 :: www.pearlestate.co.in
 :: www.pecadol.xyz
 :: www.pececitos.com
+:: www.pedacinhodefriburgo.com.br
 :: www.pedalowaniezsensem.pl
 :: www.pedidoslalacteo.com.ar
 :: www.pegascoin.xyz
@@ -115548,6 +115654,7 @@ ff02::3 ip6-allhosts
 :: www.pieiron.co.uk
 :: www.pierre-lang.com
 :: www.piestv.pl
+:: www.pietd.com
 :: www.pigeoncoin.org
 :: www.pijatsehat.net
 :: www.pikacn.com
@@ -115564,6 +115671,7 @@ ff02::3 ip6-allhosts
 :: www.pinion.gg
 :: www.pinkheater.com
 :: www.pinkstar.pl
+:: www.pinnerx.com
 :: www.pintour.com
 :: www.pioncoin.org
 :: www.pioneer-audiovisual.eu
@@ -115798,6 +115906,7 @@ ff02::3 ip6-allhosts
 :: www.postnewsads.com
 :: www.pot.mastermining.net
 :: www.pot.suremine.com
+:: www.pourvoir.ca
 :: www.pousadavivenda.com.br
 :: www.pow-coin.com
 :: www.powerfactorsaver.com
@@ -115827,7 +115936,6 @@ ff02::3 ip6-allhosts
 :: www.praktykiplus.pl
 :: www.pramodkumarsingh.000webhostapp.com
 :: www.pranichealers.asn.au
-:: www.prastyj.com
 :: www.prawdziwyrozwoj.pl
 :: www.prawoibezprawie.pl
 :: www.pray.priests.top
@@ -115862,7 +115970,6 @@ ff02::3 ip6-allhosts
 :: www.pricelist.net
 :: www.pricingplatform.eu
 :: www.priests.top
-:: www.primadollar.com
 :: www.primalscreen.com.au
 :: www.primaryschoolsites.com
 :: www.primepenguin.com
@@ -116120,6 +116227,7 @@ ff02::3 ip6-allhosts
 :: www.rad.msn.com
 :: www.radioaurorasertaneja.com.br
 :: www.radiorage.com
+:: www.radzikowski.net.pl
 :: www.raeducation.com
 :: www.rafaelgalindo.com
 :: www.rafflecopter.com
@@ -116131,7 +116239,7 @@ ff02::3 ip6-allhosts
 :: www.rajdysamochodowe.pl
 :: www.rakietowaliga.pl
 :: www.rakuten-contect-japan-servicc.com
-:: www.rakuten.co.jp.583cf6a4542809a64ad14586ec00ebe0.net
+:: www.rakuten.co.jp.rakut78minhykuenxaen.net
 :: www.rallysteam.pl
 :: www.ralphlaurenkolekta.pl
 :: www.ramgarhiamatrimonial.ca
@@ -116356,6 +116464,7 @@ ff02::3 ip6-allhosts
 :: www.rich.co.ke
 :: www.richieste-telematiche.info
 :: www.richtenberg.be
+:: www.richware.com.tw
 :: www.rickparty.com
 :: www.rickrolling.com
 :: www.ridefox.com
@@ -116435,7 +116544,6 @@ ff02::3 ip6-allhosts
 :: www.royalbet90.win
 :: www.royalcaribbeanbeddingcollection.com
 :: www.royalestate.com.pl
-:: www.royalsrajasthantours.com
 :: www.roypatrickmusic.com
 :: www.roznehistorie.pl
 :: www.rozpalamynadzieje.pl
@@ -116641,7 +116749,6 @@ ff02::3 ip6-allhosts
 :: www.secondome.com
 :: www.secretbehindporn.com
 :: www.secretblog.de
-:: www.secu-finaanceclient.u6102933ih.ha004.t.justns.ru
 :: www.secure.adnxs.com
 :: www.secure.bitcoin.com
 :: www.secure.cryptominer.net
@@ -116679,6 +116786,7 @@ ff02::3 ip6-allhosts
 :: www.sellsilverny.com
 :: www.sem.juiceadv.com
 :: www.semnaniau.ac.ir
+:: www.sen-bank-japanpost-om.com
 :: www.sendfwd.com
 :: www.sendori.com
 :: www.seobar.pl
@@ -116727,7 +116835,6 @@ ff02::3 ip6-allhosts
 :: www.shadyacresminis.bravepages.com
 :: www.shael.org
 :: www.shagher-jobs.com
-:: www.shailtech.com
 :: www.shalom.it
 :: www.shalomhotel.com.br
 :: www.shandimm.com
@@ -116765,6 +116872,7 @@ ff02::3 ip6-allhosts
 :: www.shop.speedup-faucet.com
 :: www.shop4socials.thats.im
 :: www.shopathome.com
+:: www.shophunt.in
 :: www.shoppingminds.net
 :: www.shopsearch.my
 :: www.shopstylecollective.com
@@ -116954,6 +117062,7 @@ ff02::3 ip6-allhosts
 :: www.sn.wafflepool.com
 :: www.snap.cba.pl
 :: www.snapads.com
+:: www.snapchat.tel
 :: www.snaphackonline.com
 :: www.sneakersshop.pl
 :: www.sneakersypuma.pl
@@ -117218,7 +117327,6 @@ ff02::3 ip6-allhosts
 :: www.steptrans.cz
 :: www.steroidsworld.pl
 :: www.steveclayton.com
-:: www.steviaworldforum.com
 :: www.stevija.pl
 :: www.stex.com
 :: www.stg.tapad.com
@@ -117513,6 +117621,7 @@ ff02::3 ip6-allhosts
 :: www.tecal.co
 :: www.teccenter.xyz
 :: www.techbargins.com
+:: www.techcitycanada.ca
 :: www.techconfigformat.com
 :: www.techdailyinfo.net
 :: www.techexpertsolution.com
@@ -117549,6 +117658,7 @@ ff02::3 ip6-allhosts
 :: www.telecommand.telemetry.microsoft.com
 :: www.telecommand.telemetry.microsoft.com.nsatc.net
 :: www.telefon-50-zl.is-best.net
+:: www.telefonia-celulares-pela-metade.com
 :: www.telemediaa.pl
 :: www.telemetry.appex.bing.net
 :: www.telemetry.microsoft.com
@@ -117636,7 +117746,6 @@ ff02::3 ip6-allhosts
 :: www.theminerspond.com
 :: www.theminingpool.online
 :: www.theminingpool.thruhere.net
-:: www.themodernreligion.ru
 :: www.themovienation.com
 :: www.thenorthfacepl.pl
 :: www.thenorthfacesklep.pl
@@ -117690,6 +117799,7 @@ ff02::3 ip6-allhosts
 :: www.tiande.ru
 :: www.tiande.wroclaw.pl
 :: www.tiandepolska.pl
+:: www.tibelec.fr
 :: www.tickets.bg
 :: www.ticketszones.com
 :: www.tiendatresort.com.vn
@@ -117746,6 +117856,7 @@ ff02::3 ip6-allhosts
 :: www.tonyhernandezstudios.com
 :: www.tonyspastelportraits.com
 :: www.toochattoo.com
+:: www.tools4media.us
 :: www.toon-families.com
 :: www.toonfamilies.net
 :: www.top-oferty.net
@@ -117920,6 +118031,7 @@ ff02::3 ip6-allhosts
 :: www.trybikowo.pl
 :: www.trzywolnemysli.pl
 :: www.tsgonline.com
+:: www.tsiban.com
 :: www.ttcdn.cn
 :: www.ttyyuuoo.com
 :: www.tuassouthdormitory.com.sg
@@ -118179,6 +118291,7 @@ ff02::3 ip6-allhosts
 :: www.valuedopinions.sg
 :: www.valuehost.co.uk
 :: www.valuesmatter.com.au
+:: www.vamosinovarsuacozinhadonadecasa.com
 :: www.vanachte.be
 :: www.vandenabeele.be
 :: www.vanessajackson.co.uk
@@ -118272,6 +118385,7 @@ ff02::3 ip6-allhosts
 :: www.viewerfb.glt.pl
 :: www.viewrun.co.kr
 :: www.viewthroughmedia.com
+:: www.vigneshfruits.com
 :: www.viladobrasil.com.br
 :: www.vilaglato.info
 :: www.vilastefania.go.ro
@@ -118330,6 +118444,7 @@ ff02::3 ip6-allhosts
 :: www.vnotrk.com
 :: www.vntanktransport.com
 :: www.voce-pode-comprar.com
+:: www.vodafones.pw
 :: www.vodplay.pl
 :: www.vogelsang-net.de
 :: www.voiceads.cn
@@ -118600,6 +118715,7 @@ ff02::3 ip6-allhosts
 :: www.wolfpackbot.com
 :: www.wolnezycie.info
 :: www.womenempowermentpakistan.com
+:: www.wonderwhistle.co.uk
 :: www.wooboo.com.cn
 :: www.wood-mode.com
 :: www.woodartguru.com
@@ -118609,7 +118725,6 @@ ff02::3 ip6-allhosts
 :: www.workforcedqc.org
 :: www.workforus.pl
 :: www.worldata.com
-:: www.worldblender.com
 :: www.worldinfoclub.com
 :: www.worldoftankscheats.com
 :: www.worldplant.ru
@@ -118619,7 +118734,6 @@ ff02::3 ip6-allhosts
 :: www.worryfreecomputers.com
 :: www.wow.codpool.com
 :: www.wow.ero-advertising.com
-:: www.wowedits.com
 :: www.wowholst.ru
 :: www.wowtrk.com
 :: www.wp-lnter.com
@@ -118754,6 +118868,7 @@ ff02::3 ip6-allhosts
 :: www.xbtitfm.com
 :: www.xca.codpool.com
 :: www.xcash.rubypool.com
+:: www.xcnotes.com
 :: www.xdadevelopers.browsi.mobi
 :: www.xdagmine.com
 :: www.xddwwyfvpwh.com
@@ -118818,7 +118933,6 @@ ff02::3 ip6-allhosts
 :: www.xn--fitflopsanday-7hc.pl
 :: www.xn--googl-fsa.xyz
 :: www.xn--pandorabiuteria-qkd.pl
-:: www.xn--rembours-i1a.be
 :: www.xolod-teplo.ru
 :: www.xoreha84.bid
 :: www.xotiqeventspvtltd.com
@@ -119060,6 +119174,7 @@ ff02::3 ip6-allhosts
 :: www.zinzino.com
 :: www.ziololecznictwo.pl
 :: www.zjednoczonekrolestwo.pl
+:: www.zkbonline.com
 :: www.zkotami.pl
 :: www.zl1.quebec-bin.com
 :: www.zlx.com.br
@@ -119181,7 +119296,6 @@ ff02::3 ip6-allhosts
 :: www2.amazon.co.jp.anuirtyvcbnbmoi12oiubmyi.biz
 :: www2.amazon.co.jp.anuirtyvcbnbmoi12oiubmyi.org
 :: www2.amazon.co.jp.asvnbvmtyuiytv13ytuv.buzz
-:: www2.amazon.co.jp.sadvbnghteryyu12-vcbcvb.com
 :: www2.anybestconcreteflash.icu
 :: www2.autopartswarehouse.com
 :: www2.branch.io
@@ -119197,6 +119311,7 @@ ff02::3 ip6-allhosts
 :: www2.gorillavid.in
 :: www2.hitslink.com
 :: www2.juicyads.com
+:: www2.katedraljakarta.or.id
 :: www2.leadingedgecash.com
 :: www2.liveads.jp
 :: www2.minerpool.net
@@ -119357,7 +119472,6 @@ ff02::3 ip6-allhosts
 :: wwwal.com
 :: wwwalaskaair.com
 :: wwwaolmail.com
-:: wwwazmonzz.jirisanfarm.com
 :: wwwbigfoot.com
 :: wwwbluemountian.com
 :: wwwbudget.com
@@ -121417,7 +121531,6 @@ ff02::3 ip6-allhosts
 :: youplay2019now.com
 :: youpool.io
 :: youporn.sexy
-:: youprofit.bu2rent.ru
 :: your-bestsex-here1.com
 :: your-counter.be
 :: your-free-hack.com
@@ -122657,7 +122770,7 @@ ff02::3 ip6-allhosts
 :: zonadigitalmx.com
 :: zonasegurabcp.bcpenlinea.cloudns.cc
 :: zonasegurasbeta.com
-:: zonasequrabetabcp.viacbp.xyz
+:: zonasegvrabeta.bcpalertas.com
 :: zonawm.biz.popunder.ru
 :: zone-telechargement1.online
 :: zone.uniad.vn

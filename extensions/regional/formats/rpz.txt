@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.02.052
-; Release: 052
-; Entries: 63,433
+; Version: 20.02.053
+; Release: 053
+; Entries: 63,453
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 18:14:04
+; Updated: Sat, 22 Feb 20 00:15:00
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -8777,6 +8777,7 @@ catwhatsup.org CNAME .
 catwrite.com CNAME .
 caucqpoeg.com CNAME .
 caughinga.info CNAME .
+cauthuny.net CNAME .
 cavdzowr.com CNAME .
 cavixoapp.com CNAME .
 cawcowbar.online CNAME .
@@ -11274,6 +11275,7 @@ d3al52d8cojds7.cloudfront.net CNAME .
 d3alijertxiv6b.cloudfront.net CNAME .
 d3asksgk2foh5m.cloudfront.net CNAME .
 d3ax6xygyb5hn9.cloudfront.net CNAME .
+d3b2hhehkqd158.cloudfront.net CNAME .
 d3b4x0ran5qs0c.cloudfront.net CNAME .
 d3b75cfc88a9.com CNAME .
 d3c8l61zd5ltf8.cloudfront.net CNAME .
@@ -12879,6 +12881,7 @@ duggiads.com CNAME .
 duginamis.com CNAME .
 dugqbllwslqrlj.com CNAME .
 dugtor-deer.pw CNAME .
+duhochid.net CNAME .
 duhtate.ru CNAME .
 dujbubzvrdw.com CNAME .
 dulderbulder.com CNAME .
@@ -13373,6 +13376,7 @@ edo5.com CNAME .
 edomz.com CNAME .
 edomz.net CNAME .
 edonat.com CNAME .
+edoutoam.net CNAME .
 edrone.me CNAME .
 edsnnfqazn.com CNAME .
 edua29146y.com CNAME .
@@ -13671,6 +13675,7 @@ emkarto.fun CNAME .
 emlifok.info CNAME .
 emmi-findet.de CNAME .
 emnodar.ru CNAME .
+emoneyspace.com CNAME .
 emooji.com CNAME .
 emoteev.io CNAME .
 empire.streamelite.net CNAME .
@@ -19430,6 +19435,7 @@ iplrcmff.com CNAME .
 ipluhckk.com CNAME .
 ipmarte.ru CNAME .
 ipml-qvr8go.ru CNAME .
+ipnamtuezkwi.com CNAME .
 ipncblpgxlhjpc.com CNAME .
 ipnyx.com CNAME .
 ipoker.com CNAME .
@@ -21470,6 +21476,7 @@ kuaizuoffice.com CNAME .
 kuangtuiguoo18888.com CNAME .
 kubichpbtjdvo.com CNAME .
 kuchebraska.com CNAME .
+kudzuphloemgunk.tech CNAME .
 kueofwt.cn CNAME .
 kug-74.com CNAME .
 kuheju.com CNAME .
@@ -22256,6 +22263,7 @@ linkelevator.com CNAME .
 linker.hr CNAME .
 linkerfast.ru CNAME .
 linkerlink.ru CNAME .
+linkev.com CNAME .
 linkexchange.com CNAME .
 linkexchange.ru CNAME .
 linkexchangers.net CNAME .
@@ -23076,6 +23084,7 @@ lykuxkxsvvnxqd.com CNAME .
 lylxuot.pltqbcgsq.biz CNAME .
 lymstsc.com CNAME .
 lynbrookoriska.com CNAME .
+lynormationpas.info CNAME .
 lynoron.ru CNAME .
 lynsvdabds.com CNAME .
 lyon.kim CNAME .
@@ -23947,6 +23956,7 @@ megawmr.ru CNAME .
 megdexchange.com CNAME .
 megogo.1ru.tv CNAME .
 meguanha.com CNAME .
+mehhueboy.club CNAME .
 meicubao.cn CNAME .
 meilides.com CNAME .
 meimeidaren.com CNAME .
@@ -24763,6 +24773,7 @@ moydato.info CNAME .
 moyka66.ru CNAME .
 mozefakt.com CNAME .
 mozgup.ru CNAME .
+mozgvya.com CNAME .
 mozist.com CNAME .
 mozoo.com CNAME .
 mozoo.go2cloud.org CNAME .
@@ -25470,6 +25481,7 @@ nbzq.net CNAME .
 ncachear.com CNAME .
 ncafclpip.com CNAME .
 ncbqi.com CNAME .
+ncefoundanges.info CNAME .
 nchs.edu.lk CNAME .
 nchte.com CNAME .
 nchxiaxafowid.com CNAME .
@@ -26667,6 +26679,7 @@ obrayxknu.com CNAME .
 obraz-dam.ru CNAME .
 observativus.com CNAME .
 obsespa.ru CNAME .
+obstanceder.pro CNAME .
 obthqxbm.com CNAME .
 obufquwiwy.com CNAME .
 obuynits.ru CNAME .
@@ -26799,6 +26812,7 @@ of.downpit.com CNAME .
 of8wzl97iq.tk CNAME .
 ofajzowbwzzi.com CNAME .
 ofapes.com CNAME .
+ofbapmmo.com CNAME .
 ofbqjpaamioq.com CNAME .
 ofd.meng-an.cn CNAME .
 ofdfinqurwpi.com CNAME .
@@ -31025,6 +31039,7 @@ quickmoneyanswers.org CNAME .
 quicksense.net CNAME .
 quicktask.xyz CNAME .
 quideo.men CNAME .
+quilee.pw CNAME .
 quilithly.co CNAME .
 quinstreet.com CNAME .
 quisma.com CNAME .
@@ -32131,6 +32146,7 @@ robaduvulo.com CNAME .
 robcalwith.ru CNAME .
 robcohatru.ru CNAME .
 robimobi.com CNAME .
+robjamguy.club CNAME .
 robjusrew.com CNAME .
 robocat.me CNAME .
 robotadserver.com CNAME .
@@ -36057,6 +36073,7 @@ thigeeph.com CNAME .
 thighiny.com CNAME .
 thikraik.net CNAME .
 thiksikr.com CNAME .
+thimoaph.net CNAME .
 thirgoad.top CNAME .
 thiscdn.com CNAME .
 thisclick.network CNAME .
@@ -38038,6 +38055,7 @@ uohpnvpynvsz.com CNAME .
 uohz.cn CNAME .
 uoicsyuiof.com CNAME .
 uoifloesog.com CNAME .
+uojjfspxqcyik.com CNAME .
 uoldid.ru CNAME .
 uoommnucvua.com CNAME .
 uoottsfgy.com CNAME .
@@ -39001,6 +39019,7 @@ viralfix.net CNAME .
 viralmails.de CNAME .
 viralmediatech.com CNAME .
 viralvana.com CNAME .
+virashux.net CNAME .
 virgbmkmear.com CNAME .
 viriepak.com CNAME .
 virsalor.xyz CNAME .
@@ -62114,6 +62133,7 @@ ympkaxpaf.com CNAME .
 ymsutnllwwcm.com CNAME .
 ymtracking.com CNAME .
 ymuhybbrk.com CNAME .
+ymuoqhmhnifzl.com CNAME .
 ymvkirvjqgha.com CNAME .
 ymwcfopsie.com CNAME .
 ymwvkruyidppb.com CNAME .

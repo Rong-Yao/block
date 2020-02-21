@@ -1,8 +1,8 @@
 # Title: antipopads Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
-# Last Converted - 21.02.2020
-# Total Domains - 11316
+# Last Converted - 22.02.2020
+# Total Domains - 11320
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4226,6 +4226,7 @@
 0.0.0.0 ipllxfcftp.com
 0.0.0.0 iplrcmff.com
 0.0.0.0 ipluhckk.com
+0.0.0.0 ipnamtuezkwi.com
 0.0.0.0 ipncblpgxlhjpc.com
 0.0.0.0 ipndulsempjgb.bid
 0.0.0.0 ipntpfokhkrh.com
@@ -7073,6 +7074,7 @@
 0.0.0.0 oexupdqy.bid
 0.0.0.0 oezgivtasc.com
 0.0.0.0 ofajzowbwzzi.com
+0.0.0.0 ofbapmmo.com
 0.0.0.0 ofbqjpaamioq.com
 0.0.0.0 ofdfinqurwpi.com
 0.0.0.0 ofdybheqahjamq.bid
@@ -10119,6 +10121,7 @@
 0.0.0.0 uohpnvpynvsz.com
 0.0.0.0 uoicsyuiof.com
 0.0.0.0 uoifloesog.com
+0.0.0.0 uojjfspxqcyik.com
 0.0.0.0 uoommnucvua.com
 0.0.0.0 uopayiycy.com
 0.0.0.0 uoqktpjfrctroa.com
@@ -10961,6 +10964,7 @@
 0.0.0.0 ymhqeelitngcr.com
 0.0.0.0 ympkaxpaf.com
 0.0.0.0 ymsutnllwwcm.com
+0.0.0.0 ymuoqhmhnifzl.com
 0.0.0.0 ymwvkruyidppb.com
 0.0.0.0 ymzrrizntbhde.com
 0.0.0.0 ymztsuzm.com

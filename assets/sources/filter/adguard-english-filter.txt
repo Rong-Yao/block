@@ -1,8 +1,8 @@
 # Title: adguard-english-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
-# Last Converted - 21.02.2020
-# Total Domains - 18397
+# Last Converted - 22.02.2020
+# Total Domains - 18414
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3327,6 +3327,7 @@
 0.0.0.0 catwrite.com
 0.0.0.0 caucqpoeg.com
 0.0.0.0 caughinga.info
+0.0.0.0 cauthuny.net
 0.0.0.0 cavdzowr.com
 0.0.0.0 caxiqapecuop.com
 0.0.0.0 caxvm62zyz.com
@@ -4327,6 +4328,7 @@
 0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3asksgk2foh5m.cloudfront.net
 0.0.0.0 d3ax6xygyb5hn9.cloudfront.net
+0.0.0.0 d3b2hhehkqd158.cloudfront.net
 0.0.0.0 d3b75cfc88a9.com
 0.0.0.0 d3cesrg5igdcgt.cloudfront.net
 0.0.0.0 d3d52lhoy0sh2w.cloudfront.net
@@ -5012,6 +5014,7 @@
 0.0.0.0 duchoono.com
 0.0.0.0 duetads.com
 0.0.0.0 dugqbllwslqrlj.com
+0.0.0.0 duhochid.net
 0.0.0.0 dujbubzvrdw.com
 0.0.0.0 dulderbulder.com
 0.0.0.0 dulrlifipkbac.com
@@ -5233,6 +5236,7 @@
 0.0.0.0 edlsdyhll.com
 0.0.0.0 ednplus.com
 0.0.0.0 edomz.net
+0.0.0.0 edoutoam.net
 0.0.0.0 edsnnfqazn.com
 0.0.0.0 eduyzcjsnoeokj.com
 0.0.0.0 edvforeveretest.info
@@ -5373,6 +5377,7 @@
 0.0.0.0 emented.pro
 0.0.0.0 emkarto.fun
 0.0.0.0 emlifok.info
+0.0.0.0 emoneyspace.com
 0.0.0.0 empiremoney.com
 0.0.0.0 emptyspaceads.com
 0.0.0.0 emqeafoztotu.com
@@ -5921,6 +5926,7 @@
 0.0.0.0 fiwatmctnaqec.com
 0.0.0.0 fixionmedia.com
 0.0.0.0 fixpass.net
+0.0.0.0 fixsirrod.site
 0.0.0.0 fjczvutpucr.com
 0.0.0.0 fjeqkpblfb.com
 0.0.0.0 fjmjlwvtv.bid
@@ -7857,6 +7863,7 @@
 0.0.0.0 ipiakraazowdui.com
 0.0.0.0 iplrcmff.com
 0.0.0.0 ipluhckk.com
+0.0.0.0 ipnamtuezkwi.com
 0.0.0.0 ipncblpgxlhjpc.com
 0.0.0.0 ippwkczttno.com
 0.0.0.0 ipraccessie.info
@@ -8769,6 +8776,7 @@
 0.0.0.0 kuaiyan.com
 0.0.0.0 kubichpbtjdvo.com
 0.0.0.0 kuchebraska.com
+0.0.0.0 kudzuphloemgunk.tech
 0.0.0.0 kuhou.com
 0.0.0.0 kujpycorr.com
 0.0.0.0 kujwlsnl.com
@@ -9078,6 +9086,7 @@
 0.0.0.0 linkclicks.com
 0.0.0.0 linkelevator.com
 0.0.0.0 linker.hr
+0.0.0.0 linkev.com
 0.0.0.0 linkexchange.com
 0.0.0.0 linkexchangers.net
 0.0.0.0 linkforyoud.com
@@ -9416,6 +9425,7 @@
 0.0.0.0 lyghoxyxohkrdk.com
 0.0.0.0 lygshgj.com
 0.0.0.0 lykuxkxsvvnxqd.com
+0.0.0.0 lynormationpas.info
 0.0.0.0 lynsvdabds.com
 0.0.0.0 lyssmgbr.com
 0.0.0.0 lyukxxwfqdn.com
@@ -10027,6 +10037,7 @@
 0.0.0.0 movie4all.co
 0.0.0.0 mowithlerendu.pro
 0.0.0.0 mozefakt.com
+0.0.0.0 mozgvya.com
 0.0.0.0 mp-https.info
 0.0.0.0 mp3ger.com
 0.0.0.0 mpay69.pw
@@ -10323,6 +10334,7 @@
 0.0.0.0 nbxpuziszhqz.com
 0.0.0.0 nbylhvbswplcj.com
 0.0.0.0 ncafclpip.com
+0.0.0.0 ncefoundanges.info
 0.0.0.0 nchxiaxafowid.com
 0.0.0.0 nchxvxvy.com
 0.0.0.0 ncitwacpa.com
@@ -10954,6 +10966,7 @@
 0.0.0.0 of8wzl97iq.tk
 0.0.0.0 ofajzowbwzzi.com
 0.0.0.0 ofapes.com
+0.0.0.0 ofbapmmo.com
 0.0.0.0 ofbqjpaamioq.com
 0.0.0.0 ofd.meng-an.cn
 0.0.0.0 ofdfinqurwpi.com
@@ -15288,6 +15301,7 @@
 0.0.0.0 thighiny.com
 0.0.0.0 thikraik.net
 0.0.0.0 thiksikr.com
+0.0.0.0 thimoaph.net
 0.0.0.0 thiscdn.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thismetric.com
@@ -16084,6 +16098,7 @@
 0.0.0.0 uohz.cn
 0.0.0.0 uoicsyuiof.com
 0.0.0.0 uoifloesog.com
+0.0.0.0 uojjfspxqcyik.com
 0.0.0.0 uoommnucvua.com
 0.0.0.0 uopayiycy.com
 0.0.0.0 uoqktpjfrctroa.com
@@ -16490,6 +16505,7 @@
 0.0.0.0 viralfix.net
 0.0.0.0 viralmediatech.com
 0.0.0.0 viralvana.com
+0.0.0.0 virashux.net
 0.0.0.0 virgbmkmear.com
 0.0.0.0 viriepak.com
 0.0.0.0 virsalor.xyz
@@ -17807,6 +17823,7 @@
 0.0.0.0 ympkaxpaf.com
 0.0.0.0 ymsutnllwwcm.com
 0.0.0.0 ymuhybbrk.com
+0.0.0.0 ymuoqhmhnifzl.com
 0.0.0.0 ymvkirvjqgha.com
 0.0.0.0 ymwvkruyidppb.com
 0.0.0.0 ymzrrizntbhde.com

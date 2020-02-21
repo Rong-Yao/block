@@ -1,8 +1,8 @@
 # Title: adblock-id Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
-# Last Converted - 21.02.2020
-# Total Domains - 170
+# Last Converted - 22.02.2020
+# Total Domains - 174
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -19,6 +19,7 @@
 0.0.0.0 ads-server.hipwee.com
 0.0.0.0 ads.indosatooredoo.com
 0.0.0.0 ads.vidoomy.com
+0.0.0.0 adscpm.site
 0.0.0.0 adshost.site
 0.0.0.0 adsimg.kompas.com
 0.0.0.0 adslop.com
@@ -121,6 +122,7 @@
 0.0.0.0 magrie.pw
 0.0.0.0 maikuque.net
 0.0.0.0 masteriklan.net
+0.0.0.0 mehhueboy.club
 0.0.0.0 mesiniklan.andipublisher.com
 0.0.0.0 mirafaren.pw
 0.0.0.0 mousheen.net
@@ -151,8 +153,10 @@
 0.0.0.0 pondokiklan.com
 0.0.0.0 presdithas.pw
 0.0.0.0 publish.web.id
+0.0.0.0 quilee.pw
 0.0.0.0 rajatraffic.com
 0.0.0.0 richinfo.co
+0.0.0.0 robjamguy.club
 0.0.0.0 rufadses.net
 0.0.0.0 sebariklanbaris.com
 0.0.0.0 shitiphu.com

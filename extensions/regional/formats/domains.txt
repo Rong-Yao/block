@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: domain list
-# Version: 20.02.052
-# Release: 052
-# Entries: 63,433
+# Version: 20.02.053
+# Release: 053
+# Entries: 63,453
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 18:14:04
+# Updated: Sat, 22 Feb 20 00:15:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -8769,6 +8769,7 @@ catwhatsup.org
 catwrite.com
 caucqpoeg.com
 caughinga.info
+cauthuny.net
 cavdzowr.com
 cavixoapp.com
 cawcowbar.online
@@ -11266,6 +11267,7 @@ d3al52d8cojds7.cloudfront.net
 d3alijertxiv6b.cloudfront.net
 d3asksgk2foh5m.cloudfront.net
 d3ax6xygyb5hn9.cloudfront.net
+d3b2hhehkqd158.cloudfront.net
 d3b4x0ran5qs0c.cloudfront.net
 d3b75cfc88a9.com
 d3c8l61zd5ltf8.cloudfront.net
@@ -12871,6 +12873,7 @@ duggiads.com
 duginamis.com
 dugqbllwslqrlj.com
 dugtor-deer.pw
+duhochid.net
 duhtate.ru
 dujbubzvrdw.com
 dulderbulder.com
@@ -13365,6 +13368,7 @@ edo5.com
 edomz.com
 edomz.net
 edonat.com
+edoutoam.net
 edrone.me
 edsnnfqazn.com
 edua29146y.com
@@ -13663,6 +13667,7 @@ emkarto.fun
 emlifok.info
 emmi-findet.de
 emnodar.ru
+emoneyspace.com
 emooji.com
 emoteev.io
 empire.streamelite.net
@@ -19422,6 +19427,7 @@ iplrcmff.com
 ipluhckk.com
 ipmarte.ru
 ipml-qvr8go.ru
+ipnamtuezkwi.com
 ipncblpgxlhjpc.com
 ipnyx.com
 ipoker.com
@@ -21462,6 +21468,7 @@ kuaizuoffice.com
 kuangtuiguoo18888.com
 kubichpbtjdvo.com
 kuchebraska.com
+kudzuphloemgunk.tech
 kueofwt.cn
 kug-74.com
 kuheju.com
@@ -22248,6 +22255,7 @@ linkelevator.com
 linker.hr
 linkerfast.ru
 linkerlink.ru
+linkev.com
 linkexchange.com
 linkexchange.ru
 linkexchangers.net
@@ -23068,6 +23076,7 @@ lykuxkxsvvnxqd.com
 lylxuot.pltqbcgsq.biz
 lymstsc.com
 lynbrookoriska.com
+lynormationpas.info
 lynoron.ru
 lynsvdabds.com
 lyon.kim
@@ -23939,6 +23948,7 @@ megawmr.ru
 megdexchange.com
 megogo.1ru.tv
 meguanha.com
+mehhueboy.club
 meicubao.cn
 meilides.com
 meimeidaren.com
@@ -24755,6 +24765,7 @@ moydato.info
 moyka66.ru
 mozefakt.com
 mozgup.ru
+mozgvya.com
 mozist.com
 mozoo.com
 mozoo.go2cloud.org
@@ -25462,6 +25473,7 @@ nbzq.net
 ncachear.com
 ncafclpip.com
 ncbqi.com
+ncefoundanges.info
 nchs.edu.lk
 nchte.com
 nchxiaxafowid.com
@@ -26659,6 +26671,7 @@ obrayxknu.com
 obraz-dam.ru
 observativus.com
 obsespa.ru
+obstanceder.pro
 obthqxbm.com
 obufquwiwy.com
 obuynits.ru
@@ -26791,6 +26804,7 @@ of.downpit.com
 of8wzl97iq.tk
 ofajzowbwzzi.com
 ofapes.com
+ofbapmmo.com
 ofbqjpaamioq.com
 ofd.meng-an.cn
 ofdfinqurwpi.com
@@ -31017,6 +31031,7 @@ quickmoneyanswers.org
 quicksense.net
 quicktask.xyz
 quideo.men
+quilee.pw
 quilithly.co
 quinstreet.com
 quisma.com
@@ -32123,6 +32138,7 @@ robaduvulo.com
 robcalwith.ru
 robcohatru.ru
 robimobi.com
+robjamguy.club
 robjusrew.com
 robocat.me
 robotadserver.com
@@ -36049,6 +36065,7 @@ thigeeph.com
 thighiny.com
 thikraik.net
 thiksikr.com
+thimoaph.net
 thirgoad.top
 thiscdn.com
 thisclick.network
@@ -38030,6 +38047,7 @@ uohpnvpynvsz.com
 uohz.cn
 uoicsyuiof.com
 uoifloesog.com
+uojjfspxqcyik.com
 uoldid.ru
 uoommnucvua.com
 uoottsfgy.com
@@ -38993,6 +39011,7 @@ viralfix.net
 viralmails.de
 viralmediatech.com
 viralvana.com
+virashux.net
 virgbmkmear.com
 viriepak.com
 virsalor.xyz
@@ -62106,6 +62125,7 @@ ympkaxpaf.com
 ymsutnllwwcm.com
 ymtracking.com
 ymuhybbrk.com
+ymuoqhmhnifzl.com
 ymvkirvjqgha.com
 ymwcfopsie.com
 ymwvkruyidppb.com

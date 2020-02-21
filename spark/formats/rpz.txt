@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.02.052
-; Release: 052
-; Entries: 61,157
+; Version: 20.02.053
+; Release: 053
+; Entries: 61,156
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 18:10:04
+; Updated: Sat, 22 Feb 20 00:10:22
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2718,7 +2718,6 @@ acs.adtdp.com CNAME .
 acs.m.taobao.com CNAME .
 acs.maribacaberita.com CNAME .
 acs4baichuan.m.taobao.com CNAME .
-acsdk.gameyw.easebar.com CNAME .
 acspaces.ero-advertising.com CNAME .
 acsseo.com CNAME .
 act.uc.cn CNAME .
@@ -8801,7 +8800,6 @@ api.avantmobile.com CNAME .
 api.awin.com CNAME .
 api.backtrace.io CNAME .
 api.badgeville.com CNAME .
-api.band.us CNAME .
 api.batch.com CNAME .
 api.batmobi.net CNAME .
 api.batterylab.duapps.com CNAME .
@@ -26684,6 +26682,7 @@ ilgde.adocean.pl CNAME .
 iliillliO00OO0.321.cn CNAME .
 ilinan.xyz CNAME .
 ilinks.industrybrains.com CNAME .
+ilivaris.pw CNAME .
 ilkphyyzg.com CNAME .
 illazkka.com CNAME .
 illfatedsnail.com CNAME .
@@ -27794,6 +27793,7 @@ iplogger.ru CNAME .
 iplrcmff.com CNAME .
 iplua.api.xoxknct.com CNAME .
 ipluhckk.com CNAME .
+ipnamtuezkwi.com CNAME .
 ipncblpgxlhjpc.com CNAME .
 ipntpfokhkrh.com CNAME .
 ipominer.com CNAME .
@@ -30510,6 +30510,7 @@ livetracker.voanews.eu CNAME .
 liveuniversenetwork.com CNAME .
 liveupdate.feednowforbrandnewcontestdistributor.win CNAME .
 livewell.net CNAME .
+livewidget.net CNAME .
 livexxx.me CNAME .
 livingly-tagan.adlightning.com CNAME .
 livingtheprinciples.com CNAME .
@@ -31346,6 +31347,7 @@ lycos-eu.imrworldwide.com CNAME .
 lycosu.com CNAME .
 lydgyhthfb.com CNAME .
 lydian.io CNAME .
+lyehemarm.club CNAME .
 lyghoxyxohkrdk.com CNAME .
 lyjcpycaufud.com CNAME .
 lykuxkxsvvnxqd.com CNAME .
@@ -32475,6 +32477,7 @@ megdobbensz.info CNAME .
 meglepo.info CNAME .
 megpacokjce.bid CNAME .
 meguanha.com CNAME .
+mehhueboy.club CNAME .
 meilidream.com CNAME .
 meiluziai.info CNAME .
 mein.monster.de CNAME .
@@ -32864,8 +32867,6 @@ mg.steepto.com CNAME .
 mg.traffic-media.co.uk CNAME .
 mg2connext.com CNAME .
 mgage.com CNAME .
-mgbsdknaeast.matrix.easebar.com CNAME .
-mgbsdksgtest.matrix.easebar.com CNAME .
 mgcash.com CNAME .
 mgcashgate.com CNAME .
 mgd-adengine.elasticbeanstalk.com CNAME .
@@ -36239,6 +36240,7 @@ of8wzl97iq.tk CNAME .
 ofa-sub.osp.opera.software CNAME .
 ofajzowbwzzi.com CNAME .
 ofapes.com CNAME .
+ofbapmmo.com CNAME .
 ofbqjpaamioq.com CNAME .
 ofdfinqurwpi.com CNAME .
 ofdybheqahjamq.bid CNAME .
@@ -37004,7 +37006,6 @@ optout.tacoda.at.atwola.com CNAME .
 optout3.advertising.com CNAME .
 optout3.nexage.com CNAME .
 optout3.tacoda.at.atwola.com CNAME .
-optsdk.gameyw.easebar.com CNAME .
 optusprod.amobee.com CNAME .
 opulence.es CNAME .
 opus-dev.analytics.yahoo.com CNAME .
@@ -41469,7 +41470,6 @@ qquwjmmgtmle.com CNAME .
 qqvatwaqtzgp.com CNAME .
 qqylzyrqnewl.com CNAME .
 qqztmozc.bid CNAME .
-qr.mpsdk.easebar.com CNAME .
 qr00rq.com CNAME .
 qrcsppwzjryh.com CNAME .
 qrecxvdoewmztq.com CNAME .
@@ -44298,7 +44298,6 @@ sdk-key.ulsee.com CNAME .
 sdk-log.gwallet.com CNAME .
 sdk-orion.appboy.com CNAME .
 sdk-orion.appboycomnulled.iad.appboy.com CNAME .
-sdk-os.mpsdk.easebar.com CNAME .
 sdk-services.appsflyer.com CNAME .
 sdk-traffic.apptimize.com CNAME .
 sdk-vidmatic.streamrail.net CNAME .
@@ -52559,7 +52558,6 @@ union.youdao.com CNAME .
 unionimage.baidu.com CNAME .
 unionleisurewear.com CNAME .
 unionslot.lau1.uae.uc.cn CNAME .
-unisdk.update.easebar.com CNAME .
 unit.content.ad CNAME .
 unitedblades.co.jp CNAME .
 unitethecows.com CNAME .
@@ -52625,6 +52623,7 @@ uohpnvpynvsz.com CNAME .
 uoicsyuiof.com CNAME .
 uoifloesog.com CNAME .
 uojamcse.angelcities.com CNAME .
+uojjfspxqcyik.com CNAME .
 uol-d.openx.net CNAME .
 uol-i3.servedbyopenx.com CNAME .
 uolfreeservers.112.2o7.net CNAME .
@@ -52689,7 +52688,6 @@ update.sdk.jiguang.cn CNAME .
 update.sdkbox.com CNAME .
 update.security.baidu.co.th CNAME .
 update.toptools100.com CNAME .
-update.unisdk.easebar.com CNAME .
 update.wtag.adaptv.advertising.com CNAME .
 update4now.yourfine2updatesgo.best CNAME .
 updateacces.org CNAME .
@@ -60307,6 +60305,7 @@ ymsdk.apkcar.com CNAME .
 ymsutnllwwcm.com CNAME .
 ymtracking.com CNAME .
 ymuhybbrk.com CNAME .
+ymuoqhmhnifzl.com CNAME .
 ymvkirvjqgha.com CNAME .
 ymwvkruyidppb.com CNAME .
 ymxpb.com CNAME .

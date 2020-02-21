@@ -1,8 +1,8 @@
 # Title: adaway.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://adaway.org/hosts.txt
-# Last Converted - 21.02.2020
-# Total Domains - 11051
+# Last Converted - 22.02.2020
+# Total Domains - 11041
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -695,7 +695,6 @@
 0.0.0.0 acp.fyber.com
 0.0.0.0 acs.m.taobao.com
 0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0 acsdk.gameyw.easebar.com
 0.0.0.0 acsseo.com
 0.0.0.0 action.restartad.com
 0.0.0.0 actionads.ru
@@ -2005,7 +2004,6 @@
 0.0.0.0 api.avantmobile.com
 0.0.0.0 api.backtrace.io
 0.0.0.0 api.badgeville.com
-0.0.0.0 api.band.us
 0.0.0.0 api.batch.com
 0.0.0.0 api.beaconforstore.com
 0.0.0.0 api.beaconsinspace.com
@@ -6735,8 +6733,6 @@
 0.0.0.0 mg.lentainform.com
 0.0.0.0 mg.mgid.com
 0.0.0.0 mgage.com
-0.0.0.0 mgbsdknaeast.matrix.easebar.com
-0.0.0.0 mgbsdksgtest.matrix.easebar.com
 0.0.0.0 mgd-adengine.elasticbeanstalk.com
 0.0.0.0 mgtv.cm.admaster.com.cn
 0.0.0.0 mi.gdt.qq.com
@@ -7407,7 +7403,6 @@
 0.0.0.0 optimizelyapis.com
 0.0.0.0 optin.mobiniti.com
 0.0.0.0 optout-service.unrulymedia.com
-0.0.0.0 optsdk.gameyw.easebar.com
 0.0.0.0 opus.analytics.yahoo.com
 0.0.0.0 ord-ae.conversantmedia.com
 0.0.0.0 org.zaloapp.ads.zdn.vn
@@ -8069,7 +8064,6 @@
 0.0.0.0 qianclick.baidu.com
 0.0.0.0 qlink.fusion.pinsightmedia.com
 0.0.0.0 qps.cint.com
-0.0.0.0 qr.mpsdk.easebar.com
 0.0.0.0 qs.ioam.de
 0.0.0.0 qsearch.media.net
 0.0.0.0 qservz.com
@@ -8622,7 +8616,6 @@
 0.0.0.0 sdk-log.gwallet.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-orion.appboycomnulled.iad.appboy.com
-0.0.0.0 sdk-os.mpsdk.easebar.com
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk-traffic.apptimize.com
 0.0.0.0 sdk-vidmatic.streamrail.net
@@ -9675,7 +9668,6 @@
 0.0.0.0 synchroscript.adswizz.com
 0.0.0.0 synchroscript.deliveryengine.adswizz.com
 0.0.0.0 syndication.advertiserurl.com
-0.0.0.0 sypi.gpshopper.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 system.casalemedia.com
@@ -10349,7 +10341,6 @@
 0.0.0.0 union.baidu.com
 0.0.0.0 union.m.jd.com
 0.0.0.0 union.youdao.com
-0.0.0.0 unisdk.update.easebar.com
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unity-east-bidder.manage.com
 0.0.0.0 unity.fyber.com
@@ -10378,7 +10369,6 @@
 0.0.0.0 update.pan.baidu.com
 0.0.0.0 update.sdk.jiguang.cn
 0.0.0.0 update.sdkbox.com
-0.0.0.0 update.unisdk.easebar.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 updated.com
 0.0.0.0 updatepage.kuwo.cn

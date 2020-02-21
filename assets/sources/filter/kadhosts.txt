@@ -1,7 +1,7 @@
 # Title: kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 21.02.2020
+# Last Converted - 22.02.2020
 # Total Domains - 5941
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro

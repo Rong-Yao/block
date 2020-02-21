@@ -1,8 +1,8 @@
 # Title: notracking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# Last Converted - 21.02.2020
-# Total Domains - 25626
+# Last Converted - 22.02.2020
+# Total Domains - 25625
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -23800,7 +23800,6 @@
 0.0.0.0 www.online.anime-box.ws
 0.0.0.0 www.online.sh.cn
 0.0.0.0 www.onlineon.ovh
-0.0.0.0 www.onlineshopss.in
 0.0.0.0 www.oo.waw.pl
 0.0.0.0 www.oo5.com
 0.0.0.0 www.oollttqq.com

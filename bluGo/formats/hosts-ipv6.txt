@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.052
-# Release: 052
-# Entries: 122,625
+# Version: 20.02.053
+# Release: 053
+# Entries: 122,418
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 18:10:08
+# Updated: Sat, 22 Feb 20 00:10:29
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -102,7 +102,6 @@ ff02::3 ip6-allhosts
 :: 007227n4198g957.btcc.com
 :: 0073dd485d46d930dd9.com
 :: 007angels.com
-:: 007aomenduchang.btcc.com
 :: 008.free-counter.co.uk
 :: 008.free-counters.co.uk
 :: 00aaa2d81c1d174.com
@@ -476,17 +475,14 @@ ff02::3 ip6-allhosts
 :: 1147.org
 :: 114oldest.com
 :: 114study.adsame.com
-:: 115-215.btcc.com
 :: 115-42.btcc.com
 :: 11582.btcc.com
 :: 11584.btcc.com
-:: 11669.btcc.com
 :: 1170.api.swrve.com
 :: 1170.content.swrve.com
 :: 1178.shucong.com
 :: 118-oew-181.mktoresp.com
 :: 118605-5437.link.iwanttodeliver.com
-:: 11875.btcc.com
 :: 1188.api.swrve.com
 :: 1188.content.swrve.com
 :: 118aa629a7968e75e.com
@@ -506,11 +502,9 @@ ff02::3 ip6-allhosts
 :: 12.cookcai.com
 :: 12.minercircle.com
 :: 12.video-ak.cdn.spotify.com
-:: 12037.btcc.com
 :: 120bit.com
 :: 120bitcoins.com
 :: 120profit.com
-:: 1212b.btcc.com
 :: 121media.com
 :: 121phonesex.co.uk
 :: 122.2o7.net
@@ -523,7 +517,6 @@ ff02::3 ip6-allhosts
 :: 123-tracker.com
 :: 123.39jz.com
 :: 1234ni.btcc.com
-:: 123andhranews.btcc.com
 :: 123any.com
 :: 123boy.free.fr
 :: 123branlemoi.free.fr
@@ -672,7 +665,6 @@ ff02::3 ip6-allhosts
 :: 14.video-ak.cdn.spotify.com
 :: 140-139.btcc.com
 :: 140-232.btcc.com
-:: 140-2364.btcc.com
 :: 140.minercircle.com
 :: 14012.deeplink.mobileapptracking.com
 :: 14012.engine.mobileapptracking.com
@@ -715,13 +707,10 @@ ff02::3 ip6-allhosts
 :: 15143ab5b83.com
 :: 15173835864570921.micropix.net
 :: 152-96.btcc.com
-:: 15230.btcc.com
 :: 15257dddaccde96.com
-:: 15268.btcc.com
 :: 15295.btcc.com
 :: 152media.adk2.co
 :: 152media.com
-:: 153-4.btcc.com
 :: 153.webchain.network
 :: 153105c2f9564.com
 :: 153284594738391.statictab.com
@@ -761,7 +750,6 @@ ff02::3 ip6-allhosts
 :: 163-78.btcc.com
 :: 163-91.btcc.com
 :: 16343.btcc.com
-:: 164-10.btcc.com
 :: 164-45.btcc.com
 :: 16565.hittail.com
 :: 165803.btcc.com
@@ -784,7 +772,6 @@ ff02::3 ip6-allhosts
 :: 16948.engine.mobileapptracking.com
 :: 16998.btcc.com
 :: 16e2ae8f200d975b.com
-:: 16f0.btcc.com
 :: 16games.it
 :: 16yp1ji92a.com
 :: 17-96.btcc.com
@@ -792,8 +779,6 @@ ff02::3 ip6-allhosts
 :: 17.huanqiu.com
 :: 17.minercircle.com
 :: 17.video-ak.cdn.spotify.com
-:: 17022.btcc.com
-:: 17033-6.btcc.com
 :: 17105392a65.com
 :: 1710coffee.com
 :: 1711427.5.d.mytopgames.net
@@ -801,7 +786,6 @@ ff02::3 ip6-allhosts
 :: 172-14028.btcc.com
 :: 172-52.btcc.com
 :: 173-254-91-220.unifiedlayer.com
-:: 17357.btcc.com
 :: 174-195.btcc.com
 :: 1740f665a91b68.com
 :: 17428.engine.mobileapptracking.com
@@ -809,7 +793,6 @@ ff02::3 ip6-allhosts
 :: 175038.engine.mobileapptracking.com
 :: 176-126.btcc.com
 :: 176-189.btcc.com
-:: 176-242-215.btcc.com
 :: 176win.com
 :: 177e6.btcc.com
 :: 1781.api.swrve.com
@@ -819,9 +802,7 @@ ff02::3 ip6-allhosts
 :: 1782.engine.mobileapptracking.com
 :: 1788111.com
 :: 178a9.btcc.com
-:: 179-167-94.btcc.com
 :: 179-184.btcc.com
-:: 179-191.btcc.com
 :: 179.btcc.com
 :: 17908.engine.mobileapptracking.com
 :: 1792.api.swrve.com
@@ -829,12 +810,10 @@ ff02::3 ip6-allhosts
 :: 17b1dbd9f3ae7db27cf.com
 :: 17chezhan.com
 :: 17ece.btcc.com
-:: 17ed.btcc.com
 :: 17i8.org
 :: 17so.so
 :: 17updatechwe150218.ru
 :: 17youzi.com
-:: 18-150.btcc.com
 :: 18-245.btcc.com
 :: 18.afs.googleadservices.com
 :: 18.video-ak.cdn.spotify.com
@@ -854,7 +833,6 @@ ff02::3 ip6-allhosts
 :: 18438.tctm.co
 :: 1846.btcc.com
 :: 184612.engine.mobileapptracking.com
-:: 185-134.btcc.com
 :: 185492.engine.mobileapptracking.com
 :: 185536.engine.mobileapptracking.com
 :: 1860-nicaragua-banish.com
@@ -902,7 +880,6 @@ ff02::3 ip6-allhosts
 :: 19.video-ak.cdn.spotify.com
 :: 190-124.btcc.com
 :: 190-148.btcc.com
-:: 190-73.btcc.com
 :: 190107.engine.mobileapptracking.com
 :: 190115.engine.mobileapptracking.com
 :: 190163.engine.mobileapptracking.com
@@ -917,7 +894,6 @@ ff02::3 ip6-allhosts
 :: 191gm.com
 :: 192.168.122.2o7.net
 :: 192211.engine.mobileapptracking.com
-:: 194-207.btcc.com
 :: 194-40.btcc.com
 :: 194192.engine.mobileapptracking.com
 :: 194792.engine.mobileapptracking.com
@@ -942,7 +918,6 @@ ff02::3 ip6-allhosts
 :: 1972.content.swrve.com
 :: 197423.engine.mobileapptracking.com
 :: 197876.engine.mobileapptracking.com
-:: 198-34.btcc.com
 :: 198135.engine.mobileapptracking.com
 :: 198166.engine.mobileapptracking.com
 :: 19841.btcc.com
@@ -965,7 +940,6 @@ ff02::3 ip6-allhosts
 :: 19tv.top
 :: 1a-consultants.com
 :: 1a.video-ak.cdn.spotify.com
-:: 1a2a50.btcc.com
 :: 1a2a52.btcc.com
 :: 1adult.com
 :: 1b.video-ak.cdn.spotify.com
@@ -1060,7 +1034,6 @@ ff02::3 ip6-allhosts
 :: 1ex.trade
 :: 1explorer.sugarchain.org
 :: 1f.video-ak.cdn.spotify.com
-:: 1f0cb.btcc.com
 :: 1f58098dd54.com
 :: 1f7de8569ea97f0614.com
 :: 1f7wwaex9rbh.com
@@ -1206,7 +1179,6 @@ ff02::3 ip6-allhosts
 :: 2013tomsshoesforsale.com
 :: 2014.taktik-id.ch
 :: 2014gameshack.com
-:: 2014shijiebeizhibo.btcc.com
 :: 2014tools.com
 :: 2015goodsunglasses.com
 :: 2016.appsflyer.com
@@ -1251,7 +1223,6 @@ ff02::3 ip6-allhosts
 :: 20200231.logic.cpm.cm.kankan.com
 :: 2023.btcc.com
 :: 2026.btcc.com
-:: 20292.btcc.com
 :: 202ch.com
 :: 204-121.btcc.com
 :: 204-163.btcc.com
@@ -1267,7 +1238,6 @@ ff02::3 ip6-allhosts
 :: 20909.hittail.com
 :: 20936.engine.mobileapptracking.com
 :: 20954.engine.mobileapptracking.com
-:: 20968.btcc.com
 :: 20996-1061.link.iwanttodeliver.com
 :: 20a840a14a0ef7d6.com
 :: 20afcc1f257.com
@@ -1291,7 +1261,6 @@ ff02::3 ip6-allhosts
 :: 211-149.btcc.com
 :: 21104.engine.mobileapptracking.com
 :: 21150.com
-:: 211d151198g951158203.btcc.com
 :: 212-208.btcc.com
 :: 212.227.15.154.cryptopool.eu
 :: 212.227.15.154.hpool.com
@@ -1299,14 +1268,12 @@ ff02::3 ip6-allhosts
 :: 212btc.com
 :: 212f0.btcc.com
 :: 2137dc12f9d8.com
-:: 21400.btcc.com
 :: 214d17c9-74e1-4533-bf6c-3f31210e7c6b.htmlpasta.com
 :: 216.futurecoins.club
 :: 217-33.btcc.com
 :: 217.146.190.234.cryptopool.eu
 :: 21750.tctm.co
 :: 218-3.btcc.com
-:: 218-53.btcc.com
 :: 21807.hittail.com
 :: 2183.jsjmlejl.clickshield.net
 :: 219.speedup-faucet.com
@@ -1333,7 +1300,6 @@ ff02::3 ip6-allhosts
 :: 22348.engine.mobileapptracking.com
 :: 2240.api.swrve.com
 :: 2240.content.swrve.com
-:: 225-166.btcc.com
 :: 225-33.btcc.com
 :: 22537.hittail.com
 :: 2259.api.swrve.com
@@ -1342,7 +1308,6 @@ ff02::3 ip6-allhosts
 :: 22762.btcc.com
 :: 22793.btcc.com
 :: 2284.api.swrve.com
-:: 229-249.btcc.com
 :: 22a12efe35e3c2f.com
 :: 22b765488021d482280.com
 :: 22c3.btcc.com
@@ -1353,7 +1318,6 @@ ff02::3 ip6-allhosts
 :: 2305.content.swrve.com
 :: 230825-f34b4d66f97f6fdba37dff9c62cb4c8a.bitcoin.cz
 :: 23190.engine.mobileapptracking.com
-:: 232-129.btcc.com
 :: 23205523023daea6.com
 :: 23243.xc.05cg.com
 :: 233-7.btcc.com
@@ -1368,7 +1332,6 @@ ff02::3 ip6-allhosts
 :: 2345jiasu.com
 :: 2346.api.swrve.com
 :: 2346.content.swrve.com
-:: 23489.btcc.com
 :: 235-32.btcc.com
 :: 2359.api.swrve.com
 :: 2359.content.swrve.com
@@ -1409,7 +1372,6 @@ ff02::3 ip6-allhosts
 :: 2468.content.swrve.com
 :: 2468.go2cloud.org
 :: 24695.com
-:: 247-115.btcc.com
 :: 247-inc.com
 :: 247-inc.net
 :: 24725.hittail.com
@@ -1469,7 +1431,6 @@ ff02::3 ip6-allhosts
 :: 252fconference.bitcoin.com
 :: 25356.btcc.com
 :: 253dbce595.com
-:: 254-20.btcc.com
 :: 2544.api.swrve.com
 :: 254a.com
 :: 255-132.btcc.com
@@ -1528,7 +1489,6 @@ ff02::3 ip6-allhosts
 :: 27891.hittail.com
 :: 2796.api.swrve.com
 :: 2796.content.swrve.com
-:: 28-242.btcc.com
 :: 28.securefinds2.com
 :: 28.video-ak.cdn.spotify.com
 :: 280asnlnr7.com
@@ -1544,8 +1504,6 @@ ff02::3 ip6-allhosts
 :: 2862.content.swrve.com
 :: 28680.btcc.com
 :: 289931.com
-:: 28wangzheheji.btcc.com
-:: 29-197.btcc.com
 :: 29-61.btcc.com
 :: 29.video-ak.cdn.spotify.com
 :: 29061.dcpserver.de
@@ -1574,7 +1532,6 @@ ff02::3 ip6-allhosts
 :: 2art.btcc.com
 :: 2b.video-ak.cdn.spotify.com
 :: 2b3a2372-5410-4587-b9a8-eeca1c8b096c.htmlpasta.com
-:: 2b912.btcc.com
 :: 2baners.ero-advertising.com
 :: 2bbb379103988619ef.com
 :: 2beon.co.kr
@@ -2437,7 +2394,6 @@ ff02::3 ip6-allhosts
 :: 4753.content.swrve.com
 :: 4754.api.swrve.com
 :: 4754.content.swrve.com
-:: 476-1.btcc.com
 :: 4768.api.swrve.com
 :: 4768.content.swrve.com
 :: 4771.api.swrve.com
@@ -2454,13 +2410,11 @@ ff02::3 ip6-allhosts
 :: 48jy84235198b21f7873078899cf5b.cloudflareworkers.com
 :: 49.video-ak.cdn.spotify.com
 :: 4902-145639.link.iwanttodeliver.com
-:: 49256.btcc.com
 :: 4942839.fls.doubleclick.net
 :: 494d36630eae682b20.com
 :: 4953227.fls.doubleclick.net
 :: 4984.engine.mobileapptracking.com
 :: 49863d99e314a.com
-:: 498ef.btcc.com
 :: 49anm.bemobtrk.com
 :: 49feqdpw.com
 :: 49oa3o49b6.com
@@ -2503,7 +2457,6 @@ ff02::3 ip6-allhosts
 :: 4dtrk.com
 :: 4e.video-ak.cdn.spotify.com
 :: 4e34b4865905c4.com
-:: 4e76.btcc.com
 :: 4eacccd99990beed317.com
 :: 4ef6b73abc9123.com
 :: 4ervtcv.com
@@ -2647,7 +2600,6 @@ ff02::3 ip6-allhosts
 :: 51-long.com
 :: 51.la
 :: 51.video-ak.cdn.spotify.com
-:: 510.btcc.com
 :: 510w.com
 :: 511.btcc.com
 :: 511fc7a56936.com
@@ -2717,7 +2669,6 @@ ff02::3 ip6-allhosts
 :: 55labs.com
 :: 56.video-ak.cdn.spotify.com
 :: 564d28256cddaeba.com
-:: 56580.btcc.com
 :: 5678uc.com
 :: 568vovhs6ekbupjo.pro
 :: 56bc7e3668e952c.com
@@ -2747,7 +2698,6 @@ ff02::3 ip6-allhosts
 :: 58fc6fe53e.com
 :: 59055.cn
 :: 5918062d-fb42-4707-b098-e2c266e14d95.htmlpasta.com
-:: 594ef.btcc.com
 :: 5990.findit.blueseek.com
 :: 59cn7.com
 :: 59e6ea7248001c.com
@@ -2863,7 +2813,6 @@ ff02::3 ip6-allhosts
 :: 6286.eu-content.swrve.com
 :: 62b70ac32d4614b.com
 :: 6306481-0.alojamiento-web.es
-:: 631-17.btcc.com
 :: 633642.parkingcrew.net
 :: 6360.eu-api.swrve.com
 :: 6362.eu-api.swrve.com
@@ -2943,7 +2892,6 @@ ff02::3 ip6-allhosts
 :: 676.digitaldsp.com
 :: 6767ramaya.000webhostapp.com
 :: 6767ty.duckdns.org
-:: 67701.btcc.com
 :: 67ytfffyt.ddns.net
 :: 68.video-ak.cdn.spotify.com
 :: 681683.com
@@ -2978,7 +2926,6 @@ ff02::3 ip6-allhosts
 :: 6c7105f4aa34.com
 :: 6ce0a8be8375b.com
 :: 6ce88.btcc.com
-:: 6chuanqi.btcc.com
 :: 6d.video-ak.cdn.spotify.com
 :: 6d1e5583-763f-46a4-9a31-03ae545dfc1e.htmlpasta.com
 :: 6d25c5a1bb9e821f3b7.com
@@ -3107,13 +3054,11 @@ ff02::3 ip6-allhosts
 :: 767c937c5c4e0a6282c.com
 :: 76bae64469159dfa58.com
 :: 76d8e1e70e.com
-:: 77-175.btcc.com
 :: 77-183.btcc.com
 :: 77.utroro.com
 :: 77.video-ak.cdn.spotify.com
 :: 77153ccfd0549f191.com
 :: 771b92b0ca0963e.com
-:: 77243198g951e9123.btcc.com
 :: 774378.com
 :: 77437ee0a17f19c6085.com
 :: 77548ba6-43cd-4e44-ad0a-9f9bfe0846e8.htmlpasta.com
@@ -3127,7 +3072,6 @@ ff02::3 ip6-allhosts
 :: 777seo.com
 :: 778669.com
 :: 7798991.com
-:: 77b1a.btcc.com
 :: 77d0f28ca582231.com
 :: 77f24529d8427410.com
 :: 77search.com
@@ -3235,7 +3179,6 @@ ff02::3 ip6-allhosts
 :: 801.tianyaui.com
 :: 8015587.fls.doubleclick.net
 :: 8020solutions.net
-:: 8021.btcc.com
 :: 803.tianya.cn
 :: 803mine.com
 :: 804.content.swrve.com
@@ -3300,7 +3243,6 @@ ff02::3 ip6-allhosts
 :: 86d6.com
 :: 86f4fd3b507f774.com
 :: 87.video-ak.cdn.spotify.com
-:: 87034.btcc.com
 :: 87159d7b62fc885.com
 :: 8758d547dc40.com
 :: 8761f9f83613.com
@@ -3451,7 +3393,6 @@ ff02::3 ip6-allhosts
 :: 94uyvwwh.com
 :: 95.video-ak.cdn.spotify.com
 :: 9523cc.com
-:: 95469.btcc.com
 :: 9547.hittail.com
 :: 95539.com
 :: 9563.hittail.com
@@ -3955,7 +3896,6 @@ ff02::3 ip6-allhosts
 :: a1664.casalemedia.com
 :: a1681.casalemedia.com
 :: a1726.casalemedia.com
-:: a175.btcc.com
 :: a18.x-traceur.com
 :: a1843.g.akamai.net
 :: a1a5ab31bcd1bc68.com
@@ -4070,7 +4010,6 @@ ff02::3 ip6-allhosts
 :: a7d17abaec7c.com
 :: a8.net
 :: a8.video-ak.cdn.spotify.com
-:: a84d.btcc.com
 :: a85.info
 :: a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 :: a8b4204616.com
@@ -10522,7 +10461,6 @@ ff02::3 ip6-allhosts
 :: afzkqajwcbub.com
 :: afzoyaquhjltdd.com
 :: ag-gb.adskeeper.co.uk
-:: ag.btcc.com
 :: ag.gbc.criteo.com
 :: ag.yieldoptimizer.com
 :: agahi.naz.ir
@@ -11281,7 +11219,6 @@ ff02::3 ip6-allhosts
 :: alhpqmefnwkxtn.com
 :: alhuriahglass.000webhostapp.com
 :: ali-crm.ru
-:: ali-fra-btcfw-vip-7cmj5cwnolsk.f2pool.com
 :: ali-hz-zecfw-vip-qmnnvjblcgzy.f2pool.com
 :: ali-stats.jpush.cn
 :: ali.cityads.com
@@ -11643,7 +11580,6 @@ ff02::3 ip6-allhosts
 :: aluteksa.com
 :: aluvodrinks.com
 :: aluznocaminho.org.br
-:: alvarez.sfek.kz
 :: alvdtjrb.com
 :: alvfzqwkb.com
 :: alvieromartiniesaldi.com
@@ -13451,7 +13387,6 @@ ff02::3 ip6-allhosts
 :: ap.tapone.jp
 :: ap.tnkfactory.com
 :: ap2.adriver.ru
-:: ap2.btcc.com
 :: ap2.remerge.events
 :: ap4.btcc.com
 :: ap9.btcc.com
@@ -14360,7 +14295,6 @@ ff02::3 ip6-allhosts
 :: apigate.centili.com
 :: apigraft.my-mining-pool.de
 :: apigrft.my-mining-pool.de
-:: apih.btcc.com
 :: apiintense.my-mining-pool.de
 :: apiintucoin.my-mining-pool.de
 :: apilethean.my-mining-pool.de
@@ -15142,7 +15076,6 @@ ff02::3 ip6-allhosts
 :: apus.iad.appboy.com
 :: apus.rayjump.com
 :: apv-launcher.minute.ly
-:: apv.btcc.com
 :: apvdr.com
 :: apwtlkkd.bid
 :: apx.avazutracking.net
@@ -15734,7 +15667,6 @@ ff02::3 ip6-allhosts
 :: asia1.coinking.io
 :: asia1.zenmine.pro
 :: asia2.coinking.io
-:: asia2.equipool.1ds.us
 :: asia2.nanopool.org
 :: asiabits.com
 :: asiabizconsult.com
@@ -17092,7 +17024,6 @@ ff02::3 ip6-allhosts
 :: b24-4rqp95.bitrix24.com
 :: b24-ilrczt.bitrix24.com
 :: b24f74fdcf29851d.com
-:: b28.btcc.com
 :: b29f325f9383.com
 :: b2b.communitypool.org
 :: b2c-feedapi.vidible.tv
@@ -17123,7 +17054,6 @@ ff02::3 ip6-allhosts
 :: b3.jandan.net
 :: b3.mookie1.com
 :: b3.video-ak.cdn.spotify.com
-:: b319.btcc.com
 :: b343.playfabapi.com
 :: b34rightym.com
 :: b3d.com
@@ -17898,7 +17828,6 @@ ff02::3 ip6-allhosts
 :: bb.llewellyncreative-wpdev.com
 :: bb.video-ak.cdn.spotify.com
 :: bb1acb0ea5ddb1fed8.com
-:: bb2.btcc.com
 :: bb475d71fa0b1b2.com
 :: bb47d806f644cb2.com
 :: bbackcssmwam.com
@@ -17994,7 +17923,6 @@ ff02::3 ip6-allhosts
 :: bc-geocities.yahoo.co.jp
 :: bc.amanad.adtdp.com
 :: bc.atleit.com
-:: bc.btcc.com
 :: bc.coupons.com
 :: bc.crypto-daio.co.uk
 :: bc.dedicatedpool.com
@@ -18095,12 +18023,10 @@ ff02::3 ip6-allhosts
 :: bcpzonaseguraz.com
 :: bcpzonassegurabeta.via.bcperu.alertasms.xyz
 :: bcqrmuwbvxi.com
-:: bcs.btcc.com
 :: bcs.duapp.com
 :: bctann.egem.io
 :: bctrader.bitclubnetwork.com
 :: bctxshop.xyz
-:: bcv.btcc.com
 :: bcvid.brightcove.com
 :: bcvrczvqlm.com
 :: bcx-pool.beepool.org
@@ -18181,7 +18107,6 @@ ff02::3 ip6-allhosts
 :: bdcode.youke.com
 :: bdcode1.haodou.com
 :: bdcore-apr-lb.bda.ndmdhs.com
-:: bdd.btcc.com
 :: bdd.hainan.net
 :: bddaxoaaco.bid
 :: bddfeltry.bid
@@ -18189,7 +18114,6 @@ ff02::3 ip6-allhosts
 :: bde.be
 :: bde3d.com
 :: bdexpress.uodoo.com
-:: bdf.btcc.com
 :: bdfpb1.8684.com
 :: bdfpb2.8684.com
 :: bdfpbimg.ifengimg.com
@@ -18248,7 +18172,6 @@ ff02::3 ip6-allhosts
 :: bdtmbiezv.com
 :: bdtv.tianlangkm.com
 :: bdtwxreri.com
-:: bdu.btcc.com
 :: bdu.focus.cn
 :: bdu1.coozhi.cn
 :: bdu1.eol.cn
@@ -19800,7 +19723,6 @@ ff02::3 ip6-allhosts
 :: blizzard.blueoxtech.com
 :: blkivkplpn.com
 :: blknjstore.com
-:: blm.btcc.com
 :: blnk.crwdcntrl.net
 :: blnxyqdnsl.bid
 :: blobar.org
@@ -21115,7 +21037,6 @@ ff02::3 ip6-allhosts
 :: btc.to
 :: btc.top
 :: btc.userapi.sigmapool.com
-:: btc.webboise.com
 :: btc2.leetpools.net
 :: btcapp.api.btc.com
 :: btcc.com
@@ -21277,7 +21198,6 @@ ff02::3 ip6-allhosts
 :: bturlzbakbcsdd.com
 :: btv.vvpool.com
 :: btvdzlkg.bid
-:: btw.btcc.com
 :: btw.ero-advertising.com
 :: btw.vvpool.com
 :: btwosfunny.onthenetas.com
@@ -21682,7 +21602,6 @@ ff02::3 ip6-allhosts
 :: bvzjhnqrypiv.com
 :: bw-uswest-bidder.appd.inmobi.com
 :: bw.1ds.us
-:: bw.btcc.com
 :: bw.com
 :: bw.ltc.top
 :: bwaguyek.com
@@ -22281,7 +22200,6 @@ ff02::3 ip6-allhosts
 :: c7a54a18ef10e6b744d6f367a3313cfc.api.appsee.com
 :: c7bc5628b1.com
 :: c7d470df880b1d0.com
-:: c8.btcc.com
 :: c8.net.ua
 :: c8.statcounter.com
 :: c8.video-ak.cdn.spotify.com
@@ -22344,7 +22262,6 @@ ff02::3 ip6-allhosts
 :: ca.wownero.herominers.com
 :: ca.xcash.herominers.com
 :: ca.xxxshame.com
-:: ca0.btcc.com
 :: ca1.metrics.backtrace.io
 :: ca3.revieworbit.com
 :: ca4.revieworbit.com
@@ -23164,7 +23081,6 @@ ff02::3 ip6-allhosts
 :: cb-cdn.com
 :: cb-content.com
 :: cb.baidu.com
-:: cb.btcc.com
 :: cb.ksmobile.com
 :: cb.l.qq.com
 :: cb.lomark.cn
@@ -23287,7 +23203,6 @@ ff02::3 ip6-allhosts
 :: ccaypkuiauizuh.bid
 :: ccb-faucet.cryptopoolclub.com
 :: ccbank.onlinefbs.com
-:: ccbcwheel.spectresecurity.io
 :: ccbilleu.com
 :: ccc.adacts.com
 :: ccc.cryptopool.eu
@@ -24566,7 +24481,6 @@ ff02::3 ip6-allhosts
 :: ch2.criacaodesitesrj.com
 :: ch3at.com
 :: ch4ll3nge6d8250d9e6229d0fb4f8179e88a9742.dnsabr.com
-:: ch6.btcc.com
 :: cha.6888ka.com
 :: cha.poolerino.com
 :: chabathaimassage.com.au
@@ -25002,7 +24916,6 @@ ff02::3 ip6-allhosts
 :: chotto-ippuku.com
 :: chouftak.net
 :: choxxiimetamer.review
-:: chp.btcc.com
 :: chproxy.mgid.com
 :: chqspuonctkgz.com
 :: chqulqxfghdz.com
@@ -25351,14 +25264,12 @@ ff02::3 ip6-allhosts
 :: cl0.webterren.com
 :: cl0udh0st1ng.com
 :: cl1.fidelizador.com
-:: cl3.btcc.com
 :: cl3.webterren.com
 :: cl4.webterren.com
 :: cl5.webterren.com
 :: cl7.btcc.com
 :: cl7khotyeny.ru
 :: cl96rwprue.com
-:: cla.btcc.com
 :: clabac.000webhostapp.com
 :: claea.it
 :: claeim-bokepku87.000webhostapp.com
@@ -26227,7 +26138,6 @@ ff02::3 ip6-allhosts
 :: cls7.theushuaiaexperience.com
 :: clsvugmivpf.com
 :: clsyxddpbt.com
-:: clt.btcc.com
 :: cltrkr.com
 :: club.bitcoin.com
 :: club.eigens.net
@@ -26526,7 +26436,6 @@ ff02::3 ip6-allhosts
 :: cn1.nanopool.org
 :: cn2-mining.whibbit.cn
 :: cn54tfw0kw.fgppchg.fgpp.com
-:: cn6.btcc.com
 :: cn773bt054.fgppchg.fgpp.com
 :: cn81301.com
 :: cna.rtb.adsrvr.org
@@ -27473,7 +27382,6 @@ ff02::3 ip6-allhosts
 :: conceal.luckypool.io
 :: conceal.miner.rocks
 :: conceal.my-mining-pool.de
-:: concealx.loudmining.com
 :: conceau.co
 :: conceptclaro.com
 :: conceptsinwoodwork.com
@@ -28160,7 +28068,6 @@ ff02::3 ip6-allhosts
 :: cotnr.com
 :: cottawa.info
 :: cou-mass.web.app
-:: cou.btcc.com
 :: couand.ml
 :: couch.1ds.us
 :: couhome.112.2o7.net
@@ -29859,7 +29766,6 @@ ff02::3 ip6-allhosts
 :: cz-rb.com
 :: cz.adocean.pl
 :: cz.bbelements.com
-:: cz.btcc.com
 :: cz.gmads.mookie1.com
 :: cz.hit.gemius.pl
 :: cz.nanopool.org
@@ -30612,7 +30518,6 @@ ff02::3 ip6-allhosts
 :: d4orbital.com
 :: d4q8zgf756.com
 :: d5.adsplay.net
-:: d5.btcc.com
 :: d5.hadarone.com
 :: d5.sina.com.cn
 :: d5.video-ak.cdn.spotify.com
@@ -31401,11 +31306,9 @@ ff02::3 ip6-allhosts
 :: dbjsnxncaxnpp.com
 :: dbktgmyjph.com
 :: dblnptdnyt.bid
-:: dbm.btcc.com
 :: dbmaptqxpjmsyr.bid
 :: dbmaster.aatkit.com
 :: dbmysjylbpwrav.com
-:: dbn.btcc.com
 :: dbnvz.adserve.com
 :: dbnw.jyzmsy.com.cn
 :: dbo.btcc.com
@@ -31489,14 +31392,12 @@ ff02::3 ip6-allhosts
 :: dc8631c7d38.com
 :: dc8na2hxrj29i.cloudfront.net
 :: dc8xl0ndzn2cb.cloudfront.net
-:: dc9.btcc.com
 :: dc90214d-8c5f-46a2-9ae4-b73544103fed.htmlpasta.com
 :: dca-rtbprod.applovin.com
 :: dca.ads.nexage.com
 :: dca.as.nexage.com
 :: dcastage-rtb.applovin.com
 :: dcba.popcash.net
-:: dcc.btcc.com
 :: dcc.ghrtgf.xyz
 :: dcc.strbgi.xyz
 :: dcc2.segmentify.com
@@ -31529,7 +31430,6 @@ ff02::3 ip6-allhosts
 :: dci.isgre.at
 :: dcinfos-cache.abtasty.com
 :: dcinfos.abtasty.com
-:: dcj.btcc.com
 :: dcjg1gv1px1h.cloudfront.net
 :: dcjhpaexcwtc.com
 :: dcjs.cig.com.cn
@@ -32131,7 +32031,6 @@ ff02::3 ip6-allhosts
 :: dero.herominers.com
 :: dero.luckypool.io
 :: dero.miner.rocks
-:: dero.minexmr24.ru
 :: dero.miningocean.org
 :: dero.semipool.com
 :: dero.superpools.online
@@ -32457,7 +32356,6 @@ ff02::3 ip6-allhosts
 :: devsvcs-api-iconsv1-production-green.cloud.mapquest.com
 :: devtalk.ryo-currency.com
 :: devteamjailbreak.com
-:: devy.btcc.com
 :: dew9ckzjyt2gn.cloudfront.net
 :: dewadewi1818.000webhostapp.com
 :: dewagg.com
@@ -34507,7 +34405,6 @@ ff02::3 ip6-allhosts
 :: ds02gfqy6io6i.cloudfront.net
 :: ds10.api.baifendian.com
 :: ds4hd786h45f986546kg95.000webhostapp.com
-:: ds5.btcc.com
 :: dsa.moatads.com
 :: dsa.pl
 :: dsa.targetix.net
@@ -34634,7 +34531,6 @@ ff02::3 ip6-allhosts
 :: dss.targetix.net
 :: dssct.net
 :: dsstrk.com
-:: dst.btcc.com
 :: dst.polyad.net
 :: dstaging.adgear.com
 :: dstillery.com
@@ -34648,7 +34544,6 @@ ff02::3 ip6-allhosts
 :: dsw44z5igdmmbo.com
 :: dswwghrlwwcm.com
 :: dsxbgkphjyrngo.bid
-:: dsy.btcc.com
 :: dsyxresmht.com
 :: dt-secure.videohub.tv
 :: dt.admission.net
@@ -34708,7 +34603,6 @@ ff02::3 ip6-allhosts
 :: dtzads.com
 :: dtzlgtmqoj.bid
 :: du.biqukan.com
-:: du.btcc.com
 :: du.jd.com
 :: du01z5hhojprz.cloudfront.net
 :: du1.bbdj.com
@@ -36264,7 +36158,6 @@ ff02::3 ip6-allhosts
 :: egem.digipools.org
 :: egem.europool.me
 :: egem.farmine.net
-:: egem.hashingmasters.com
 :: egem.icanmining.ru
 :: egem.io
 :: egem.protonmine.com
@@ -37852,7 +37745,6 @@ ff02::3 ip6-allhosts
 :: eth-4504db7e219bf29b.dwarfpool.com
 :: eth-652d60da89abeddc.dwarfpool.com
 :: eth-911c7b2232ce0676.dwarfpool.com
-:: eth-admin.cruxpool.com
 :: eth-api.poolgpu.com
 :: eth-ar.dwarfpool.com
 :: eth-as.maxhash.org
@@ -37985,8 +37877,6 @@ ff02::3 ip6-allhosts
 :: eth2.ethfans.org
 :: eth2.gpumine.org
 :: eth2.poolgpu.com
-:: eth6.btcc.com
-:: eth8.btcc.com
 :: ethaddress.neocities.org
 :: ethadmin.pandaminer.com
 :: ethalpha.nanopool.org
@@ -38036,7 +37926,6 @@ ff02::3 ip6-allhosts
 :: ethethoa.net
 :: ethfans.org
 :: ethfw0370q.com
-:: ethg.btcc.com
 :: ethgiftonline.com
 :: ethgiveavvay.com
 :: ethgivewaypromo.info
@@ -38086,7 +37975,6 @@ ff02::3 ip6-allhosts
 :: ethweb.antpool.com
 :: ethx10.com
 :: ethy.nanopool.org
-:: eti.btcc.com
 :: etienne-art-construction.com
 :: etihenbteb.com
 :: etiiisallat.bugs3.com
@@ -38102,7 +37990,6 @@ ff02::3 ip6-allhosts
 :: etl.xlmc.sandai.net
 :: etlikrepbaba.duckdns.org
 :: etm-consult.de
-:: etm.btcc.com
 :: etmattemptholla.info
 :: etmewatuh.com
 :: etn-eu1.monero.nanopool.org
@@ -38115,7 +38002,6 @@ ff02::3 ip6-allhosts
 :: etn.dark-mine.su
 :: etn.jp1.nanopool.org
 :: etn.kiramine.com
-:: etn.minexmr24.ru
 :: etn.my-mining-pool.de
 :: etn.nanopool.org
 :: etn.semipool.com
@@ -38827,8 +38713,6 @@ ff02::3 ip6-allhosts
 :: ex.resourcecdns.com
 :: ex.technor.com
 :: ex.umengcloud.com
-:: ex0.btcc.com
-:: ex1.btcc.com
 :: ex2.mkt-coin.com
 :: ex3.mkt-coin.com
 :: ex4.mkt-coin.com
@@ -38950,7 +38834,6 @@ ff02::3 ip6-allhosts
 :: exhibenfrance.com
 :: exhibition-dubai.com
 :: exhibits4court.com
-:: exi.btcc.com
 :: exi8ef83z9.com
 :: exigul.ru
 :: exioptyxiyoo.com
@@ -38973,7 +38856,6 @@ ff02::3 ip6-allhosts
 :: exjthrzliajfd.com
 :: exkluziv-videok.com
 :: exkruwviyy.com
-:: exl.btcc.com
 :: exlpor.com
 :: exmarketplace.com
 :: exmarkt.de
@@ -39073,7 +38955,6 @@ ff02::3 ip6-allhosts
 :: expertosenbelleza.com
 :: expertsexchange.112.2o7.net
 :: exph.btcc.com
-:: expi.btcc.com
 :: expired-targeted.com
 :: expired.golodg.com
 :: explainidentifycoding.info
@@ -39975,7 +39856,6 @@ ff02::3 ip6-allhosts
 :: fb-szpieguj.likesyou.org
 :: fb.37cs.com
 :: fb.adsrvr.org
-:: fb.btcc.com
 :: fb.cashtraffic.com
 :: fb.com-------notify.chaanvig.my
 :: fb.fff.com.vn
@@ -40078,7 +39958,6 @@ ff02::3 ip6-allhosts
 :: fbzfudipxwtu.bid
 :: fc-eu.adsymptotic.com
 :: fc-feed.cdn.bcebos.com
-:: fc.btcc.com
 :: fc.itmedia.co.jp
 :: fc.rousset.free.fr
 :: fc.video-ak.cdn.spotify.com
@@ -40090,7 +39969,6 @@ ff02::3 ip6-allhosts
 :: fcaf437c51068.com
 :: fcafnvgdokqfo.com
 :: fcanafta.tt.omtrdc.net
-:: fcb.btcc.com
 :: fcbykurluasdeu.com
 :: fcd.autoads.asia
 :: fcd.btcc.com
@@ -41034,7 +40912,6 @@ ff02::3 ip6-allhosts
 :: fl-ads.com
 :: fl.a.ki
 :: fl.adpxl.co
-:: fl.btcc.com
 :: fl.bytecoins.world
 :: flac2flac.xyz
 :: flacoin.org
@@ -41695,7 +41572,6 @@ ff02::3 ip6-allhosts
 :: fplus-ads.omni.news
 :: fpnxicejwel.com
 :: fpomyspwepxxe.com
-:: fpool1.zapto.org
 :: fpoxpjpxn.com
 :: fppgjkkjq.bid
 :: fpqeowmsv.com
@@ -45570,7 +45446,6 @@ ff02::3 ip6-allhosts
 :: gpxsfsxsfm.com
 :: gpxtxzzxoph.com
 :: gpzywrsrcr.com
-:: gq.btcc.com
 :: gq1.flurry.com
 :: gqecfgovxbj.com
 :: gqekfxgdaxoau.com
@@ -45668,7 +45543,6 @@ ff02::3 ip6-allhosts
 :: graft.minercountry.com
 :: graft.network
 :: graft.pool-pay.com
-:: graft.rnetpool.com.br
 :: graft.westcoastxmr.ca
 :: graft.xeminer.net
 :: graft.zellabs.net
@@ -45883,7 +45757,6 @@ ff02::3 ip6-allhosts
 :: grft.minexmr24.ru
 :: grft.my-mining-pool.de
 :: grft.pool.gntl.co.uk
-:: grft.rnetpool.com.br
 :: grft.semipool.com
 :: grfx.mp3.com
 :: grfz.de
@@ -46580,7 +46453,6 @@ ff02::3 ip6-allhosts
 :: h21.ru
 :: h2o.cryptoadhd.com
 :: h2o.dedicatedpool.com
-:: h3.btcc.com
 :: h3btqpy2abc3.com
 :: h3lw971ym6.com
 :: h45dsagga.appspot.com
@@ -46611,13 +46483,11 @@ ff02::3 ip6-allhosts
 :: h8123165.hostingrd.pl
 :: h83zvgrg29.com
 :: h8vzwpv.com
-:: h9.btcc.com
 :: h92zbpn4zcv1.com
 :: h9579587.bget.ru
 :: ha-api.pushwoosh.com
 :: ha-askfm.pushwoosh.com
 :: ha.pushwoosh.com
-:: ha3.btcc.com
 :: ha7.btcc.com
 :: haaretz.pushwoosh.com
 :: haartezenglish.redirectme.net
@@ -47414,7 +47284,6 @@ ff02::3 ip6-allhosts
 :: heckagny.com
 :: heckcallohertons.info
 :: heckhaphanofres.info
-:: hecks.ddosdev.com
 :: hecrowcati.info
 :: hecs.com
 :: hecuq.ru
@@ -49198,7 +49067,6 @@ ff02::3 ip6-allhosts
 :: hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.btcpool.triplemining.com
 :: hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.btl.poolerino.com
 :: hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.burn.v2.dedicatedpool.com
-:: hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.bytecoin.pt
 :: hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.c4n10.triplemining.com
 :: hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.ca.coinmine.pw
 :: hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.cache.dedicatedpool.com
@@ -50874,7 +50742,6 @@ ff02::3 ip6-allhosts
 :: huewmezzodzdv.com
 :: hufaymllqce.club
 :: huffingtonpost.crwdcntrl.net
-:: hug.btcc.com
 :: hugde.adocean.pl
 :: huge-gay-cock.com
 :: hugecovers.com
@@ -50957,7 +50824,6 @@ ff02::3 ip6-allhosts
 :: huosu.shareitgames.com
 :: hupsouft.net
 :: hupsteel.com
-:: hur.btcc.com
 :: hurchaseeffectionpe.info
 :: hurdleyreer.info
 :: huriylhqkylbo.bid
@@ -51069,7 +50935,6 @@ ff02::3 ip6-allhosts
 :: hwvwuoxsosfp.com
 :: hwy401belleville.ca
 :: hwyoikfrfdtjp.com
-:: hx.btcc.com
 :: hx304bxg.com
 :: hxahv.com
 :: hxajxyvnpou.bid
@@ -52380,6 +52245,7 @@ ff02::3 ip6-allhosts
 :: iliillliO00OO0.321.cn
 :: ilinan.xyz
 :: ilinks.industrybrains.com
+:: ilivaris.pw
 :: ilja-en-rene.nl
 :: iljmp.com
 :: ilkphyyzg.com
@@ -54372,6 +54238,7 @@ ff02::3 ip6-allhosts
 :: ipm.atm.youku.com
 :: ipm.corel.com
 :: ipmatm.cp12.wasu.tv
+:: ipnamtuezkwi.com
 :: ipncblpgxlhjpc.com
 :: ipndulsempjgb.bid
 :: ipntpfokhkrh.com
@@ -55048,7 +54915,6 @@ ff02::3 ip6-allhosts
 :: j.avz4.com
 :: j.baminw.cn
 :: j.br.baidu.com
-:: j.btcc.com
 :: j.chaorenjiaoshi.com
 :: j.credit.wwz114.cn
 :: j.diangon.com
@@ -56880,11 +56746,9 @@ ff02::3 ip6-allhosts
 :: k1s.nl
 :: k26fe9xhuzm.com
 :: k2b-bulk.coinfoundry.org
-:: k3.btcc.com
 :: k3hpv.bemobtrk.com
 :: k3wjylqzmswmi3vsyq7y.maherstcottage.com.au
 :: k4movie.com
-:: k5.btcc.com
 :: k50-a.akamaihd.net
 :: k54nw.pw
 :: k5market.com
@@ -57221,7 +57085,6 @@ ff02::3 ip6-allhosts
 :: kdwygzatplqrao.bid
 :: kdyfsgpa.com
 :: ke.btcc.com
-:: ke2.btcc.com
 :: keapeiros.xyz
 :: kearnypaving.com
 :: keaven.pw
@@ -57345,7 +57208,6 @@ ff02::3 ip6-allhosts
 :: kerrylquinn.com
 :: kerumal.com
 :: keruquz.duckdns.org
-:: kes.btcc.com
 :: keshiweicy.com
 :: keshoes.site
 :: kesikelyaf.com
@@ -58131,7 +57993,6 @@ ff02::3 ip6-allhosts
 :: kowasaki.com
 :: kozloiczght.com
 :: kozszolgalat.com
-:: kp.btcc.com
 :: kpcflxxodhoxev.bid
 :: kpchywhqcrkz.com
 :: kpehltcnwo.com
@@ -58277,7 +58138,6 @@ ff02::3 ip6-allhosts
 :: krtdobasy.com
 :: krtpkaha.com
 :: krufgqsp.com
-:: krugercoin.miners-pool.eu
 :: krukus.pl
 :: krum.vsct.fr
 :: krunzy.com
@@ -58332,7 +58192,6 @@ ff02::3 ip6-allhosts
 :: kslgvaexlw.com
 :: ksloibpah.com
 :: ksmsmjmall.com
-:: ksn.minexmr24.ru
 :: ksnbdfzjlyqmxs.com
 :: ksncmrkfrzkgla.com
 :: kspengineering.com
@@ -58713,7 +58572,6 @@ ff02::3 ip6-allhosts
 :: l1ftdigital.com
 :: l2.io
 :: l2.soarfi.cn
-:: l2citadel.com.virtopia.ca
 :: l2f.info
 :: l3-assets.applovin.com
 :: l3-img.applovin.com
@@ -58722,7 +58580,6 @@ ff02::3 ip6-allhosts
 :: l3.ltc.top
 :: l3f.info
 :: l3op.info
-:: l4.btcc.com
 :: l4oecosq.com
 :: l610i.bemobtrk.com
 :: l6b587txj1.com
@@ -58738,7 +58595,6 @@ ff02::3 ip6-allhosts
 :: la-la-moon.com
 :: la-la-sf.com
 :: la-trc.taboola.com
-:: la.btcc.com
 :: la.eclick.vn
 :: la.ladipage.com
 :: la.nanopool.org
@@ -59576,7 +59432,6 @@ ff02::3 ip6-allhosts
 :: leszektrebski.pl
 :: leszekzyglowicz.pl
 :: leszvphhnytpk.com
-:: let0.btcc.com
 :: letadnew.com
 :: letaikay.net
 :: letalkshowstephanois.fr
@@ -60164,7 +60019,6 @@ ff02::3 ip6-allhosts
 :: lite.adtech.de
 :: lite.melnikloaddoom.xyz
 :: lite.nanopool.org
-:: lite.thecoinrush.com
 :: litebackup.com
 :: litebar.mastermining.net
 :: litec-fr.com
@@ -60326,6 +60180,7 @@ ff02::3 ip6-allhosts
 :: livew.l.qq.com
 :: livewebstats.dk
 :: livewell.net
+:: livewidget.net
 :: livexxx.me
 :: livezilla.easyxpool.tk
 :: living.elevatevisual.com
@@ -60343,7 +60198,6 @@ ff02::3 ip6-allhosts
 :: lixi88.com
 :: lixi88.info
 :: lizardslaugh.com
-:: lj.btcc.com
 :: ljactjfsjs.com
 :: ljavtgsvjpxm.bid
 :: ljbbq.com
@@ -61575,7 +61429,6 @@ ff02::3 ip6-allhosts
 :: lt.mydplr.com
 :: lt.tritondigital.com
 :: lt3.hit.stat24.com
-:: lt6.btcc.com
 :: ltaporjivped.com
 :: ltassrv.com.s3.amazonaws.com
 :: ltau-regularizacao.unicloud.pl
@@ -61936,6 +61789,7 @@ ff02::3 ip6-allhosts
 :: lydgyhthfb.com
 :: lydian.io
 :: lyeannqhhf.bid
+:: lyehemarm.club
 :: lyghoxyxohkrdk.com
 :: lyjcpycaufud.com
 :: lyjk.1391.com
@@ -62474,7 +62328,6 @@ ff02::3 ip6-allhosts
 :: m.zhaibei112.top
 :: m.zhipianwu.com
 :: m.zq13n.cn
-:: m0.btcc.com
 :: m00n.top
 :: m01.webwise.org
 :: m02.webwise.org
@@ -62750,7 +62603,6 @@ ff02::3 ip6-allhosts
 :: mafndqbvdgkm.com
 :: mafo.adalliance.io
 :: mafund.cn
-:: mag.btcc.com
 :: mag.iad-03.braze.com
 :: magadownloader.com
 :: magararepublic.com
@@ -63918,7 +63770,6 @@ ff02::3 ip6-allhosts
 :: maytag.ecorebates.com
 :: maytrics.marvellousmachine.net
 :: mayukefile.com
-:: maz.btcc.com
 :: maza.cryptoadhd.com
 :: maza.explorer.cryptoadhd.com
 :: maza.suchpool.pw
@@ -64659,6 +64510,7 @@ ff02::3 ip6-allhosts
 :: meguanha.com
 :: meguriau.koiwazurai.com
 :: mehcpazsnzh.com
+:: mehhueboy.club
 :: mehirim.com
 :: mehmetefliymm.com
 :: mehrajhric.com
@@ -65481,7 +65333,6 @@ ff02::3 ip6-allhosts
 :: midsp.ghtinc.com
 :: miducnafleh.com
 :: midzwwrcrril.bid
-:: mie.btcc.com
 :: miegpokitjxm.com
 :: miejscedlastudenta.pl
 :: mientayweb.com
@@ -65612,11 +65463,9 @@ ff02::3 ip6-allhosts
 :: mine-safe-asia.equipool.1ds.us
 :: mine-safe-euro.equipool.1ds.us
 :: mine-this.com
-:: mine-vot-asia.equipool.1ds.us
 :: mine-vot-euro.equipool.1ds.us
 :: mine-xsg-asia.equipool.1ds.us
 :: mine-xsg-euro.equipool.1ds.us
-:: mine-xsg-na-dev.equipool.1ds.us
 :: mine-zel-asia.equipool.1ds.us
 :: mine-zel-euro.equipool.1ds.us
 :: mine-zer-euro.equipool.1ds.us
@@ -66292,7 +66141,6 @@ ff02::3 ip6-allhosts
 :: mn.nourpool.net
 :: mn0e.com
 :: mn1nm.com
-:: mn7.btcc.com
 :: mnaczdaewteoeuywdxcvs.azurewebsites.net
 :: mnaljqzekv.com
 :: mnanijqnse.com
@@ -67278,7 +67126,6 @@ ff02::3 ip6-allhosts
 :: mox.cnpool.cc
 :: mox.communitypool.org
 :: mox.fairhash.org
-:: mox.minexmr24.ru
 :: mox.miningocean.org
 :: mox.optimusblue.com
 :: moxdmkdzvkgxow.bid
@@ -67308,7 +67155,6 @@ ff02::3 ip6-allhosts
 :: mp.rlcdn.com
 :: mp.uc.cn
 :: mp.ucweb.com
-:: mp.ultimatecoinpool.com
 :: mp.uupool.cn
 :: mp.wshareit.com
 :: mp.xi9p.com
@@ -67893,7 +67739,6 @@ ff02::3 ip6-allhosts
 :: muodaclf.yi.org
 :: muoiuxfj.com
 :: muoyeoyymfwwp.bid
-:: mup.btcc.com
 :: mupool.com
 :: muppetowecentrum.pl
 :: mupteekr.net
@@ -70636,7 +70481,6 @@ ff02::3 ip6-allhosts
 :: nlynx.securepayment.cc
 :: nlyqwlyykvjl.com
 :: nm.brainlyads.com
-:: nm.btcc.com
 :: nm.eqads.com
 :: nm.nanopool.org
 :: nm.securepayment.cc
@@ -70681,19 +70525,15 @@ ff02::3 ip6-allhosts
 :: nmgmt.test.sigmapool.com
 :: nmgmtr.sigmapool.com
 :: nmhiltonhead.112.2o7.net
-:: nmine-asia2.equipool.1ds.us
 :: nmine-btcz-euro.equipool.1ds.us
 :: nmine-buck-asia.equipool.1ds.us
 :: nmine-buck-euro.equipool.1ds.us
-:: nmine-euro.equipool.1ds.us
 :: nmine-euro2.equipool.1ds.us
 :: nmine-genx-asia.equipool.1ds.us
 :: nmine-genx-euro.equipool.1ds.us
 :: nmine-ltz-asia.equipool.1ds.us
 :: nmine-ltz-euro.equipool.1ds.us
 :: nmine-safe-asia.equipool.1ds.us
-:: nmine-safe-euro.equipool.1ds.us
-:: nmine-vot-asia.equipool.1ds.us
 :: nmine-zel-asia.equipool.1ds.us
 :: nmine.bbr.unipool.pro
 :: nmine.bcn.unipool.pro
@@ -70829,7 +70669,6 @@ ff02::3 ip6-allhosts
 :: nnkml.com
 :: nnl-stratum.btcguild.com
 :: nnl2.btcguild.com
-:: nnm.btcc.com
 :: nnmd.000webhostapp.com
 :: nnmgvixuhbqju.com
 :: nnmmdhpi.com
@@ -70857,7 +70696,6 @@ ff02::3 ip6-allhosts
 :: nnoxqfmbdv.com
 :: nnpiggtivf.com
 :: nnplk.bemobtrk.com
-:: nnr.btcc.com
 :: nnrcjzith.bid
 :: nnrdntrrjf.bid
 :: nnroeulsnslk.com
@@ -70870,7 +70708,6 @@ ff02::3 ip6-allhosts
 :: nns2.nanopool.org
 :: nns2.unipool.pro
 :: nns4.nanopool.org
-:: nnt.btcc.com
 :: nnt4.nanopool.org
 :: nntp1.coinfoundry.org
 :: nntvphjayapz.com
@@ -71072,7 +70909,6 @@ ff02::3 ip6-allhosts
 :: nohsshsxpv.club
 :: noiaifyednjt.com
 :: noipasi.pl
-:: noir.minepool.net
 :: noirofficial.org
 :: noiselessplough.com
 :: noitdcelol.com
@@ -72451,6 +72287,7 @@ ff02::3 ip6-allhosts
 :: ofa-sub.osp.opera.software
 :: ofajzowbwzzi.com
 :: ofapes.com
+:: ofbapmmo.com
 :: ofbqjpaamioq.com
 :: ofclans.com
 :: ofcounselnigeria.com
@@ -74452,7 +74289,6 @@ ff02::3 ip6-allhosts
 :: p01234.clksite.com
 :: p01234.notif.club
 :: p071qmn.com
-:: p0a.btcc.com
 :: p0kec0ins.com
 :: p0stepay-p0ste-it-start-lista-m0vimenti-accedi-utent001928.25u.com
 :: p0y.cn
@@ -76272,7 +76108,6 @@ ff02::3 ip6-allhosts
 :: ph-gmtdmp.mookie1.com
 :: ph.adserver.yahoo.com
 :: ph.alessandrodelpiero.eu
-:: ph.btcc.com
 :: ph5t.adups.com
 :: phabricator.arqma.com
 :: phabsoun.net
@@ -78315,7 +78150,6 @@ ff02::3 ip6-allhosts
 :: pool0.uralscoin.info
 :: pool08.btc.com
 :: pool1.bis-pool.io
-:: pool1.btcc.com
 :: pool1.crypto-me.com
 :: pool1.ethpool.net
 :: pool1.grlcgang.com
@@ -78775,7 +78609,6 @@ ff02::3 ip6-allhosts
 :: pozyczki-prywatne.com.pl
 :: pozyczkiprywatne.com
 :: pp-user-security-eu.cf
-:: pp.btcc.com
 :: pp.d2-apps.net
 :: pp.funhub.pl
 :: pp.lp4.io
@@ -80097,7 +79930,6 @@ ff02::3 ip6-allhosts
 :: ptzbgvqpwnxg.com
 :: ptzljkufu.com
 :: ptzpyhhapyt.com
-:: pu.btcc.com
 :: pu.trafficshop.com
 :: pu.vuer.net
 :: puanys.com
@@ -80914,7 +80746,6 @@ ff02::3 ip6-allhosts
 :: qbsanzpkfj.com
 :: qbsiawmlm.bid
 :: qbsrhrhnybwox.com
-:: qbt.minersbest.com
 :: qbtfmtuixtmep.com
 :: qbttelbrupkss.com
 :: qbvwcrtsyur.bid
@@ -81829,7 +81660,6 @@ ff02::3 ip6-allhosts
 :: r3-front-13.pushwoosh.com
 :: r3-front-15.pushwoosh.com
 :: r3.adwo.com
-:: r3.btcc.com
 :: r3.mail.ru
 :: r3imobiliariasc.com.br
 :: r42tag.com
@@ -84281,7 +84111,6 @@ ff02::3 ip6-allhosts
 :: root.ether1.org
 :: root.minerpool.net
 :: root.qw.su
-:: root.rnetpool.com.br
 :: root.tecracoin.io
 :: root5.localhost.run
 :: rootbuzz.com
@@ -85190,7 +85019,6 @@ ff02::3 ip6-allhosts
 :: rzuwelgm.com
 :: rzwzstbiqk.com
 :: s-100.predictvideo.com
-:: s-187.btcc.com
 :: s-60.algovid.com
 :: s-61.predictvideo.com
 :: s-65.predictvideo.com
@@ -85358,7 +85186,6 @@ ff02::3 ip6-allhosts
 :: s.qtad.qingting.fm
 :: s.renren.com
 :: s.rev2pub.com
-:: s.rtr.axepool.com
 :: s.ryre.cn
 :: s.seedtag.com
 :: s.servedby-buysellads.com
@@ -87435,7 +87262,6 @@ ff02::3 ip6-allhosts
 :: seguridadvecino.webcindario.com
 :: seguro.via-rs.net
 :: sehiba.com
-:: sei.btcc.com
 :: seikeiradioclub.web.fc2.com
 :: seikopacking.cn
 :: seioodsoi.club
@@ -87538,7 +87364,6 @@ ff02::3 ip6-allhosts
 :: semiyun.com
 :: semtracker.de
 :: semvdooatmd.bid
-:: sen.btcc.com
 :: sen02.younetmedia.com
 :: sencelles.info
 :: sencha.gr.jp
@@ -88017,7 +87842,6 @@ ff02::3 ip6-allhosts
 :: setupupgrade12.thepointofforcontentingperfect.win
 :: seu2.cleverreach.com
 :: seuojaesymeriv.com
-:: sev.btcc.com
 :: sev4ifmxa.com
 :: sevabit.com
 :: sevannisanyan.info
@@ -89132,7 +88956,6 @@ ff02::3 ip6-allhosts
 :: sittiad.com
 :: situationroom.archives.gov
 :: situhuk.ru
-:: siu.btcc.com
 :: siuhfvgambevyz.bid
 :: siuletrtmkk.com
 :: sivanik.ru
@@ -90990,7 +90813,6 @@ ff02::3 ip6-allhosts
 :: splut.com
 :: splyt.com
 :: splywysuprasl.pl
-:: spm.btcc.com
 :: spm.it
 :: spmeasure.i-mobile.co.jp
 :: spmsystem.pl
@@ -93318,7 +93140,6 @@ ff02::3 ip6-allhosts
 :: stratum.ltc.top
 :: stratum.m-hash.com
 :: stratum.mineblocks.ch
-:: stratum.mining-pool.eu
 :: stratum.mining.eligius.st
 :: stratum.mofumofu.me
 :: stratum.multipool.us
@@ -94256,7 +94077,6 @@ ff02::3 ip6-allhosts
 :: swclpfypife.bid
 :: swcs.jp
 :: swcuxrfitmjfee.com
-:: swd.btcc.com
 :: swe.shylsp.com
 :: sweatybettytracksdk.optimove.net
 :: swebanalytics.eniro.se
@@ -94278,7 +94098,6 @@ ff02::3 ip6-allhosts
 :: swfhostltd.com
 :: swfqsfewk.bid
 :: swfstats.com
-:: swg.btcc.com
 :: swgertruda.darlowo.pl
 :: swgvpkwmojcv.com
 :: swi.btcc.com
@@ -97163,7 +96982,6 @@ ff02::3 ip6-allhosts
 :: tk.504pk.com
 :: tk.ads.justpremium.com
 :: tk.ads.mmondi.com
-:: tk.btcc.com
 :: tk.cyingv.com
 :: tk.kaufda.de
 :: tk.meinprospekt.de
@@ -100721,7 +100539,6 @@ ff02::3 ip6-allhosts
 :: tutuler.com
 :: tutvp.com
 :: tuu-mitsu.com
-:: tuu.btcc.com
 :: tuvanxehoi.info
 :: tuvia.outbrain.com
 :: tuwaorganics.com
@@ -100746,7 +100563,6 @@ ff02::3 ip6-allhosts
 :: tv-maniak.pl
 :: tv-static.scdn.co
 :: tv.bitcoin.com
-:: tv.btcc.com
 :: tv.code.jjyx.com
 :: tv.coinfoundry.org
 :: tv.gcpool.eu
@@ -101130,7 +100946,6 @@ ff02::3 ip6-allhosts
 :: u154611594.hostingerapp.com
 :: u1hw38x0.com
 :: u1trkqf.com
-:: u2.btcc.com
 :: u2.outbrain.com
 :: u21drwj6mp.com
 :: u2215874.ct.sendgrid.net
@@ -101222,10 +101037,8 @@ ff02::3 ip6-allhosts
 :: uazyqjztrhi.bid
 :: ub-analytics.com
 :: ub.edu.ph
-:: ub1.btcc.com
 :: ub1.job592.com
 :: ub3.btcc.com
-:: ub7.btcc.com
 :: ubazpxeafwjr.com
 :: ubdc2016.umeng.com
 :: ubdc2017.umeng.com
@@ -101493,7 +101306,6 @@ ff02::3 ip6-allhosts
 :: ufvehyxuiwe.com
 :: ufvzwshjkhocjn.com
 :: ufz.doesxyz.com
-:: ug.btcc.com
 :: ug.bytecoins.world
 :: ug.rtb.adx1.com
 :: ugahbedypf.com
@@ -101543,7 +101355,6 @@ ff02::3 ip6-allhosts
 :: ugyuyuccjgrtht.com
 :: ugyymqcxyoi.bid
 :: ugzpvflxa.com
-:: uh.btcc.com
 :: uhavijwye.bid
 :: uhbhfwqtbr.bid
 :: uhboiygnytbql.com
@@ -102099,6 +101910,7 @@ ff02::3 ip6-allhosts
 :: uoicsyuiof.com
 :: uoifloesog.com
 :: uojamcse.angelcities.com
+:: uojjfspxqcyik.com
 :: uol-d.openx.net
 :: uol-i3.servedbyopenx.com
 :: uolcartao.webcindario.com
@@ -102483,7 +102295,6 @@ ff02::3 ip6-allhosts
 :: us-east.startum.bitcoin.cz
 :: us-east.stratum.bitcoin.cz
 :: us-east.straum.bitcoin.cz
-:: us-east1.cryptovein.com
 :: us-en.atomminer.com
 :: us-etcpool.api.btc.com
 :: us-etcpoolapp.api.btc.com
@@ -102545,7 +102356,6 @@ ff02::3 ip6-allhosts
 :: us.bc.yahoo.com
 :: us.bitcoin.cz
 :: us.bksn.se
-:: us.btcc.com
 :: us.bytecoin-pool.org
 :: us.clo.epool.io
 :: us.coinium.org
@@ -105792,7 +105602,6 @@ ff02::3 ip6-allhosts
 :: wearewolves-records.com
 :: wearfable.com
 :: weartexhibitions.com
-:: weassu.pw
 :: weasz.com
 :: weather.toptools100.com
 :: weather.wisemana.com
@@ -107805,7 +107614,6 @@ ff02::3 ip6-allhosts
 :: ww2.coinsolver.com
 :: ww2.corneey.com
 :: ww2.cryptopool.eu
-:: ww2.drkpool.com
 :: ww2.ero-advertising.com
 :: ww2.flashx.co
 :: ww2.forum.simplecoin.us
@@ -107843,7 +107651,6 @@ ff02::3 ip6-allhosts
 :: ww2951.smartadserver.com
 :: ww2cdn.poolx.com
 :: ww3.coinsolver.com
-:: ww3.drkpool.com
 :: ww302.smartadserver.com
 :: ww3050.smartadserver.com
 :: ww3076.smartadserver.com
@@ -109754,7 +109561,6 @@ ff02::3 ip6-allhosts
 :: www.btccpooleos.com
 :: www.btcguild.comwww.btcguild.com
 :: www.btcp-pool.pickaxe.pro
-:: www.btcpmine.org
 :: www.btcpmine.pro
 :: www.btcpool24.com
 :: www.btcppool.com
@@ -111274,7 +111080,6 @@ ff02::3 ip6-allhosts
 :: www.equilibriumm.com
 :: www.equinsight.com
 :: www.equipe4.net
-:: www.equipool.1ds.us
 :: www.erasmusensemble.org
 :: www.eraspire.com
 :: www.erbudokna.pl
@@ -112416,7 +112221,6 @@ ff02::3 ip6-allhosts
 :: www.hashinvest.net
 :: www.hashinvest.ws
 :: www.hashitmining.com
-:: www.hashncash.net
 :: www.hashnest.com
 :: www.hashparty.net
 :: www.hashpex.com
@@ -113358,7 +113162,6 @@ ff02::3 ip6-allhosts
 :: www.kyani.com
 :: www.kzhav.voluumtrk.com
 :: www.kzmleuhgqifvzy.com
-:: www.l2citadel.com.virtopia.ca
 :: www.l3f.info
 :: www.l8nit3-miners.com
 :: www.la.nocroom.com
@@ -114892,7 +114695,6 @@ ff02::3 ip6-allhosts
 :: www.onlinefachowiec.pl
 :: www.onlineloan-personal.net
 :: www.onlineon.ovh
-:: www.onlineshopss.in
 :: www.onlineslotmaschine.com
 :: www.onlinewideo.pl
 :: www.onlyfutbol.pl
@@ -118980,7 +118782,6 @@ ff02::3 ip6-allhosts
 :: www49zippysharecom.imageshack.host
 :: www4kwatchcom.imageshack.host
 :: www4search.net
-:: www5-4-8-42.btcc.com
 :: www5.addfreestats.com
 :: www5.afsanalytics.com
 :: www5.chrome-up.date
@@ -119298,9 +119099,7 @@ ff02::3 ip6-allhosts
 :: x3w7lvezss.com
 :: x4.lov3.net
 :: x4300tiz.com
-:: x6.btcc.com
 :: x6.yakiuchi.com
-:: x7.btcc.com
 :: x7xirtzmot.com
 :: x8.sarashi.com
 :: x9.dnsseed.cpuchain.org
@@ -119421,7 +119220,6 @@ ff02::3 ip6-allhosts
 :: xc4.btcc.com
 :: xc8.btcc.com
 :: xca.52hash.com
-:: xca.btcc.com
 :: xca.codpool.com
 :: xca.cryptopool.space
 :: xca.easyhash.de
@@ -119465,7 +119263,6 @@ ff02::3 ip6-allhosts
 :: xcloud.wlink-net.com
 :: xclub.app.infinixmobility.com
 :: xclusivedigital.com
-:: xcn.btcc.com
 :: xcn.cnpool.cc
 :: xcn.suprnova.cc
 :: xcnn.com
@@ -119959,7 +119756,6 @@ ff02::3 ip6-allhosts
 :: xmr.minercountry.com
 :: xmr.miners.pro
 :: xmr.minershaven.org
-:: xmr.minexmr24.ru
 :: xmr.muxdux.com
 :: xmr.mypool.online
 :: xmr.myxmr.pw
@@ -120279,7 +120075,6 @@ ff02::3 ip6-allhosts
 :: xta.majanetwork.com
 :: xta.pool-pay.com
 :: xtainment.net
-:: xtb.btcc.com
 :: xtb.cryptominer.net
 :: xtb.easyhash.de
 :: xtbeungdpkf.com
@@ -120982,6 +120777,7 @@ ff02::3 ip6-allhosts
 :: ymsutnllwwcm.com
 :: ymtracking.com
 :: ymuhybbrk.com
+:: ymuoqhmhnifzl.com
 :: ymvkirvjqgha.com
 :: ymweixinapi.firepool.com
 :: ymwvkruyidppb.com
@@ -121546,7 +121342,6 @@ ff02::3 ip6-allhosts
 :: za-gmtdmp.mookie1.com
 :: za-ssl.effectivemeasure.net
 :: za.ads.justpremium.com
-:: za.btcc.com
 :: za.delivery.addynamo.com
 :: za.gltminer.com
 :: za.playsocialgames.com
@@ -122237,7 +122032,6 @@ ff02::3 ip6-allhosts
 :: zkqpoamv.com
 :: zksdztizohcfy.com
 :: zkwtqwwks.com
-:: zl.btcc.com
 :: zl1.quebec-bin.com
 :: zlacraft.com
 :: zlahmbwm.com
@@ -122530,7 +122324,6 @@ ff02::3 ip6-allhosts
 :: ztylfmoxqnafl.com
 :: ztyumn.ifeng.com
 :: ztzilyso.com
-:: zu.btcc.com
 :: zu1.november-lax.com
 :: zu4l167j77.com
 :: zubeidajaffer.co.za

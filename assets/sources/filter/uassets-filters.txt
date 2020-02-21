@@ -1,8 +1,8 @@
 # Title: uassets-filters Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-# Last Converted - 21.02.2020
-# Total Domains - 842
+# Last Converted - 22.02.2020
+# Total Domains - 846
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -402,6 +402,7 @@
 0.0.0.0 ichlnk.com
 0.0.0.0 ig0nr8hhhb.com
 0.0.0.0 ig8al3mkou.com
+0.0.0.0 ilivaris.pw
 0.0.0.0 imglnkc.com
 0.0.0.0 indlzxgptf.com
 0.0.0.0 infodfg.space
@@ -462,12 +463,14 @@
 0.0.0.0 limaenvivo.com
 0.0.0.0 link-to.net
 0.0.0.0 liveflirt.net
+0.0.0.0 livewidget.net
 0.0.0.0 ljja3ef63g.com
 0.0.0.0 lodalasan.club
 0.0.0.0 long.xxx
 0.0.0.0 loppjod.online
 0.0.0.0 lovquiz.com
 0.0.0.0 lvgvax82bp.com
+0.0.0.0 lyehemarm.club
 0.0.0.0 lzrikate.com
 0.0.0.0 m3haw43xxuiai.win
 0.0.0.0 madsans.com
@@ -487,6 +490,7 @@
 0.0.0.0 megadescargas.net
 0.0.0.0 megafilmeshd21.tk
 0.0.0.0 megatube.xxx
+0.0.0.0 mehhueboy.club
 0.0.0.0 meloads.com
 0.0.0.0 meryjane.pro
 0.0.0.0 merylaural.info

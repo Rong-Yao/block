@@ -1,8 +1,8 @@
 # Title: easylist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
-# Last Converted - 21.02.2020
-# Total Domains - 16548
+# Last Converted - 22.02.2020
+# Total Domains - 16552
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6962,6 +6962,7 @@
 0.0.0.0 ipiakraazowdui.com
 0.0.0.0 iplrcmff.com
 0.0.0.0 ipluhckk.com
+0.0.0.0 ipnamtuezkwi.com
 0.0.0.0 ipncblpgxlhjpc.com
 0.0.0.0 ippwkczttno.com
 0.0.0.0 ipraccessie.info
@@ -9776,6 +9777,7 @@
 0.0.0.0 of8wzl97iq.tk
 0.0.0.0 ofajzowbwzzi.com
 0.0.0.0 ofapes.com
+0.0.0.0 ofbapmmo.com
 0.0.0.0 ofbqjpaamioq.com
 0.0.0.0 ofdfinqurwpi.com
 0.0.0.0 ofdybheqahjamq.bid
@@ -14423,6 +14425,7 @@
 0.0.0.0 uohpnvpynvsz.com
 0.0.0.0 uoicsyuiof.com
 0.0.0.0 uoifloesog.com
+0.0.0.0 uojjfspxqcyik.com
 0.0.0.0 uoommnucvua.com
 0.0.0.0 uopayiycy.com
 0.0.0.0 uoqktpjfrctroa.com
@@ -16004,6 +16007,7 @@
 0.0.0.0 ympkaxpaf.com
 0.0.0.0 ymsutnllwwcm.com
 0.0.0.0 ymuhybbrk.com
+0.0.0.0 ymuoqhmhnifzl.com
 0.0.0.0 ymvkirvjqgha.com
 0.0.0.0 ymwvkruyidppb.com
 0.0.0.0 ymzrrizntbhde.com

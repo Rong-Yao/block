@@ -1,8 +1,8 @@
 # Title: fanboy-ultimate Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
-# Last Converted - 21.02.2020
-# Total Domains - 23113
+# Last Converted - 22.02.2020
+# Total Domains - 23127
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3961,6 +3961,7 @@
 0.0.0.0 catwrite.com
 0.0.0.0 caucqpoeg.com
 0.0.0.0 caughinga.info
+0.0.0.0 cauthuny.net
 0.0.0.0 cautiouscrate.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 cavdzowr.com
@@ -5412,6 +5413,7 @@
 0.0.0.0 d3aiy6aqoa3ykz.cloudfront.net
 0.0.0.0 d3al52d8cojds7.cloudfront.net
 0.0.0.0 d3asksgk2foh5m.cloudfront.net
+0.0.0.0 d3b2hhehkqd158.cloudfront.net
 0.0.0.0 d3b75cfc88a9.com
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
@@ -6212,6 +6214,7 @@
 0.0.0.0 duetads.com
 0.0.0.0 dufue2m4sondk.cloudfront.net
 0.0.0.0 dugqbllwslqrlj.com
+0.0.0.0 duhochid.net
 0.0.0.0 dujbubzvrdw.com
 0.0.0.0 dulrlifipkbac.com
 0.0.0.0 dumedia.ru
@@ -6524,6 +6527,7 @@
 0.0.0.0 edmunds.com
 0.0.0.0 ednplus.com
 0.0.0.0 edomz.net
+0.0.0.0 edoutoam.net
 0.0.0.0 edrone.me
 0.0.0.0 edsnnfqazn.com
 0.0.0.0 edt02.net
@@ -9857,6 +9861,7 @@
 0.0.0.0 iplocationtools.com
 0.0.0.0 iplrcmff.com
 0.0.0.0 ipluhckk.com
+0.0.0.0 ipnamtuezkwi.com
 0.0.0.0 ipncblpgxlhjpc.com
 0.0.0.0 ippwkczttno.com
 0.0.0.0 ipraccessie.info
@@ -11187,6 +11192,7 @@
 0.0.0.0 linkconnector.com
 0.0.0.0 linkelevator.com
 0.0.0.0 linker.hr
+0.0.0.0 linkev.com
 0.0.0.0 linkexchange.com
 0.0.0.0 linkexchangers.net
 0.0.0.0 linkforyoud.com
@@ -11645,6 +11651,7 @@
 0.0.0.0 lyghoxyxohkrdk.com
 0.0.0.0 lykuxkxsvvnxqd.com
 0.0.0.0 lyngro.com
+0.0.0.0 lynormationpas.info
 0.0.0.0 lynsvdabds.com
 0.0.0.0 lypn.com
 0.0.0.0 lypn.net
@@ -12438,6 +12445,7 @@
 0.0.0.0 movie4all.co
 0.0.0.0 mowfruit.com
 0.0.0.0 mowithlerendu.pro
+0.0.0.0 mozgvya.com
 0.0.0.0 mp-https.info
 0.0.0.0 mp3ger.com
 0.0.0.0 mpay69.pw
@@ -12806,6 +12814,7 @@
 0.0.0.0 nbylhvbswplcj.com
 0.0.0.0 ncafclpip.com
 0.0.0.0 ncaudienceexchange.com
+0.0.0.0 ncefoundanges.info
 0.0.0.0 nchxiaxafowid.com
 0.0.0.0 nchxvxvy.com
 0.0.0.0 ncitwacpa.com
@@ -13521,6 +13530,7 @@
 0.0.0.0 of8wzl97iq.tk
 0.0.0.0 ofajzowbwzzi.com
 0.0.0.0 ofapes.com
+0.0.0.0 ofbapmmo.com
 0.0.0.0 ofbqjpaamioq.com
 0.0.0.0 ofdfinqurwpi.com
 0.0.0.0 ofdybheqahjamq.bid
@@ -19257,6 +19267,7 @@
 0.0.0.0 thigeeph.com
 0.0.0.0 thighiny.com
 0.0.0.0 thikraik.net
+0.0.0.0 thimoaph.net
 0.0.0.0 thingswontend.com
 0.0.0.0 thirdfloor.it
 0.0.0.0 thirdrespect.com
@@ -20485,6 +20496,7 @@
 0.0.0.0 uohpnvpynvsz.com
 0.0.0.0 uoicsyuiof.com
 0.0.0.0 uoifloesog.com
+0.0.0.0 uojjfspxqcyik.com
 0.0.0.0 uoldid.ru
 0.0.0.0 uoommnucvua.com
 0.0.0.0 uopayiycy.com
@@ -20971,6 +20983,7 @@
 0.0.0.0 viralfix.net
 0.0.0.0 viralmediatech.com
 0.0.0.0 viralninjas.com
+0.0.0.0 virashux.net
 0.0.0.0 virgbmkmear.com
 0.0.0.0 virgul.com
 0.0.0.0 viriepak.com
@@ -22509,6 +22522,7 @@
 0.0.0.0 ympkaxpaf.com
 0.0.0.0 ymsutnllwwcm.com
 0.0.0.0 ymuhybbrk.com
+0.0.0.0 ymuoqhmhnifzl.com
 0.0.0.0 ymvkirvjqgha.com
 0.0.0.0 ymwvkruyidppb.com
 0.0.0.0 ymzrrizntbhde.com

@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.02.052
-# Release: 052
-# Entries: 61,157
+# Version: 20.02.053
+# Release: 053
+# Entries: 61,156
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 18:10:04
+# Updated: Sat, 22 Feb 20 00:10:22
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2729,7 +2729,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 acs.m.taobao.com
 0.0.0.0 acs.maribacaberita.com
 0.0.0.0 acs4baichuan.m.taobao.com
-0.0.0.0 acsdk.gameyw.easebar.com
 0.0.0.0 acspaces.ero-advertising.com
 0.0.0.0 acsseo.com
 0.0.0.0 act.uc.cn
@@ -8812,7 +8811,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.awin.com
 0.0.0.0 api.backtrace.io
 0.0.0.0 api.badgeville.com
-0.0.0.0 api.band.us
 0.0.0.0 api.batch.com
 0.0.0.0 api.batmobi.net
 0.0.0.0 api.batterylab.duapps.com
@@ -26695,6 +26693,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iliillliO00OO0.321.cn
 0.0.0.0 ilinan.xyz
 0.0.0.0 ilinks.industrybrains.com
+0.0.0.0 ilivaris.pw
 0.0.0.0 ilkphyyzg.com
 0.0.0.0 illazkka.com
 0.0.0.0 illfatedsnail.com
@@ -27805,6 +27804,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iplrcmff.com
 0.0.0.0 iplua.api.xoxknct.com
 0.0.0.0 ipluhckk.com
+0.0.0.0 ipnamtuezkwi.com
 0.0.0.0 ipncblpgxlhjpc.com
 0.0.0.0 ipntpfokhkrh.com
 0.0.0.0 ipominer.com
@@ -30521,6 +30521,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 liveuniversenetwork.com
 0.0.0.0 liveupdate.feednowforbrandnewcontestdistributor.win
 0.0.0.0 livewell.net
+0.0.0.0 livewidget.net
 0.0.0.0 livexxx.me
 0.0.0.0 livingly-tagan.adlightning.com
 0.0.0.0 livingtheprinciples.com
@@ -31357,6 +31358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lycosu.com
 0.0.0.0 lydgyhthfb.com
 0.0.0.0 lydian.io
+0.0.0.0 lyehemarm.club
 0.0.0.0 lyghoxyxohkrdk.com
 0.0.0.0 lyjcpycaufud.com
 0.0.0.0 lykuxkxsvvnxqd.com
@@ -32486,6 +32488,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 meglepo.info
 0.0.0.0 megpacokjce.bid
 0.0.0.0 meguanha.com
+0.0.0.0 mehhueboy.club
 0.0.0.0 meilidream.com
 0.0.0.0 meiluziai.info
 0.0.0.0 mein.monster.de
@@ -32875,8 +32878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mg.traffic-media.co.uk
 0.0.0.0 mg2connext.com
 0.0.0.0 mgage.com
-0.0.0.0 mgbsdknaeast.matrix.easebar.com
-0.0.0.0 mgbsdksgtest.matrix.easebar.com
 0.0.0.0 mgcash.com
 0.0.0.0 mgcashgate.com
 0.0.0.0 mgd-adengine.elasticbeanstalk.com
@@ -36250,6 +36251,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ofa-sub.osp.opera.software
 0.0.0.0 ofajzowbwzzi.com
 0.0.0.0 ofapes.com
+0.0.0.0 ofbapmmo.com
 0.0.0.0 ofbqjpaamioq.com
 0.0.0.0 ofdfinqurwpi.com
 0.0.0.0 ofdybheqahjamq.bid
@@ -37015,7 +37017,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 optout3.advertising.com
 0.0.0.0 optout3.nexage.com
 0.0.0.0 optout3.tacoda.at.atwola.com
-0.0.0.0 optsdk.gameyw.easebar.com
 0.0.0.0 optusprod.amobee.com
 0.0.0.0 opulence.es
 0.0.0.0 opus-dev.analytics.yahoo.com
@@ -41480,7 +41481,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 qqvatwaqtzgp.com
 0.0.0.0 qqylzyrqnewl.com
 0.0.0.0 qqztmozc.bid
-0.0.0.0 qr.mpsdk.easebar.com
 0.0.0.0 qr00rq.com
 0.0.0.0 qrcsppwzjryh.com
 0.0.0.0 qrecxvdoewmztq.com
@@ -44309,7 +44309,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdk-log.gwallet.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-orion.appboycomnulled.iad.appboy.com
-0.0.0.0 sdk-os.mpsdk.easebar.com
 0.0.0.0 sdk-services.appsflyer.com
 0.0.0.0 sdk-traffic.apptimize.com
 0.0.0.0 sdk-vidmatic.streamrail.net
@@ -52570,7 +52569,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 unionimage.baidu.com
 0.0.0.0 unionleisurewear.com
 0.0.0.0 unionslot.lau1.uae.uc.cn
-0.0.0.0 unisdk.update.easebar.com
 0.0.0.0 unit.content.ad
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unitethecows.com
@@ -52636,6 +52634,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uoicsyuiof.com
 0.0.0.0 uoifloesog.com
 0.0.0.0 uojamcse.angelcities.com
+0.0.0.0 uojjfspxqcyik.com
 0.0.0.0 uol-d.openx.net
 0.0.0.0 uol-i3.servedbyopenx.com
 0.0.0.0 uolfreeservers.112.2o7.net
@@ -52700,7 +52699,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 update.sdkbox.com
 0.0.0.0 update.security.baidu.co.th
 0.0.0.0 update.toptools100.com
-0.0.0.0 update.unisdk.easebar.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 update4now.yourfine2updatesgo.best
 0.0.0.0 updateacces.org
@@ -60318,6 +60316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ymsutnllwwcm.com
 0.0.0.0 ymtracking.com
 0.0.0.0 ymuhybbrk.com
+0.0.0.0 ymuoqhmhnifzl.com
 0.0.0.0 ymvkirvjqgha.com
 0.0.0.0 ymwvkruyidppb.com
 0.0.0.0 ymxpb.com

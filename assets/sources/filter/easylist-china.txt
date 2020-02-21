@@ -1,7 +1,7 @@
 # Title: easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last Converted - 21.02.2020
+# Last Converted - 22.02.2020
 # Total Domains - 5540
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro

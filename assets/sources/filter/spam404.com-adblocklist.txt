@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # Last Converted - 21.02.2020
-# Total Domains - 3306
+# Total Domains - 3308
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -582,6 +582,7 @@
 0.0.0.0 csgodmarket.com
 0.0.0.0 csgodragon2x.com
 0.0.0.0 csgodrugs.com
+0.0.0.0 csgoempires.net
 0.0.0.0 csgoexpose.com
 0.0.0.0 csgofirst.ru
 0.0.0.0 csgoflap.com
@@ -1753,6 +1754,7 @@
 0.0.0.0 hubfast.com
 0.0.0.0 hubzoom.com
 0.0.0.0 hugefileshare.com
+0.0.0.0 huiso.si
 0.0.0.0 huiso.su
 0.0.0.0 humanverify.net
 0.0.0.0 husek.ru

@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.052
 # Release: 052
-# Entries: 61,137
+# Entries: 61,149
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 06:09:56
+# Updated: Fri, 21 Feb 20 12:09:48
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -9646,6 +9646,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apt.newrelic.com
 0.0.0.0 aptaleant.club
 0.0.0.0 aptalebow.site
+0.0.0.0 aptantasp.site
 0.0.0.0 aptapebog.online
 0.0.0.0 aptausad.com
 0.0.0.0 aptrk5.com
@@ -10453,6 +10454,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ayjfodxqmykn.com
 0.0.0.0 aykgxavgrooa.com
 0.0.0.0 aymaypibp.com
+0.0.0.0 ayrovalcontain.info
 0.0.0.0 aysnmnzu4u.com
 0.0.0.0 aysurgentlymisun.info
 0.0.0.0 aysydyqpkg.com
@@ -10968,6 +10970,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 batstore.batmobi.net
 0.0.0.0 battery.lionmobi.com
+0.0.0.0 bauthair.net
 0.0.0.0 bav.baidu.com
 0.0.0.0 bavftcgoapga.com
 0.0.0.0 bavners2.ero-advertising.com
@@ -18852,6 +18855,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dollarsponsor.com
 0.0.0.0 dolohen.com
 0.0.0.0 dolphindispute.com
+0.0.0.0 dolsoste.com
 0.0.0.0 dom-dev-analytics.bhg.tools
 0.0.0.0 domail.com
 0.0.0.0 domain
@@ -18891,6 +18895,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 doolooku.net
 0.0.0.0 doomail.org
 0.0.0.0 doomna.com
+0.0.0.0 dooptoug.net
 0.0.0.0 doors.co.kr
 0.0.0.0 dopor.info
 0.0.0.0 doppler.hulu.com
@@ -23515,6 +23520,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 giausar.iad-03.braze.com
 0.0.0.0 gid.wonderlandads.com
 0.0.0.0 giddycoat.com
+0.0.0.0 giecsodzyl.com
 0.0.0.0 gif-ads.top
 0.0.0.0 gif.brealtime.com
 0.0.0.0 gifastcompanycom.112.2o7.net
@@ -27042,6 +27048,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 immscjnenl.com
 0.0.0.0 imnsmvmjrdiwwr.com
 0.0.0.0 imonomy.com
+0.0.0.0 imounsos.com
 0.0.0.0 imovil.online
 0.0.0.0 imp-dsp.bidgear.com
 0.0.0.0 imp-mdsp.avazutracking.net
@@ -29308,6 +29315,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kiyzb.27823.club
 0.0.0.0 kj2hy.com
 0.0.0.0 kjbbc.net
+0.0.0.0 kjegyqtqazui.com
 0.0.0.0 kjhdoend.com
 0.0.0.0 kjiiatolx.com
 0.0.0.0 kjizuuuvqbcd.com
@@ -30646,6 +30654,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 loadr.exelator.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
+0.0.0.0 loaphour.com
 0.0.0.0 lobby.sexlist.com
 0.0.0.0 loboclick.com
 0.0.0.0 loc1.hitsprocessor.com
@@ -36666,6 +36675,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ongkidcasarv.com
 0.0.0.0 onhercam.com
 0.0.0.0 onhxejzm.bid
+0.0.0.0 onindexicowillio.info
 0.0.0.0 onjqfyuxprnq.com
 0.0.0.0 onkftmmfiwxh.com
 0.0.0.0 onlinadverts.com
@@ -40072,6 +40082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 privacy-center.org
 0.0.0.0 privacy-guard.tk
 0.0.0.0 privacy.adcolony.com
+0.0.0.0 privacy.claytonhomes.com
 0.0.0.0 privacy.commander1.com
 0.0.0.0 privacy.purch.com
 0.0.0.0 privacy.schibsted.com
@@ -41482,6 +41493,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qrpbogawdr.bid
 0.0.0.0 qrpwaluz.com
 0.0.0.0 qrqmchbp.bid
+0.0.0.0 qrusnsgwuzgrs.com
 0.0.0.0 qrwixhlz.com
 0.0.0.0 qrwlerqenp.com
 0.0.0.0 qrxkugriqkt.com
@@ -42974,6 +42986,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roakicat.net
 0.0.0.0 roar.com
 0.0.0.0 robinkornett.com
+0.0.0.0 robjamguy.club
 0.0.0.0 robloxexploitnet.imageshack.host
 0.0.0.0 robocat.me
 0.0.0.0 robocop.oneaudience.com
@@ -44069,7 +44082,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sbmdsfld.com
 0.0.0.0 sbmijpifoszz.com
 0.0.0.0 sbnationbidder-d.openx.net
-0.0.0.0 sbnc.hak.su
 0.0.0.0 sbobet-info.com
 0.0.0.0 sbopaitvwpzilp.com
 0.0.0.0 sbovclzywkbk.bid
@@ -58612,7 +58624,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tnctrx.com
 0.0.0.0 www.tnkexchange.com
 0.0.0.0 www.tns-counter.ru
-0.0.0.0 www.toochattoo.com
 0.0.0.0 www.toon-families.com
 0.0.0.0 www.toonfamilies.net
 0.0.0.0 www.top15news.club
@@ -59514,6 +59525,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xdlmsvhhsvsp.com
 0.0.0.0 xdltrwavzxn.com
 0.0.0.0 xdnpghwspxnift.com
+0.0.0.0 xdobkqqg.com
 0.0.0.0 xdomain.engage.co
 0.0.0.0 xdonzpjglqxi.com
 0.0.0.0 xdoygumiams.com

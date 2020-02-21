@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 21.02.2020
-# Total Domains - 35951
+# Total Domains - 35949
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -24212,7 +24212,6 @@
 0.0.0.0 sbbanner.com
 0.0.0.0 sbkozmohwzerlldb.capture.umbel.com
 0.0.0.0 sbnationbidder-d.openx.net
-0.0.0.0 sbnc.hak.su
 0.0.0.0 sbs-ad.com
 0.0.0.0 sbsblukgov.112.2o7.net
 0.0.0.0 sbswo.deliveryengine.adswizz.com
@@ -34604,7 +34603,6 @@
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.todolize.com
 0.0.0.0 www.token-interia.pl
-0.0.0.0 www.toochattoo.com
 0.0.0.0 www.toon-families.com
 0.0.0.0 www.toonfamilies.net
 0.0.0.0 www.top-oferty.net

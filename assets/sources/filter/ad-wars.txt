@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # Last Converted - 21.02.2020
-# Total Domains - 1136
+# Total Domains - 1176
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -27,6 +27,7 @@
 0.0.0.0 a.applovin.com
 0.0.0.0 a.baidu.com
 0.0.0.0 a.cn.miaozhen.com
+0.0.0.0 a.cntv.cn
 0.0.0.0 a.ecook.cn
 0.0.0.0 a.glcdn.co
 0.0.0.0 a.img.static.youmi.net
@@ -58,6 +59,7 @@
 0.0.0.0 ad.bayescom.com
 0.0.0.0 ad.cacafly.com
 0.0.0.0 ad.caiyunapp.com
+0.0.0.0 ad.cctv.com
 0.0.0.0 ad.cdn.sex
 0.0.0.0 ad.cn.doubleclick.net
 0.0.0.0 ad.dev.360.cn
@@ -127,6 +129,7 @@
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adfuture.cn
 0.0.0.0 adgeo.163.com
+0.0.0.0 adguanggao.eee114.com
 0.0.0.0 adimages.sina.com.hk
 0.0.0.0 adimg.daumcdn.net
 0.0.0.0 adimg.deviantart.net
@@ -252,6 +255,7 @@
 0.0.0.0 ama.adwo.com
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 analytics.admob.com
+0.0.0.0 analytics.ku6.com
 0.0.0.0 analytics3.dopool.com
 0.0.0.0 analytics3.starschina.com
 0.0.0.0 android.bcfads.com
@@ -262,6 +266,7 @@
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.adbana.com
+0.0.0.0 api.adnet.mob.com
 0.0.0.0 api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 0.0.0.0 api.airpush.com
@@ -358,6 +363,7 @@
 0.0.0.0 cb.l.qq.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cca.mob.com
+0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.celtra.com
@@ -428,6 +434,7 @@
 0.0.0.0 cti.w55c.net
 0.0.0.0 cws-cctv.conviva.com
 0.0.0.0 d.applovin.com
+0.0.0.0 d.cntv.cn
 0.0.0.0 d.gdt.qq.com
 0.0.0.0 d0.sina.com.cn
 0.0.0.0 d1.sina.com.cn
@@ -664,7 +671,9 @@
 0.0.0.0 max.adsame.com
 0.0.0.0 max.mediav.com
 0.0.0.0 maxsys.adsame.com
+0.0.0.0 mbd.baidu.com
 0.0.0.0 mbdlog.iqiyi.com
+0.0.0.0 mcfg.sandai.net
 0.0.0.0 mcgi.v.qq.com
 0.0.0.0 mdevstat.qqlive.qq.com
 0.0.0.0 mdn1.phluantmobile.net
@@ -895,6 +904,7 @@
 0.0.0.0 show-s.mediav.com
 0.0.0.0 show.g.mediav.com
 0.0.0.0 show.m.mediav.com
+0.0.0.0 shrek.6.cn
 0.0.0.0 shuttle.bayescom.com
 0.0.0.0 sm.domob.cn
 0.0.0.0 smart-789.image.mucang.cn
@@ -1013,6 +1023,7 @@
 0.0.0.0 v.irs01.com
 0.0.0.0 v1-play.log.mgtv.com
 0.0.0.0 v12-r0566gbscjw.z.irs01.com
+0.0.0.0 v16.56.com
 0.0.0.0 v2.da.mgtv.com
 0.0.0.0 v2.log.mgtv.com
 0.0.0.0 valatm.cp12.wasu.tv
@@ -1138,8 +1149,37 @@
 0.0.0.0 yt-adp.ws.126.net
 0.0.0.0 yt-adv.bn.netease.com
 0.0.0.0 yyt.irs01.com
+0.0.0.0 z.clickvip.shop
 0.0.0.0 z.irs01.com
+0.0.0.0 z.sora.yoyi.com.cn
+0.0.0.0 z1.cnzz.com
+0.0.0.0 z11.cnzz.com
+0.0.0.0 z13.cnzz.com
 0.0.0.0 z2.cnzz.com
+0.0.0.0 z4.cnzz.com
+0.0.0.0 z5.cnzz.com
+0.0.0.0 z6.cnzz.com
+0.0.0.0 z7.cnzz.com
+0.0.0.0 z8.cnzz.com
 0.0.0.0 z9.cnzz.com
 0.0.0.0 zc.adpush.cn
+0.0.0.0 zs1.cnzz.com
+0.0.0.0 zs10.cnzz.com
+0.0.0.0 zs11.cnzz.com
+0.0.0.0 zs12.cnzz.com
+0.0.0.0 zs13.cnzz.com
+0.0.0.0 zs14.cnzz.com
+0.0.0.0 zs15.cnzz.com
+0.0.0.0 zs16.cnzz.com
+0.0.0.0 zs2.cnzz.com
+0.0.0.0 zs25.cnzz.com
+0.0.0.0 zs3.cnzz.com
+0.0.0.0 zs5.cnzz.com
+0.0.0.0 zs6.cnzz.com
+0.0.0.0 zs7.cnzz.com
+0.0.0.0 zs8.cnzz.com
+0.0.0.0 zs9.cnzz.com
 0.0.0.0 zt.adsage.com
+0.0.0.0 ztrpm.lu.sogou.com
+0.0.0.0 zvs1.cnzz.com
+0.0.0.0 zvs2.cnzz.com

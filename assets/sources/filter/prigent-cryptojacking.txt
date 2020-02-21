@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 21.02.2020
-# Total Domains - 5255
+# Total Domains - 5243
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -484,7 +484,6 @@
 0.0.0.0 azvjudwr.info
 0.0.0.0 b3pool.com
 0.0.0.0 backup-pool.com
-0.0.0.0 backup-pool1.com
 0.0.0.0 bacm.ro
 0.0.0.0 badgmvhtvryg.bid
 0.0.0.0 bagoojzsqygg.com
@@ -1063,7 +1062,6 @@
 0.0.0.0 covjoecuzyss.com
 0.0.0.0 coxgtwdios.bid
 0.0.0.0 coye.minersbest.com
-0.0.0.0 coye.united-miners.com
 0.0.0.0 coyhvotxgrnq.com
 0.0.0.0 cpdoalzgwnwf.com
 0.0.0.0 cpgiseaopbx.bid
@@ -1340,7 +1338,6 @@
 0.0.0.0 dlsft.com
 0.0.0.0 dmatquyckwtu.com
 0.0.0.0 dmbjbgiifpfo.com
-0.0.0.0 dmd.minar.cc
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dmjcabavsraf.com
 0.0.0.0 dmojscqlwewu.com
@@ -1365,7 +1362,6 @@
 0.0.0.0 dogecoin.dog
 0.0.0.0 dogepool.rf.gd
 0.0.0.0 dogeu.nut2pools.com
-0.0.0.0 dogus.nut2pools.com
 0.0.0.0 dohhehsgnxfl.com
 0.0.0.0 doiljgzpurycgx.bid
 0.0.0.0 doipool.com
@@ -2968,7 +2964,6 @@
 0.0.0.0 lsslotuojpud.com
 0.0.0.0 lstkfdmmxbmv.com
 0.0.0.0 ltc.kattare.com
-0.0.0.0 ltc.pool.com
 0.0.0.0 ltc.top
 0.0.0.0 ltcmine.ru
 0.0.0.0 ltcminer.io
@@ -3203,13 +3198,11 @@
 0.0.0.0 mineshaft.ml
 0.0.0.0 minether.co
 0.0.0.0 minetrtl.us
-0.0.0.0 mineworks.scharmbeck.com
 0.0.0.0 minexca.com
 0.0.0.0 minexcash.com
 0.0.0.0 minexdn.com
 0.0.0.0 minexmr.com
 0.0.0.0 minexmr.org
-0.0.0.0 minexmr24.ru
 0.0.0.0 minexpool.nl
 0.0.0.0 minez.zone
 0.0.0.0 minezone.io
@@ -3877,7 +3870,6 @@
 0.0.0.0 phi-phi-pool.com
 0.0.0.0 phlslvetboouo.bid
 0.0.0.0 phoenixcoin.org
-0.0.0.0 phoenixinsta1.ru
 0.0.0.0 phoenixmax.org
 0.0.0.0 phoneum.io
 0.0.0.0 pibizrfgsrkji.bid
@@ -4599,7 +4591,6 @@
 0.0.0.0 solomining.io
 0.0.0.0 solopool.org
 0.0.0.0 somec.cc
-0.0.0.0 somepoolsite.com
 0.0.0.0 sonofatech.com
 0.0.0.0 sopzefqypxas.bid
 0.0.0.0 sosoeazy.info
@@ -4668,7 +4659,6 @@
 0.0.0.0 stratum.1ex.trade
 0.0.0.0 stratum.cipherpool.com
 0.0.0.0 stratum.coinex.pw
-0.0.0.0 stratum.d7.lt
 0.0.0.0 stratum.dogehouse.org
 0.0.0.0 stratum.hhtt.1209k.com
 0.0.0.0 stratum.mining-pool.eu
@@ -4815,7 +4805,6 @@
 0.0.0.0 thepiratebay.be
 0.0.0.0 thepiratebay.is
 0.0.0.0 thepiratemine.nl
-0.0.0.0 thesevendwarfs.org
 0.0.0.0 theskynet.xyz
 0.0.0.0 thetapool.com
 0.0.0.0 thetechnicalspool.com
@@ -5025,7 +5014,6 @@
 0.0.0.0 ujqafhcsrhyz.com
 0.0.0.0 ujqbxbcqtbqt.com
 0.0.0.0 ujtyosgemtnx.com
-0.0.0.0 uk.nut2pools.com
 0.0.0.0 ukbxppjxfgna.com
 0.0.0.0 ukffjaqtxhor.com
 0.0.0.0 ukjrbrvisps.bid

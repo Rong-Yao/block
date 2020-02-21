@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
 # Last Converted - 21.02.2020
-# Total Domains - 5887
+# Total Domains - 5886
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4087,7 +4087,6 @@
 0.0.0.0 s.renren.com
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3s-main.net
-0.0.0.0 s3wfg.com
 0.0.0.0 s7target.ru
 0.0.0.0 s7ven.com
 0.0.0.0 sa.bbc.co.uk

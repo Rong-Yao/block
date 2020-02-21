@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.052
 # Release: 052
-# Entries: 61,137
+# Entries: 61,149
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 06:09:56
+# Updated: Fri, 21 Feb 20 12:09:48
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -9646,6 +9646,7 @@ ff02::3 ip6-allhosts
 :: apt.newrelic.com
 :: aptaleant.club
 :: aptalebow.site
+:: aptantasp.site
 :: aptapebog.online
 :: aptausad.com
 :: aptrk5.com
@@ -10453,6 +10454,7 @@ ff02::3 ip6-allhosts
 :: ayjfodxqmykn.com
 :: aykgxavgrooa.com
 :: aymaypibp.com
+:: ayrovalcontain.info
 :: aysnmnzu4u.com
 :: aysurgentlymisun.info
 :: aysydyqpkg.com
@@ -10968,6 +10970,7 @@ ff02::3 ip6-allhosts
 :: batsavcdn.ksmobile.net
 :: batstore.batmobi.net
 :: battery.lionmobi.com
+:: bauthair.net
 :: bav.baidu.com
 :: bavftcgoapga.com
 :: bavners2.ero-advertising.com
@@ -18852,6 +18855,7 @@ ff02::3 ip6-allhosts
 :: dollarsponsor.com
 :: dolohen.com
 :: dolphindispute.com
+:: dolsoste.com
 :: dom-dev-analytics.bhg.tools
 :: domail.com
 :: domain
@@ -18891,6 +18895,7 @@ ff02::3 ip6-allhosts
 :: doolooku.net
 :: doomail.org
 :: doomna.com
+:: dooptoug.net
 :: doors.co.kr
 :: dopor.info
 :: doppler.hulu.com
@@ -23515,6 +23520,7 @@ ff02::3 ip6-allhosts
 :: giausar.iad-03.braze.com
 :: gid.wonderlandads.com
 :: giddycoat.com
+:: giecsodzyl.com
 :: gif-ads.top
 :: gif.brealtime.com
 :: gifastcompanycom.112.2o7.net
@@ -27042,6 +27048,7 @@ ff02::3 ip6-allhosts
 :: immscjnenl.com
 :: imnsmvmjrdiwwr.com
 :: imonomy.com
+:: imounsos.com
 :: imovil.online
 :: imp-dsp.bidgear.com
 :: imp-mdsp.avazutracking.net
@@ -29308,6 +29315,7 @@ ff02::3 ip6-allhosts
 :: kiyzb.27823.club
 :: kj2hy.com
 :: kjbbc.net
+:: kjegyqtqazui.com
 :: kjhdoend.com
 :: kjiiatolx.com
 :: kjizuuuvqbcd.com
@@ -30646,6 +30654,7 @@ ff02::3 ip6-allhosts
 :: loadr.exelator.com
 :: loadus.exelator.com
 :: loadus.tm.ssl.exelator.com
+:: loaphour.com
 :: lobby.sexlist.com
 :: loboclick.com
 :: loc1.hitsprocessor.com
@@ -36666,6 +36675,7 @@ ff02::3 ip6-allhosts
 :: ongkidcasarv.com
 :: onhercam.com
 :: onhxejzm.bid
+:: onindexicowillio.info
 :: onjqfyuxprnq.com
 :: onkftmmfiwxh.com
 :: onlinadverts.com
@@ -40072,6 +40082,7 @@ ff02::3 ip6-allhosts
 :: privacy-center.org
 :: privacy-guard.tk
 :: privacy.adcolony.com
+:: privacy.claytonhomes.com
 :: privacy.commander1.com
 :: privacy.purch.com
 :: privacy.schibsted.com
@@ -41482,6 +41493,7 @@ ff02::3 ip6-allhosts
 :: qrpbogawdr.bid
 :: qrpwaluz.com
 :: qrqmchbp.bid
+:: qrusnsgwuzgrs.com
 :: qrwixhlz.com
 :: qrwlerqenp.com
 :: qrxkugriqkt.com
@@ -42974,6 +42986,7 @@ ff02::3 ip6-allhosts
 :: roakicat.net
 :: roar.com
 :: robinkornett.com
+:: robjamguy.club
 :: robloxexploitnet.imageshack.host
 :: robocat.me
 :: robocop.oneaudience.com
@@ -44069,7 +44082,6 @@ ff02::3 ip6-allhosts
 :: sbmdsfld.com
 :: sbmijpifoszz.com
 :: sbnationbidder-d.openx.net
-:: sbnc.hak.su
 :: sbobet-info.com
 :: sbopaitvwpzilp.com
 :: sbovclzywkbk.bid
@@ -58612,7 +58624,6 @@ ff02::3 ip6-allhosts
 :: www.tnctrx.com
 :: www.tnkexchange.com
 :: www.tns-counter.ru
-:: www.toochattoo.com
 :: www.toon-families.com
 :: www.toonfamilies.net
 :: www.top15news.club
@@ -59514,6 +59525,7 @@ ff02::3 ip6-allhosts
 :: xdlmsvhhsvsp.com
 :: xdltrwavzxn.com
 :: xdnpghwspxnift.com
+:: xdobkqqg.com
 :: xdomain.engage.co
 :: xdonzpjglqxi.com
 :: xdoygumiams.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
 # Last Converted - 21.02.2020
-# Total Domains - 56499
+# Total Domains - 56497
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -24499,7 +24499,6 @@
 0.0.0.0 boysmadrid.com
 0.0.0.0 boysnew.com
 0.0.0.0 boyssay.com
-0.0.0.0 boysshoe.com
 0.0.0.0 boysstores.com
 0.0.0.0 boysuniform.com
 0.0.0.0 boysuniforms.com
@@ -39301,7 +39300,6 @@
 0.0.0.0 oascentral.freedom.com
 0.0.0.0 oascentral.goerie.com
 0.0.0.0 oascentral.gotriad.com
-0.0.0.0 oascentral.grandparents.com
 0.0.0.0 oascentral.greenevillesun.com
 0.0.0.0 oascentral.healthletter.mayoclinic.com
 0.0.0.0 oascentral.herald-dispatch.com

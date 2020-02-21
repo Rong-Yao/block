@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 21.02.2020
-# Total Domains - 39921
+# Total Domains - 39919
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -35687,7 +35687,6 @@
 0.0.0.0 sba2-vig.vig.pl
 0.0.0.0 sbcglobal.supportno.com
 0.0.0.0 sbcpower.com
-0.0.0.0 sbnc.hak.su
 0.0.0.0 sbs-ad.com
 0.0.0.0 scaleway.ovh
 0.0.0.0 scandalshack.com
@@ -39453,7 +39452,6 @@
 0.0.0.0 www.tjeeze.nl
 0.0.0.0 www.togglemark.net
 0.0.0.0 www.tommasobovone.com
-0.0.0.0 www.toochattoo.com
 0.0.0.0 www.toohs.com
 0.0.0.0 www.top-banners.com
 0.0.0.0 www.top-of-software.de

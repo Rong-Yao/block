@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.052
 # Release: 052
-# Entries: 63,438
+# Entries: 63,452
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 06:13:41
+# Updated: Fri, 21 Feb 20 12:13:33
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -1502,6 +1502,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 685wo.com
 0.0.0.0 68665565.com
 0.0.0.0 6868bbe42af8e518.com
+0.0.0.0 688ct.com
 0.0.0.0 688de7b3822de.com
 0.0.0.0 68af56a7f0.com
 0.0.0.0 691123f5be2a669b.com
@@ -6383,6 +6384,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aykcic.com
 0.0.0.0 aykgxavgrooa.com
 0.0.0.0 aymaypibp.com
+0.0.0.0 ayrovalcontain.info
 0.0.0.0 aysurgentlymisun.info
 0.0.0.0 aysydyqpkg.com
 0.0.0.0 ayues.com
@@ -6904,6 +6906,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 battmd168a2.xyz
 0.0.0.0 batuu.pl
 0.0.0.0 bauernative.com
+0.0.0.0 bauthair.net
 0.0.0.0 bavefqd1egybifo.ru
 0.0.0.0 bavftcgoapga.com
 0.0.0.0 bayard-pub.com
@@ -11049,6 +11052,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1i2v9a8xom2hy.cloudfront.net
 0.0.0.0 d1i9kr6k34lyp.cloudfront.net
 0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
+0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1jikhx1ssl81z.cloudfront.net
 0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
 0.0.0.0 d1jq9nooxeft24.cloudfront.net
@@ -12530,6 +12534,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 doloj.ru
 0.0.0.0 dolphincdn.xyz
 0.0.0.0 dolphindispute.com
+0.0.0.0 dolsoste.com
 0.0.0.0 dolykon.com
 0.0.0.0 dom1408.ru
 0.0.0.0 domah.ru
@@ -12566,6 +12571,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 doomail.org
 0.0.0.0 doomna.com
 0.0.0.0 doopads.com
+0.0.0.0 dooptoug.net
 0.0.0.0 door2new.net
 0.0.0.0 doortrade.ru
 0.0.0.0 doowe.cn
@@ -14933,6 +14939,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fiwatmctnaqec.com
 0.0.0.0 fixionmedia.com
 0.0.0.0 fixpass.net
+0.0.0.0 fixsirrod.site
 0.0.0.0 fixzila.com
 0.0.0.0 fiyifo.com
 0.0.0.0 fizpk.club
@@ -16271,6 +16278,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gib-gib-la.com
 0.0.0.0 gibsonvillainousweatherstrip.com
 0.0.0.0 gidrantus.ru
+0.0.0.0 giecsodzyl.com
 0.0.0.0 gifiqbbfvh.com
 0.0.0.0 gifjvmfkzykp.com
 0.0.0.0 giftandmore.club
@@ -19043,6 +19051,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imo-cash.de
 0.0.0.0 imobilco.ru
 0.0.0.0 imonomy.com
+0.0.0.0 imounsos.com
 0.0.0.0 imp.accesstrade.vn
 0.0.0.0 imp.adnetwork.vn
 0.0.0.0 imp.ambient-platform.com
@@ -21141,6 +21150,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kj2hy.com
 0.0.0.0 kjaay.com
 0.0.0.0 kjdw.com.cn
+0.0.0.0 kjegyqtqazui.com
 0.0.0.0 kjfhe.com
 0.0.0.0 kjfoqi.cn
 0.0.0.0 kjgen.com
@@ -22592,6 +22602,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 loamauji.com
 0.0.0.0 loandatec.com
 0.0.0.0 loaphizu.com
+0.0.0.0 loaphour.com
 0.0.0.0 loasdfn.xyz
 0.0.0.0 loaxuflhen.com
 0.0.0.0 lobster.unionpeer.com
@@ -27225,6 +27236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onhitads.net
 0.0.0.0 onhxejzm.bid
 0.0.0.0 oniad.com
+0.0.0.0 onindexicowillio.info
 0.0.0.0 onivenapud.com
 0.0.0.0 onjqfyuxprnq.com
 0.0.0.0 onkftmmfiwxh.com
@@ -30911,6 +30923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qrqmchbp.bid
 0.0.0.0 qrrgv.space
 0.0.0.0 qrstes.com
+0.0.0.0 qrusnsgwuzgrs.com
 0.0.0.0 qrwixhlz.com
 0.0.0.0 qrwlerqenp.com
 0.0.0.0 qrwsha.com
@@ -61043,6 +61056,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xdltrwavzxn.com
 0.0.0.0 xdnpghwspxnift.com
 0.0.0.0 xdnujiqpvejrydkpddgye.com
+0.0.0.0 xdobkqqg.com
 0.0.0.0 xdonzpjglqxi.com
 0.0.0.0 xdoygumiams.com
 0.0.0.0 xdqjeggqm.com

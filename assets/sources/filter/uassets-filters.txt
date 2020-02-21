@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 # Last Converted - 21.02.2020
-# Total Domains - 842
+# Total Domains - 843
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -114,6 +114,7 @@
 0.0.0.0 applicationunification.com
 0.0.0.0 aptaleant.club
 0.0.0.0 aptalebow.site
+0.0.0.0 aptantasp.site
 0.0.0.0 areandarm.com
 0.0.0.0 areantaid.site
 0.0.0.0 areyouabot.net
@@ -653,6 +654,7 @@
 0.0.0.0 richinfo.co
 0.0.0.0 riverhit.com
 0.0.0.0 rizotina.com
+0.0.0.0 robjamguy.club
 0.0.0.0 roda.site
 0.0.0.0 roojouma.com
 0.0.0.0 roustast.net
@@ -798,7 +800,6 @@
 0.0.0.0 vidazoo.com
 0.0.0.0 virsalor.xyz
 0.0.0.0 vliplatform.com
-0.0.0.0 vnrherdsxr.com
 0.0.0.0 voastauz.net
 0.0.0.0 volstqkwmth.com
 0.0.0.0 vpnfortorrents.co

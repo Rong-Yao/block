@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.052
 ; Release: 052
-; Entries: 63,438
+; Entries: 63,452
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 06:13:41
+; Updated: Fri, 21 Feb 20 12:13:33
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -1491,6 +1491,7 @@ $TTL 2h
 685wo.com CNAME .
 68665565.com CNAME .
 6868bbe42af8e518.com CNAME .
+688ct.com CNAME .
 688de7b3822de.com CNAME .
 68af56a7f0.com CNAME .
 691123f5be2a669b.com CNAME .
@@ -6372,6 +6373,7 @@ ayjvb.com CNAME .
 aykcic.com CNAME .
 aykgxavgrooa.com CNAME .
 aymaypibp.com CNAME .
+ayrovalcontain.info CNAME .
 aysurgentlymisun.info CNAME .
 aysydyqpkg.com CNAME .
 ayues.com CNAME .
@@ -6893,6 +6895,7 @@ battmd168a1.xyz CNAME .
 battmd168a2.xyz CNAME .
 batuu.pl CNAME .
 bauernative.com CNAME .
+bauthair.net CNAME .
 bavefqd1egybifo.ru CNAME .
 bavftcgoapga.com CNAME .
 bayard-pub.com CNAME .
@@ -11038,6 +11041,7 @@ d1hm0uxglt4t41.cloudfront.net CNAME .
 d1i2v9a8xom2hy.cloudfront.net CNAME .
 d1i9kr6k34lyp.cloudfront.net CNAME .
 d1il9t8pu4dsoj.cloudfront.net CNAME .
+d1ilwohzbe4ao6.cloudfront.net CNAME .
 d1jikhx1ssl81z.cloudfront.net CNAME .
 d1jnvfp2m6fzvq.cloudfront.net CNAME .
 d1jq9nooxeft24.cloudfront.net CNAME .
@@ -12519,6 +12523,7 @@ dolohen.com CNAME .
 doloj.ru CNAME .
 dolphincdn.xyz CNAME .
 dolphindispute.com CNAME .
+dolsoste.com CNAME .
 dolykon.com CNAME .
 dom1408.ru CNAME .
 domah.ru CNAME .
@@ -12555,6 +12560,7 @@ doolooku.net CNAME .
 doomail.org CNAME .
 doomna.com CNAME .
 doopads.com CNAME .
+dooptoug.net CNAME .
 door2new.net CNAME .
 doortrade.ru CNAME .
 doowe.cn CNAME .
@@ -14922,6 +14928,7 @@ fivzzu1vyo.com CNAME .
 fiwatmctnaqec.com CNAME .
 fixionmedia.com CNAME .
 fixpass.net CNAME .
+fixsirrod.site CNAME .
 fixzila.com CNAME .
 fiyifo.com CNAME .
 fizpk.club CNAME .
@@ -16260,6 +16267,7 @@ giantsavings-a.akamaihd.net CNAME .
 gib-gib-la.com CNAME .
 gibsonvillainousweatherstrip.com CNAME .
 gidrantus.ru CNAME .
+giecsodzyl.com CNAME .
 gifiqbbfvh.com CNAME .
 gifjvmfkzykp.com CNAME .
 giftandmore.club CNAME .
@@ -19032,6 +19040,7 @@ imnsmvmjrdiwwr.com CNAME .
 imo-cash.de CNAME .
 imobilco.ru CNAME .
 imonomy.com CNAME .
+imounsos.com CNAME .
 imp.accesstrade.vn CNAME .
 imp.adnetwork.vn CNAME .
 imp.ambient-platform.com CNAME .
@@ -21130,6 +21139,7 @@ kiwys.com CNAME .
 kj2hy.com CNAME .
 kjaay.com CNAME .
 kjdw.com.cn CNAME .
+kjegyqtqazui.com CNAME .
 kjfhe.com CNAME .
 kjfoqi.cn CNAME .
 kjgen.com CNAME .
@@ -22581,6 +22591,7 @@ loadus.exelator.com CNAME .
 loamauji.com CNAME .
 loandatec.com CNAME .
 loaphizu.com CNAME .
+loaphour.com CNAME .
 loasdfn.xyz CNAME .
 loaxuflhen.com CNAME .
 lobster.unionpeer.com CNAME .
@@ -27214,6 +27225,7 @@ onhercam.com CNAME .
 onhitads.net CNAME .
 onhxejzm.bid CNAME .
 oniad.com CNAME .
+onindexicowillio.info CNAME .
 onivenapud.com CNAME .
 onjqfyuxprnq.com CNAME .
 onkftmmfiwxh.com CNAME .
@@ -30900,6 +30912,7 @@ qrpwaluz.com CNAME .
 qrqmchbp.bid CNAME .
 qrrgv.space CNAME .
 qrstes.com CNAME .
+qrusnsgwuzgrs.com CNAME .
 qrwixhlz.com CNAME .
 qrwlerqenp.com CNAME .
 qrwsha.com CNAME .
@@ -61032,6 +61045,7 @@ xdlmsvhhsvsp.com CNAME .
 xdltrwavzxn.com CNAME .
 xdnpghwspxnift.com CNAME .
 xdnujiqpvejrydkpddgye.com CNAME .
+xdobkqqg.com CNAME .
 xdonzpjglqxi.com CNAME .
 xdoygumiams.com CNAME .
 xdqjeggqm.com CNAME .

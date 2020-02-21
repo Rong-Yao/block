@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 21.02.2020
-# Total Domains - 44503
+# Total Domains - 44501
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -13215,7 +13215,6 @@
 0.0.0.0 ethpool.org
 0.0.0.0 ethweb.antpool.com
 0.0.0.0 etn.nanopool.org
-0.0.0.0 etn.spacepools.org
 0.0.0.0 etology.com
 0.0.0.0 etownsend.com
 0.0.0.0 etp.2miners.com
@@ -27247,7 +27246,6 @@
 0.0.0.0 sbbybbsoftbankjp.122.2o7.net
 0.0.0.0 sbbybbsoftbankjpsupport.122.2o7.net
 0.0.0.0 sbee.com
-0.0.0.0 sbnc.hak.su
 0.0.0.0 sbs.razor.net.au
 0.0.0.0 sbsblukgov.112.2o7.net
 0.0.0.0 sbstage.miva.com

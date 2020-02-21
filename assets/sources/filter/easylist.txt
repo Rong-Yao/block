@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
 # Last Converted - 21.02.2020
-# Total Domains - 16522
+# Total Domains - 16534
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2080,6 +2080,7 @@
 0.0.0.0 ayjfodxqmykn.com
 0.0.0.0 aykgxavgrooa.com
 0.0.0.0 aymaypibp.com
+0.0.0.0 ayrovalcontain.info
 0.0.0.0 aysurgentlymisun.info
 0.0.0.0 aysydyqpkg.com
 0.0.0.0 ayyslqwrmoygf.com
@@ -2241,6 +2242,7 @@
 0.0.0.0 bathibsa.com
 0.0.0.0 bathouph.net
 0.0.0.0 batnhiyilyvvdo.com
+0.0.0.0 bauthair.net
 0.0.0.0 bavftcgoapga.com
 0.0.0.0 baypops.com
 0.0.0.0 bb1acb0ea5ddb1fed8.com
@@ -3708,6 +3710,7 @@
 0.0.0.0 d1grtyyel8f1mh.cloudfront.net
 0.0.0.0 d1i9kr6k34lyp.cloudfront.net
 0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
+0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
@@ -4211,6 +4214,7 @@
 0.0.0.0 dollarade.com
 0.0.0.0 dollarsponsor.com
 0.0.0.0 dolohen.com
+0.0.0.0 dolsoste.com
 0.0.0.0 domainadvertising.com
 0.0.0.0 domainbuyingservices.com
 0.0.0.0 domainsponsor.com
@@ -4220,6 +4224,7 @@
 0.0.0.0 doolooku.net
 0.0.0.0 doomail.org
 0.0.0.0 doomna.com
+0.0.0.0 dooptoug.net
 0.0.0.0 dopor.info
 0.0.0.0 doqapnez.com
 0.0.0.0 doqjemtf.com
@@ -5736,6 +5741,7 @@
 0.0.0.0 giantaffiliates.com
 0.0.0.0 giantsavings-a.akamaihd.net
 0.0.0.0 gib-gib-la.com
+0.0.0.0 giecsodzyl.com
 0.0.0.0 gifiqbbfvh.com
 0.0.0.0 gifjvmfkzykp.com
 0.0.0.0 gigaads.xyz
@@ -6799,6 +6805,7 @@
 0.0.0.0 immscjnenl.com
 0.0.0.0 imnsmvmjrdiwwr.com
 0.0.0.0 imonomy.com
+0.0.0.0 imounsos.com
 0.0.0.0 impactradius-go.com
 0.0.0.0 impactradius.com
 0.0.0.0 impeacknow.xyz
@@ -7629,6 +7636,7 @@
 0.0.0.0 kiuiqcxvuox.com
 0.0.0.0 kiwi-offers.com
 0.0.0.0 kj2hy.com
+0.0.0.0 kjegyqtqazui.com
 0.0.0.0 kjhdoend.com
 0.0.0.0 kjiiatolx.com
 0.0.0.0 kjizuuuvqbcd.com
@@ -8189,6 +8197,7 @@
 0.0.0.0 loading-delivery1.com
 0.0.0.0 loading-resource.com
 0.0.0.0 loading-wsite.com
+0.0.0.0 loaphour.com
 0.0.0.0 local.tampabay.com
 0.0.0.0 localadbuy.com
 0.0.0.0 localedgemedia.com
@@ -9993,6 +10002,7 @@
 0.0.0.0 onhercam.com
 0.0.0.0 onhitads.net
 0.0.0.0 onhxejzm.bid
+0.0.0.0 onindexicowillio.info
 0.0.0.0 onjqfyuxprnq.com
 0.0.0.0 onkftmmfiwxh.com
 0.0.0.0 online-adnetwork.com
@@ -11848,6 +11858,7 @@
 0.0.0.0 qrpbogawdr.bid
 0.0.0.0 qrpwaluz.com
 0.0.0.0 qrqmchbp.bid
+0.0.0.0 qrusnsgwuzgrs.com
 0.0.0.0 qrwixhlz.com
 0.0.0.0 qrwlerqenp.com
 0.0.0.0 qrxkugriqkt.com
@@ -15528,6 +15539,7 @@
 0.0.0.0 xdlmsvhhsvsp.com
 0.0.0.0 xdltrwavzxn.com
 0.0.0.0 xdnpghwspxnift.com
+0.0.0.0 xdobkqqg.com
 0.0.0.0 xdonzpjglqxi.com
 0.0.0.0 xdqjeggqm.com
 0.0.0.0 xdqodcrayeat.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # Last Converted - 21.02.2020
-# Total Domains - 689
+# Total Domains - 688
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -158,7 +158,6 @@
 0.0.0.0 ethereum-pocket.de
 0.0.0.0 ethereum-pocket.eu
 0.0.0.0 ethtrader.de
-0.0.0.0 etn.spacepools.org
 0.0.0.0 eu.sushipool.com
 0.0.0.0 eucsoft.com
 0.0.0.0 exdynsrv.com

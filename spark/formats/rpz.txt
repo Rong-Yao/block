@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.052
 ; Release: 052
-; Entries: 61,137
+; Entries: 61,149
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 06:09:56
+; Updated: Fri, 21 Feb 20 12:09:48
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9635,6 +9635,7 @@ apt.match.adsrvr.org CNAME .
 apt.newrelic.com CNAME .
 aptaleant.club CNAME .
 aptalebow.site CNAME .
+aptantasp.site CNAME .
 aptapebog.online CNAME .
 aptausad.com CNAME .
 aptrk5.com CNAME .
@@ -10442,6 +10443,7 @@ ayggsmmb.com CNAME .
 ayjfodxqmykn.com CNAME .
 aykgxavgrooa.com CNAME .
 aymaypibp.com CNAME .
+ayrovalcontain.info CNAME .
 aysnmnzu4u.com CNAME .
 aysurgentlymisun.info CNAME .
 aysydyqpkg.com CNAME .
@@ -10957,6 +10959,7 @@ bats.video.yahoo.com CNAME .
 batsavcdn.ksmobile.net CNAME .
 batstore.batmobi.net CNAME .
 battery.lionmobi.com CNAME .
+bauthair.net CNAME .
 bav.baidu.com CNAME .
 bavftcgoapga.com CNAME .
 bavners2.ero-advertising.com CNAME .
@@ -18841,6 +18844,7 @@ dollarshaveclubtracksdk.optimove.net CNAME .
 dollarsponsor.com CNAME .
 dolohen.com CNAME .
 dolphindispute.com CNAME .
+dolsoste.com CNAME .
 dom-dev-analytics.bhg.tools CNAME .
 domail.com CNAME .
 domain CNAME .
@@ -18880,6 +18884,7 @@ doodles.uc.cn CNAME .
 doolooku.net CNAME .
 doomail.org CNAME .
 doomna.com CNAME .
+dooptoug.net CNAME .
 doors.co.kr CNAME .
 dopor.info CNAME .
 doppler.hulu.com CNAME .
@@ -23504,6 +23509,7 @@ giantaffiliates.com CNAME .
 giausar.iad-03.braze.com CNAME .
 gid.wonderlandads.com CNAME .
 giddycoat.com CNAME .
+giecsodzyl.com CNAME .
 gif-ads.top CNAME .
 gif.brealtime.com CNAME .
 gifastcompanycom.112.2o7.net CNAME .
@@ -27031,6 +27037,7 @@ immonetlive.cleverpush.com CNAME .
 immscjnenl.com CNAME .
 imnsmvmjrdiwwr.com CNAME .
 imonomy.com CNAME .
+imounsos.com CNAME .
 imovil.online CNAME .
 imp-dsp.bidgear.com CNAME .
 imp-mdsp.avazutracking.net CNAME .
@@ -29297,6 +29304,7 @@ kiya-services.com CNAME .
 kiyzb.27823.club CNAME .
 kj2hy.com CNAME .
 kjbbc.net CNAME .
+kjegyqtqazui.com CNAME .
 kjhdoend.com CNAME .
 kjiiatolx.com CNAME .
 kjizuuuvqbcd.com CNAME .
@@ -30635,6 +30643,7 @@ loadpm.exelator.com CNAME .
 loadr.exelator.com CNAME .
 loadus.exelator.com CNAME .
 loadus.tm.ssl.exelator.com CNAME .
+loaphour.com CNAME .
 lobby.sexlist.com CNAME .
 loboclick.com CNAME .
 loc1.hitsprocessor.com CNAME .
@@ -36655,6 +36664,7 @@ onfocus.io CNAME .
 ongkidcasarv.com CNAME .
 onhercam.com CNAME .
 onhxejzm.bid CNAME .
+onindexicowillio.info CNAME .
 onjqfyuxprnq.com CNAME .
 onkftmmfiwxh.com CNAME .
 onlinadverts.com CNAME .
@@ -40061,6 +40071,7 @@ priv-policy.imrworldwide.com CNAME .
 privacy-center.org CNAME .
 privacy-guard.tk CNAME .
 privacy.adcolony.com CNAME .
+privacy.claytonhomes.com CNAME .
 privacy.commander1.com CNAME .
 privacy.purch.com CNAME .
 privacy.schibsted.com CNAME .
@@ -41471,6 +41482,7 @@ qrocxwig.bid CNAME .
 qrpbogawdr.bid CNAME .
 qrpwaluz.com CNAME .
 qrqmchbp.bid CNAME .
+qrusnsgwuzgrs.com CNAME .
 qrwixhlz.com CNAME .
 qrwlerqenp.com CNAME .
 qrxkugriqkt.com CNAME .
@@ -42963,6 +42975,7 @@ ro88qcuy.com CNAME .
 roakicat.net CNAME .
 roar.com CNAME .
 robinkornett.com CNAME .
+robjamguy.club CNAME .
 robloxexploitnet.imageshack.host CNAME .
 robocat.me CNAME .
 robocop.oneaudience.com CNAME .
@@ -44058,7 +44071,6 @@ sblcjzjp.com CNAME .
 sbmdsfld.com CNAME .
 sbmijpifoszz.com CNAME .
 sbnationbidder-d.openx.net CNAME .
-sbnc.hak.su CNAME .
 sbobet-info.com CNAME .
 sbopaitvwpzilp.com CNAME .
 sbovclzywkbk.bid CNAME .
@@ -58601,7 +58613,6 @@ www.tms.triboomedia.it CNAME .
 www.tnctrx.com CNAME .
 www.tnkexchange.com CNAME .
 www.tns-counter.ru CNAME .
-www.toochattoo.com CNAME .
 www.toon-families.com CNAME .
 www.toonfamilies.net CNAME .
 www.top15news.club CNAME .
@@ -59503,6 +59514,7 @@ xdjefibopixf.com CNAME .
 xdlmsvhhsvsp.com CNAME .
 xdltrwavzxn.com CNAME .
 xdnpghwspxnift.com CNAME .
+xdobkqqg.com CNAME .
 xdomain.engage.co CNAME .
 xdonzpjglqxi.com CNAME .
 xdoygumiams.com CNAME .

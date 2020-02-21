@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-trc.txt
 # Last Converted - 21.02.2020
-# Total Domains - 42377
+# Total Domains - 42376
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -31426,7 +31426,6 @@
 0.0.0.0 oascentral.freedom.com
 0.0.0.0 oascentral.goerie.com
 0.0.0.0 oascentral.gotriad.com
-0.0.0.0 oascentral.grandparents.com
 0.0.0.0 oascentral.greenevillesun.com
 0.0.0.0 oascentral.herald-dispatch.com
 0.0.0.0 oascentral.herenb.com

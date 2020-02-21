@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext
 # Last Converted - 21.02.2020
-# Total Domains - 2726
+# Total Domains - 2716
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -547,7 +547,6 @@
 0.0.0.0 adsmart.net
 0.0.0.0 adsmogo.com
 0.0.0.0 adsnative.com
-0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
 0.0.0.0 adsolut.in
 0.0.0.0 adspeed.net
@@ -892,7 +891,6 @@
 0.0.0.0 braincash.com
 0.0.0.0 brand-display.com
 0.0.0.0 brandreachsys.com
-0.0.0.0 brassrule.com
 0.0.0.0 brealtime.com
 0.0.0.0 brightcom.com
 0.0.0.0 brightinfo.com
@@ -1027,7 +1025,6 @@
 0.0.0.0 complextoad.com
 0.0.0.0 comprabanner.it
 0.0.0.0 concernedcondition.com
-0.0.0.0 concernrain.com
 0.0.0.0 conductrics.com
 0.0.0.0 connextra.com
 0.0.0.0 consciouschairs.com
@@ -1079,7 +1076,6 @@
 0.0.0.0 creafi-online-media.com
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 credishe.com
-0.0.0.0 creep.world
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 critictruck.com
@@ -1275,7 +1271,6 @@
 0.0.0.0 facilitategrandfather.com
 0.0.0.0 fadedprofit.com
 0.0.0.0 famousquarter.com
-0.0.0.0 fanaticalfly.com
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 fascinatedfeather.com
@@ -1298,7 +1293,6 @@
 0.0.0.0 flairadscpc.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flashtalking.com
-0.0.0.0 flavordecision.com
 0.0.0.0 fleshlightcash.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flimsycircle.com
@@ -1355,7 +1349,6 @@
 0.0.0.0 geovisite.com
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
-0.0.0.0 gezginsepeti.com
 0.0.0.0 giddycoat.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
@@ -1445,7 +1438,6 @@
 0.0.0.0 hs-analytics.net
 0.0.0.0 hsadspixel.net
 0.0.0.0 htlbid.com
-0.0.0.0 htmlhubing.xyz
 0.0.0.0 httpool.com
 0.0.0.0 hueads.com
 0.0.0.0 hueadsortb.com
@@ -1885,6 +1877,7 @@
 0.0.0.0 online-metrix.net
 0.0.0.0 online.miarroba.com
 0.0.0.0 onlinecash.com
+0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinerewardcenter.com
 0.0.0.0 onscroll.com
 0.0.0.0 onthe.io
@@ -2011,7 +2004,6 @@
 0.0.0.0 proext.com
 0.0.0.0 profero.com
 0.0.0.0 profitrumour.com
-0.0.0.0 profscribe.com
 0.0.0.0 programattik.com
 0.0.0.0 projectwonderful.com
 0.0.0.0 promo.badoink.com
@@ -2167,7 +2159,6 @@
 0.0.0.0 rubiconproject.com
 0.0.0.0 runads.com
 0.0.0.0 rundsp.com
-0.0.0.0 runoutsoftware.com
 0.0.0.0 ruthlessrobin.com
 0.0.0.0 s.adroll.com
 0.0.0.0 s24hc8xzag.com
@@ -2335,7 +2326,6 @@
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.itrack.it
 0.0.0.0 staticads.btopenworld.com
-0.0.0.0 staticwebcontent.net
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stats.hyperinzerce.cz

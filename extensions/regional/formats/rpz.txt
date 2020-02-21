@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.052
 ; Release: 052
-; Entries: 63,452
+; Entries: 63,433
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 12:13:33
+; Updated: Fri, 21 Feb 20 18:14:04
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2468,7 +2468,6 @@ ac3.msn.com CNAME .
 ac8.i2i.jp CNAME .
 acacexjsh.com CNAME .
 academand.com CNAME .
-academy.accesstrade.vn CNAME .
 academy.com.ua CNAME .
 acales.ru CNAME .
 acaog.com CNAME .
@@ -2487,10 +2486,8 @@ accesporno.com CNAME .
 access-mc.com CNAME .
 accesssearch.click CNAME .
 accesstrade.co.id CNAME .
-accesstrade.com.vn CNAME .
 accesstrade.in.th CNAME .
 accesstrade.net CNAME .
-accesstrade.vn CNAME .
 accio.ai CNAME .
 accmgr.com CNAME .
 accomment.pro CNAME .
@@ -2665,7 +2662,6 @@ ad.71i.de CNAME .
 ad.9animes.ru CNAME .
 ad.a-ads.com CNAME .
 ad.about.co.kr CNAME .
-ad.accesstrade.vn CNAME .
 ad.activaweb.fr CNAME .
 ad.adapter.kaffnet.com CNAME .
 ad.admitad.com CNAME .
@@ -5602,7 +5598,6 @@ api-app.ants.vn CNAME .
 api-feed.com CNAME .
 api-pravoved.s3.amazonaws.com CNAME .
 api.140proof.com CNAME .
-api.accesstrade.vn CNAME .
 api.ad-locus.com CNAME .
 api.ad.intl.xiaomi.com CNAME .
 api.ad.xiaomi.com CNAME .
@@ -5940,6 +5935,7 @@ artluch.ru CNAME .
 artmaxim.ru CNAME .
 artneesrparkete.info CNAME .
 artpever.com CNAME .
+artqpnah.com CNAME .
 artsdvaguur.com CNAME .
 artskills.ru CNAME .
 arwlvjqzxxnftz.com CNAME .
@@ -7020,6 +7016,7 @@ bdad.gaotie.net CNAME .
 bdaor.com CNAME .
 bdasd.chinabig.com.cn CNAME .
 bdasd.wmxa.cn CNAME .
+bdbdqbdkdb.com CNAME .
 bdbdqdxkdb.com CNAME .
 bdbdqexkdb.com CNAME .
 bdbdqfxkdb.com CNAME .
@@ -8622,7 +8619,6 @@ cameraprive.com CNAME .
 camihis.com CNAME .
 campadv.ga CNAME .
 campaign-uploads.s3.amazonaws.com CNAME .
-campaign.accesstrade.vn CNAME .
 campaign.nmobs.com CNAME .
 campaigns.ambient-platform.com CNAME .
 campaigns.ambientplatform.vn CNAME .
@@ -8905,7 +8901,6 @@ cdn-rtb.sape.ru CNAME .
 cdn-server.top CNAME .
 cdn-static.ru CNAME .
 cdn-vgtrk.ru CNAME .
-cdn.accesstrade.vn CNAME .
 cdn.actiflex.org CNAME .
 cdn.adasiaholdings.com CNAME .
 cdn.adbert.info CNAME .
@@ -9610,7 +9605,6 @@ click-fr.com CNAME .
 click-gate.ru CNAME .
 click-paid.com CNAME .
 click.abctrack.bid CNAME .
-click.accesstrade.com.vn CNAME .
 click.ad1.ru CNAME .
 click.adpia.vn CNAME .
 click.advertnative.com CNAME .
@@ -10282,7 +10276,6 @@ copicvarianuty.info CNAME .
 copvigvmzj.com CNAME .
 copyop-ads.com CNAME .
 copyrightaccesscontrols.com CNAME .
-coquines-dispo.com CNAME .
 cor-natty.com CNAME .
 corateencountry.pro CNAME .
 core-queerclick.netdna-ssl.com CNAME .
@@ -10792,7 +10785,6 @@ cutopportings.info CNAME .
 cutralflibsye.ru CNAME .
 cutw.pro CNAME .
 cuys.ru CNAME .
-cv.accesstrade.vn CNAME .
 cv46.ru CNAME .
 cvarxvlbnphcjq.com CNAME .
 cvdow.com CNAME .
@@ -11531,7 +11523,6 @@ danangmo.cn CNAME .
 dandan11.top CNAME .
 dandan13.top CNAME .
 dandan15.top CNAME .
-dangky.accesstrade.vn CNAME .
 danhhmhxkrm.com CNAME .
 danilidi.ru CNAME .
 danmeneldur.com CNAME .
@@ -12482,7 +12473,6 @@ dochase.com CNAME .
 dochyedu.info CNAME .
 docols.net CNAME .
 docqacvwhgbxv.com CNAME .
-docs.accesstrade.vn CNAME .
 doctoconve.club CNAME .
 doctorisaev.ru CNAME .
 doctorsh.ru CNAME .
@@ -12874,7 +12864,6 @@ duamgurza.com CNAME .
 duamuprs.com CNAME .
 duapp.com CNAME .
 duapps.com CNAME .
-duatop.accesstrade.vn CNAME .
 dubnokhi.ru CNAME .
 dubochiy.ru CNAME .
 dubshub.com CNAME .
@@ -14507,8 +14496,6 @@ fas.li CNAME .
 fashionsaga.com CNAME .
 fast-anime.ru CNAME .
 fast-route.com CNAME .
-fast.accesstrade.com.vn CNAME .
-fast.accesstrade.vn CNAME .
 fast12g.com CNAME .
 fast2earn.com CNAME .
 fast2load.ru CNAME .
@@ -15095,6 +15082,7 @@ fnkyyrgraizy.com CNAME .
 fnmubgld.com CNAME .
 fnprtscsvux.com CNAME .
 fnrqbhhyff.com CNAME .
+fntstkghwldnoy.com CNAME .
 fnuuhrhfkvpbnm.com CNAME .
 fnxmyx.cn CNAME .
 fnyhewjd.com CNAME .
@@ -15189,7 +15177,6 @@ forttantontherdown.info CNAME .
 fortvision.com CNAME .
 forum-gta.com CNAME .
 forum.academy.com.ua CNAME .
-forum.accesstrade.vn CNAME .
 forum.adult-torrent.com CNAME .
 forum.dwnld.net.ua CNAME .
 forum.globusevent.ru CNAME .
@@ -17307,6 +17294,7 @@ hascosafety.com CNAME .
 hash-hash-tag.com CNAME .
 hashalre.uk CNAME .
 hashcoin.co CNAME .
+hashearog.com CNAME .
 hashforcash.us CNAME .
 hashing.win CNAME .
 hashnest.com CNAME .
@@ -19041,7 +19029,6 @@ imo-cash.de CNAME .
 imobilco.ru CNAME .
 imonomy.com CNAME .
 imounsos.com CNAME .
-imp.accesstrade.vn CNAME .
 imp.adnetwork.vn CNAME .
 imp.ambient-platform.com CNAME .
 imp.gammaplatform.com CNAME .
@@ -22784,7 +22771,6 @@ lotocash.co.il CNAME .
 lotospoker.com CNAME .
 lotraden.online CNAME .
 lotsofslots.net CNAME .
-lotte.accesstrade.vn CNAME .
 lotteryaffiliates.com CNAME .
 lotto770.com CNAME .
 loudads.net CNAME .
@@ -23252,6 +23238,7 @@ madison-ads.net CNAME .
 madisonlogic.com CNAME .
 madmen.alastonsuomi.com CNAME .
 madnet.ru CNAME .
+madplypie.club CNAME .
 mads.bz CNAME .
 mads.dailymail.co.uk CNAME .
 madsabs.com CNAME .
@@ -23475,7 +23462,6 @@ marvilias.com CNAME .
 marvin.pw CNAME .
 mas-e.cds1.yospace.com CNAME .
 masatv.com CNAME .
-mascot.accesstrade.vn CNAME .
 mascqybw.com CNAME .
 mashinnaya-shtukaturka.ru CNAME .
 mashintop.ru CNAME .
@@ -23990,7 +23976,6 @@ meloads.com CNAME .
 melodramo-adv.ru CNAME .
 melodramo.ru CNAME .
 melohxphr.com CNAME .
-member.accesstrade.vn CNAME .
 member.ad.org.vn CNAME .
 member.adnetwork.vn CNAME .
 member.ambient-platform.com CNAME .
@@ -27604,6 +27589,7 @@ otvetus.com CNAME .
 otxjkjhugtzro.bid CNAME .
 otxqautshpb.bid CNAME .
 otyammyiovhru.com CNAME .
+otyguqrpv.com CNAME .
 otyso.com CNAME .
 ou15r.cn CNAME .
 ou2ie.ru CNAME .
@@ -28016,7 +28002,6 @@ partner-ads.com CNAME .
 partner-earning.com CNAME .
 partner-safe.men CNAME .
 partner-ts.groupon.fr CNAME .
-partner.accesstrade.vn CNAME .
 partner.alfa.kz CNAME .
 partner.allsoft.ru CNAME .
 partner.auxilis.de CNAME .
@@ -28518,6 +28503,7 @@ phoaksiw.com CNAME .
 phobosdeimos.net CNAME .
 phoenix-widget.com CNAME .
 phokukse.com CNAME .
+phone-notification.com CNAME .
 phonejapan.com CNAME .
 phonespybubble.com CNAME .
 phonograph2.voxmedia.com CNAME .
@@ -31820,7 +31806,6 @@ responsin.info CNAME .
 restions-planted.com CNAME .
 restor01k.info CNAME .
 restoring.club CNAME .
-restream.accesstrade.vn CNAME .
 resttort.ru CNAME .
 resu8.hjfile.cn CNAME .
 resultlinks.com CNAME .
@@ -34610,6 +34595,7 @@ sspapi.admicro.vn CNAME .
 ssphwy.com CNAME .
 sspicy.ru CNAME .
 sspsky.com CNAME .
+ssqpsrlknohdao.com CNAME .
 ssqualismother.info CNAME .
 ssqzsdcnoqv.com CNAME .
 ssraju3n.com CNAME .
@@ -34737,7 +34723,6 @@ static-pp.ru CNAME .
 static-ru.plista.com CNAME .
 static-ssp.yidianzixun.com CNAME .
 static.2mdn.net CNAME .
-static.accesstrade.vn CNAME .
 static.ad.org.vn CNAME .
 static.ads.crakmedia.com CNAME .
 static.adsota.com CNAME .
@@ -35092,7 +35077,6 @@ superadexchange.com CNAME .
 superadsoffers.com CNAME .
 superbanner.org CNAME .
 superbestvideo.ru CNAME .
-superbox.accesstrade.vn CNAME .
 supercampfire.com CNAME .
 supercatalog.3dn.ru CNAME .
 superclix.de CNAME .
@@ -36808,7 +36792,6 @@ tracelive.ru CNAME .
 tracer.jp CNAME .
 traceybell.co.uk CNAME .
 track-srv.vietnamnet.vn CNAME .
-track.accesstrade.vn CNAME .
 track.adform.net CNAME .
 track.adnetwork.vn CNAME .
 track.adsota.com CNAME .
@@ -37444,7 +37427,6 @@ tuvvpas.com CNAME .
 tuxbpnne.com CNAME .
 tuxgnhcrhyugjf.com CNAME .
 tuxphjbzmjfuh.com CNAME .
-tuyendung.accesstrade.vn CNAME .
 tuyendung.mediaz.vn CNAME .
 tuygdfsydexdeb.com CNAME .
 tuzmouxn.com CNAME .
@@ -41899,7 +41881,6 @@ www.acceptableads.pw CNAME .
 www.acceptableads.space CNAME .
 www.access-mc.com CNAME .
 www.accesssearch.click CNAME .
-www.accesstrade.vn CNAME .
 www.accio.ai CNAME .
 www.accltr.com CNAME .
 www.accmndtion.org CNAME .

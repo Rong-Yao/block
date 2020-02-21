@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
 # Last Converted - 21.02.2020
-# Total Domains - 1057
+# Total Domains - 1033
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -17,9 +17,6 @@
 0.0.0.0 a4.adsplay.xyz
 0.0.0.0 abs.ants.vn
 0.0.0.0 ac.adpia.vn
-0.0.0.0 academy.accesstrade.vn
-0.0.0.0 accesstrade.com.vn
-0.0.0.0 accesstrade.vn
 0.0.0.0 accounts.novaonx.com
 0.0.0.0 ad-deliver.yomedia.vn
 0.0.0.0 ad-hcm.24hstatic.com
@@ -27,7 +24,6 @@
 0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad-log.dable.io
 0.0.0.0 ad.24h.com.vn
-0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.ants.vn
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.lavanetwork.net
@@ -152,7 +148,6 @@
 0.0.0.0 anthill.vn
 0.0.0.0 ants.vn
 0.0.0.0 api-app.ants.vn
-0.0.0.0 api.accesstrade.vn
 0.0.0.0 api.adbro.me
 0.0.0.0 api.adsplay.xyz
 0.0.0.0 api.adtima.vn
@@ -218,7 +213,6 @@
 0.0.0.0 c0-vcdn.anthill.vn
 0.0.0.0 c0.anthill.vn
 0.0.0.0 c0.st.anthill.vn
-0.0.0.0 campaign.accesstrade.vn
 0.0.0.0 campaigns.ambient-platform.com
 0.0.0.0 campaigns.ambientplatform.vn
 0.0.0.0 caohavan.ezimar.com
@@ -228,7 +222,6 @@
 0.0.0.0 cdn-media.ambient-platform.com
 0.0.0.0 cdn-media.m.ambient-platform.com
 0.0.0.0 cdn-qc.coccoc.com
-0.0.0.0 cdn.accesstrade.vn
 0.0.0.0 cdn.adasiaholdings.com
 0.0.0.0 cdn.adbro.me
 0.0.0.0 cdn.adsplay.xyz
@@ -257,7 +250,6 @@
 0.0.0.0 clevernet.vn
 0.0.0.0 cli.ambient-platform.com
 0.0.0.0 cli.m.ambient-platform.com
-0.0.0.0 click.accesstrade.com.vn
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.m.ambientplatform.vn
 0.0.0.0 click.novanet.vn
@@ -307,7 +299,6 @@
 0.0.0.0 crm.novaonx.com
 0.0.0.0 crowd.novaon.asia
 0.0.0.0 customer.mangoads.vn
-0.0.0.0 cv.accesstrade.vn
 0.0.0.0 d.adsplay.net
 0.0.0.0 d.adsplay.xyz
 0.0.0.0 d.anthill.vn
@@ -323,7 +314,6 @@
 0.0.0.0 d6.adsplay.xyz
 0.0.0.0 d7.adsplay.xyz
 0.0.0.0 dable.io
-0.0.0.0 dangky.accesstrade.vn
 0.0.0.0 dashboard.adsota.com
 0.0.0.0 data.lavanetwork.net
 0.0.0.0 databox.laydata.com
@@ -368,7 +358,6 @@
 0.0.0.0 dns.ladipage.vn
 0.0.0.0 dns.novaonx.com
 0.0.0.0 dnsbak.mediaz.vn
-0.0.0.0 docs.accesstrade.vn
 0.0.0.0 doitac.ladipage.vn
 0.0.0.0 drone.novaonx.com
 0.0.0.0 ds.polyad.net
@@ -383,7 +372,6 @@
 0.0.0.0 dt.eclick.vn
 0.0.0.0 dt.polyad.net
 0.0.0.0 dt.vnecdn.com
-0.0.0.0 duatop.accesstrade.vn
 0.0.0.0 e-vcdn.anthill.vn
 0.0.0.0 e.anthill.vn
 0.0.0.0 e.ants.vn
@@ -412,8 +400,6 @@
 0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 facebookid.younetmedia.com
 0.0.0.0 facefone.laydata.com
-0.0.0.0 fast.accesstrade.com.vn
-0.0.0.0 fast.accesstrade.vn
 0.0.0.0 fb.fff.com.vn
 0.0.0.0 fbg.mangoads.vn
 0.0.0.0 fcd.autoads.asia
@@ -425,7 +411,6 @@
 0.0.0.0 finance.cityads.com
 0.0.0.0 fingerprint.admicro.vn
 0.0.0.0 focus.mangoads.vn
-0.0.0.0 forum.accesstrade.vn
 0.0.0.0 fptad.com
 0.0.0.0 front.adpia.vn
 0.0.0.0 fuckbookvietnam.com
@@ -445,6 +430,7 @@
 0.0.0.0 grand-prix.cityads.com
 0.0.0.0 guide.mediad.asia
 0.0.0.0 gw01.adsplay.xyz
+0.0.0.0 hashearog.com
 0.0.0.0 hb-ad.bidgear.com
 0.0.0.0 hb-imp.bidgear.com
 0.0.0.0 hb.bidgear.com
@@ -481,7 +467,6 @@
 0.0.0.0 img.vietad.vn
 0.0.0.0 img.vietnamnetad.vn
 0.0.0.0 imgportal.eclick.vn
-0.0.0.0 imp.accesstrade.vn
 0.0.0.0 imp.adnetwork.vn
 0.0.0.0 imp.ambient-platform.com
 0.0.0.0 imp.gammaplatform.com
@@ -574,7 +559,6 @@
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 logw.vietad.vn
-0.0.0.0 lotte.accesstrade.vn
 0.0.0.0 love.cityads.com
 0.0.0.0 lp.novanet.vn
 0.0.0.0 m-a.ants.vn
@@ -593,7 +577,6 @@
 0.0.0.0 market.cityads.com
 0.0.0.0 marketing.dable.io
 0.0.0.0 marketingauto.e-learning.admicro.vn
-0.0.0.0 mascot.accesstrade.vn
 0.0.0.0 masoffer.net
 0.0.0.0 media.adasiaholdings.com
 0.0.0.0 media.admicro.vn
@@ -619,7 +602,6 @@
 0.0.0.0 mediaz.asia
 0.0.0.0 mediaz.vn
 0.0.0.0 mediazcorp.com
-0.0.0.0 member.accesstrade.vn
 0.0.0.0 member.ad.org.vn
 0.0.0.0 member.adnetwork.vn
 0.0.0.0 member.ambient-platform.com
@@ -683,12 +665,12 @@
 0.0.0.0 p.anthill.vn
 0.0.0.0 p.ants.vn
 0.0.0.0 p.cityadstrack.com
-0.0.0.0 partner.accesstrade.vn
 0.0.0.0 partner.vietnamnetad.vn
 0.0.0.0 payment.rungrinh.vn
 0.0.0.0 phanquang.vn
 0.0.0.0 phi.novaon.asia
 0.0.0.0 phimmedia03.com
+0.0.0.0 phone-notification.com
 0.0.0.0 photo.mangoads.vn
 0.0.0.0 phuclong2.mangoads.vn
 0.0.0.0 phuclongcms.mangoads.vn
@@ -741,7 +723,6 @@
 0.0.0.0 report.fff.com.vn
 0.0.0.0 report.mediaz.vn
 0.0.0.0 report.novaon.asia
-0.0.0.0 restream.accesstrade.vn
 0.0.0.0 retg.adnetwork.vn
 0.0.0.0 retg.ambient-platform.com
 0.0.0.0 revive.lavanetwork.net
@@ -832,7 +813,6 @@
 0.0.0.0 staging.novaonx.com
 0.0.0.0 staging.rungrinh.vn
 0.0.0.0 static-ads.zaloapp.com
-0.0.0.0 static.accesstrade.vn
 0.0.0.0 static.ad.org.vn
 0.0.0.0 static.adsota.com
 0.0.0.0 static.adsplay.net
@@ -869,7 +849,6 @@
 0.0.0.0 stream.adtimaserver.vn
 0.0.0.0 stream.org.adtimaserver.vn
 0.0.0.0 sukientraogiaizalo.com
-0.0.0.0 superbox.accesstrade.vn
 0.0.0.0 support.dable.io
 0.0.0.0 support.novaonx.com
 0.0.0.0 survey.vietnamnetad.vn
@@ -900,7 +879,6 @@
 0.0.0.0 topkid.admicro.vn
 0.0.0.0 tr.masoffer.net
 0.0.0.0 track-srv.vietnamnet.vn
-0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.adnetwork.vn
 0.0.0.0 track.adsota.com
 0.0.0.0 track.gammaplatform.com
@@ -926,7 +904,6 @@
 0.0.0.0 trending.vn
 0.0.0.0 truoctran.com
 0.0.0.0 tt.mangoads.vn
-0.0.0.0 tuyendung.accesstrade.vn
 0.0.0.0 tuyendung.mediaz.vn
 0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 uniad.phimmoi.net
@@ -979,7 +956,6 @@
 0.0.0.0 wifiads.cleverads.vn
 0.0.0.0 wp-cdn.cityads.com
 0.0.0.0 ws.fff.com.vn
-0.0.0.0 www.accesstrade.vn
 0.0.0.0 www.ad.org.vn
 0.0.0.0 www.ad360.vn
 0.0.0.0 www.adasiaholdings.com

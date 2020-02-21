@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 21.02.2020
-# Total Domains - 22466
+# Total Domains - 22485
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1912,6 +1912,7 @@
 0.0.0.0 aizopowmtnho.com
 0.0.0.0 aj1052.online
 0.0.0.0 aj1090.online
+0.0.0.0 aj1432.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1602.online
 0.0.0.0 aj1913.online
@@ -2407,6 +2408,7 @@
 0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrglffxw.com
+0.0.0.0 aqrprjdqogzghb.com
 0.0.0.0 aqtracker.com
 0.0.0.0 aquete.com
 0.0.0.0 aquhcfvu.com
@@ -2465,6 +2467,7 @@
 0.0.0.0 artfut.com
 0.0.0.0 arthwhilearthu.info
 0.0.0.0 artneesrparkete.info
+0.0.0.0 artqpnah.com
 0.0.0.0 artsdvaguur.com
 0.0.0.0 arwlvjqzxxnftz.com
 0.0.0.0 arzcwgdzsed.com
@@ -2724,6 +2727,7 @@
 0.0.0.0 ayjfodxqmykn.com
 0.0.0.0 aykgxavgrooa.com
 0.0.0.0 aymaypibp.com
+0.0.0.0 ayrovalcontain.info
 0.0.0.0 aysurgentlymisun.info
 0.0.0.0 aysydyqpkg.com
 0.0.0.0 ayyslqwrmoygf.com
@@ -2921,6 +2925,7 @@
 0.0.0.0 bathouph.net
 0.0.0.0 batnhiyilyvvdo.com
 0.0.0.0 bats.video.yahoo.com
+0.0.0.0 bauthair.net
 0.0.0.0 bavftcgoapga.com
 0.0.0.0 baynote.net
 0.0.0.0 baypops.com
@@ -5081,6 +5086,7 @@
 0.0.0.0 cyqbtxpgarmc.com
 0.0.0.0 cytoclause.com
 0.0.0.0 cytpfucbb.com
+0.0.0.0 cyvnsdsygkpqvz.com
 0.0.0.0 czcetfjlisyjh.com
 0.0.0.0 czechose.com
 0.0.0.0 czgmlnhz.com
@@ -5152,6 +5158,7 @@
 0.0.0.0 d1i9kr6k34lyp.cloudfront.net
 0.0.0.0 d1iazwv1n1tsyi.cloudfront.net
 0.0.0.0 d1il9t8pu4dsoj.cloudfront.net
+0.0.0.0 d1ilwohzbe4ao6.cloudfront.net
 0.0.0.0 d1jnvfp2m6fzvq.cloudfront.net
 0.0.0.0 d1ks8roequxbwa.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
@@ -5866,6 +5873,7 @@
 0.0.0.0 dollarade.com
 0.0.0.0 dollarsponsor.com
 0.0.0.0 dolohen.com
+0.0.0.0 dolsoste.com
 0.0.0.0 domainadvertising.com
 0.0.0.0 domainbuyingservices.com
 0.0.0.0 domainsponsor.com
@@ -5878,6 +5886,7 @@
 0.0.0.0 doolooku.net
 0.0.0.0 doomail.org
 0.0.0.0 doomna.com
+0.0.0.0 dooptoug.net
 0.0.0.0 dopor.info
 0.0.0.0 doqapnez.com
 0.0.0.0 doqjemtf.com
@@ -7342,6 +7351,7 @@
 0.0.0.0 fnmubgld.com
 0.0.0.0 fnprtscsvux.com
 0.0.0.0 fnrqbhhyff.com
+0.0.0.0 fntstkghwldnoy.com
 0.0.0.0 fnuuhrhfkvpbnm.com
 0.0.0.0 fnyhewjd.com
 0.0.0.0 fnytdllpzdv.com
@@ -7600,6 +7610,7 @@
 0.0.0.0 fulltraffic.net
 0.0.0.0 fun-hits.com
 0.0.0.0 fun.wormania.io
+0.0.0.0 fun1.arcadeprehacks.com
 0.0.0.0 funklicks.com
 0.0.0.0 funmatrix.net
 0.0.0.0 funneld.com
@@ -7986,6 +7997,7 @@
 0.0.0.0 gib-gib-la.com
 0.0.0.0 giddycoat.com
 0.0.0.0 giddyuptrk.com
+0.0.0.0 giecsodzyl.com
 0.0.0.0 gifiqbbfvh.com
 0.0.0.0 gifjvmfkzykp.com
 0.0.0.0 giga-abs.de
@@ -9329,6 +9341,7 @@
 0.0.0.0 immscjnenl.com
 0.0.0.0 imnsmvmjrdiwwr.com
 0.0.0.0 imonomy.com
+0.0.0.0 imounsos.com
 0.0.0.0 imp-media-lab.thenewslens.com
 0.0.0.0 imp.ad-plus.cn
 0.0.0.0 imp.affiliator.com
@@ -10381,6 +10394,7 @@
 0.0.0.0 kiuiqcxvuox.com
 0.0.0.0 kiwi-offers.com
 0.0.0.0 kj2hy.com
+0.0.0.0 kjegyqtqazui.com
 0.0.0.0 kjhdoend.com
 0.0.0.0 kjiiatolx.com
 0.0.0.0 kjizuuuvqbcd.com
@@ -11066,6 +11080,7 @@
 0.0.0.0 loading-delivery1.com
 0.0.0.0 loading-resource.com
 0.0.0.0 loading-wsite.com
+0.0.0.0 loaphour.com
 0.0.0.0 loc.rediff.com
 0.0.0.0 local.tampabay.com
 0.0.0.0 localadbuy.com
@@ -13465,6 +13480,7 @@
 0.0.0.0 onhercam.com
 0.0.0.0 onhitads.net
 0.0.0.0 onhxejzm.bid
+0.0.0.0 onindexicowillio.info
 0.0.0.0 onjqfyuxprnq.com
 0.0.0.0 onkftmmfiwxh.com
 0.0.0.0 online-adnetwork.com
@@ -13701,6 +13717,7 @@
 0.0.0.0 otxjkjhugtzro.bid
 0.0.0.0 otxqautshpb.bid
 0.0.0.0 otyammyiovhru.com
+0.0.0.0 otyguqrpv.com
 0.0.0.0 ouahjrthgxyh.bid
 0.0.0.0 ouannxwziw.bid
 0.0.0.0 oubibahphzsz.com
@@ -15699,6 +15716,7 @@
 0.0.0.0 qrpbogawdr.bid
 0.0.0.0 qrpwaluz.com
 0.0.0.0 qrqmchbp.bid
+0.0.0.0 qrusnsgwuzgrs.com
 0.0.0.0 qrwixhlz.com
 0.0.0.0 qrwlerqenp.com
 0.0.0.0 qrxkugriqkt.com
@@ -16694,7 +16712,6 @@
 0.0.0.0 s2sterra.com
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 s3s-main.net
-0.0.0.0 s3wfg.com
 0.0.0.0 s4yxaqyq95.com
 0.0.0.0 s5prou7ulr.com
 0.0.0.0 s7c66wkh8k.com
@@ -17786,6 +17803,7 @@
 0.0.0.0 ssp.hinet.net
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 sspicy.ru
+0.0.0.0 ssqpsrlknohdao.com
 0.0.0.0 ssqualismother.info
 0.0.0.0 ssqzsdcnoqv.com
 0.0.0.0 ssraju3n.com
@@ -21378,6 +21396,7 @@
 0.0.0.0 xdlmsvhhsvsp.com
 0.0.0.0 xdltrwavzxn.com
 0.0.0.0 xdnpghwspxnift.com
+0.0.0.0 xdobkqqg.com
 0.0.0.0 xdonzpjglqxi.com
 0.0.0.0 xdqjeggqm.com
 0.0.0.0 xdqodcrayeat.com

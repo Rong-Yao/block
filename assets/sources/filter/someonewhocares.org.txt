@@ -3509,7 +3509,6 @@
 0.0.0.0 newclk.com
 0.0.0.0 neweggstats.com
 0.0.0.0 newip427.changeip.net
-0.0.0.0 newjunk4u.com
 0.0.0.0 newliveupdate.thereadycentercontentingplacefree.download
 0.0.0.0 news-finances.com
 0.0.0.0 news6health.com
@@ -5246,6 +5245,7 @@
 0.0.0.0 vintacom.112.2o7.net
 0.0.0.0 vip.adpiano.com
 0.0.0.0 vip.clickzs.com
+0.0.0.0 vip.fortunatetime.xyz
 0.0.0.0 viralture.com
 0.0.0.0 viralvideo.112.2o7.net
 0.0.0.0 viralvideos.tips

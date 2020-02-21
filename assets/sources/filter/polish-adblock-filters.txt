@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt
 # Last Converted - 21.02.2020
-# Total Domains - 121
+# Total Domains - 122
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -25,6 +25,7 @@
 0.0.0.0 adsnet.pl
 0.0.0.0 adtelier.pl
 0.0.0.0 advertising.com
+0.0.0.0 affiliates-solutions.com
 0.0.0.0 agoraperformance.pl
 0.0.0.0 api.systempartnerski.pl
 0.0.0.0 b54m4qbmt0b9.com

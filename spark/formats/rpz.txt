@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.052
 ; Release: 052
-; Entries: 61,149
+; Entries: 61,157
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 12:09:48
+; Updated: Fri, 21 Feb 20 18:10:04
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9803,6 +9803,7 @@ arthwhilearthu.info CNAME .
 artifact-registry.service.newrelic.com CNAME .
 artifactory.amobee.com CNAME .
 artneesrparkete.info CNAME .
+artqpnah.com CNAME .
 artsconsortium.org CNAME .
 artsdvaguur.com CNAME .
 artulenia.com CNAME .
@@ -13426,6 +13427,7 @@ catzapatos.online CNAME .
 caucqpoeg.com CNAME .
 caue971.org CNAME .
 caughinga.info CNAME .
+cauthuny.net CNAME .
 cavalcare.fr CNAME .
 cavdzowr.com CNAME .
 cawellreceived.ga CNAME .
@@ -19293,6 +19295,7 @@ duclick.baidu.com CNAME .
 dudebutandlac.info CNAME .
 duetads.com CNAME .
 dugqbllwslqrlj.com CNAME .
+duhochid.net CNAME .
 duhqtjmftpxrmn.bid CNAME .
 duhtate.ru CNAME .
 dui88.com CNAME .
@@ -19920,6 +19923,7 @@ edmunds.112.2o7.net CNAME .
 edmundsinsideline.112.2o7.net CNAME .
 ednplus.com CNAME .
 edomz.net CNAME .
+edoutoam.net CNAME .
 eds.ca.matchbox.maruhub.com CNAME .
 edsa.112.2o7.net CNAME .
 edsa.122.2o7.net CNAME .
@@ -22090,6 +22094,7 @@ fnkyyrgraizy.com CNAME .
 fnmubgld.com CNAME .
 fnprtscsvux.com CNAME .
 fnrqbhhyff.com CNAME .
+fntstkghwldnoy.com CNAME .
 fnuuhrhfkvpbnm.com CNAME .
 fnyhewjd.com CNAME .
 fnytdllpzdv.com CNAME .
@@ -23437,7 +23442,6 @@ geusihivdqkwzf.com CNAME .
 gevrsbmqvp.bid CNAME .
 gexampletebaptin.info CNAME .
 geyan.gepush.com CNAME .
-gezginsepeti.com CNAME .
 gezinti.com CNAME .
 gf.umenglog.com CNAME .
 gfamqlcmymxbeu.com CNAME .
@@ -30363,6 +30367,7 @@ linkclicks.com CNAME .
 linkcounter.com CNAME .
 linkcounter.pornosite.com CNAME .
 linkelevator.com CNAME .
+linkev.com CNAME .
 linkexchange.com CNAME .
 linkexchange.ru CNAME .
 linkexchangers.net CNAME .
@@ -31348,6 +31353,7 @@ lympstoneband.co.uk CNAME .
 lyncdiscover.vibrantmedia.com CNAME .
 lyncdiscover.xaxis.com CNAME .
 lynda.conversantmedia.com CNAME .
+lynormationpas.info CNAME .
 lynsvdabds.com CNAME .
 lynx.cognitivlabs.com CNAME .
 lyr.pubmatic.com CNAME .
@@ -33796,6 +33802,7 @@ mowfruit.com CNAME .
 mowithlerendu.pro CNAME .
 moyo.iad-03.braze.com CNAME .
 mozebyctwoje.com CNAME .
+mozgvya.com CNAME .
 mozila-firefox.com CNAME .
 mozillafirefoxsupport.com CNAME .
 mozook.com CNAME .
@@ -34684,6 +34691,7 @@ ncafclpip.com CNAME .
 ncaudienceexchange.com CNAME .
 ncdxfwxijazn.com CNAME .
 ncedivisite.info CNAME .
+ncefoundanges.info CNAME .
 nchxiaxafowid.com CNAME .
 nchxvxvy.com CNAME .
 ncitwacpa.com CNAME .
@@ -34923,7 +34931,6 @@ newjanads.com CNAME .
 newjobs.d1.sc.omtrdc.net CNAME .
 newjulads.com CNAME .
 newjunads.com CNAME .
-newjunk4u.com CNAME .
 newlimitedoffer.com CNAME .
 newliveupdate.thereadycentercontentingplacefree.download CNAME .
 newlook.112.2o7.net CNAME .
@@ -37200,6 +37207,7 @@ otuveoqm.com CNAME .
 otxjkjhugtzro.bid CNAME .
 otxqautshpb.bid CNAME .
 otyammyiovhru.com CNAME .
+otyguqrpv.com CNAME .
 otylkaaotesanek.cz CNAME .
 ou.shutterfly.com CNAME .
 ouahjrthgxyh.bid CNAME .
@@ -39735,7 +39743,6 @@ pornomovies.com CNAME .
 pornoow.com CNAME .
 pornoplay.online CNAME .
 pornovidio.biz CNAME .
-pornozinhostorrent.com CNAME .
 pornstargals.com CNAME .
 pornstars4webcam.com CNAME .
 porntagged.com CNAME .
@@ -40212,7 +40219,6 @@ profithash.com CNAME .
 profitrumour.com CNAME .
 profitshare.emag.ro CNAME .
 profitsitesbiz.com CNAME .
-profscribe.com CNAME .
 progettocrea.org CNAME .
 proglack.site CNAME .
 program3.com CNAME .
@@ -43438,7 +43444,6 @@ runetki.com CNAME .
 runflask.com CNAME .
 runmeethoomes.info CNAME .
 runmewivel.com CNAME .
-runoutsoftware.com CNAME .
 runtastic.pushwoosh.com CNAME .
 runtime.lemonpi.io CNAME .
 runtnc.net CNAME .
@@ -46698,6 +46703,7 @@ ssphwy.com CNAME .
 sspi.adpopcorn.com CNAME .
 sspicy.ru CNAME .
 sspintrafmsmt.com CNAME .
+ssqpsrlknohdao.com CNAME .
 ssqualismother.info CNAME .
 ssqzsdcnoqv.com CNAME .
 ssraju3n.com CNAME .
@@ -47238,7 +47244,6 @@ staticcfstg.adsafeprotected.com CNAME .
 staticd.cdn.adblade.comstaticd.cdn.adblade.com CNAME .
 statics.audienceinsights.net CNAME .
 statics.letfap.com CNAME .
-staticwebcontent.net CNAME .
 statis.api.3g.youku.com CNAME .
 statistic.ads24h.net CNAME .
 statistics.theonion.com CNAME .
@@ -49170,6 +49175,7 @@ thigeeph.com CNAME .
 thighiny.com CNAME .
 thikraik.net CNAME .
 thiksikr.com CNAME .
+thimoaph.net CNAME .
 thind-gke-euw.prd.data.corp.unity3d.com CNAME .
 think.unbounce.com CNAME .
 thinkablerice.com CNAME .
@@ -53877,6 +53883,7 @@ vip.adpiano.com CNAME .
 vip.adstatic.com CNAME .
 vip.clickzs.com CNAME .
 vip.clickzzs.nl CNAME .
+vip.fortunatetime.xyz CNAME .
 vip2.clickzs.com CNAME .
 vip2.clickzzs.nl CNAME .
 vip3.adcash.com CNAME .
@@ -53897,6 +53904,7 @@ viralture.com CNAME .
 viralupdatestoday.com CNAME .
 viralvideo.112.2o7.net CNAME .
 viralvideos.tips CNAME .
+virashux.net CNAME .
 virgbmkmear.com CNAME .
 virginmedia.112.2o7.net CNAME .
 virginmobile.122.2o7.net CNAME .

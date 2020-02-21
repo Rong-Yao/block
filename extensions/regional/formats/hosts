@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.052
 # Release: 052
-# Entries: 63,452
+# Entries: 63,433
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 12:13:33
+# Updated: Fri, 21 Feb 20 18:14:04
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -2479,7 +2479,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ac8.i2i.jp
 0.0.0.0 acacexjsh.com
 0.0.0.0 academand.com
-0.0.0.0 academy.accesstrade.vn
 0.0.0.0 academy.com.ua
 0.0.0.0 acales.ru
 0.0.0.0 acaog.com
@@ -2498,10 +2497,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 access-mc.com
 0.0.0.0 accesssearch.click
 0.0.0.0 accesstrade.co.id
-0.0.0.0 accesstrade.com.vn
 0.0.0.0 accesstrade.in.th
 0.0.0.0 accesstrade.net
-0.0.0.0 accesstrade.vn
 0.0.0.0 accio.ai
 0.0.0.0 accmgr.com
 0.0.0.0 accomment.pro
@@ -2676,7 +2673,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.9animes.ru
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.about.co.kr
-0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.activaweb.fr
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 ad.admitad.com
@@ -5613,7 +5609,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api-feed.com
 0.0.0.0 api-pravoved.s3.amazonaws.com
 0.0.0.0 api.140proof.com
-0.0.0.0 api.accesstrade.vn
 0.0.0.0 api.ad-locus.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
@@ -5951,6 +5946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 artmaxim.ru
 0.0.0.0 artneesrparkete.info
 0.0.0.0 artpever.com
+0.0.0.0 artqpnah.com
 0.0.0.0 artsdvaguur.com
 0.0.0.0 artskills.ru
 0.0.0.0 arwlvjqzxxnftz.com
@@ -7031,6 +7027,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdaor.com
 0.0.0.0 bdasd.chinabig.com.cn
 0.0.0.0 bdasd.wmxa.cn
+0.0.0.0 bdbdqbdkdb.com
 0.0.0.0 bdbdqdxkdb.com
 0.0.0.0 bdbdqexkdb.com
 0.0.0.0 bdbdqfxkdb.com
@@ -8633,7 +8630,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 camihis.com
 0.0.0.0 campadv.ga
 0.0.0.0 campaign-uploads.s3.amazonaws.com
-0.0.0.0 campaign.accesstrade.vn
 0.0.0.0 campaign.nmobs.com
 0.0.0.0 campaigns.ambient-platform.com
 0.0.0.0 campaigns.ambientplatform.vn
@@ -8916,7 +8912,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn-server.top
 0.0.0.0 cdn-static.ru
 0.0.0.0 cdn-vgtrk.ru
-0.0.0.0 cdn.accesstrade.vn
 0.0.0.0 cdn.actiflex.org
 0.0.0.0 cdn.adasiaholdings.com
 0.0.0.0 cdn.adbert.info
@@ -9621,7 +9616,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 click-gate.ru
 0.0.0.0 click-paid.com
 0.0.0.0 click.abctrack.bid
-0.0.0.0 click.accesstrade.com.vn
 0.0.0.0 click.ad1.ru
 0.0.0.0 click.adpia.vn
 0.0.0.0 click.advertnative.com
@@ -10293,7 +10287,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 copvigvmzj.com
 0.0.0.0 copyop-ads.com
 0.0.0.0 copyrightaccesscontrols.com
-0.0.0.0 coquines-dispo.com
 0.0.0.0 cor-natty.com
 0.0.0.0 corateencountry.pro
 0.0.0.0 core-queerclick.netdna-ssl.com
@@ -10803,7 +10796,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cutralflibsye.ru
 0.0.0.0 cutw.pro
 0.0.0.0 cuys.ru
-0.0.0.0 cv.accesstrade.vn
 0.0.0.0 cv46.ru
 0.0.0.0 cvarxvlbnphcjq.com
 0.0.0.0 cvdow.com
@@ -11542,7 +11534,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dandan11.top
 0.0.0.0 dandan13.top
 0.0.0.0 dandan15.top
-0.0.0.0 dangky.accesstrade.vn
 0.0.0.0 danhhmhxkrm.com
 0.0.0.0 danilidi.ru
 0.0.0.0 danmeneldur.com
@@ -12493,7 +12484,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dochyedu.info
 0.0.0.0 docols.net
 0.0.0.0 docqacvwhgbxv.com
-0.0.0.0 docs.accesstrade.vn
 0.0.0.0 doctoconve.club
 0.0.0.0 doctorisaev.ru
 0.0.0.0 doctorsh.ru
@@ -12885,7 +12875,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 duamuprs.com
 0.0.0.0 duapp.com
 0.0.0.0 duapps.com
-0.0.0.0 duatop.accesstrade.vn
 0.0.0.0 dubnokhi.ru
 0.0.0.0 dubochiy.ru
 0.0.0.0 dubshub.com
@@ -14518,8 +14507,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fashionsaga.com
 0.0.0.0 fast-anime.ru
 0.0.0.0 fast-route.com
-0.0.0.0 fast.accesstrade.com.vn
-0.0.0.0 fast.accesstrade.vn
 0.0.0.0 fast12g.com
 0.0.0.0 fast2earn.com
 0.0.0.0 fast2load.ru
@@ -15106,6 +15093,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fnmubgld.com
 0.0.0.0 fnprtscsvux.com
 0.0.0.0 fnrqbhhyff.com
+0.0.0.0 fntstkghwldnoy.com
 0.0.0.0 fnuuhrhfkvpbnm.com
 0.0.0.0 fnxmyx.cn
 0.0.0.0 fnyhewjd.com
@@ -15200,7 +15188,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fortvision.com
 0.0.0.0 forum-gta.com
 0.0.0.0 forum.academy.com.ua
-0.0.0.0 forum.accesstrade.vn
 0.0.0.0 forum.adult-torrent.com
 0.0.0.0 forum.dwnld.net.ua
 0.0.0.0 forum.globusevent.ru
@@ -17318,6 +17305,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hash-hash-tag.com
 0.0.0.0 hashalre.uk
 0.0.0.0 hashcoin.co
+0.0.0.0 hashearog.com
 0.0.0.0 hashforcash.us
 0.0.0.0 hashing.win
 0.0.0.0 hashnest.com
@@ -19052,7 +19040,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 imobilco.ru
 0.0.0.0 imonomy.com
 0.0.0.0 imounsos.com
-0.0.0.0 imp.accesstrade.vn
 0.0.0.0 imp.adnetwork.vn
 0.0.0.0 imp.ambient-platform.com
 0.0.0.0 imp.gammaplatform.com
@@ -22795,7 +22782,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lotospoker.com
 0.0.0.0 lotraden.online
 0.0.0.0 lotsofslots.net
-0.0.0.0 lotte.accesstrade.vn
 0.0.0.0 lotteryaffiliates.com
 0.0.0.0 lotto770.com
 0.0.0.0 loudads.net
@@ -23263,6 +23249,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 madisonlogic.com
 0.0.0.0 madmen.alastonsuomi.com
 0.0.0.0 madnet.ru
+0.0.0.0 madplypie.club
 0.0.0.0 mads.bz
 0.0.0.0 mads.dailymail.co.uk
 0.0.0.0 madsabs.com
@@ -23486,7 +23473,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 marvin.pw
 0.0.0.0 mas-e.cds1.yospace.com
 0.0.0.0 masatv.com
-0.0.0.0 mascot.accesstrade.vn
 0.0.0.0 mascqybw.com
 0.0.0.0 mashinnaya-shtukaturka.ru
 0.0.0.0 mashintop.ru
@@ -24001,7 +23987,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 melodramo-adv.ru
 0.0.0.0 melodramo.ru
 0.0.0.0 melohxphr.com
-0.0.0.0 member.accesstrade.vn
 0.0.0.0 member.ad.org.vn
 0.0.0.0 member.adnetwork.vn
 0.0.0.0 member.ambient-platform.com
@@ -27615,6 +27600,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otxjkjhugtzro.bid
 0.0.0.0 otxqautshpb.bid
 0.0.0.0 otyammyiovhru.com
+0.0.0.0 otyguqrpv.com
 0.0.0.0 otyso.com
 0.0.0.0 ou15r.cn
 0.0.0.0 ou2ie.ru
@@ -28027,7 +28013,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 partner-earning.com
 0.0.0.0 partner-safe.men
 0.0.0.0 partner-ts.groupon.fr
-0.0.0.0 partner.accesstrade.vn
 0.0.0.0 partner.alfa.kz
 0.0.0.0 partner.allsoft.ru
 0.0.0.0 partner.auxilis.de
@@ -28529,6 +28514,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 phobosdeimos.net
 0.0.0.0 phoenix-widget.com
 0.0.0.0 phokukse.com
+0.0.0.0 phone-notification.com
 0.0.0.0 phonejapan.com
 0.0.0.0 phonespybubble.com
 0.0.0.0 phonograph2.voxmedia.com
@@ -31831,7 +31817,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 restions-planted.com
 0.0.0.0 restor01k.info
 0.0.0.0 restoring.club
-0.0.0.0 restream.accesstrade.vn
 0.0.0.0 resttort.ru
 0.0.0.0 resu8.hjfile.cn
 0.0.0.0 resultlinks.com
@@ -34621,6 +34606,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssphwy.com
 0.0.0.0 sspicy.ru
 0.0.0.0 sspsky.com
+0.0.0.0 ssqpsrlknohdao.com
 0.0.0.0 ssqualismother.info
 0.0.0.0 ssqzsdcnoqv.com
 0.0.0.0 ssraju3n.com
@@ -34748,7 +34734,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 static-ru.plista.com
 0.0.0.0 static-ssp.yidianzixun.com
 0.0.0.0 static.2mdn.net
-0.0.0.0 static.accesstrade.vn
 0.0.0.0 static.ad.org.vn
 0.0.0.0 static.ads.crakmedia.com
 0.0.0.0 static.adsota.com
@@ -35103,7 +35088,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 superadsoffers.com
 0.0.0.0 superbanner.org
 0.0.0.0 superbestvideo.ru
-0.0.0.0 superbox.accesstrade.vn
 0.0.0.0 supercampfire.com
 0.0.0.0 supercatalog.3dn.ru
 0.0.0.0 superclix.de
@@ -36819,7 +36803,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracer.jp
 0.0.0.0 traceybell.co.uk
 0.0.0.0 track-srv.vietnamnet.vn
-0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.adform.net
 0.0.0.0 track.adnetwork.vn
 0.0.0.0 track.adsota.com
@@ -37455,7 +37438,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tuxbpnne.com
 0.0.0.0 tuxgnhcrhyugjf.com
 0.0.0.0 tuxphjbzmjfuh.com
-0.0.0.0 tuyendung.accesstrade.vn
 0.0.0.0 tuyendung.mediaz.vn
 0.0.0.0 tuygdfsydexdeb.com
 0.0.0.0 tuzmouxn.com
@@ -41910,7 +41892,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.acceptableads.space
 0.0.0.0 www.access-mc.com
 0.0.0.0 www.accesssearch.click
-0.0.0.0 www.accesstrade.vn
 0.0.0.0 www.accio.ai
 0.0.0.0 www.accltr.com
 0.0.0.0 www.accmndtion.org

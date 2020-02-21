@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/liste_fr.txt
 # Last Converted - 21.02.2020
-# Total Domains - 5500
+# Total Domains - 5499
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1421,7 +1421,6 @@
 0.0.0.0 copiapop.net
 0.0.0.0 copicvarianuty.info
 0.0.0.0 copyop-ads.com
-0.0.0.0 coquines-dispo.com
 0.0.0.0 coricaves.pro
 0.0.0.0 corsicatube.com
 0.0.0.0 cortanas.net

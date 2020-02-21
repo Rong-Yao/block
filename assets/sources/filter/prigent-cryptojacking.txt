@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 21.02.2020
-# Total Domains - 5243
+# Total Domains - 5230
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -549,7 +549,6 @@
 0.0.0.0 bewumuhax.bid
 0.0.0.0 bexogxapbqict.bid
 0.0.0.0 beyondcoinpool.com
-0.0.0.0 bfc.dsync.net
 0.0.0.0 bfgminer.org
 0.0.0.0 bfidvcsuazwy.com
 0.0.0.0 bgbmtqzoc.bid
@@ -838,7 +837,6 @@
 0.0.0.0 byspwzspx.bid
 0.0.0.0 bytecoin-pool.org
 0.0.0.0 bytecoin.cloud
-0.0.0.0 bytecoin.pt
 0.0.0.0 bytecoin.uk
 0.0.0.0 bytecoins.world
 0.0.0.0 bytepool.com
@@ -958,7 +956,6 @@
 0.0.0.0 cmqeojydveotb.bid
 0.0.0.0 cmqyhtqkhduy.com
 0.0.0.0 cmrxvyjyaerf.com
-0.0.0.0 cnc.dontmine.me
 0.0.0.0 cnhv.co
 0.0.0.0 cnntsmnymvnp.com
 0.0.0.0 cnnzfijy.bid
@@ -1355,7 +1352,6 @@
 0.0.0.0 dodegomxh.bid
 0.0.0.0 dodopool.com
 0.0.0.0 dodwnkpzaned.com
-0.0.0.0 doge-la.scryptpool.us
 0.0.0.0 doge.jir.dk
 0.0.0.0 doge.scryptpools.com
 0.0.0.0 doge.thecoinrush.com
@@ -1818,7 +1814,6 @@
 0.0.0.0 fsqgojinc.bid
 0.0.0.0 fsrmspghkuyn.bid
 0.0.0.0 fssesicszubztp.bid
-0.0.0.0 fst.happymining.eu
 0.0.0.0 fsuhjykihmqpt.bid
 0.0.0.0 fsvcrapnmmvj.com
 0.0.0.0 fsvxxllfpfhk.com
@@ -2108,7 +2103,6 @@
 0.0.0.0 hashcoins.ee
 0.0.0.0 hashcoins.ru
 0.0.0.0 hashcryptos.com
-0.0.0.0 hashdom.org
 0.0.0.0 hashfaster.com
 0.0.0.0 hashflare.io
 0.0.0.0 hashforcash.us
@@ -3160,7 +3154,6 @@
 0.0.0.0 miner.ad
 0.0.0.0 miner.alternatepool.com
 0.0.0.0 miner.center
-0.0.0.0 miner.coinedup.com
 0.0.0.0 miner.hosting
 0.0.0.0 miner.id
 0.0.0.0 miner.nimiq.com
@@ -3600,7 +3593,6 @@
 0.0.0.0 nwooatwtmhfdh.bid
 0.0.0.0 nwzawdquu.bid
 0.0.0.0 nxcxithvcoeh.com
-0.0.0.0 ny.nut2pools.com
 0.0.0.0 nyaisjsghvj.bid
 0.0.0.0 nyfsjqxopdzvvm.bid
 0.0.0.0 nyrszeos.bid
@@ -3944,7 +3936,6 @@
 0.0.0.0 pool-pay.com
 0.0.0.0 pool-proxy.com
 0.0.0.0 pool-ru.50btc.om
-0.0.0.0 pool.abcpool.co
 0.0.0.0 pool.agrolifecoin.org
 0.0.0.0 pool.altcoinplex.com
 0.0.0.0 pool.ar-net.info
@@ -3955,7 +3946,6 @@
 0.0.0.0 pool.coinlab.com
 0.0.0.0 pool.d2.cc
 0.0.0.0 pool.doge.st
-0.0.0.0 pool.dogechain.info
 0.0.0.0 pool.ejpool.info
 0.0.0.0 pool.ga
 0.0.0.0 pool.gold
@@ -4347,7 +4337,6 @@
 0.0.0.0 rmdzbqggjskv.com
 0.0.0.0 rmgxhpflxhmd.com
 0.0.0.0 rmlzgvnuqxlp.com
-0.0.0.0 rnetpool.com.br
 0.0.0.0 rnfrfxqztlno.com
 0.0.0.0 rnhcqhagfmjgx.bid
 0.0.0.0 rnhkptivhwhc.com
@@ -4657,14 +4646,12 @@
 0.0.0.0 stonedpuppy.com
 0.0.0.0 stratum-eu.doge.luckyminers.com
 0.0.0.0 stratum.1ex.trade
-0.0.0.0 stratum.cipherpool.com
 0.0.0.0 stratum.coinex.pw
 0.0.0.0 stratum.dogehouse.org
 0.0.0.0 stratum.hhtt.1209k.com
 0.0.0.0 stratum.mining-pool.eu
 0.0.0.0 stratum.skypool.ca
 0.0.0.0 stratum.wemineftc.com
-0.0.0.0 stratum01.hashco.ws
 0.0.0.0 stratum2.dogehouse.org
 0.0.0.0 stratum3.dogehouse.org
 0.0.0.0 stratum5.dogehouse.org

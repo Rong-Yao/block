@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 21.02.2020
-# Total Domains - 39919
+# Total Domains - 39918
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -22682,7 +22682,6 @@
 0.0.0.0 freestats.ws
 0.0.0.0 freestyle-shop.ch
 0.0.0.0 freesweetgames.ru
-0.0.0.0 freeteen69.com
 0.0.0.0 freetoaccess.com
 0.0.0.0 freetophacks.com
 0.0.0.0 freetopsite.com

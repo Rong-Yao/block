@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 # Last Converted - 21.02.2020
-# Total Domains - 2508
+# Total Domains - 2537
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -59,9 +59,12 @@
 0.0.0.0 allgames.fun
 0.0.0.0 allinone-apps.info
 0.0.0.0 allmods.club
+0.0.0.0 aluckyday.xyz
 0.0.0.0 aluxr.com
 0.0.0.0 alwayslucky.club
+0.0.0.0 amarellis-spint.com
 0.0.0.0 amarktflow.com
+0.0.0.0 amaryllis-spin.com
 0.0.0.0 amazinggift.us
 0.0.0.0 amazon-gift.ga2h.com
 0.0.0.0 amazongiftcard.latestcheat.com
@@ -78,6 +81,7 @@
 0.0.0.0 antscurtain.info
 0.0.0.0 anyskin.fun
 0.0.0.0 apkmod2.com
+0.0.0.0 appcash.best
 0.0.0.0 appcheatscodegenerator.com
 0.0.0.0 appcheatspro.net
 0.0.0.0 apphackx.com
@@ -122,6 +126,7 @@
 0.0.0.0 bestplay.vip
 0.0.0.0 bestskins.su
 0.0.0.0 bestskinsdota2.pro
+0.0.0.0 bestsweepstake.com
 0.0.0.0 besttricks.club
 0.0.0.0 betatse.com
 0.0.0.0 betcsgo.org
@@ -326,6 +331,7 @@
 0.0.0.0 codes4u.website
 0.0.0.0 codesfull.com
 0.0.0.0 codesgenerator.science
+0.0.0.0 codeshop.us
 0.0.0.0 codeshunter.com
 0.0.0.0 codesoffer.club
 0.0.0.0 codesoffers.site
@@ -659,6 +665,7 @@
 0.0.0.0 dagamehubx.com
 0.0.0.0 dagameroll.fun
 0.0.0.0 dagameroulette.com
+0.0.0.0 dailyprize.online
 0.0.0.0 dailyvbucks.com
 0.0.0.0 darkwebpage.eu
 0.0.0.0 datcasezx.com
@@ -775,6 +782,7 @@
 0.0.0.0 e-clashroyale.com
 0.0.0.0 e93-apps.com
 0.0.0.0 earnfreebtc.site
+0.0.0.0 earnprize.site
 0.0.0.0 easter-event.com
 0.0.0.0 easy-skins24.com
 0.0.0.0 easyskinsdroop.space
@@ -790,6 +798,7 @@
 0.0.0.0 egamingbets.com
 0.0.0.0 egb.com
 0.0.0.0 egbest.cf
+0.0.0.0 elangy.life
 0.0.0.0 electronicsproductzone.com
 0.0.0.0 elegentdrop.com
 0.0.0.0 elitedrop.ru
@@ -872,6 +881,7 @@
 0.0.0.0 fantasygiftcode.com
 0.0.0.0 farmbets.com
 0.0.0.0 farmbets.net
+0.0.0.0 farmcash.online
 0.0.0.0 farmgift.net
 0.0.0.0 farmgifts.net
 0.0.0.0 fast-localtech-solu101.ml
@@ -1120,6 +1130,7 @@
 0.0.0.0 getcodehere.com
 0.0.0.0 getcodes.live
 0.0.0.0 getcodes.pro
+0.0.0.0 getcodes.store
 0.0.0.0 getcodesnow.gq
 0.0.0.0 geteasyarcade.com
 0.0.0.0 getfree4free.site
@@ -1164,6 +1175,7 @@
 0.0.0.0 giftcaard.xyz
 0.0.0.0 giftcard-rebel.online
 0.0.0.0 giftcard.ltd
+0.0.0.0 giftcard.tools
 0.0.0.0 giftcardbonus.us.com
 0.0.0.0 giftcardclub.net
 0.0.0.0 giftcardcodeonline.com
@@ -1204,6 +1216,7 @@
 0.0.0.0 giftoffer.pw
 0.0.0.0 giftplanet.us
 0.0.0.0 gifts4u.cc
+0.0.0.0 gifttf2.store
 0.0.0.0 giftzone.site
 0.0.0.0 ginapay.com
 0.0.0.0 gitcoin.art
@@ -1242,10 +1255,12 @@
 0.0.0.0 gplaycoupons.com
 0.0.0.0 gplaygenerator.com
 0.0.0.0 gplaygiftcardgenerator.online
+0.0.0.0 gplayreward.com
 0.0.0.0 gplayzone.com
 0.0.0.0 gpsoutlets.com
 0.0.0.0 grabfund.net
 0.0.0.0 grabyourcode.com
+0.0.0.0 grabyourprize.club
 0.0.0.0 gramgrowing.co.uk
 0.0.0.0 grandcase.su
 0.0.0.0 grandforupdates.date
@@ -1408,6 +1423,7 @@
 0.0.0.0 killerdrops.com
 0.0.0.0 killstreak2.com
 0.0.0.0 kingjobz.com
+0.0.0.0 kiry.best
 0.0.0.0 kmspi.co
 0.0.0.0 kmspico.co
 0.0.0.0 kmspico.download
@@ -1493,6 +1509,7 @@
 0.0.0.0 martydrop.com
 0.0.0.0 masturbationsideeffectws.info
 0.0.0.0 maxcode.live
+0.0.0.0 mccl.best
 0.0.0.0 mdmexclusives.com
 0.0.0.0 media-fire.org
 0.0.0.0 mediafiretrend.com
@@ -1525,6 +1542,7 @@
 0.0.0.0 mixplugin.com
 0.0.0.0 mobi-games.co.uk
 0.0.0.0 mobile-cb.com
+0.0.0.0 modpro.pw
 0.0.0.0 moneyadderfree.com
 0.0.0.0 moneygeneratorfree.com
 0.0.0.0 monster4level.000webhostapp.com
@@ -1606,6 +1624,7 @@
 0.0.0.0 neurophilosophica.com
 0.0.0.0 new-movies-shows.com
 0.0.0.0 newbestoffers.com
+0.0.0.0 newcode.live
 0.0.0.0 newgames.vip
 0.0.0.0 newlinecinema.cf
 0.0.0.0 newoffer.bid
@@ -1620,6 +1639,7 @@
 0.0.0.0 newyorkjobs.mybb.us
 0.0.0.0 nexthacks.com
 0.0.0.0 nextkon.com
+0.0.0.0 nextoffer.pw
 0.0.0.0 nexxzy.com
 0.0.0.0 ngcode.icu
 0.0.0.0 nice-skins.com
@@ -1641,6 +1661,7 @@
 0.0.0.0 officekeygen.tk
 0.0.0.0 officialgiveaway.org
 0.0.0.0 officialkmspico.com
+0.0.0.0 ogplus.pro
 0.0.0.0 ogurl.co
 0.0.0.0 ohtrial.press
 0.0.0.0 oldgameit.com
@@ -1687,6 +1708,7 @@
 0.0.0.0 oryweb.com
 0.0.0.0 ostdrop.com
 0.0.0.0 otweak.com
+0.0.0.0 ouroffercode.com
 0.0.0.0 owpzmcidefrayed.review
 0.0.0.0 p3speed.com
 0.0.0.0 p4tok.cf
@@ -1709,6 +1731,7 @@
 0.0.0.0 piaybattlegrounds.com
 0.0.0.0 pinnacle.com
 0.0.0.0 playerunknowncrates.tk
+0.0.0.0 playgift.club
 0.0.0.0 playhacks.online
 0.0.0.0 playhub00.io
 0.0.0.0 playingcup.com
@@ -1740,6 +1763,7 @@
 0.0.0.0 primewire.ac
 0.0.0.0 primewire.to
 0.0.0.0 primexskins.gq
+0.0.0.0 privatecode.fun
 0.0.0.0 prizesforbrands.com
 0.0.0.0 probethub.com
 0.0.0.0 prokprojecten.nl
@@ -1945,6 +1969,7 @@
 0.0.0.0 skinsmagic.trade
 0.0.0.0 skinsmarket.me
 0.0.0.0 skinsmash.com
+0.0.0.0 skinsmax-roll.com
 0.0.0.0 skinsnecro.gq
 0.0.0.0 skinsnice.com
 0.0.0.0 skinsopenwins.com
@@ -2221,6 +2246,7 @@
 0.0.0.0 tf2hatsgold.com
 0.0.0.0 tf2haunted.com
 0.0.0.0 tf2hit.com
+0.0.0.0 tf2hotgift.store
 0.0.0.0 tf2krew.com
 0.0.0.0 tf2krown.com
 0.0.0.0 tf2legendary.com
@@ -2319,6 +2345,7 @@
 0.0.0.0 tradeskins.store
 0.0.0.0 tradezone.gg
 0.0.0.0 treckstream.com
+0.0.0.0 trendoffer.website
 0.0.0.0 tribution.mobi
 0.0.0.0 trickempire.com
 0.0.0.0 triggerinstalls.com
@@ -2357,6 +2384,7 @@
 0.0.0.0 updatefastnow.com
 0.0.0.0 updatelunch.download
 0.0.0.0 uphero.com
+0.0.0.0 uply.best
 0.0.0.0 upskins.net
 0.0.0.0 urbookdownload.com
 0.0.0.0 urechar.com
@@ -2404,6 +2432,7 @@
 0.0.0.0 watchmtv.co
 0.0.0.0 wavescase.com
 0.0.0.0 web-cheats.xyz
+0.0.0.0 webgift.club
 0.0.0.0 webmovie4k.com
 0.0.0.0 webprominds.com
 0.0.0.0 websitetrafficgo26.live

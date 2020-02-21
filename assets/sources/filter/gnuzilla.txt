@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 21.02.2020
-# Total Domains - 22453
+# Total Domains - 22466
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1866,6 +1866,7 @@
 0.0.0.0 ahuivddkvrrebo.com
 0.0.0.0 ahuosyyqprt.com
 0.0.0.0 ahwzvnqc.com
+0.0.0.0 ahyhhxpeeswgtl.com
 0.0.0.0 ai.idg.se
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
@@ -3300,6 +3301,7 @@
 0.0.0.0 blatungo.com
 0.0.0.0 blebesidents.info
 0.0.0.0 blgrwhaww.com
+0.0.0.0 bliink.io
 0.0.0.0 blinkadr.com
 0.0.0.0 blip.bizrate.com
 0.0.0.0 blisldgsqk.com
@@ -5155,6 +5157,7 @@
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1mbgf0ge24riu.cloudfront.net
 0.0.0.0 d1mib12jcgwmnv.cloudfront.net
+0.0.0.0 d1n1ppeppre6d4.cloudfront.net
 0.0.0.0 d1n3tk65esqc4k.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1pdpbxj733bb1.cloudfront.net
@@ -7090,6 +7093,7 @@
 0.0.0.0 fcpispplqq.com
 0.0.0.0 fcs.ovh
 0.0.0.0 fcstats.altervista.org
+0.0.0.0 fcvwuevewdzpm.com
 0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd7qz88ckd.com
 0.0.0.0 fd84e9a464aec4387a.com
@@ -10141,6 +10145,7 @@
 0.0.0.0 jvykohlq.com
 0.0.0.0 jvzwcgobd.com
 0.0.0.0 jwbroglwc.com
+0.0.0.0 jwcavytgs.com
 0.0.0.0 jwduahujge.ru
 0.0.0.0 jwgsepzz.com
 0.0.0.0 jwmnryeoc.com
@@ -11922,6 +11927,7 @@
 0.0.0.0 mlclick.com
 0.0.0.0 mldsiekmhy.com
 0.0.0.0 mlgtlxyicweqn.com
+0.0.0.0 mllfdnjrnkvhmd.com
 0.0.0.0 mlltyllhgohn.com
 0.0.0.0 mlnadvertising.com
 0.0.0.0 mlno6.com
@@ -12475,6 +12481,7 @@
 0.0.0.0 navrcholu.cz
 0.0.0.0 naxrjxij.com
 0.0.0.0 naytev.com
+0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbbqgaeqnxun.com
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbijjhqnzcwr.com
@@ -18443,6 +18450,7 @@
 0.0.0.0 targetnet.com
 0.0.0.0 targetpoint.com
 0.0.0.0 targetspot.com
+0.0.0.0 tartoals.net
 0.0.0.0 tarxjwdkx.com
 0.0.0.0 taryarguestio.info
 0.0.0.0 taskanalytics.com
@@ -18643,6 +18651,7 @@
 0.0.0.0 thecloudtrader.com
 0.0.0.0 thecounter.com
 0.0.0.0 thedoujin.com
+0.0.0.0 theeburs.com
 0.0.0.0 theersoa.net
 0.0.0.0 thefaren.pw
 0.0.0.0 thefastpush.com
@@ -18736,6 +18745,7 @@
 0.0.0.0 tielsdhblnmiv.com
 0.0.0.0 tieyggub.com
 0.0.0.0 tifbhyfrik.com
+0.0.0.0 tifybecausingp.info
 0.0.0.0 tifzusomh.com
 0.0.0.0 tijoctqry.com
 0.0.0.0 tijorari.com
@@ -19786,6 +19796,7 @@
 0.0.0.0 ujuclxjkb.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujwdwwfuqcgnv.com
+0.0.0.0 ujylaibwmgtaow.com
 0.0.0.0 ukatoe.com
 0.0.0.0 ukbanners.com
 0.0.0.0 ukdjbubvp.com
@@ -22062,6 +22073,7 @@
 0.0.0.0 yzetmrsww.com
 0.0.0.0 yzexonvknhw.com
 0.0.0.0 yzlwuuzzehjh.com
+0.0.0.0 yzmiwdjviuzk.com
 0.0.0.0 yzoyfmwr.com
 0.0.0.0 yzpesotyxwvpd.com
 0.0.0.0 yzsmaimlijx.com
@@ -22427,6 +22439,7 @@
 0.0.0.0 zxcvxmtzs.com
 0.0.0.0 zxczritytzsjz.com
 0.0.0.0 zxdgmcgpp.com
+0.0.0.0 zxevjtzvqlxy.com
 0.0.0.0 zxeyqwgwsfv.com
 0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxkrdvrijsp.com

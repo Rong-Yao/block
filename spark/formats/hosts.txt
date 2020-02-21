@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.052
 # Release: 052
-# Entries: 61,131
+# Entries: 61,137
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 00:10:23
+# Updated: Fri, 21 Feb 20 06:09:56
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -7134,6 +7134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aj1090.online
 0.0.0.0 aj1110.online
 0.0.0.0 aj1198.online
+0.0.0.0 aj1432.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1602.online
 0.0.0.0 aj1603.online
@@ -9678,6 +9679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aqodwthjaq.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrglffxw.com
+0.0.0.0 aqrprjdqogzghb.com
 0.0.0.0 aqt.adalliance.io
 0.0.0.0 aquaticowl.com
 0.0.0.0 aquhcfvu.com
@@ -17127,6 +17129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cyssfnqt.com
 0.0.0.0 cytoclause.com
 0.0.0.0 cytpfucbb.com
+0.0.0.0 cyvnsdsygkpqvz.com
 0.0.0.0 cyxagtpeggjv.com
 0.0.0.0 cz-gmtdmp.mookie1.com
 0.0.0.0 cz-rb.com
@@ -21559,6 +21562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fcpispplqq.com
 0.0.0.0 fcporto.pushwoosh.com
 0.0.0.0 fcveilhtok.com
+0.0.0.0 fcvwuevewdzpm.com
 0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd.video-ak.cdn.spotify.com
 0.0.0.0 fd1.info
@@ -52367,6 +52371,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ujuclxjkb.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujwdwwfuqcgnv.com
+0.0.0.0 ujylaibwmgtaow.com
 0.0.0.0 uk-ac.openx.com
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk-market.openx.com
@@ -61157,6 +61162,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zxcvxmtzs.com
 0.0.0.0 zxczritytzsjz.com
 0.0.0.0 zxdgmcgpp.com
+0.0.0.0 zxevjtzvqlxy.com
 0.0.0.0 zxeyqwgwsfv.com
 0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxkrdvrijsp.com

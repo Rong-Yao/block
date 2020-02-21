@@ -29,7 +29,7 @@
 ; Entries: 41,425
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 00:14:13
+; Updated: Fri, 21 Feb 20 06:13:38
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;

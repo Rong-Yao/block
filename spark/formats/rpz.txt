@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.052
 ; Release: 052
-; Entries: 61,131
+; Entries: 61,137
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 00:10:23
+; Updated: Fri, 21 Feb 20 06:09:56
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7123,6 +7123,7 @@ aj1052.online CNAME .
 aj1090.online CNAME .
 aj1110.online CNAME .
 aj1198.online CNAME .
+aj1432.online CNAME .
 aj1574.online CNAME .
 aj1602.online CNAME .
 aj1603.online CNAME .
@@ -9667,6 +9668,7 @@ aqocbcnfxkuw.com CNAME .
 aqodwthjaq.com CNAME .
 aqotbmnzra.com CNAME .
 aqrglffxw.com CNAME .
+aqrprjdqogzghb.com CNAME .
 aqt.adalliance.io CNAME .
 aquaticowl.com CNAME .
 aquhcfvu.com CNAME .
@@ -17116,6 +17118,7 @@ cyseal.cyveillance.com CNAME .
 cyssfnqt.com CNAME .
 cytoclause.com CNAME .
 cytpfucbb.com CNAME .
+cyvnsdsygkpqvz.com CNAME .
 cyxagtpeggjv.com CNAME .
 cz-gmtdmp.mookie1.com CNAME .
 cz-rb.com CNAME .
@@ -21548,6 +21551,7 @@ fcmigoods.xyz CNAME .
 fcpispplqq.com CNAME .
 fcporto.pushwoosh.com CNAME .
 fcveilhtok.com CNAME .
+fcvwuevewdzpm.com CNAME .
 fcwpxsmiyy.com CNAME .
 fd.video-ak.cdn.spotify.com CNAME .
 fd1.info CNAME .
@@ -52356,6 +52360,7 @@ ujrtwvabum.com CNAME .
 ujuclxjkb.com CNAME .
 ujuqvalvvvof.com CNAME .
 ujwdwwfuqcgnv.com CNAME .
+ujylaibwmgtaow.com CNAME .
 uk-ac.openx.com CNAME .
 uk-ads.openx.net CNAME .
 uk-market.openx.com CNAME .
@@ -61146,6 +61151,7 @@ zxbzuyuifdqj.com CNAME .
 zxcvxmtzs.com CNAME .
 zxczritytzsjz.com CNAME .
 zxdgmcgpp.com CNAME .
+zxevjtzvqlxy.com CNAME .
 zxeyqwgwsfv.com CNAME .
 zxiikxeagmferu.com CNAME .
 zxkrdvrijsp.com CNAME .

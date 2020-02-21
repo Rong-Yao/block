@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.052
 # Release: 052
-# Entries: 63,429
+# Entries: 63,438
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 00:14:16
+# Updated: Fri, 21 Feb 20 06:13:41
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -4940,6 +4940,7 @@ ff02::3 ip6-allhosts
 :: aifei.info
 :: aifei0755.net
 :: aifoosty.net
+:: aigneloa.com
 :: aigou023.com
 :: aigysycrmuoetk.com
 :: aiidbowoj.com
@@ -5016,6 +5017,7 @@ ff02::3 ip6-allhosts
 :: aj1197.online
 :: aj1198.online
 :: aj1206.online
+:: aj1432.online
 :: aj1433.online
 :: aj1574.online
 :: aj1602.online
@@ -5823,6 +5825,7 @@ ff02::3 ip6-allhosts
 :: aqkrqjvc.com
 :: aqotbmnzra.com
 :: aqrglffxw.com
+:: aqrprjdqogzghb.com
 :: aquaplatform.com
 :: aquete.com
 :: aquhcfvu.com
@@ -10896,6 +10899,7 @@ ff02::3 ip6-allhosts
 :: cyto-biotherapy.com
 :: cytochemistryrecitativewrasse.com
 :: cytpfucbb.com
+:: cyvnsdsygkpqvz.com
 :: cywegkfcrhup.com
 :: cyylove.com
 :: cz345.cn
@@ -14605,6 +14609,7 @@ ff02::3 ip6-allhosts
 :: fcs.ovh
 :: fcuit.com
 :: fcunq.com
+:: fcvwuevewdzpm.com
 :: fcwpxsmiyy.com
 :: fd173.cn
 :: fd2e64b4c2e729.com
@@ -14788,6 +14793,7 @@ ff02::3 ip6-allhosts
 :: fgzxlngohtg.com
 :: fhbv.cn
 :: fhddhfhz.com
+:: fhgh9sd.com
 :: fhidehpl.com
 :: fhluqrhmqs.com
 :: fhmty1lty9.com
@@ -15527,6 +15533,7 @@ ff02::3 ip6-allhosts
 :: fulltraffic.net
 :: fultop.biz
 :: fun.wormania.io
+:: fun1.arcadeprehacks.com
 :: fun8.us
 :: funcionapage.com
 :: funcoin.club
@@ -37845,6 +37852,7 @@ ff02::3 ip6-allhosts
 :: ujuclxjkb.com
 :: ujuqvalvvvof.com
 :: ujwdwwfuqcgnv.com
+:: ujylaibwmgtaow.com
 :: ukamer.ru
 :: ukatoe.com
 :: ukbanners.com
@@ -63414,6 +63422,7 @@ ff02::3 ip6-allhosts
 :: zxcvxmtzs.com
 :: zxczritytzsjz.com
 :: zxdgmcgpp.com
+:: zxevjtzvqlxy.com
 :: zxeyqwgwsfv.com
 :: zxhrq.cn
 :: zxhymh.com

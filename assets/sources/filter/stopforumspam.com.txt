@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://stopforumspam.com/downloads/toxic_domains_whole.txt
 # Last Converted - 21.02.2020
-# Total Domains - 10978
+# Total Domains - 10985
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -644,6 +644,7 @@
 0.0.0.0 arakaki48.universallightkeys.com
 0.0.0.0 arbx.com
 0.0.0.0 archambeault.instambox.com
+0.0.0.0 architectcurvature.site
 0.0.0.0 ardavin.ir
 0.0.0.0 ardelle.fancycarnavalmasks.com
 0.0.0.0 arden48.universallightkeys.com
@@ -5933,6 +5934,7 @@
 0.0.0.0 mailcontact.xyz
 0.0.0.0 mailcool45.us
 0.0.0.0 mailcore.info
+0.0.0.0 mailcore.mobi
 0.0.0.0 mailcore.pro
 0.0.0.0 mailcrunch.online
 0.0.0.0 mailcyrus.twitpost.info
@@ -8670,6 +8672,7 @@
 0.0.0.0 seobest.website
 0.0.0.0 seobrizz.com
 0.0.0.0 seocdvig.ru
+0.0.0.0 seocliques.com
 0.0.0.0 seodating.info
 0.0.0.0 seoin.poczta.lolekemail.net
 0.0.0.0 seol101rand1.housecleaningguides.com
@@ -8718,6 +8721,7 @@
 0.0.0.0 seshirpetfood.com
 0.0.0.0 set.com
 0.0.0.0 seuu.com
+0.0.0.0 sevenmentor.com
 0.0.0.0 sevigny.spicysallads.com
 0.0.0.0 sewyerd46.browndecorationlights.com
 0.0.0.0 sex-mobile-blog.ru
@@ -9853,6 +9857,7 @@
 0.0.0.0 uhlenkott61.aquadivingaccessories.com
 0.0.0.0 uhmail.com
 0.0.0.0 uhtemail.win
+0.0.0.0 uhuagu.net
 0.0.0.0 uijg.com
 0.0.0.0 uimq.com
 0.0.0.0 uipvu.site
@@ -9905,6 +9910,7 @@
 0.0.0.0 uniquebedroom-au.com
 0.0.0.0 unisexjewelry.org
 0.0.0.0 unit48.online
+0.0.0.0 unitymail.info
 0.0.0.0 unitymail.me
 0.0.0.0 unitymail.pro
 0.0.0.0 universallightkeys.com
@@ -9976,6 +9982,7 @@
 0.0.0.0 usernet.blognet.in
 0.0.0.0 uslugi-i-tovary.ru
 0.0.0.0 usm.online
+0.0.0.0 uspeakw.com
 0.0.0.0 uszy.com
 0.0.0.0 utahmail.com
 0.0.0.0 utgt.com

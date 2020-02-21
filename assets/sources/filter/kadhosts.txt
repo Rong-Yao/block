@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 21.02.2020
-# Total Domains - 5945
+# Total Domains - 5941
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -176,7 +176,6 @@
 0.0.0.0 appcaptcha.com
 0.0.0.0 appfox.org
 0.0.0.0 appiq.mobi
-0.0.0.0 apple.com-speedup-macos.live
 0.0.0.0 apps.co.pl
 0.0.0.0 appsdorado.com
 0.0.0.0 apteka2000.pl
@@ -745,6 +744,7 @@
 0.0.0.0 e-naturessunshine.com
 0.0.0.0 e-paczka24.net
 0.0.0.0 e-remonty.eu
+0.0.0.0 earnyourcash.net
 0.0.0.0 earthpowerint.com
 0.0.0.0 easy-service.org
 0.0.0.0 easy.eu.ai
@@ -2031,6 +2031,7 @@
 0.0.0.0 ozebox.pl
 0.0.0.0 p.24-7.help
 0.0.0.0 pacyfka99.pl
+0.0.0.0 paczka.poczta-pay.com
 0.0.0.0 paifemouchoa.com
 0.0.0.0 paifi.net
 0.0.0.0 pajos4.com
@@ -2059,7 +2060,6 @@
 0.0.0.0 pawelkuniec.pl
 0.0.0.0 paweltyniec.pl
 0.0.0.0 pawelurbanczyk.pl
-0.0.0.0 pay.e-kurier24.net
 0.0.0.0 pay24-paczka.com
 0.0.0.0 pay2me.pl
 0.0.0.0 payu20-paczka24.com
@@ -2179,6 +2179,7 @@
 0.0.0.0 pobiieerz-fotografiee.eu
 0.0.0.0 pociagdoukrainy.pl
 0.0.0.0 poczta-login-neostrada.com
+0.0.0.0 poczta-pay.com
 0.0.0.0 poczta-polska.net
 0.0.0.0 pocztapolska48.net
 0.0.0.0 pocztex-24.link
@@ -2267,6 +2268,7 @@
 0.0.0.0 probolan50.pl
 0.0.0.0 prod.letswinstuff.com
 0.0.0.0 proficredit.pl
+0.0.0.0 profit-trader.net
 0.0.0.0 profitechnik.pl
 0.0.0.0 profitgems.co
 0.0.0.0 profitmaximizer.co
@@ -3221,7 +3223,6 @@
 0.0.0.0 www.aldaniti.net
 0.0.0.0 www.aldashoes.eu
 0.0.0.0 www.aldashoes.pl
-0.0.0.0 www.ale-dowcip.pl
 0.0.0.0 www.ale-fotogragia.bo.pl
 0.0.0.0 www.alejagowniarzy.pl
 0.0.0.0 www.aleshop.pl
@@ -3273,7 +3274,6 @@
 0.0.0.0 www.appcaptcha.com
 0.0.0.0 www.appfox.org
 0.0.0.0 www.appiq.mobi
-0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.apps.co.pl
 0.0.0.0 www.appsdorado.com
 0.0.0.0 www.apteka2000.pl
@@ -3554,7 +3554,6 @@
 0.0.0.0 www.clydecourt.pl
 0.0.0.0 www.cnto.pl
 0.0.0.0 www.coachhouseballarat.com
-0.0.0.0 www.cobolito.pl
 0.0.0.0 www.cocoopt.com
 0.0.0.0 www.colorking.es
 0.0.0.0 www.colway-international.com.pl
@@ -3739,10 +3738,10 @@
 0.0.0.0 www.e-dorecz.pl
 0.0.0.0 www.e-fohow.pl
 0.0.0.0 www.e-krezus.pl
-0.0.0.0 www.e-kurier24.net
 0.0.0.0 www.e-lektrosklep.com
 0.0.0.0 www.e-naturessunshine.com
 0.0.0.0 www.e-remonty.eu
+0.0.0.0 www.earnyourcash.net
 0.0.0.0 www.earthpowerint.com
 0.0.0.0 www.easydownload.pl
 0.0.0.0 www.easypdfcombine.com
@@ -3848,7 +3847,6 @@
 0.0.0.0 www.facedesign.pl
 0.0.0.0 www.failmobile.net
 0.0.0.0 www.faithless.pl
-0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.fajnefanty.com
 0.0.0.0 www.fajnewierszyki.pl
 0.0.0.0 www.faktopedia.com.pl
@@ -4308,7 +4306,6 @@
 0.0.0.0 www.kolenda-labus.pl
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.kometal.pl
-0.0.0.0 www.komisdramka.pl
 0.0.0.0 www.komornik-gov24.com
 0.0.0.0 www.kompiutery.pl
 0.0.0.0 www.koncepcjakirka.pl
@@ -4325,7 +4322,6 @@
 0.0.0.0 www.kotwicowisko.pl
 0.0.0.0 www.kpzkaj.pl
 0.0.0.0 www.kraina-kopciuszka.pl
-0.0.0.0 www.krakowparkiety.pl
 0.0.0.0 www.kramikeli.pl
 0.0.0.0 www.krasnal-zlotoweczka.pl
 0.0.0.0 www.krdn.pl
@@ -4802,6 +4798,7 @@
 0.0.0.0 www.owio.pl
 0.0.0.0 www.ozebox.pl
 0.0.0.0 www.pacyfka99.pl
+0.0.0.0 www.paczka.poczta-pay.com
 0.0.0.0 www.paifi.net
 0.0.0.0 www.pajos4.com
 0.0.0.0 www.pakukgroup.com
@@ -4829,7 +4826,6 @@
 0.0.0.0 www.pawelkuniec.pl
 0.0.0.0 www.paweltyniec.pl
 0.0.0.0 www.pawelurbanczyk.pl
-0.0.0.0 www.pay.e-kurier24.net
 0.0.0.0 www.pay2me.pl
 0.0.0.0 www.paywu.net
 0.0.0.0 www.paznokcie-poznan.pl
@@ -4906,6 +4902,7 @@
 0.0.0.0 www.pobierzteraz.mobi
 0.0.0.0 www.pobiieerz-fotografiee.eu
 0.0.0.0 www.pociagdoukrainy.pl
+0.0.0.0 www.poczta-pay.com
 0.0.0.0 www.poczta-polska.net
 0.0.0.0 www.pocztexpolska24.com
 0.0.0.0 www.pod004.site
@@ -4974,6 +4971,7 @@
 0.0.0.0 www.pro102.pl
 0.0.0.0 www.probolan50.pl
 0.0.0.0 www.proficredit.pl
+0.0.0.0 www.profit-trader.net
 0.0.0.0 www.profitechnik.pl
 0.0.0.0 www.profitgems.co
 0.0.0.0 www.profitmaximizer.co
@@ -5321,7 +5319,6 @@
 0.0.0.0 www.starsystem.fit
 0.0.0.0 www.starychemik.pl
 0.0.0.0 www.staryspichlerz-darlowo.pl
-0.0.0.0 www.staskostanislaw.pl
 0.0.0.0 www.statmach.pl
 0.0.0.0 www.statystykaopisowa.pl
 0.0.0.0 www.staweckadesign.pl
@@ -5538,7 +5535,6 @@
 0.0.0.0 www.uabuty.pl
 0.0.0.0 www.ublock.org
 0.0.0.0 www.udziele-pozyczki-prywatnie.pl
-0.0.0.0 www.uggbutywyprzedaz.pl
 0.0.0.0 www.uggclassicmini.pl
 0.0.0.0 www.uggmini.pl
 0.0.0.0 www.uggoutlet.pl

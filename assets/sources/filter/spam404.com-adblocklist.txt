@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # Last Converted - 21.02.2020
-# Total Domains - 3308
+# Total Domains - 3306
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -899,7 +899,6 @@
 0.0.0.0 famous-mobile.com
 0.0.0.0 fantage.haxdo.com
 0.0.0.0 fantastiske-ting.com
-0.0.0.0 fantasy-hacks.com
 0.0.0.0 fantasyhack.com
 0.0.0.0 faqserv.com
 0.0.0.0 farcry3.sharezips.info
@@ -1587,7 +1586,6 @@
 0.0.0.0 hackersuniversit.com
 0.0.0.0 hackeruncomptefacebook.com
 0.0.0.0 hackextreme.com
-0.0.0.0 hackfacebook2015.net
 0.0.0.0 hackfacebookaccount.com
 0.0.0.0 hackfacebookpd.com
 0.0.0.0 hackfbaccount.com

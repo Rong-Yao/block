@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 21.02.2020
-# Total Domains - 39922
+# Total Domains - 39921
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -21567,7 +21567,6 @@
 0.0.0.0 fanta-calcio.com
 0.0.0.0 fantagehack.info
 0.0.0.0 fantaseeworks.biz
-0.0.0.0 fantasy-hacks.com
 0.0.0.0 fappzhaupfpdiprjbeyjrfufqzh.biz
 0.0.0.0 fapshack.com
 0.0.0.0 faq.yedone.com

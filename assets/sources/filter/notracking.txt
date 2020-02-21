@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Last Converted - 21.02.2020
-# Total Domains - 25721
+# Total Domains - 25719
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4081,7 +4081,6 @@
 0.0.0.0 appimg.0575bbs.com
 0.0.0.0 apple-id-itunes.webcindario.com
 0.0.0.0 apple.com-location-ios.info
-0.0.0.0 apple.com-speedup-macos.live
 0.0.0.0 apple.com.br-support.id
 0.0.0.0 apple.com.id-me.us
 0.0.0.0 apple.com.sovalumni.com
@@ -21934,7 +21933,6 @@
 0.0.0.0 www.appfh.com
 0.0.0.0 www.appfindr.org
 0.0.0.0 www.apple.com-clean-macbook-system.live
-0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.apple.com.id-pt.com
 0.0.0.0 www.apple.com.logins-app.top
 0.0.0.0 www.apple.com.ryawqu.cn

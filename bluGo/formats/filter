@@ -27,10 +27,10 @@
 ! Version: 20.02.052
 ! Release: 052
 ! Expires: 1 day (update frequency)
-! Entries: 123,061
+! Entries: 122,977
 ! Pack Code: E8LUG0-P
 ! License: MIT, https://energized.pro/license
-! Updated: Fri, 21 Feb 20 00:10:27
+! Updated: Fri, 21 Feb 20 06:10:00
 ! RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/filter
 ! --------------------------------------------
 !
@@ -351,7 +351,6 @@
 ||100-btc.com^
 ||100.1qingdao.com^
 ||100.pncdn.cn^
-||10000-158.btcc.com^
 ||100000munkahely.hu^
 ||10000hai.com^
 ||10000verges.free.fr^
@@ -497,7 +496,6 @@
 ||12.minercircle.com^
 ||12.video-ak.cdn.spotify.com^
 ||12037.btcc.com^
-||12047.btcc.com^
 ||120bit.com^
 ||120bitcoins.com^
 ||120e84.btcc.com^
@@ -597,7 +595,6 @@
 ||1275.content.swrve.com^
 ||12769.btcc.com^
 ||1278725189.pub.ezanga.com^
-||12796.btcc.com^
 ||12877.hittail.com^
 ||128ad3cf92ed.com^
 ||129-16.btcc.com^
@@ -685,7 +682,6 @@
 ||142.ip-164-132-197.eu^
 ||14220.btcc.com^
 ||14228.hittail.com^
-||143-3.btcc.com^
 ||144.dragonparking.com^
 ||144.gulfcoastmining.com^
 ||1445.btgpool.pro^
@@ -816,7 +812,6 @@
 ||1711427.5.d.mytopgames.net^
 ||171564.engine.mobileapptracking.com^
 ||172-14028.btcc.com^
-||172-228.btcc.com^
 ||172-52.btcc.com^
 ||173-254-91-220.unifiedlayer.com^
 ||17342-6.btcc.com^
@@ -835,7 +830,6 @@
 ||176win.com^
 ||176xiaojipinyuansuban.btcc.com^
 ||177e6.btcc.com^
-||178-215.btcc.com^
 ||178-72.btcc.com^
 ||178-99.btcc.com^
 ||1781.api.swrve.com^
@@ -854,7 +848,6 @@
 ||17990.vicp.net^
 ||17b1dbd9f3ae7db27cf.com^
 ||17chezhan.com^
-||17dca.btcc.com^
 ||17ece.btcc.com^
 ||17ed.btcc.com^
 ||17i8.org^
@@ -865,7 +858,6 @@
 ||18-245.btcc.com^
 ||18.afs.googleadservices.com^
 ||18.video-ak.cdn.spotify.com^
-||180-125-126.btcc.com^
 ||180-199.btcc.com^
 ||180150-192.btcc.com^
 ||18032.btcc.com^
@@ -1017,7 +1009,6 @@
 ||1c.42it.ru^
 ||1c.video-ak.cdn.spotify.com^
 ||1c0cdd46-1723-446d-8057-0c76d15dd477.htmlpasta.com^
-||1c5bb.btcc.com^
 ||1c6e2.v.fwmrm.net^
 ||1c99.btcc.com^
 ||1ccbt.com^
@@ -1026,7 +1017,6 @@
 ||1centbtc.com^
 ||1channelhd.xyz^
 ||1cloud-tech-sites.info^
-||1cust200.btcc.com^
 ||1d.video-ak.cdn.spotify.com^
 ||1d46e-5.btcc.com^
 ||1d5dd3cd582.traffic-c.com^
@@ -1348,7 +1338,6 @@
 ||2137dc12f9d8.com^
 ||21400.btcc.com^
 ||214d17c9-74e1-4533-bf6c-3f31210e7c6b.htmlpasta.com^
-||215-132.btcc.com^
 ||215-77.btcc.com^
 ||216.futurecoins.club^
 ||217-33.btcc.com^
@@ -1359,7 +1348,6 @@
 ||21807.hittail.com^
 ||2183.jsjmlejl.clickshield.net^
 ||219.speedup-faucet.com^
-||21961.btcc.com^
 ||21a3dd8ea39c0.com^
 ||21b507a044d841b.com^
 ||21boxoffice.com^
@@ -1378,7 +1366,6 @@
 ||220-orbit.serverpower.net^
 ||220-vm2.yho.be^
 ||22006.engine.mobileapptracking.com^
-||22012.btcc.com^
 ||22012.engine.mobileapptracking.com^
 ||2202.api.swrve.com^
 ||2202.content.swrve.com^
@@ -1392,7 +1379,6 @@
 ||2259.api.swrve.com^
 ||2259.content.swrve.com^
 ||226-110.btcc.com^
-||226-253.btcc.com^
 ||226.coinfoundry.org^
 ||22762.btcc.com^
 ||22793.btcc.com^
@@ -1456,10 +1442,8 @@
 ||2419.mymediapc.net^
 ||2419.mysecuritycamera.com^
 ||2419.pgafan.net^
-||241b8jj43j8l3123.btcc.com^
 ||242-204.btcc.com^
 ||242.000webhostapp.com^
-||2423428879770318392606711.btcc.com^
 ||243029-18685.link.iwanttodeliver.com^
 ||2444efc8cd8e.com^
 ||244657-12903.link.iwanttodeliver.com^
@@ -1773,7 +1757,6 @@
 ||3.redirect.appmetrica.yandex.com^
 ||3.top4top.net^
 ||3.up.qingdaonews.com^
-||30-126.btcc.com^
 ||30-day-change.com^
 ||30.tityx.com^
 ||30.video-ak.cdn.spotify.com^
@@ -1816,7 +1799,6 @@
 ||30311.api.swrve.com^
 ||30311.content.swrve.com^
 ||30317.api.swrve.com^
-||30317.btcc.com^
 ||30317.content.swrve.com^
 ||30318.api.swrve.com^
 ||30318.content.swrve.com^
@@ -1885,7 +1867,6 @@
 ||31.video-ak.cdn.spotify.com^
 ||31026.api.swrve.com^
 ||31026.content.swrve.com^
-||311-222.btcc.com^
 ||312elementsweb.com^
 ||31335.hittail.com^
 ||314.hittail.com^
@@ -2623,7 +2604,6 @@
 ||4o64flb.com^
 ||4ogv6.voluumtrk.com^
 ||4oney.com^
-||4oyulechengxianjinbaijiale.btcc.com^
 ||4plus11.com^
 ||4pornxxx.com^
 ||4pp13.com^
@@ -3102,7 +3082,6 @@
 ||6rota.costav.edusite.ru^
 ||6server.com^
 ||6stuff.com^
-||6tney.btcc.com^
 ||6u4dxh2f14.com^
 ||6union.net^
 ||6uwehz1xp4.com^
@@ -3145,7 +3124,6 @@
 ||720e1.btcc.com^
 ||7228.eu^
 ||7246.bapi.adsafeprotected.com^
-||725-129.btcc.com^
 ||7250.bapi.adsafeprotected.com^
 ||7251.bapi.adsafeprotected.com^
 ||729-30.btcc.com^
@@ -3590,7 +3568,6 @@
 ||994119.r.axf8.net^
 ||995db2642d3d852b.com^
 ||9969887e14d8dda1061497d244865b17.adk2.co^
-||99703188.btcc.com^
 ||9989be8064c80b.com^
 ||999-proxy.com^
 ||999dlce.com^
@@ -3640,7 +3617,6 @@
 ||9d.video-ak.cdn.spotify.com^
 ||9d060c.r.axf8.net^
 ||9d16d4922c9.com^
-||9d24c.btcc.com^
 ||9d683ea679bc03ff.com^
 ||9dacbd.r.axf8.net^
 ||9dba96e8c06d.com^
@@ -6870,7 +6846,6 @@
 ||admin.revcontent.com^
 ||admin.revenuegiants.com^
 ||admin.safersurf.com^
-||admin.shibepool.com^
 ||admin.sothuchi.vn^
 ||admin.spdns.org^
 ||admin.spectresecurity.io^
@@ -10277,7 +10252,6 @@
 ||aehistory.112.2o7.net^
 ||aeirhucw.com^
 ||aeizbvtknp.com^
-||aej.btcc.com^
 ||aejtg.voluumtrk.com^
 ||aek.btcc.com^
 ||aekduylxcmlevs.bid^
@@ -11007,6 +10981,7 @@
 ||aj1090.online^
 ||aj1110.online^
 ||aj1198.online^
+||aj1432.online^
 ||aj1574.online^
 ||aj1602.online^
 ||aj1603.online^
@@ -13569,7 +13544,6 @@
 ||ap2.btcc.com^
 ||ap2.remerge.events^
 ||ap4.btcc.com^
-||ap6.btcc.com^
 ||ap9.btcc.com^
 ||apa-sha.adsrvr.org^
 ||apa-sin.adsrvr.org^
@@ -14993,7 +14967,6 @@
 ||apple.coinking.io^
 ||apple.com-care-macbook-system.live^
 ||apple.com-location-ios.info^
-||apple.com-speedup-macos.live^
 ||apple.com.br-support.id^
 ||apple.com.id-me.us^
 ||apple.com.sovalumni.com^
@@ -15300,6 +15273,7 @@
 ||aqornnfwxmua.com^
 ||aqotbmnzra.com^
 ||aqrglffxw.com^
+||aqrprjdqogzghb.com^
 ||aqryyhyzjveh.com^
 ||aqsijnkyauxur.bid^
 ||aqsuhqqgv.bid^
@@ -18081,7 +18055,6 @@
 ||bbqipbsg.bid^
 ||bbqqjejhd.bid^
 ||bbr.4miner.me^
-||bbr.btcc.com^
 ||bbr.luckypool.io^
 ||bbr.miningclub.info^
 ||bbrc.4miner.me^
@@ -18348,7 +18321,6 @@
 ||bdjsfl.chinabig.com.cn^
 ||bdjsym.guangyuanol.cn^
 ||bdkduogsu.bid^
-||bdl.btcc.com^
 ||bdl.coincave.nl^
 ||bdlifeline.com^
 ||bdlm.120askimages.com^
@@ -20421,7 +20393,6 @@
 ||boausaew.beget.tech^
 ||bob-bob-bobble.com^
 ||bob.algolia.com^
-||bob.coincave.nl^
 ||bob.dmpxs.com^
 ||bobarilla.com^
 ||bobarmale.online^
@@ -22421,7 +22392,6 @@
 ||c73.microfog.me^
 ||c73186.com^
 ||c75b9ac5103e5d125b8.com^
-||c7818370318392606711.btcc.com^
 ||c7a54a18ef10e6b744d6f367a3313cfc.api.appsee.com^
 ||c7bc5628b1.com^
 ||c7d470df880b1d0.com^
@@ -24292,7 +24262,6 @@
 ||cdnes.trafficforce.com^
 ||cdneval.adnxs.com^
 ||cdnfiles.site^
-||cdnh.btcc.com^
 ||cdni.amoad.com^
 ||cdnim.bidvertiser.com^
 ||cdnimg.izooto.com^
@@ -25183,7 +25152,6 @@
 ||chronicexpress.com^
 ||chrumedia.com^
 ||chs.smartclick.net^
-||cht.btcc.com^
 ||chtatic.appspot.com^
 ||chu.btcc.com^
 ||chuchukakabubu.cryptonote.club^
@@ -29627,7 +29595,6 @@
 ||ctnsnet.com^
 ||ctohqzii.com^
 ||ctoid.net^
-||ctompo.dyndns.org^
 ||ctouw.com^
 ||ctpjfacao.com^
 ||ctplyvuuzdcv.com^
@@ -30016,6 +29983,7 @@
 ||cytoclause.com^
 ||cytpfucbb.com^
 ||cyufjpvzaf.com^
+||cyvnsdsygkpqvz.com^
 ||cyw0923.codns.com^
 ||cyxagtpeggjv.com^
 ||cyxiangjishoptk.gq^
@@ -30190,7 +30158,6 @@
 ||d.reddit.com^
 ||d.refinedads.com^
 ||d.rexuebi.com^
-||d.rtr.axepool.com^
 ||d.s11.cn^
 ||d.scorecardresearch.com^
 ||d.shareaholic.com^
@@ -34003,7 +33970,6 @@
 ||domusre.com^
 ||domvelotta.000webhostapp.com^
 ||domypaper.essaytutors.net^
-||don.coincave.nl^
 ||donald.tilmonday.com^
 ||donat2013.duckdns.org^
 ||donate-api.recorder.duapps.com^
@@ -34703,7 +34669,6 @@
 ||dsadas.hydp188.com^
 ||dsaiwxrneawj.com^
 ||dsc.cryptonote.club^
-||dsd.btcc.com^
 ||dsd.dxwpedu.me^
 ||dsd.everydayporn.co^
 ||dsdiztki.bid^
@@ -35760,7 +35725,6 @@
 ||eaidabmuxbqy.com^
 ||eajmyphr.com^
 ||eaknxurdsogwr.com^
-||eamcoinye.com^
 ||eamimisale.com^
 ||eanu.bitcoin-india.org^
 ||eaolnbvd.com^
@@ -38481,7 +38445,6 @@
 ||eu.arto.cryptoisme.com^
 ||eu.bitcoin.cz^
 ||eu.bohemianpool.com^
-||eu.btcc.com^
 ||eu.btcprivate.pro^
 ||eu.btgpool.pro^
 ||eu.bytecoin-pool.org^
@@ -40000,7 +39963,6 @@
 ||fantastechs.com^
 ||fantasti.cc^
 ||fantastiske-ting.com^
-||fantasy-hacks.com^
 ||fantasyhack.com^
 ||fantasywartactics.analytics.nexonm.com^
 ||fanxing.kugou.com^
@@ -40121,7 +40083,6 @@
 ||fathersblessing.com^
 ||fathom.hakibenita.com^
 ||fathomseo.com^
-||fatkid.virtopia.ca^
 ||fatrvclgpnb.com^
 ||fatsnake.duckdns.org^
 ||faucet.actinium.org^
@@ -40297,7 +40258,6 @@
 ||fc.video-ak.cdn.spotify.com^
 ||fc.vodafone.de^
 ||fc.webmasterpro.de^
-||fc0.btcc.com^
 ||fc2b9b7ce3165.com^
 ||fc9033ae4bac99b6e.com^
 ||fca3a67e-4e9d-4b89-8a9e-dd02a21419e1.htmlpasta.com^
@@ -40333,6 +40293,7 @@
 ||fcs.ovh^
 ||fcstats.altervista.org^
 ||fcveilhtok.com^
+||fcvwuevewdzpm.com^
 ||fcwpxsmiyy.com^
 ||fcx.btcc.com^
 ||fd.anzhi.com^
@@ -41363,7 +41324,6 @@
 ||flnqmin.org^
 ||flntdbwafec.com^
 ||flnwaqyh.com^
-||flo.poolerino.com^
 ||flo.suprnova.cc^
 ||float.kankan.com^
 ||floatfeast.com^
@@ -44697,7 +44657,6 @@
 ||git.ethfans.org^
 ||git.hpool.com^
 ||git.itroot.it^
-||git.liquidblock.xyz^
 ||git.luckypool.org^
 ||git.minerpool.net^
 ||git.novaonx.com^
@@ -46625,7 +46584,6 @@
 ||gw.firesub.pl^
 ||gw.flurry.com^
 ||gw.logsss.com^
-||gw.majanetwork.com^
 ||gw.minerpool.net^
 ||gw.nanopool.org^
 ||gw.pampanetwork.com^
@@ -46848,7 +46806,6 @@
 ||ha-askfm.pushwoosh.com^
 ||ha.pushwoosh.com^
 ||ha3.btcc.com^
-||ha5.btcc.com^
 ||ha7.btcc.com^
 ||haaretz.pushwoosh.com^
 ||haartezenglish.redirectme.net^
@@ -46910,7 +46867,6 @@
 ||hackeruncomptefacebook.com^
 ||hackesie.net^
 ||hackextreme.com^
-||hackfacebook2015.net^
 ||hackfacebookaccount.com^
 ||hackfacebookpd.com^
 ||hackfbaccount.com^
@@ -47352,7 +47308,6 @@
 ||hawebs.adform.com^
 ||hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com^
 ||hawks5999.triplemining.com^
-||hax.btcc.com^
 ||haxeg.ru^
 ||haxsite.com^
 ||haxub.ru^
@@ -48790,7 +48745,6 @@
 ||hostmaster.admin.cpufan.club^
 ||hostmaster.administrare.triplemining.com^
 ||hostmaster.agam.triplemining.com^
-||hostmaster.akroma.org^
 ||hostmaster.anc.poolerino.com^
 ||hostmaster.andinia3.triplemining.com^
 ||hostmaster.andmicbro.triplemining.com^
@@ -48945,7 +48899,6 @@
 ||hostmaster.hostmaster.btcpool.triplemining.com^
 ||hostmaster.hostmaster.btl.poolerino.com^
 ||hostmaster.hostmaster.burn.v2.dedicatedpool.com^
-||hostmaster.hostmaster.bytecoin.pt^
 ||hostmaster.hostmaster.c4n10.triplemining.com^
 ||hostmaster.hostmaster.ca.coinmine.pw^
 ||hostmaster.hostmaster.cache.dedicatedpool.com^
@@ -51074,7 +51027,6 @@
 ||hu.search.etargetnet.com^
 ||hu.static.etargetnet.com^
 ||hu8.btcc.com^
-||hu9.btcc.com^
 ||huadn.hit.gemius.pl^
 ||huakaile88.com^
 ||huangjintawujin.cn^
@@ -59000,7 +58952,6 @@
 ||l610i.bemobtrk.com^
 ||l6b587txj1.com^
 ||l7.zedo.com^
-||l77-172.btcc.com^
 ||l7r0sgc0.top^
 ||l8b6a671.justinstalledpanel.com^
 ||l8nit3-miners.com^
@@ -59400,7 +59351,6 @@
 ||lb.affilae.com^
 ||lb.afftrack.com^
 ||lb.asia.cruxpool.com^
-||lb.btcc.com^
 ||lb.etc.cruxpool.com^
 ||lb.eu.cruxpool.com^
 ||lb.fancydsp.com^
@@ -62852,7 +62802,6 @@
 ||m73lae5cpmgrv38.com^
 ||m77s.cn^
 ||m8654.mobsweet.com^
-||m9.btcc.com^
 ||m9.io^
 ||ma-i2i.jp^
 ||ma-static.ru^
@@ -63188,7 +63137,6 @@
 ||mail.bwpool.net^
 ||mail.bytecoins.world^
 ||mail.callback.batmobi.net^
-||mail.callistopool.io^
 ||mail.cartelplast.com.py^
 ||mail.ccmpool.ro^
 ||mail.ceremonysisters.com.au^
@@ -63273,7 +63221,6 @@
 ||mail.hash2mine.com^
 ||mail.hashing.center^
 ||mail.hashlink.eu^
-||mail.hashncash.net^
 ||mail.hashparty.net^
 ||mail.hashvault.pro^
 ||mail.helpico.tech^
@@ -65894,7 +65841,6 @@
 ||mindtank-d.openx.net^
 ||mindylus.com^
 ||mine-asia.equipool.1ds.us^
-||mine-asia2.equipool.1ds.us^
 ||mine-btcz-asia.equipool.1ds.us^
 ||mine-btcz-euro.equipool.1ds.us^
 ||mine-buck-asia.equipool.1ds.us^
@@ -65930,7 +65876,6 @@
 ||mine.c3pool.com^
 ||mine.cloudpools.com^
 ||mine.digsomedarks.cf^
-||mine.equipool.1ds.us^
 ||mine.karbowanec.com^
 ||mine.lambofactory.com^
 ||mine.mine.bz^
@@ -68092,7 +68037,6 @@
 ||muamusic.com^
 ||muasoctv.com^
 ||mubam.ru^
-||muc.btcc.com^
 ||muchlovemom.net^
 ||muchritfakethen.info^
 ||mucu.jp^
@@ -68107,7 +68051,6 @@
 ||mueller.com.pl^
 ||muellerfalk.homepage.t-online.de^
 ||mueyqvzw.com^
-||muf.btcc.com^
 ||mufg-japan.info^
 ||mug.criteo.com^
 ||mugens.sytes.net^
@@ -68140,7 +68083,6 @@
 ||multi.xnxx.com^
 ||multi.zet-tech.eu^
 ||multiadserv.com^
-||multiblackjack.spectresecurity.io^
 ||multiblockchains.com^
 ||multico.5v.pl^
 ||multicoin.arqma.com^
@@ -68443,7 +68385,6 @@
 ||mx.tbdice.org^
 ||mx0.emeraldcrypto.de^
 ||mx0.miningpool.at^
-||mx0.thesevendwarfs.org^
 ||mx00.cityads.com^
 ||mx01.minerpool.net^
 ||mx03.phorm.com^
@@ -71008,7 +70949,6 @@
 ||nmhiltonhead.112.2o7.net^
 ||nmine-asia.equipool.1ds.us^
 ||nmine-asia2.equipool.1ds.us^
-||nmine-btcz-asia.equipool.1ds.us^
 ||nmine-btcz-euro.equipool.1ds.us^
 ||nmine-buck-asia.equipool.1ds.us^
 ||nmine-buck-euro.equipool.1ds.us^
@@ -71022,7 +70962,6 @@
 ||nmine-safe-euro.equipool.1ds.us^
 ||nmine-vot-asia.equipool.1ds.us^
 ||nmine-vot-euro.equipool.1ds.us^
-||nmine-xsg-asia.equipool.1ds.us^
 ||nmine-xsg-euro.equipool.1ds.us^
 ||nmine-zel-asia.equipool.1ds.us^
 ||nmine-zer-euro.equipool.1ds.us^
@@ -71906,7 +71845,6 @@
 ||ns2.xidian.edu.cn^
 ||ns2.xmr-school.cf^
 ||ns2.yho.be^
-||ns25.btcc.com^
 ||ns2v.btcc.com^
 ||ns3.adinch.com^
 ||ns3.bitnodes.io^
@@ -76502,7 +76440,6 @@
 ||pewdewgeehc.com^
 ||pewgnvqixnhvij.com^
 ||pexa.easyxpool.tk^
-||pexa.zellabs.net^
 ||pexaproject.com^
 ||peypcjxllo.bid^
 ||peyttlwbznahi.com^
@@ -77472,7 +77409,6 @@
 ||pl.betclic.com^
 ||pl.bitclub.network^
 ||pl.bitcoin.it^
-||pl.btcc.com^
 ||pl.btcprofitnow.website^
 ||pl.bustcream-pro.com^
 ||pl.centrumofert.com^
@@ -78708,7 +78644,6 @@
 ||pool7.moatads.com^
 ||pool8.moatads.com^
 ||pool80.50btc.com^
-||pool8181-8.btcc.com^
 ||pool9.moatads.com^
 ||poolapi.ellaism.org^
 ||poolarchy.com^
@@ -84192,7 +84127,6 @@
 ||riforma.net.br^
 ||rifugiomargaroli.it^
 ||rifwhwdsqvgw.com^
-||rig-share.com^
 ||rig.tokyo^
 ||rigafah.ru^
 ||rigel.baidustatic.com^
@@ -85398,7 +85332,6 @@
 ||rv-gateway.supersonicads.com^
 ||rv.furaffinity.net^
 ||rv.modanisa.com^
-||rva.btcc.com^
 ||rva.outbrain.com^
 ||rvbibmaixelnq.com^
 ||rvbxnnwdsi.com^
@@ -87434,7 +87367,6 @@
 ||secretosite.cleverpush.com^
 ||secretpool.ru^
 ||secretpursuit.com^
-||secretrepublic.spectresecurity.io^
 ||secretspiders.com^
 ||secserv.adtech.fr^
 ||secserv.adtech.us^
@@ -93775,7 +93707,6 @@
 ||stratum2.bitcoin.cz^
 ||stratum2.cryptoadhd.com^
 ||stratum2.dogehouse.org^
-||stratum2.leywapool.com^
 ||stratum2.suchpool.pw^
 ||stratum3.bitcoin.cz^
 ||stratum3.dogehouse.org^
@@ -93995,7 +93926,6 @@
 ||su0.btcc.com^
 ||su2.btcc.com^
 ||su3.btcc.com^
-||sua.btcc.com^
 ||sualle0i6a.4jxgsane74.madpendesign.com.au^
 ||suapicvhgpwjp.com^
 ||sub.avgle.com^
@@ -101055,7 +100985,6 @@
 ||tullys.app^
 ||tulsilyte.com^
 ||tulsipada1.000webhostapp.com^
-||tum.btcc.com^
 ||tumblebit.org^
 ||tumfvfvyxusz.com^
 ||tumi.112.2o7.net^
@@ -102067,6 +101996,7 @@
 ||ujuclxjkb.com^
 ||ujuqvalvvvof.com^
 ||ujwdwwfuqcgnv.com^
+||ujylaibwmgtaow.com^
 ||ujzeqfkeilro.com^
 ||uk-ac.openx.com^
 ||uk-ads.openx.net^
@@ -102806,7 +102736,6 @@
 ||uqyatperdvczfw.com^
 ||uqyirvghv.com^
 ||uqz.com^
-||ur.btcc.com^
 ||ur.coin-mining.net^
 ||urafur.clubeo.com^
 ||uralap.com^
@@ -108190,7 +108119,6 @@
 ||ww1.coinsolver.com^
 ||ww1.collserve.com^
 ||ww1.cryptopool.eu^
-||ww1.drkpool.com^
 ||ww1.extremepool.org^
 ||ww1.flashx.co^
 ||ww1.flashx.net^
@@ -109253,7 +109181,6 @@
 ||www.aldashoes.eu^
 ||www.aldashoes.pl^
 ||www.aldesco.it^
-||www.ale-dowcip.pl^
 ||www.ale-fotogragia.bo.pl^
 ||www.alejagowniarzy.pl^
 ||www.aleshop.pl^
@@ -109482,7 +109409,6 @@
 ||www.apple.com-clean-macbook.live^
 ||www.apple.com-shield-guard.live^
 ||www.apple.com-speed-macbook.live^
-||www.apple.com-speedup-macos.live^
 ||www.apple.com.id-pt.com^
 ||www.apple.com.logins-app.top^
 ||www.apple.com.ryawqu.cn^
@@ -109714,7 +109640,6 @@
 ||www.awmlite.com^
 ||www.awpool.com^
 ||www.aws50plus.pl^
-||www.axepool.com^
 ||www.axiom-project.eu^
 ||www.axiomaticapr.com^
 ||www.aybc.so^
@@ -111738,7 +111663,6 @@
 ||www.eroadvertising.com^
 ||www.erodynamics.nl^
 ||www.erotime.eu^
-||www.errantshed.co.uk^
 ||www.erretisnc.it^
 ||www.ers.ero-advertising.com^
 ||www.erstweal.com^
@@ -111972,7 +111896,6 @@
 ||www.fairmine.pro^
 ||www.fairpool.pro^
 ||www.faithless.pl^
-||www.fajne-filmy.pl^
 ||www.fajnefanty.com^
 ||www.fajnewierszyki.pl^
 ||www.faktopedia.com.pl^
@@ -113709,7 +113632,6 @@
 ||www.kollaart.org^
 ||www.kolor.oq.pl^
 ||www.kometal.pl^
-||www.komisdramka.pl^
 ||www.komodia.com^
 ||www.kompiutery.pl^
 ||www.koncepcjakirka.pl^
@@ -113741,7 +113663,6 @@
 ||www.kqlokjfrnz.com^
 ||www.kqzyfj.com^
 ||www.kraftsandkreations.com^
-||www.krakowparkiety.pl^
 ||www.kramikeli.pl^
 ||www.krapyak.id^
 ||www.krasnal-zlotoweczka.pl^
@@ -116473,7 +116394,6 @@
 ||www.rickrolling.com^
 ||www.ridefox.com^
 ||www.ridhcrafters.com^
-||www.rig-share.com^
 ||www.rightmedia.com^
 ||www.rightmedia.net^
 ||www.rightstats.com^
@@ -117285,7 +117205,6 @@
 ||www.startum.bitcoin.cz^
 ||www.starychemik.pl^
 ||www.staryspichlerz-darlowo.pl^
-||www.staskostanislaw.pl^
 ||www.stat.pl^
 ||www.stat24.com^
 ||www.statcount.com^
@@ -118132,7 +118051,6 @@
 ||www.uesdpbrej.com^
 ||www.ufocoin.co^
 ||www.ugdturner.com^
-||www.uggbutywyprzedaz.pl^
 ||www.uggclassicmini.pl^
 ||www.uggmini.pl^
 ||www.uggoutlet.pl^
@@ -120594,7 +120512,6 @@
 ||xpp.arhash.xyz^
 ||xpp.easyhash.de^
 ||xpp.leafpool.com^
-||xpp.minexmr24.ru^
 ||xprepresentacoes.com.br^
 ||xpromo-cdn.qublixaws.com^
 ||xpromo.g5e.com^
@@ -121965,14 +121882,12 @@
 ||z2606711.btcc.com^
 ||z2jakqoshx.com^
 ||z2q1s7jvfw.s.ad6media.fr^
-||z4.btcc.com^
 ||z444o.com^
 ||z5.btcc.com^
 ||z5x.net^
 ||z6naousb.com^
 ||z6vmw.top^
 ||z7.btcc.com^
-||z77-182.btcc.com^
 ||z8-36.btcc.com^
 ||z8.btcc.com^
 ||z888.izhufu.net^
@@ -123042,6 +122957,7 @@
 ||zxcvxmtzs.com^
 ||zxczritytzsjz.com^
 ||zxdgmcgpp.com^
+||zxevjtzvqlxy.com^
 ||zxeyqwgwsfv.com^
 ||zxflux.pl^
 ||zxh.bzshzx.com^

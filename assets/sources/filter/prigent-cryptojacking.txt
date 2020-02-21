@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 21.02.2020
-# Total Domains - 5259
+# Total Domains - 5255
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1203,7 +1203,6 @@
 0.0.0.0 ctimfrfrmqip.com
 0.0.0.0 ctjjftxn.bid
 0.0.0.0 ctjwmzryhcoj.com
-0.0.0.0 ctompo.dyndns.org
 0.0.0.0 ctplyvuuzdcv.com
 0.0.0.0 ctzvtevpcssx.com
 0.0.0.0 cuabgfjnib.bid
@@ -1436,7 +1435,6 @@
 0.0.0.0 e-pool.net
 0.0.0.0 eadtortust.bid
 0.0.0.0 eaidabmuxbqy.com
-0.0.0.0 eamcoinye.com
 0.0.0.0 earning-surf.com
 0.0.0.0 easnviytengk.com
 0.0.0.0 easticoin.org
@@ -1934,7 +1932,6 @@
 0.0.0.0 gigsis.net
 0.0.0.0 ginasismining.com
 0.0.0.0 giphylee.com
-0.0.0.0 git.liquidblock.xyz
 0.0.0.0 gitgrub.pro
 0.0.0.0 gitopazeaamdkm.bid
 0.0.0.0 give-me-coins.com
@@ -4331,7 +4328,6 @@
 0.0.0.0 riepool.ovh
 0.0.0.0 rieyjzuyhigobg.bid
 0.0.0.0 rifwhwdsqvgw.com
-0.0.0.0 rig-share.com
 0.0.0.0 rig.tokyo
 0.0.0.0 rigminingpool.com
 0.0.0.0 rigpool.com

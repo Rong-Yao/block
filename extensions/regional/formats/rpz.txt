@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.052
 ; Release: 052
-; Entries: 63,429
+; Entries: 63,438
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Fri, 21 Feb 20 00:14:16
+; Updated: Fri, 21 Feb 20 06:13:41
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4929,6 +4929,7 @@ aif.yadro.ru CNAME .
 aifei.info CNAME .
 aifei0755.net CNAME .
 aifoosty.net CNAME .
+aigneloa.com CNAME .
 aigou023.com CNAME .
 aigysycrmuoetk.com CNAME .
 aiidbowoj.com CNAME .
@@ -5005,6 +5006,7 @@ aj1110.online CNAME .
 aj1197.online CNAME .
 aj1198.online CNAME .
 aj1206.online CNAME .
+aj1432.online CNAME .
 aj1433.online CNAME .
 aj1574.online CNAME .
 aj1602.online CNAME .
@@ -5812,6 +5814,7 @@ aqkjvfaprmez.com CNAME .
 aqkrqjvc.com CNAME .
 aqotbmnzra.com CNAME .
 aqrglffxw.com CNAME .
+aqrprjdqogzghb.com CNAME .
 aquaplatform.com CNAME .
 aquete.com CNAME .
 aquhcfvu.com CNAME .
@@ -10885,6 +10888,7 @@ cytcm.com CNAME .
 cyto-biotherapy.com CNAME .
 cytochemistryrecitativewrasse.com CNAME .
 cytpfucbb.com CNAME .
+cyvnsdsygkpqvz.com CNAME .
 cywegkfcrhup.com CNAME .
 cyylove.com CNAME .
 cz345.cn CNAME .
@@ -14594,6 +14598,7 @@ fcrgzqkbtgu.co CNAME .
 fcs.ovh CNAME .
 fcuit.com CNAME .
 fcunq.com CNAME .
+fcvwuevewdzpm.com CNAME .
 fcwpxsmiyy.com CNAME .
 fd173.cn CNAME .
 fd2e64b4c2e729.com CNAME .
@@ -14777,6 +14782,7 @@ fgzba.com CNAME .
 fgzxlngohtg.com CNAME .
 fhbv.cn CNAME .
 fhddhfhz.com CNAME .
+fhgh9sd.com CNAME .
 fhidehpl.com CNAME .
 fhluqrhmqs.com CNAME .
 fhmty1lty9.com CNAME .
@@ -15516,6 +15522,7 @@ fullspeeddownload.com CNAME .
 fulltraffic.net CNAME .
 fultop.biz CNAME .
 fun.wormania.io CNAME .
+fun1.arcadeprehacks.com CNAME .
 fun8.us CNAME .
 funcionapage.com CNAME .
 funcoin.club CNAME .
@@ -37834,6 +37841,7 @@ ujrtwvabum.com CNAME .
 ujuclxjkb.com CNAME .
 ujuqvalvvvof.com CNAME .
 ujwdwwfuqcgnv.com CNAME .
+ujylaibwmgtaow.com CNAME .
 ukamer.ru CNAME .
 ukatoe.com CNAME .
 ukbanners.com CNAME .
@@ -63403,6 +63411,7 @@ zxcvads.com CNAME .
 zxcvxmtzs.com CNAME .
 zxczritytzsjz.com CNAME .
 zxdgmcgpp.com CNAME .
+zxevjtzvqlxy.com CNAME .
 zxeyqwgwsfv.com CNAME .
 zxhrq.cn CNAME .
 zxhymh.com CNAME .

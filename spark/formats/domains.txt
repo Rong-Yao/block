@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.052
 # Release: 052
-# Entries: 61,131
+# Entries: 61,137
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 00:10:23
+# Updated: Fri, 21 Feb 20 06:09:56
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -7115,6 +7115,7 @@ aj1052.online
 aj1090.online
 aj1110.online
 aj1198.online
+aj1432.online
 aj1574.online
 aj1602.online
 aj1603.online
@@ -9659,6 +9660,7 @@ aqocbcnfxkuw.com
 aqodwthjaq.com
 aqotbmnzra.com
 aqrglffxw.com
+aqrprjdqogzghb.com
 aqt.adalliance.io
 aquaticowl.com
 aquhcfvu.com
@@ -17108,6 +17110,7 @@ cyseal.cyveillance.com
 cyssfnqt.com
 cytoclause.com
 cytpfucbb.com
+cyvnsdsygkpqvz.com
 cyxagtpeggjv.com
 cz-gmtdmp.mookie1.com
 cz-rb.com
@@ -21540,6 +21543,7 @@ fcmigoods.xyz
 fcpispplqq.com
 fcporto.pushwoosh.com
 fcveilhtok.com
+fcvwuevewdzpm.com
 fcwpxsmiyy.com
 fd.video-ak.cdn.spotify.com
 fd1.info
@@ -52348,6 +52352,7 @@ ujrtwvabum.com
 ujuclxjkb.com
 ujuqvalvvvof.com
 ujwdwwfuqcgnv.com
+ujylaibwmgtaow.com
 uk-ac.openx.com
 uk-ads.openx.net
 uk-market.openx.com
@@ -61138,6 +61143,7 @@ zxbzuyuifdqj.com
 zxcvxmtzs.com
 zxczritytzsjz.com
 zxdgmcgpp.com
+zxevjtzvqlxy.com
 zxeyqwgwsfv.com
 zxiikxeagmferu.com
 zxkrdvrijsp.com

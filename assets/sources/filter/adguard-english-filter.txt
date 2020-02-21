@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 21.02.2020
-# Total Domains - 18370
+# Total Domains - 18380
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1053,6 +1053,7 @@
 0.0.0.0 aditize.com
 0.0.0.0 aditor.com
 0.0.0.0 adjal.com
+0.0.0.0 adjarabet.com
 0.0.0.0 adjector.com
 0.0.0.0 adjesty.com
 0.0.0.0 adjs.net
@@ -1781,6 +1782,7 @@
 0.0.0.0 aidalbark.site
 0.0.0.0 aifei0755.net
 0.0.0.0 aifoosty.net
+0.0.0.0 aigneloa.com
 0.0.0.0 aiidbowoj.com
 0.0.0.0 aiiukvzjtsc.com
 0.0.0.0 aijiboft.com
@@ -1815,6 +1817,7 @@
 0.0.0.0 aizopowmtnho.com
 0.0.0.0 aj1052.online
 0.0.0.0 aj1090.online
+0.0.0.0 aj1432.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1602.online
 0.0.0.0 aj1603.online
@@ -2095,6 +2098,7 @@
 0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrglffxw.com
+0.0.0.0 aqrprjdqogzghb.com
 0.0.0.0 aquete.com
 0.0.0.0 aquhcfvu.com
 0.0.0.0 aqussxtpjfelp.com
@@ -4135,6 +4139,7 @@
 0.0.0.0 cymeeoolym.com
 0.0.0.0 cyqbtxpgarmc.com
 0.0.0.0 cytpfucbb.com
+0.0.0.0 cyvnsdsygkpqvz.com
 0.0.0.0 czcetfjlisyjh.com
 0.0.0.0 czechose.com
 0.0.0.0 czgmlnhz.com
@@ -5768,6 +5773,7 @@
 0.0.0.0 fclfmfjykupjdk.com
 0.0.0.0 fcpispplqq.com
 0.0.0.0 fcrgzqkbtgu.co
+0.0.0.0 fcvwuevewdzpm.com
 0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd7qz88ckd.com
 0.0.0.0 fd84e9a464aec4387a.com
@@ -5856,6 +5862,7 @@
 0.0.0.0 fgtskhlizoitz.com
 0.0.0.0 fgzxlngohtg.com
 0.0.0.0 fhddhfhz.com
+0.0.0.0 fhgh9sd.com
 0.0.0.0 fhidehpl.com
 0.0.0.0 fhluqrhmqs.com
 0.0.0.0 fhoexcvjspuh.com
@@ -6187,6 +6194,7 @@
 0.0.0.0 fulltraffic.net
 0.0.0.0 fultop.biz
 0.0.0.0 fun.wormania.io
+0.0.0.0 fun1.arcadeprehacks.com
 0.0.0.0 funcionapage.com
 0.0.0.0 funklicks.com
 0.0.0.0 funmatrix.net
@@ -15965,6 +15973,7 @@
 0.0.0.0 ujuclxjkb.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujwdwwfuqcgnv.com
+0.0.0.0 ujylaibwmgtaow.com
 0.0.0.0 ukatoe.com
 0.0.0.0 ukbanners.com
 0.0.0.0 ukdjbubvp.com
@@ -18343,6 +18352,7 @@
 0.0.0.0 zxcvxmtzs.com
 0.0.0.0 zxczritytzsjz.com
 0.0.0.0 zxdgmcgpp.com
+0.0.0.0 zxevjtzvqlxy.com
 0.0.0.0 zxeyqwgwsfv.com
 0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxkrdvrijsp.com

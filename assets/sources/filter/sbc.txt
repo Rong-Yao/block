@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 21.02.2020
-# Total Domains - 35959
+# Total Domains - 35951
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6009,7 +6009,6 @@
 0.0.0.0 appintop.com
 0.0.0.0 appiq.mobi
 0.0.0.0 apple.com-care-macbook-system.live
-0.0.0.0 apple.com-speedup-macos.live
 0.0.0.0 application-software-store-net.win
 0.0.0.0 applicationcodeshopnet.win
 0.0.0.0 applicationcodeshopwebs.win
@@ -30743,7 +30742,6 @@
 0.0.0.0 www.aldaniti.net
 0.0.0.0 www.aldashoes.eu
 0.0.0.0 www.aldashoes.pl
-0.0.0.0 www.ale-dowcip.pl
 0.0.0.0 www.ale-fotogragia.bo.pl
 0.0.0.0 www.alejagowniarzy.pl
 0.0.0.0 www.aleshop.pl
@@ -30840,7 +30838,6 @@
 0.0.0.0 www.apple.com-clean-macbook.live
 0.0.0.0 www.apple.com-shield-guard.live
 0.0.0.0 www.apple.com-speed-macbook.live
-0.0.0.0 www.apple.com-speedup-macos.live
 0.0.0.0 www.applelounge.com
 0.0.0.0 www.appliedsemantics.com
 0.0.0.0 www.apponic.com
@@ -31895,7 +31892,6 @@
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.failmobile.net
 0.0.0.0 www.faithless.pl
-0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.fajnefanty.com
 0.0.0.0 www.fajnewierszyki.pl
 0.0.0.0 www.faktopedia.com.pl
@@ -32696,7 +32692,6 @@
 0.0.0.0 www.kolenda-labus.pl
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.kometal.pl
-0.0.0.0 www.komisdramka.pl
 0.0.0.0 www.komodia.com
 0.0.0.0 www.kompiutery.pl
 0.0.0.0 www.koncepcjakirka.pl
@@ -32717,7 +32712,6 @@
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.kpzkaj.pl
 0.0.0.0 www.kqzyfj.com
-0.0.0.0 www.krakowparkiety.pl
 0.0.0.0 www.kramikeli.pl
 0.0.0.0 www.krasnal-zlotoweczka.pl
 0.0.0.0 www.krdn.pl
@@ -34343,7 +34337,6 @@
 0.0.0.0 www.startnewtab.com
 0.0.0.0 www.starychemik.pl
 0.0.0.0 www.staryspichlerz-darlowo.pl
-0.0.0.0 www.staskostanislaw.pl
 0.0.0.0 www.stat.pl
 0.0.0.0 www.stat24.com
 0.0.0.0 www.statcount.com
@@ -34758,7 +34751,6 @@
 0.0.0.0 www.ucchari.com
 0.0.0.0 www.udziele-pozyczki-prywatnie.pl
 0.0.0.0 www.ugdturner.com
-0.0.0.0 www.uggbutywyprzedaz.pl
 0.0.0.0 www.uggclassicmini.pl
 0.0.0.0 www.uggmini.pl
 0.0.0.0 www.uggoutlet.pl

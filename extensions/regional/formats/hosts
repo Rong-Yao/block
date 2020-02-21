@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.052
 # Release: 052
-# Entries: 63,429
+# Entries: 63,438
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Fri, 21 Feb 20 00:14:16
+# Updated: Fri, 21 Feb 20 06:13:41
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -4940,6 +4940,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aifei.info
 0.0.0.0 aifei0755.net
 0.0.0.0 aifoosty.net
+0.0.0.0 aigneloa.com
 0.0.0.0 aigou023.com
 0.0.0.0 aigysycrmuoetk.com
 0.0.0.0 aiidbowoj.com
@@ -5016,6 +5017,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aj1197.online
 0.0.0.0 aj1198.online
 0.0.0.0 aj1206.online
+0.0.0.0 aj1432.online
 0.0.0.0 aj1433.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1602.online
@@ -5823,6 +5825,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrglffxw.com
+0.0.0.0 aqrprjdqogzghb.com
 0.0.0.0 aquaplatform.com
 0.0.0.0 aquete.com
 0.0.0.0 aquhcfvu.com
@@ -10896,6 +10899,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cyto-biotherapy.com
 0.0.0.0 cytochemistryrecitativewrasse.com
 0.0.0.0 cytpfucbb.com
+0.0.0.0 cyvnsdsygkpqvz.com
 0.0.0.0 cywegkfcrhup.com
 0.0.0.0 cyylove.com
 0.0.0.0 cz345.cn
@@ -14605,6 +14609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fcs.ovh
 0.0.0.0 fcuit.com
 0.0.0.0 fcunq.com
+0.0.0.0 fcvwuevewdzpm.com
 0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd173.cn
 0.0.0.0 fd2e64b4c2e729.com
@@ -14788,6 +14793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fgzxlngohtg.com
 0.0.0.0 fhbv.cn
 0.0.0.0 fhddhfhz.com
+0.0.0.0 fhgh9sd.com
 0.0.0.0 fhidehpl.com
 0.0.0.0 fhluqrhmqs.com
 0.0.0.0 fhmty1lty9.com
@@ -15527,6 +15533,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fulltraffic.net
 0.0.0.0 fultop.biz
 0.0.0.0 fun.wormania.io
+0.0.0.0 fun1.arcadeprehacks.com
 0.0.0.0 fun8.us
 0.0.0.0 funcionapage.com
 0.0.0.0 funcoin.club
@@ -37845,6 +37852,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ujuclxjkb.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujwdwwfuqcgnv.com
+0.0.0.0 ujylaibwmgtaow.com
 0.0.0.0 ukamer.ru
 0.0.0.0 ukatoe.com
 0.0.0.0 ukbanners.com
@@ -63414,6 +63422,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zxcvxmtzs.com
 0.0.0.0 zxczritytzsjz.com
 0.0.0.0 zxdgmcgpp.com
+0.0.0.0 zxevjtzvqlxy.com
 0.0.0.0 zxeyqwgwsfv.com
 0.0.0.0 zxhrq.cn
 0.0.0.0 zxhymh.com

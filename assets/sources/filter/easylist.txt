@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
 # Last Converted - 21.02.2020
-# Total Domains - 16515
+# Total Domains - 16522
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1615,6 +1615,7 @@
 0.0.0.0 aizopowmtnho.com
 0.0.0.0 aj1052.online
 0.0.0.0 aj1090.online
+0.0.0.0 aj1432.online
 0.0.0.0 aj1574.online
 0.0.0.0 aj1602.online
 0.0.0.0 aj1913.online
@@ -1848,6 +1849,7 @@
 0.0.0.0 aqkrqjvc.com
 0.0.0.0 aqotbmnzra.com
 0.0.0.0 aqrglffxw.com
+0.0.0.0 aqrprjdqogzghb.com
 0.0.0.0 aquete.com
 0.0.0.0 aquhcfvu.com
 0.0.0.0 aqussxtpjfelp.com
@@ -3663,6 +3665,7 @@
 0.0.0.0 cymeeoolym.com
 0.0.0.0 cyqbtxpgarmc.com
 0.0.0.0 cytpfucbb.com
+0.0.0.0 cyvnsdsygkpqvz.com
 0.0.0.0 czcetfjlisyjh.com
 0.0.0.0 czechose.com
 0.0.0.0 czgmlnhz.com
@@ -5058,6 +5061,7 @@
 0.0.0.0 fcjodgfpjiswa.com
 0.0.0.0 fclfmfjykupjdk.com
 0.0.0.0 fcpispplqq.com
+0.0.0.0 fcvwuevewdzpm.com
 0.0.0.0 fcwpxsmiyy.com
 0.0.0.0 fd7qz88ckd.com
 0.0.0.0 fd84e9a464aec4387a.com
@@ -5444,6 +5448,7 @@
 0.0.0.0 fulhudhoo.com
 0.0.0.0 fulltraffic.net
 0.0.0.0 fun.wormania.io
+0.0.0.0 fun1.arcadeprehacks.com
 0.0.0.0 funklicks.com
 0.0.0.0 funmatrix.net
 0.0.0.0 funtikapa.info
@@ -14311,6 +14316,7 @@
 0.0.0.0 ujuclxjkb.com
 0.0.0.0 ujuqvalvvvof.com
 0.0.0.0 ujwdwwfuqcgnv.com
+0.0.0.0 ujylaibwmgtaow.com
 0.0.0.0 ukatoe.com
 0.0.0.0 ukbanners.com
 0.0.0.0 ukdjbubvp.com
@@ -16491,6 +16497,7 @@
 0.0.0.0 zxcvxmtzs.com
 0.0.0.0 zxczritytzsjz.com
 0.0.0.0 zxdgmcgpp.com
+0.0.0.0 zxevjtzvqlxy.com
 0.0.0.0 zxeyqwgwsfv.com
 0.0.0.0 zxiikxeagmferu.com
 0.0.0.0 zxkrdvrijsp.com

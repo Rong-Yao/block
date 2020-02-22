@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
 # Last Converted - 22.02.2020
-# Total Domains - 5886
+# Total Domains - 5888
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3389,6 +3389,7 @@
 0.0.0.0 nimiqtest.net
 0.0.0.0 nimpool.io
 0.0.0.0 ninestats.com
+0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 nokaut.link
@@ -4820,6 +4821,7 @@
 0.0.0.0 t-staging.powerreviews.com
 0.0.0.0 t.9gag.com
 0.0.0.0 t.a3cloud.net
+0.0.0.0 t.adlpo.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.beopinion.com
 0.0.0.0 t.birchlane.com

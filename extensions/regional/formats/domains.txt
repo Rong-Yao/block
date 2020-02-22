@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.053
 # Release: 053
-# Entries: 63,464
+# Entries: 63,468
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 06:15:10
+# Updated: Sat, 22 Feb 20 12:13:45
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -14756,6 +14756,7 @@ fg09t.com
 fg3cyy7jyx.com
 fgaon.com
 fgbmbyqmdgr.com
+fgbmjogeurrqe.com
 fgcash.com.br
 fgcterkdpns.com
 fgddrrr.com
@@ -30951,6 +30952,7 @@ qsoetgedlgyhyz.com
 qsove.com
 qsrekvpnu.bid
 qstwmmuukimz.bid
+qsvtdcqikcqsk.com
 qswotrk.com
 qsxggbsthsk.bid
 qt54a.cn
@@ -34161,6 +34163,7 @@ sneakystamp.com
 snews.aiservice.vn
 snfhwcvdqxioj.com
 snfsnm5.net
+snfzmkyzad.com
 sngame.su
 snhqkvmhcoh.com
 snhsoclobbos.com
@@ -38063,6 +38066,7 @@ uoldid.ru
 uoommnucvua.com
 uoottsfgy.com
 uopayiycy.com
+uophrutbsb.com
 uoqktpjfrctroa.com
 uoredi.com
 uorhedemxtni.com

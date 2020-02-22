@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.053
 ; Release: 053
-; Entries: 63,464
+; Entries: 63,468
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 22 Feb 20 06:15:10
+; Updated: Sat, 22 Feb 20 12:13:45
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -14764,6 +14764,7 @@ fg09t.com CNAME .
 fg3cyy7jyx.com CNAME .
 fgaon.com CNAME .
 fgbmbyqmdgr.com CNAME .
+fgbmjogeurrqe.com CNAME .
 fgcash.com.br CNAME .
 fgcterkdpns.com CNAME .
 fgddrrr.com CNAME .
@@ -30959,6 +30960,7 @@ qsoetgedlgyhyz.com CNAME .
 qsove.com CNAME .
 qsrekvpnu.bid CNAME .
 qstwmmuukimz.bid CNAME .
+qsvtdcqikcqsk.com CNAME .
 qswotrk.com CNAME .
 qsxggbsthsk.bid CNAME .
 qt54a.cn CNAME .
@@ -34169,6 +34171,7 @@ sneakystamp.com CNAME .
 snews.aiservice.vn CNAME .
 snfhwcvdqxioj.com CNAME .
 snfsnm5.net CNAME .
+snfzmkyzad.com CNAME .
 sngame.su CNAME .
 snhqkvmhcoh.com CNAME .
 snhsoclobbos.com CNAME .
@@ -38071,6 +38074,7 @@ uoldid.ru CNAME .
 uoommnucvua.com CNAME .
 uoottsfgy.com CNAME .
 uopayiycy.com CNAME .
+uophrutbsb.com CNAME .
 uoqktpjfrctroa.com CNAME .
 uoredi.com CNAME .
 uorhedemxtni.com CNAME .

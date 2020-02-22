@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.053
 # Release: 053
-# Entries: 63,464
+# Entries: 63,468
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 06:15:10
+# Updated: Sat, 22 Feb 20 12:13:45
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -14775,6 +14775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fg3cyy7jyx.com
 0.0.0.0 fgaon.com
 0.0.0.0 fgbmbyqmdgr.com
+0.0.0.0 fgbmjogeurrqe.com
 0.0.0.0 fgcash.com.br
 0.0.0.0 fgcterkdpns.com
 0.0.0.0 fgddrrr.com
@@ -30970,6 +30971,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qsove.com
 0.0.0.0 qsrekvpnu.bid
 0.0.0.0 qstwmmuukimz.bid
+0.0.0.0 qsvtdcqikcqsk.com
 0.0.0.0 qswotrk.com
 0.0.0.0 qsxggbsthsk.bid
 0.0.0.0 qt54a.cn
@@ -34180,6 +34182,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 snews.aiservice.vn
 0.0.0.0 snfhwcvdqxioj.com
 0.0.0.0 snfsnm5.net
+0.0.0.0 snfzmkyzad.com
 0.0.0.0 sngame.su
 0.0.0.0 snhqkvmhcoh.com
 0.0.0.0 snhsoclobbos.com
@@ -38082,6 +38085,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uoommnucvua.com
 0.0.0.0 uoottsfgy.com
 0.0.0.0 uopayiycy.com
+0.0.0.0 uophrutbsb.com
 0.0.0.0 uoqktpjfrctroa.com
 0.0.0.0 uoredi.com
 0.0.0.0 uorhedemxtni.com

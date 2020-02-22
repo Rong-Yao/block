@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.053
 # Release: 053
-# Entries: 61,173
+# Entries: 61,176
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 06:10:22
+# Updated: Sat, 22 Feb 20 12:09:58
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -21728,6 +21728,7 @@ fg09t.com
 fgawegwr.chez.com
 fgbaaiggaijibbbad.ru
 fgbmbyqmdgr.com
+fgbmjogeurrqe.com
 fgddrrr.com
 fgfcgadieidjdbdfadg.ru
 fghtem.com
@@ -41526,6 +41527,7 @@ qsnzncerqgack.com
 qsoetgedlgyhyz.com
 qsrekvpnu.bid
 qstwmmuukimz.bid
+qsvtdcqikcqsk.com
 qsxggbsthsk.bid
 qt0fvliu0g.s.ad6media.fr
 qtahsbgdqbu.com
@@ -46033,6 +46035,7 @@ sneakystamp.com
 snfhwcvdqxioj.com
 snfqpqyecdrb.com
 snfsnm5.net
+snfzmkyzad.com
 snhqkvmhcoh.com
 snhsoclobbos.com
 sniff.visistat.com
@@ -52645,6 +52648,7 @@ uonj2o6i.loan
 uoommnucvua.com
 uop.umeng.com
 uopayiycy.com
+uophrutbsb.com
 uopto.iqm.com
 uoqktpjfrctroa.com
 uorhedemxtni.com
@@ -60301,7 +60305,6 @@ ylx-aff.advertica-cdn.com
 ylx-i.advertica-cdn2.com
 ym-default.adnxs.com
 ym.adnxs.com
-ymads.com
 ymail-activate1.bugs3.com
 ymbpndswe.com
 ymcdn.ymtrack6.co

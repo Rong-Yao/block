@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 # Last Converted - 22.02.2020
-# Total Domains - 61348
+# Total Domains - 61347
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -21502,7 +21502,6 @@
 0.0.0.0 fuqiaiai.com
 0.0.0.0 furedscan.hu
 0.0.0.0 furlan.arq.br
-0.0.0.0 furnitura-shkaf.ru
 0.0.0.0 furniture-screws.com
 0.0.0.0 furnitureexpress.ca
 0.0.0.0 furniturefactory.lk

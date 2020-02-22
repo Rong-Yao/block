@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # Last Converted - 22.02.2020
-# Total Domains - 27748
+# Total Domains - 27751
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3681,6 +3681,7 @@
 0.0.0.0 akamai.o.brightcove.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 akamai.taboola.com
+0.0.0.0 akashdayalgroups.com
 0.0.0.0 akavita.com
 0.0.0.0 akestrofst.info
 0.0.0.0 akhbarak.uodoo.com
@@ -7691,6 +7692,7 @@
 0.0.0.0 clothingsshopping.club
 0.0.0.0 clotholip.xyz
 0.0.0.0 clothsdinfg.xyz
+0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-test.adhese.com
 0.0.0.0 cloud-us.analytics-egain.com
 0.0.0.0 cloud.uc.cn
@@ -25665,6 +25667,7 @@
 0.0.0.0 www.agkn.com
 0.0.0.0 www.ahi26.voluumtrk.com
 0.0.0.0 www.aidps.atdmt.com
+0.0.0.0 www.akashdayalgroups.com
 0.0.0.0 www.alb.reddit.com
 0.0.0.0 www.allgames4you.mobi
 0.0.0.0 www.allyoucan.it

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
 # Last Converted - 22.02.2020
-# Total Domains - 753
+# Total Domains - 754
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -453,6 +453,7 @@
 0.0.0.0 n.mailfire.io
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 newsanalytics.com.au
+0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 o.addthis.com
 0.0.0.0 observer.ip-label.net

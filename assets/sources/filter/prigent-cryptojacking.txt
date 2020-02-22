@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 22.02.2020
-# Total Domains - 5208
+# Total Domains - 5200
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -148,7 +148,6 @@
 0.0.0.0 active-coin.com
 0.0.0.0 acwswfbyhtsf.com
 0.0.0.0 acxujxzdluum.com
-0.0.0.0 acytem.pw
 0.0.0.0 ad-miner.com
 0.0.0.0 ad0be.ga
 0.0.0.0 adalso.com
@@ -779,7 +778,6 @@
 0.0.0.0 btcwkbqojiyg.com
 0.0.0.0 btcwulf.com
 0.0.0.0 btcz.app
-0.0.0.0 bte.dsync.net
 0.0.0.0 btgmine.com
 0.0.0.0 btgpool.pro
 0.0.0.0 btgsolo.club
@@ -1351,7 +1349,6 @@
 0.0.0.0 dodwnkpzaned.com
 0.0.0.0 doge.jir.dk
 0.0.0.0 doge.scryptpools.com
-0.0.0.0 doge.thecoinrush.com
 0.0.0.0 dogecoin.dog
 0.0.0.0 dogepool.rf.gd
 0.0.0.0 dohhehsgnxfl.com
@@ -2812,7 +2809,6 @@
 0.0.0.0 lcpqoewrzuxh.com
 0.0.0.0 lcuprkufusba.com
 0.0.0.0 lcyncwbacrgz.com
-0.0.0.0 ldap.liquidblock.xyz
 0.0.0.0 ldkyzudgbksh.com
 0.0.0.0 ldlritslfej.bid
 0.0.0.0 ldvpool.com
@@ -2957,7 +2953,6 @@
 0.0.0.0 ltfn.org
 0.0.0.0 ltmdqbrxjaqn.bid
 0.0.0.0 ltnjtphbbvigi.bid
-0.0.0.0 lts.coiner.in
 0.0.0.0 ltsdzcgcystyak.bid
 0.0.0.0 ltsnideak.bid
 0.0.0.0 lttsvesujmry.com
@@ -3931,8 +3926,6 @@
 0.0.0.0 pool.cdy.one
 0.0.0.0 pool.chaucha.cl
 0.0.0.0 pool.coinlab.com
-0.0.0.0 pool.d2.cc
-0.0.0.0 pool.ejpool.info
 0.0.0.0 pool.ga
 0.0.0.0 pool.gold
 0.0.0.0 pool.itzod.ru
@@ -5071,7 +5064,6 @@
 0.0.0.0 waterparkmining.com
 0.0.0.0 wattpool.net
 0.0.0.0 wazn.io
-0.0.0.0 wdc.ocukminingpool.com
 0.0.0.0 webassembly.stream
 0.0.0.0 webchain.live
 0.0.0.0 webchain.network

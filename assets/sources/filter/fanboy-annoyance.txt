@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/hectorm/hMirror/master/data/fanboy-annoyance/list.txt
 # Last Converted - 22.02.2020
-# Total Domains - 65
+# Total Domains - 66
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -57,6 +57,7 @@
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 pgs.aviationweek.com
 0.0.0.0 platform.loyaltylion.com
+0.0.0.0 privacy.claytonhomes.com
 0.0.0.0 privacy.purch.com
 0.0.0.0 privacy.schibsted.com
 0.0.0.0 privacypolicy.trgr.be

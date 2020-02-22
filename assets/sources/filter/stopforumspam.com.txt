@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://stopforumspam.com/downloads/toxic_domains_whole.txt
 # Last Converted - 22.02.2020
-# Total Domains - 10985
+# Total Domains - 10988
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2264,6 +2264,7 @@
 0.0.0.0 cryptonet.top
 0.0.0.0 csiplanet.com
 0.0.0.0 csmq.com
+0.0.0.0 cspeakingbr.com
 0.0.0.0 cssccw.com
 0.0.0.0 csxc.com
 0.0.0.0 ctmailing.us
@@ -6521,6 +6522,7 @@
 0.0.0.0 mobile.scarbour.com
 0.0.0.0 mobile.suspent.com
 0.0.0.0 mobile.wirelax.com
+0.0.0.0 mobilehacks.site
 0.0.0.0 mocanh.info
 0.0.0.0 modelix.ru
 0.0.0.0 modem.intranet.twitpost.info
@@ -7949,6 +7951,7 @@
 0.0.0.0 puot.com
 0.0.0.0 purchasight.com
 0.0.0.0 purepsilocin.com
+0.0.0.0 purple.viola.gq
 0.0.0.0 purplea.com
 0.0.0.0 purplestea.ru
 0.0.0.0 putzmail.pw

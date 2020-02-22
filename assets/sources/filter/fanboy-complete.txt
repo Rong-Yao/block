@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-complete.txt
 # Last Converted - 22.02.2020
-# Total Domains - 22475
+# Total Domains - 22481
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7188,6 +7188,7 @@
 0.0.0.0 fg09t.com
 0.0.0.0 fg3cyy7jyx.com
 0.0.0.0 fgbmbyqmdgr.com
+0.0.0.0 fgbmjogeurrqe.com
 0.0.0.0 fgddrrr.com
 0.0.0.0 fgjasshw.com
 0.0.0.0 fgnzizhe.com
@@ -11433,6 +11434,7 @@
 0.0.0.0 madnet.ru
 0.0.0.0 madsabs.com
 0.0.0.0 madsabz.com
+0.0.0.0 madsans.com
 0.0.0.0 madsats.com
 0.0.0.0 madsatz.com
 0.0.0.0 madserving.com
@@ -12756,6 +12758,7 @@
 0.0.0.0 nimsepee.net
 0.0.0.0 ninestats.com
 0.0.0.0 ningme.ru
+0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninxcwcwgvr.com
 0.0.0.0 nirqmbrzplvtjr.com
@@ -15752,6 +15755,7 @@
 0.0.0.0 qsrekvpnu.bid
 0.0.0.0 qsstats.com
 0.0.0.0 qstwmmuukimz.bid
+0.0.0.0 qsvtdcqikcqsk.com
 0.0.0.0 qswotrk.com
 0.0.0.0 qsxggbsthsk.bid
 0.0.0.0 qtahsbgdqbu.com
@@ -17424,6 +17428,7 @@
 0.0.0.0 sneakystamp.com
 0.0.0.0 snfhwcvdqxioj.com
 0.0.0.0 snfsnm5.net
+0.0.0.0 snfzmkyzad.com
 0.0.0.0 snhsoclobbos.com
 0.0.0.0 sniperlog.ru
 0.0.0.0 sniphub.com
@@ -18317,6 +18322,7 @@
 0.0.0.0 t-staging.powerreviews.com
 0.0.0.0 t.9gag.com
 0.0.0.0 t.a3cloud.net
+0.0.0.0 t.adlpo.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.beopinion.com
 0.0.0.0 t.birchlane.com
@@ -19904,6 +19910,7 @@
 0.0.0.0 uoldid.ru
 0.0.0.0 uoommnucvua.com
 0.0.0.0 uopayiycy.com
+0.0.0.0 uophrutbsb.com
 0.0.0.0 uoqktpjfrctroa.com
 0.0.0.0 uoredi.com
 0.0.0.0 uorhedemxtni.com
@@ -21867,7 +21874,6 @@
 0.0.0.0 ylx-2.com
 0.0.0.0 ylx-3.com
 0.0.0.0 ylx-4.com
-0.0.0.0 ymads.com
 0.0.0.0 ymbpndswe.com
 0.0.0.0 ymerjqsynqoxdm.com
 0.0.0.0 ymetrica1.com

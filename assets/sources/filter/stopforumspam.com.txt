@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://stopforumspam.com/downloads/toxic_domains_whole.txt
 # Last Converted - 22.02.2020
-# Total Domains - 10988
+# Total Domains - 10989
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7438,6 +7438,7 @@
 0.0.0.0 panek93.freshbreadcrumbs.com
 0.0.0.0 pantheonclub.info
 0.0.0.0 pantheus.com
+0.0.0.0 papamisa.ru
 0.0.0.0 papillomadelete.info
 0.0.0.0 papolog.com
 0.0.0.0 paracat.org

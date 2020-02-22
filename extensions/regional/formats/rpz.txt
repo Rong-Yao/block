@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.053
 ; Release: 053
-; Entries: 63,468
+; Entries: 63,490
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 22 Feb 20 12:13:45
+; Updated: Sat, 22 Feb 20 18:14:08
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -396,6 +396,7 @@ $TTL 2h
 12jf3.cn CNAME .
 12l22.net CNAME .
 12place.com CNAME .
+12rge.xyz CNAME .
 12rng.cn CNAME .
 1314sss.top CNAME .
 13190546cd1dec9bbdc.com CNAME .
@@ -4539,6 +4540,7 @@ adzhub.com CNAME .
 adziff.com CNAME .
 adzincome.in CNAME .
 adzintext.com CNAME .
+adziondin.club CNAME .
 adziran.gq CNAME .
 adzmath.com CNAME .
 adzmaza.in CNAME .
@@ -5348,6 +5350,7 @@ amobee.com CNAME .
 amobi.vn CNAME .
 amp-error-reporting.appspot.com CNAME .
 amp.rd.linksynergy.com CNAME .
+ampallall.site CNAME .
 amparcaim.club CNAME .
 ampburask.site CNAME .
 ampclicks.com CNAME .
@@ -7026,6 +7029,7 @@ bdbdqkxkdb.com CNAME .
 bdbdqnxkdb.com CNAME .
 bdbdqqxkdb.com CNAME .
 bdbdqsxkdb.com CNAME .
+bdbdqxdkdb.com CNAME .
 bdcm.kandianla.com CNAME .
 bdcode.2345.com CNAME .
 bdcode.35d1.com CNAME .
@@ -7961,6 +7965,7 @@ bostonwall.com CNAME .
 botiviga.com CNAME .
 botkano.info CNAME .
 bottleguy.com CNAME .
+boubeeth.com CNAME .
 boudja.com CNAME .
 boudougu.com CNAME .
 bouldrethedti.info CNAME .
@@ -8757,6 +8762,7 @@ casino.betsson.com CNAME .
 casinobonusdeal.com CNAME .
 casinoclubpoker.com CNAME .
 casinoha.ru CNAME .
+casinohacksforyou.com CNAME .
 casinopokercoin.com CNAME .
 caspion.com CNAME .
 cassini.efigence.com CNAME .
@@ -9649,6 +9655,7 @@ clickbux.ir CNAME .
 clickbux.ru CNAME .
 clickcash.com CNAME .
 clickcashmoney.com CNAME .
+clickcdn.co CNAME .
 clickcertain.com CNAME .
 clickcoin.com CNAME .
 clickconvert.ru CNAME .
@@ -10878,6 +10885,7 @@ cyjybkrmzstpid.com CNAME .
 cykahax.net CNAME .
 cylinderlongcheng.com CNAME .
 cymeeoolym.com CNAME .
+cyneburg-yam.com CNAME .
 cyonix.to CNAME .
 cyqbtxpgarmc.com CNAME .
 cyssfnqt.com CNAME .
@@ -11115,6 +11123,7 @@ d2222t5nvb13ei.cloudfront.net CNAME .
 d22chwk8np.com CNAME .
 d22lo5bcpq2fif.cloudfront.net CNAME .
 d22sfab2t5o9bq.cloudfront.net CNAME .
+d22z575k8abudv.cloudfront.net CNAME .
 d239g0z67jcted.cloudfront.net CNAME .
 d23guct4biwna6.cloudfront.net CNAME .
 d23rdjhd16xqjq.cloudfront.net CNAME .
@@ -13196,6 +13205,7 @@ eagerse.com CNAME .
 eagleapi.io CNAME .
 eaglepro.net CNAME .
 eahkxyuezqvx.com CNAME .
+eaiatlexsotxbh.com CNAME .
 eajmyphr.com CNAME .
 eaknxurdsogwr.com CNAME .
 eaolnbvd.com CNAME .
@@ -16869,6 +16879,7 @@ greetham.net CNAME .
 greetpanda.info CNAME .
 gregnobs.com CNAME .
 grekaser.space CNAME .
+grementessenti.info CNAME .
 grenka.date CNAME .
 grensauy.com CNAME .
 grergoch.net CNAME .
@@ -17980,6 +17991,7 @@ hongshikai.com CNAME .
 hongtefm.com CNAME .
 hongyangbg.com CNAME .
 honouncil.com CNAME .
+hontent.steamplay.me CNAME .
 hoo1luha.com CNAME .
 hoochoor.com CNAME .
 hood.ninja CNAME .
@@ -18076,6 +18088,7 @@ houchosi.net CNAME .
 houdaolj.com CNAME .
 houdini.haaretz.co.il CNAME .
 houmekredit.ru CNAME .
+hounicuy.com CNAME .
 hourakob.net CNAME .
 house-rent.us CNAME .
 houseads-prod.elasticbeanstalk.com CNAME .
@@ -19504,6 +19517,7 @@ irfiysdcrnleu.com CNAME .
 irgreen.ml CNAME .
 irgulzk8bi.com CNAME .
 iridiumsergeiprogenitor.info CNAME .
+irjfsrocuzwkpf.com CNAME .
 irjo.ga CNAME .
 irkgxjcgl.com CNAME .
 irkuj.com CNAME .
@@ -20227,6 +20241,7 @@ jnhjvkapqf.com CNAME .
 jnhmeywrl.com CNAME .
 jnjbdvchvk.com CNAME .
 jnljkbkiaqcmb.com CNAME .
+jnmqym4.cn CNAME .
 jnnezwibrkwpz.com CNAME .
 jnnswtdifjgx.com CNAME .
 jnqbgmlapkkrsj.com CNAME .
@@ -26942,6 +26957,7 @@ ohkoexdr.com CNAME .
 ohleiludieje.info CNAME .
 ohlpmbbiw.bid CNAME .
 ohmcasting.com CNAME .
+ohmchoicechi.online CNAME .
 ohmvrqomsitr.com CNAME .
 ohmwrite.com CNAME .
 ohmyad.co CNAME .
@@ -28843,6 +28859,7 @@ plex2.com CNAME .
 plexop.net CNAME .
 plgalhmhkhzy.com CNAME .
 plgdhrvzsvxp.com CNAME .
+plgrrkpxnjrvac.com CNAME .
 plhielbsmvlm.com CNAME .
 plhvzqkkirw.com CNAME .
 plified.pro CNAME .
@@ -34262,6 +34279,7 @@ soibuuqqhuyo.com CNAME .
 soilebol.com CNAME .
 sokitosa.com CNAME .
 soknm.com CNAME .
+sokoyo-fq.com CNAME .
 sokrostream.tv CNAME .
 solanog.com CNAME .
 solapoka.com CNAME .
@@ -38256,6 +38274,7 @@ usermediaclick.ru CNAME .
 userstats.shopee.vn CNAME .
 usfmamdapvmfs.com CNAME .
 usfmwydo.com CNAME .
+ushooque.net CNAME .
 ushqvpdtwoecis.com CNAME .
 usimonat.com CNAME .
 usingde.com CNAME .
@@ -39751,6 +39770,7 @@ watson.telemetry.microsoft.com CNAME .
 wau.com.ua CNAME .
 waubasou.com CNAME .
 waucyeeziiiyul.com CNAME .
+waugeboa.net CNAME .
 wauthaum.com CNAME .
 wauzoust.com CNAME .
 wave525.com.ua CNAME .
@@ -61824,6 +61844,7 @@ ybhypt.com CNAME .
 ybjpvh.xyz CNAME .
 yblileapbnc.com CNAME .
 ybmdgyywbhk.com CNAME .
+ybmlwhhsuf.com CNAME .
 ybnuasihsy.com CNAME .
 ybofeikeckfxh.com CNAME .
 ybpxv.com CNAME .
@@ -62976,6 +62997,7 @@ zhkzt.com CNAME .
 zhlfogiy.com CNAME .
 zhlrcaahpuqh.com CNAME .
 zhmbxvmyk.com CNAME .
+zhongchengzp.com CNAME .
 zhongfujiaoyu.cn CNAME .
 zhongjiangguoji.org CNAME .
 zhongkaowu.com CNAME .

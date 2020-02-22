@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 22.02.2020
-# Total Domains - 5200
+# Total Domains - 5193
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1053,7 +1053,6 @@
 0.0.0.0 cortxphssdvc.com
 0.0.0.0 covjoecuzyss.com
 0.0.0.0 coxgtwdios.bid
-0.0.0.0 coye.minersbest.com
 0.0.0.0 coyhvotxgrnq.com
 0.0.0.0 cpdoalzgwnwf.com
 0.0.0.0 cpgiseaopbx.bid
@@ -3919,10 +3918,7 @@
 0.0.0.0 pool-proxy.com
 0.0.0.0 pool-ru.50btc.om
 0.0.0.0 pool.agrolifecoin.org
-0.0.0.0 pool.altcoinplex.com
 0.0.0.0 pool.ar-net.info
-0.0.0.0 pool.bit34.com
-0.0.0.0 pool.btcpoolman.com
 0.0.0.0 pool.cdy.one
 0.0.0.0 pool.chaucha.cl
 0.0.0.0 pool.coinlab.com
@@ -3933,7 +3929,6 @@
 0.0.0.0 pool.mn
 0.0.0.0 pool.no
 0.0.0.0 pool.pink
-0.0.0.0 pool.schaetter.us
 0.0.0.0 pool.se
 0.0.0.0 pool.sexy
 0.0.0.0 pool.stalwartbucks.com
@@ -4624,7 +4619,6 @@
 0.0.0.0 stratum.1ex.trade
 0.0.0.0 stratum.coinex.pw
 0.0.0.0 stratum.dogehouse.org
-0.0.0.0 stratum.hhtt.1209k.com
 0.0.0.0 stratum.skypool.ca
 0.0.0.0 stratum.wemineftc.com
 0.0.0.0 stratum2.dogehouse.org
@@ -5017,7 +5011,6 @@
 0.0.0.0 urp.best
 0.0.0.0 us.coinum.org
 0.0.0.0 us.ozco.in
-0.0.0.0 us.stratum.ltc.nushor.net
 0.0.0.0 usa-1.liteguardian.com
 0.0.0.0 usa-1b.liteguardian.com
 0.0.0.0 usa.liteguardian.com

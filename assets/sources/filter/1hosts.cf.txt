@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 22.02.2020
-# Total Domains - 59174
+# Total Domains - 59173
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -30832,7 +30832,6 @@
 0.0.0.0 m.teamsugar.com
 0.0.0.0 m.tidebuy.com
 0.0.0.0 m.track.ad.xiaomi.com
-0.0.0.0 m.trafficoffernetwork.com
 0.0.0.0 m.tstore.co.kr
 0.0.0.0 m.ucaii.com
 0.0.0.0 m.ucweb.com

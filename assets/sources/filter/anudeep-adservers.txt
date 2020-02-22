@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Last Converted - 22.02.2020
-# Total Domains - 20200
+# Total Domains - 20199
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -11670,7 +11670,6 @@
 0.0.0.0 m.skimresources.com
 0.0.0.0 m.track.ad.xiaomi.com
 0.0.0.0 m.trafficjunky.net
-0.0.0.0 m.trafficoffernetwork.com
 0.0.0.0 m.umeng.com
 0.0.0.0 m.v.fwmrm.net
 0.0.0.0 m1.fwmrm.net

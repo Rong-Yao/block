@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
 # Last Converted - 22.02.2020
-# Total Domains - 31583
+# Total Domains - 31581
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -27,7 +27,6 @@
 0.0.0.0 1.gmxnet.damoh.schneevonmorgen.com
 0.0.0.0 1.im.cz
 0.0.0.0 1.psfree.pay.clickbank.net
-0.0.0.0 1.ptp22.com
 0.0.0.0 10.ptp22.com
 0.0.0.0 100023.live173.com
 0.0.0.0 101order.com
@@ -69,7 +68,6 @@
 0.0.0.0 16.ptp22.com
 0.0.0.0 160tracker.com
 0.0.0.0 168.112.207.net
-0.0.0.0 17.ptp22.com
 0.0.0.0 172degrees.go2cloud.org
 0.0.0.0 17oez.voluumtrk.com
 0.0.0.0 1800inkfarm.go2cloud.org

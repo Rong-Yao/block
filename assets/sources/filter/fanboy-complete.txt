@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-complete.txt
 # Last Converted - 22.02.2020
-# Total Domains - 22481
+# Total Domains - 22509
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1646,6 +1646,7 @@
 0.0.0.0 adziff.com
 0.0.0.0 adzincome.in
 0.0.0.0 adzintext.com
+0.0.0.0 adziondin.club
 0.0.0.0 adzmaza.in
 0.0.0.0 adzmedia.com
 0.0.0.0 adzmob.com
@@ -2071,6 +2072,7 @@
 0.0.0.0 amobee.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amp.rd.linksynergy.com
+0.0.0.0 ampallall.site
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ampush.io
@@ -2491,6 +2493,7 @@
 0.0.0.0 asesuggedame.info
 0.0.0.0 ashaidart.site
 0.0.0.0 ashaidbit.club
+0.0.0.0 ashamparm.site
 0.0.0.0 ashchiasp.club
 0.0.0.0 ashemeth.com
 0.0.0.0 ashot.txxx.com
@@ -3458,6 +3461,7 @@
 0.0.0.0 botman.ninja
 0.0.0.0 botscanner.com
 0.0.0.0 botsvisit.com
+0.0.0.0 boubeeth.com
 0.0.0.0 boudja.com
 0.0.0.0 boudougu.com
 0.0.0.0 bounceexchange.com
@@ -3877,6 +3881,7 @@
 0.0.0.0 casino-zilla.com
 0.0.0.0 casino.betsson.com
 0.0.0.0 casinobonusdeal.com
+0.0.0.0 casinohacksforyou.com
 0.0.0.0 caspion.com
 0.0.0.0 caspionlog.appspot.com
 0.0.0.0 casterist.info
@@ -4258,6 +4263,7 @@
 0.0.0.0 clickboothlnk.com
 0.0.0.0 clickbrainiacs.com
 0.0.0.0 clickcash.com
+0.0.0.0 clickcdn.co
 0.0.0.0 clickcease.com
 0.0.0.0 clickcertain.com
 0.0.0.0 clickclick.net
@@ -5080,6 +5086,7 @@
 0.0.0.0 cyhcpeprgy.com
 0.0.0.0 cyjybkrmzstpid.com
 0.0.0.0 cymeeoolym.com
+0.0.0.0 cyneburg-yam.com
 0.0.0.0 cyqbtxpgarmc.com
 0.0.0.0 cytoclause.com
 0.0.0.0 cytpfucbb.com
@@ -5191,6 +5198,7 @@
 0.0.0.0 d22chwk8np.com
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
+0.0.0.0 d22z575k8abudv.cloudfront.net
 0.0.0.0 d23guct4biwna6.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23pi6hvdpcc5i.cloudfront.net
@@ -6264,6 +6272,7 @@
 0.0.0.0 eaffxhnzh.com
 0.0.0.0 eaffzvnyj.com
 0.0.0.0 eagleapi.io
+0.0.0.0 eaiatlexsotxbh.com
 0.0.0.0 eajmyphr.com
 0.0.0.0 eaknxurdsogwr.com
 0.0.0.0 eaolnbvd.com
@@ -6334,6 +6343,7 @@
 0.0.0.0 eca1d7792ad5de43.com
 0.0.0.0 ecdglplsmzxcergaqx.com
 0.0.0.0 ecezkkrm.com
+0.0.0.0 echoazou.com
 0.0.0.0 eclampsialemontree.net
 0.0.0.0 eclick.baidu.com
 0.0.0.0 eclick.vn
@@ -7257,6 +7267,7 @@
 0.0.0.0 fixcounter.com
 0.0.0.0 fixionmedia.com
 0.0.0.0 fixpass.net
+0.0.0.0 fixsirrod.site
 0.0.0.0 fjczvutpucr.com
 0.0.0.0 fjeqkpblfb.com
 0.0.0.0 fjmsdaswvhktht.com
@@ -7758,6 +7769,7 @@
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadsokz.com
 0.0.0.0 gaftaums.com
 0.0.0.0 gagacon.com
 0.0.0.0 gainmoneyfast.com
@@ -8160,6 +8172,7 @@
 0.0.0.0 goatoode.net
 0.0.0.0 gobaiwhe.net
 0.0.0.0 gobba.myeffect.net
+0.0.0.0 gobovoul.net
 0.0.0.0 goclick.info
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 godhat.com
@@ -8300,6 +8313,7 @@
 0.0.0.0 greensuy.net
 0.0.0.0 greerlies.pro
 0.0.0.0 greetpanda.info
+0.0.0.0 grementessenti.info
 0.0.0.0 grensauy.com
 0.0.0.0 grepdata.com
 0.0.0.0 grergoch.net
@@ -8827,6 +8841,7 @@
 0.0.0.0 home-soon.com
 0.0.0.0 homelycrown.com
 0.0.0.0 honouncil.com
+0.0.0.0 hontent.steamplay.me
 0.0.0.0 hoo1luha.com
 0.0.0.0 hoochoor.com
 0.0.0.0 hoood.info
@@ -8884,6 +8899,7 @@
 0.0.0.0 hottraffic.nl
 0.0.0.0 hotwords.com
 0.0.0.0 houchosi.net
+0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
 0.0.0.0 housopsi.net
 0.0.0.0 hover.in
@@ -9650,6 +9666,7 @@
 0.0.0.0 irfiysdcrnleu.com
 0.0.0.0 irgulzk8bi.com
 0.0.0.0 iridiumsergeiprogenitor.info
+0.0.0.0 irjfsrocuzwkpf.com
 0.0.0.0 irkgxjcgl.com
 0.0.0.0 irmctbwmhnyznx.com
 0.0.0.0 ironbeast.io
@@ -11982,6 +11999,7 @@
 0.0.0.0 mms.deadspin.com
 0.0.0.0 mms.expertreviews.co.uk
 0.0.0.0 mms.gizmodo.com
+0.0.0.0 mms.gocomics.com
 0.0.0.0 mms.graziadaily.co.uk
 0.0.0.0 mms.gulflive.com
 0.0.0.0 mms.jalopnik.com
@@ -12799,6 +12817,7 @@
 0.0.0.0 nlujbqmtgv.com
 0.0.0.0 nlwy0.com
 0.0.0.0 nlyqwlyykvjl.com
+0.0.0.0 nlzz7a3md4sx.com
 0.0.0.0 nmcdn.us
 0.0.0.0 nmdvagwi.com
 0.0.0.0 nmentthoutintellin.info
@@ -13289,6 +13308,7 @@
 0.0.0.0 ohleiludieje.info
 0.0.0.0 ohlpmbbiw.bid
 0.0.0.0 ohmcasting.com
+0.0.0.0 ohmchoicechi.online
 0.0.0.0 ohmvrqomsitr.com
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohmystats.com
@@ -13905,6 +13925,7 @@
 0.0.0.0 pacific-yield.com
 0.0.0.0 paclitor.com
 0.0.0.0 padsabz.com
+0.0.0.0 padsatz.com
 0.0.0.0 padsblue.com
 0.0.0.0 padsdel.com
 0.0.0.0 padsdelivery.com
@@ -14499,6 +14520,7 @@
 0.0.0.0 plexworks.de
 0.0.0.0 plgalhmhkhzy.com
 0.0.0.0 plgdhrvzsvxp.com
+0.0.0.0 plgrrkpxnjrvac.com
 0.0.0.0 plhielbsmvlm.com
 0.0.0.0 plhvzqkkirw.com
 0.0.0.0 plified.pro
@@ -16121,6 +16143,7 @@
 0.0.0.0 redappeneticfr.info
 0.0.0.0 redcounter.net
 0.0.0.0 redcourtside.com
+0.0.0.0 redewdit.pro
 0.0.0.0 redintelligence.net
 0.0.0.0 redirect18systemsg.com
 0.0.0.0 redirect2719.ws
@@ -20026,6 +20049,7 @@
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 userzoom.com
 0.0.0.0 usfmamdapvmfs.com
+0.0.0.0 ushooque.net
 0.0.0.0 usjguyybhhtjos.com
 0.0.0.0 uslycoloursewo.info
 0.0.0.0 usrvgxowmn.com
@@ -20701,6 +20725,7 @@
 0.0.0.0 waframedia9.com
 0.0.0.0 wagershare.com
 0.0.0.0 wagoapse.com
+0.0.0.0 wahamtou.net
 0.0.0.0 wahoha.com
 0.0.0.0 wainveredspar.info
 0.0.0.0 waitingpresen.info
@@ -20742,6 +20767,7 @@
 0.0.0.0 watersoul.com
 0.0.0.0 waucyeeziiiyul.com
 0.0.0.0 waudit.cz
+0.0.0.0 waugeboa.net
 0.0.0.0 waust.at
 0.0.0.0 wauthaum.com
 0.0.0.0 wauzoust.com
@@ -20969,6 +20995,7 @@
 0.0.0.0 whatseet.net
 0.0.0.0 whautsel.net
 0.0.0.0 whdzxabhqsdnlc.com
+0.0.0.0 wheessoo.com
 0.0.0.0 whefungu.com
 0.0.0.0 whegrads.com
 0.0.0.0 wheptoot.net
@@ -21726,6 +21753,7 @@
 0.0.0.0 ybgnyxinr.com
 0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 yblileapbnc.com
+0.0.0.0 ybmlwhhsuf.com
 0.0.0.0 ybotvisit.com
 0.0.0.0 ybqqjrjf.com
 0.0.0.0 ybwpvenix.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 22.02.2020
-# Total Domains - 18427
+# Total Domains - 18444
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1581,6 +1581,7 @@
 0.0.0.0 adziff.com
 0.0.0.0 adzincome.in
 0.0.0.0 adzintext.com
+0.0.0.0 adziondin.club
 0.0.0.0 adzmaza.in
 0.0.0.0 adzmedia.com
 0.0.0.0 adzmob.com
@@ -1955,6 +1956,7 @@
 0.0.0.0 amliands.info
 0.0.0.0 amobee.com
 0.0.0.0 amp.rd.linksynergy.com
+0.0.0.0 ampallall.site
 0.0.0.0 amparcaim.club
 0.0.0.0 ampxchange.com
 0.0.0.0 amrfscxvdvfvpa.com
@@ -2968,6 +2970,7 @@
 0.0.0.0 borsendental.com
 0.0.0.0 bostonwall.com
 0.0.0.0 botiviga.com
+0.0.0.0 boubeeth.com
 0.0.0.0 boudja.com
 0.0.0.0 boudougu.com
 0.0.0.0 boursnormaticm.info
@@ -3321,6 +3324,7 @@
 0.0.0.0 casino-zilla.com
 0.0.0.0 casino.betsson.com
 0.0.0.0 casinobonusdeal.com
+0.0.0.0 casinohacksforyou.com
 0.0.0.0 caspion.com
 0.0.0.0 casterist.info
 0.0.0.0 casterpretic.com
@@ -3659,6 +3663,7 @@
 0.0.0.0 clickbooth.com
 0.0.0.0 clickboothlnk.com
 0.0.0.0 clickcash.com
+0.0.0.0 clickcdn.co
 0.0.0.0 clickcertain.com
 0.0.0.0 clickequations.net
 0.0.0.0 clickercollections.com
@@ -4142,6 +4147,7 @@
 0.0.0.0 cyhcpeprgy.com
 0.0.0.0 cyjybkrmzstpid.com
 0.0.0.0 cymeeoolym.com
+0.0.0.0 cyneburg-yam.com
 0.0.0.0 cyqbtxpgarmc.com
 0.0.0.0 cytpfucbb.com
 0.0.0.0 cyvnsdsygkpqvz.com
@@ -4248,6 +4254,7 @@
 0.0.0.0 d22chwk8np.com
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d22sfab2t5o9bq.cloudfront.net
+0.0.0.0 d22z575k8abudv.cloudfront.net
 0.0.0.0 d23guct4biwna6.cloudfront.net
 0.0.0.0 d240937yockcdo.cloudfront.net
 0.0.0.0 d25dfknw9ghxs6.cloudfront.net
@@ -5162,6 +5169,7 @@
 0.0.0.0 eaffxhnzh.com
 0.0.0.0 eaffzvnyj.com
 0.0.0.0 eagleapi.io
+0.0.0.0 eaiatlexsotxbh.com
 0.0.0.0 eajmyphr.com
 0.0.0.0 eaknxurdsogwr.com
 0.0.0.0 eaolnbvd.com
@@ -6785,6 +6793,7 @@
 0.0.0.0 greetham.net
 0.0.0.0 greetpanda.info
 0.0.0.0 gregnobs.com
+0.0.0.0 grementessenti.info
 0.0.0.0 grensauy.com
 0.0.0.0 grergoch.net
 0.0.0.0 gresokie.com
@@ -7236,6 +7245,7 @@
 0.0.0.0 home-soon.com
 0.0.0.0 hongjiujiaoyi.com
 0.0.0.0 honouncil.com
+0.0.0.0 hontent.steamplay.me
 0.0.0.0 hoo1luha.com
 0.0.0.0 hoochoor.com
 0.0.0.0 hoohavoa.com
@@ -7283,6 +7293,7 @@
 0.0.0.0 hottraffic.net
 0.0.0.0 hotwords.com
 0.0.0.0 houchosi.net
+0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
 0.0.0.0 housineschard.info
 0.0.0.0 housopsi.net
@@ -7900,6 +7911,7 @@
 0.0.0.0 irfiysdcrnleu.com
 0.0.0.0 irgulzk8bi.com
 0.0.0.0 iridiumsergeiprogenitor.info
+0.0.0.0 irjfsrocuzwkpf.com
 0.0.0.0 irkgxjcgl.com
 0.0.0.0 irmctbwmhnyznx.com
 0.0.0.0 irpaknbwgif.com
@@ -11052,6 +11064,7 @@
 0.0.0.0 ohleiludieje.info
 0.0.0.0 ohlpmbbiw.bid
 0.0.0.0 ohmcasting.com
+0.0.0.0 ohmchoicechi.online
 0.0.0.0 ohmvrqomsitr.com
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohnohaijfq.com
@@ -12068,6 +12081,7 @@
 0.0.0.0 plexop.net
 0.0.0.0 plgalhmhkhzy.com
 0.0.0.0 plgdhrvzsvxp.com
+0.0.0.0 plgrrkpxnjrvac.com
 0.0.0.0 plhielbsmvlm.com
 0.0.0.0 plhvzqkkirw.com
 0.0.0.0 plified.pro
@@ -16197,6 +16211,7 @@
 0.0.0.0 usenetxs.space
 0.0.0.0 usercash.com
 0.0.0.0 usfmamdapvmfs.com
+0.0.0.0 ushooque.net
 0.0.0.0 usjguyybhhtjos.com
 0.0.0.0 uslycoloursewo.info
 0.0.0.0 usrvgxowmn.com
@@ -16826,6 +16841,7 @@
 0.0.0.0 watrz.com
 0.0.0.0 waubasou.com
 0.0.0.0 waucyeeziiiyul.com
+0.0.0.0 waugeboa.net
 0.0.0.0 wauthaum.com
 0.0.0.0 wauzoust.com
 0.0.0.0 waveview.info
@@ -17679,6 +17695,7 @@
 0.0.0.0 ybgnyxinr.com
 0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 yblileapbnc.com
+0.0.0.0 ybmlwhhsuf.com
 0.0.0.0 ybqqjrjf.com
 0.0.0.0 ybwpvenix.com
 0.0.0.0 ybxhjlqurdq.com

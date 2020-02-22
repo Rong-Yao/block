@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.053
 # Release: 053
-# Entries: 61,176
+# Entries: 61,200
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 12:09:58
+# Updated: Sat, 22 Feb 20 18:10:18
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -6703,6 +6703,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adziff.com
 0.0.0.0 adzincome.in
 0.0.0.0 adzintext.com
+0.0.0.0 adziondin.club
 0.0.0.0 adzip.s3.amazonaws.com
 0.0.0.0 adzmaza.in
 0.0.0.0 adzmedia.com
@@ -12178,6 +12179,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bottle-brush.tagboard.com.herokudns.com
 0.0.0.0 bottlecapspool.com
 0.0.0.0 bottleguy.com
+0.0.0.0 boubeeth.com
 0.0.0.0 boudinotassociates.com
 0.0.0.0 boudja.com
 0.0.0.0 boudougu.com
@@ -13385,6 +13387,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 casino-zilla.com
 0.0.0.0 casino770.com
 0.0.0.0 casinogames.com
+0.0.0.0 casinohacksforyou.com
 0.0.0.0 casinopays.com
 0.0.0.0 casinoportugal.pt
 0.0.0.0 casinorewards.com
@@ -14973,6 +14976,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickbux.ru
 0.0.0.0 clickc.admaster.com.cn
 0.0.0.0 clickcash.com
+0.0.0.0 clickcdn.co
 0.0.0.0 clickcdn.shareaholic.com
 0.0.0.0 clickcertain.com
 0.0.0.0 clickcompare.co.uk
@@ -19709,6 +19713,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eagleapi.io
 0.0.0.0 eaglemiles.112.2o7.net
 0.0.0.0 eahkxyuezqvx.com
+0.0.0.0 eaiatlexsotxbh.com
 0.0.0.0 eaidabmuxbqy.com
 0.0.0.0 eajmyphr.com
 0.0.0.0 eaknxurdsogwr.com
@@ -19840,6 +19845,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecezkkrm.com
 0.0.0.0 ecgajcijcbgiibdgach.ru
 0.0.0.0 echoa.randbinternationaltravel.com
+0.0.0.0 echoazou.com
 0.0.0.0 echofonads.appspot.com
 0.0.0.0 echoserver.production.infolinks.com
 0.0.0.0 ecircle-ag.com
@@ -21938,6 +21944,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fixionmedia.com
 0.0.0.0 fixnow.us
 0.0.0.0 fixpass.net
+0.0.0.0 fixsirrod.site
 0.0.0.0 fizzylabs.afftrack.com
 0.0.0.0 fjallravenkankenmochilas.com.es
 0.0.0.0 fjallravenpack.com
@@ -23953,6 +23960,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gobeerta.net
 0.0.0.0 gobijnwbyri.com
 0.0.0.0 gobljmgamwfjrc.bid
+0.0.0.0 gobovoul.net
 0.0.0.0 gocarrot.com
 0.0.0.0 gocdn.ru
 0.0.0.0 goclick.com
@@ -24322,6 +24330,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 greetzebra.com
 0.0.0.0 greev.randbinternationaltravel.com
 0.0.0.0 gregnobs.com
+0.0.0.0 grementessenti.info
 0.0.0.0 gremimedia.pl
 0.0.0.0 gremiperruqueries.es
 0.0.0.0 grensauy.com
@@ -25582,6 +25591,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hotstats.roxr.net.re.getclicky.com
 0.0.0.0 hotwords.com
 0.0.0.0 houchosi.net
+0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
 0.0.0.0 house.addapptr.com
 0.0.0.0 housead.umeng.com
@@ -27897,6 +27907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 irfiysdcrnleu.com
 0.0.0.0 irgulzk8bi.com
 0.0.0.0 iris.adtdp.com
+0.0.0.0 irjfsrocuzwkpf.com
 0.0.0.0 irkgxjcgl.com
 0.0.0.0 irmctbwmhnyznx.com
 0.0.0.0 iroko.gocarrot.com
@@ -35319,6 +35330,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nlujbqmtgv.com
 0.0.0.0 nlwy0.com
 0.0.0.0 nlyqwlyykvjl.com
+0.0.0.0 nlzz7a3md4sx.com
 0.0.0.0 nm.brainlyads.com
 0.0.0.0 nm.eqads.com
 0.0.0.0 nmanchorage.112.2o7.net
@@ -36387,6 +36399,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ohleiludieje.info
 0.0.0.0 ohlpmbbiw.bid
 0.0.0.0 ohmcasting.com
+0.0.0.0 ohmchoicechi.online
 0.0.0.0 ohmvrqomsitr.com
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohmydating.com
@@ -37881,6 +37894,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pad-v3.prod.cloud.ogury.io
 0.0.0.0 pads.cdnads.com
 0.0.0.0 padsabz.com
+0.0.0.0 padsatz.com
 0.0.0.0 padsblue.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsdel.com
@@ -39411,6 +39425,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plg2.yumenetworks.com
 0.0.0.0 plgalhmhkhzy.com
 0.0.0.0 plgdhrvzsvxp.com
+0.0.0.0 plgrrkpxnjrvac.com
 0.0.0.0 plgxy.bemobtrk.com
 0.0.0.0 plhielbsmvlm.com
 0.0.0.0 plhvzqkkirw.com
@@ -40761,6 +40776,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 punlkhusprgw.com
 0.0.0.0 punosy.top
 0.0.0.0 punto-printer.com
+0.0.0.0 puntoenun.site
 0.0.0.0 punvqjsvnmubxb.com
 0.0.0.0 puogotzrsvtg.com
 0.0.0.0 pups.baidu.com
@@ -41722,6 +41738,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qxekuavasuzgfc.com
 0.0.0.0 qxfzgftkfgukkp.com
 0.0.0.0 qxgoedqwr.bid
+0.0.0.0 qxlohjsxaaq.com
 0.0.0.0 qxmecqgzrgdh.com
 0.0.0.0 qxnniyuuaxhv.com
 0.0.0.0 qxphrauujms.com
@@ -42265,6 +42282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 redense.com
 0.0.0.0 redentiatowel.info
 0.0.0.0 redentofketheg.pro
+0.0.0.0 redewdit.pro
 0.0.0.0 redhat.demdex.net
 0.0.0.0 redhat.sc.omtrdc.net
 0.0.0.0 redhotchilli.co.uk
@@ -53026,6 +53044,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 usfmamdapvmfs.com
 0.0.0.0 usfmwydo.com
 0.0.0.0 ush.adspecs.yahoo.com
+0.0.0.0 ushooque.net
 0.0.0.0 ushub.awin.com
 0.0.0.0 usinesmycete.info
 0.0.0.0 usjguyybhhtjos.com
@@ -53862,6 +53881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vidutils.taboola.com
 0.0.0.0 vidvrzcdn.taboola.com
 0.0.0.0 vidzi.tv
+0.0.0.0 viebitgreasy.email
 0.0.0.0 vietbuzzad.com
 0.0.0.0 view-ads.de
 0.0.0.0 view.adhoc2.net
@@ -54485,6 +54505,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wagoapse.com
 0.0.0.0 wahacondrax.iad-03.braze.com
 0.0.0.0 wahaha.work
+0.0.0.0 wahamtou.net
 0.0.0.0 wahoha.com
 0.0.0.0 waiads.com
 0.0.0.0 wainveredspar.info
@@ -54592,6 +54613,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 waubasou.com
 0.0.0.0 waucyeeziiiyul.com
 0.0.0.0 waudeesestew.com
+0.0.0.0 waugeboa.net
 0.0.0.0 waust.at
 0.0.0.0 wauthaum.com
 0.0.0.0 wauzoust.com
@@ -54999,6 +55021,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whautsel.net
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheelches.info
+0.0.0.0 wheessoo.com
 0.0.0.0 whefungu.com
 0.0.0.0 whegadry.com
 0.0.0.0 whegrads.com
@@ -60109,6 +60132,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ybhgzvkqtocedj.com
 0.0.0.0 ybhssnaemxyer.cinci.rr.com
 0.0.0.0 yblileapbnc.com
+0.0.0.0 ybmlwhhsuf.com
 0.0.0.0 ybnuasihsy.com
 0.0.0.0 ybofeikeckfxh.com
 0.0.0.0 ybqqjrjf.com

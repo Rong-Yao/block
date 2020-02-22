@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.053
 # Release: 053
-# Entries: 63,468
+# Entries: 63,490
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 12:13:45
+# Updated: Sat, 22 Feb 20 18:14:08
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -407,6 +407,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 12jf3.cn
 0.0.0.0 12l22.net
 0.0.0.0 12place.com
+0.0.0.0 12rge.xyz
 0.0.0.0 12rng.cn
 0.0.0.0 1314sss.top
 0.0.0.0 13190546cd1dec9bbdc.com
@@ -4550,6 +4551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adziff.com
 0.0.0.0 adzincome.in
 0.0.0.0 adzintext.com
+0.0.0.0 adziondin.club
 0.0.0.0 adziran.gq
 0.0.0.0 adzmath.com
 0.0.0.0 adzmaza.in
@@ -5359,6 +5361,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 amobi.vn
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amp.rd.linksynergy.com
+0.0.0.0 ampallall.site
 0.0.0.0 amparcaim.club
 0.0.0.0 ampburask.site
 0.0.0.0 ampclicks.com
@@ -7037,6 +7040,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdbdqnxkdb.com
 0.0.0.0 bdbdqqxkdb.com
 0.0.0.0 bdbdqsxkdb.com
+0.0.0.0 bdbdqxdkdb.com
 0.0.0.0 bdcm.kandianla.com
 0.0.0.0 bdcode.2345.com
 0.0.0.0 bdcode.35d1.com
@@ -7972,6 +7976,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 botiviga.com
 0.0.0.0 botkano.info
 0.0.0.0 bottleguy.com
+0.0.0.0 boubeeth.com
 0.0.0.0 boudja.com
 0.0.0.0 boudougu.com
 0.0.0.0 bouldrethedti.info
@@ -8768,6 +8773,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 casinobonusdeal.com
 0.0.0.0 casinoclubpoker.com
 0.0.0.0 casinoha.ru
+0.0.0.0 casinohacksforyou.com
 0.0.0.0 casinopokercoin.com
 0.0.0.0 caspion.com
 0.0.0.0 cassini.efigence.com
@@ -9660,6 +9666,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickbux.ru
 0.0.0.0 clickcash.com
 0.0.0.0 clickcashmoney.com
+0.0.0.0 clickcdn.co
 0.0.0.0 clickcertain.com
 0.0.0.0 clickcoin.com
 0.0.0.0 clickconvert.ru
@@ -10889,6 +10896,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cykahax.net
 0.0.0.0 cylinderlongcheng.com
 0.0.0.0 cymeeoolym.com
+0.0.0.0 cyneburg-yam.com
 0.0.0.0 cyonix.to
 0.0.0.0 cyqbtxpgarmc.com
 0.0.0.0 cyssfnqt.com
@@ -11126,6 +11134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d22chwk8np.com
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d22sfab2t5o9bq.cloudfront.net
+0.0.0.0 d22z575k8abudv.cloudfront.net
 0.0.0.0 d239g0z67jcted.cloudfront.net
 0.0.0.0 d23guct4biwna6.cloudfront.net
 0.0.0.0 d23rdjhd16xqjq.cloudfront.net
@@ -13207,6 +13216,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eagleapi.io
 0.0.0.0 eaglepro.net
 0.0.0.0 eahkxyuezqvx.com
+0.0.0.0 eaiatlexsotxbh.com
 0.0.0.0 eajmyphr.com
 0.0.0.0 eaknxurdsogwr.com
 0.0.0.0 eaolnbvd.com
@@ -16880,6 +16890,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 greetpanda.info
 0.0.0.0 gregnobs.com
 0.0.0.0 grekaser.space
+0.0.0.0 grementessenti.info
 0.0.0.0 grenka.date
 0.0.0.0 grensauy.com
 0.0.0.0 grergoch.net
@@ -17991,6 +18002,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hongtefm.com
 0.0.0.0 hongyangbg.com
 0.0.0.0 honouncil.com
+0.0.0.0 hontent.steamplay.me
 0.0.0.0 hoo1luha.com
 0.0.0.0 hoochoor.com
 0.0.0.0 hood.ninja
@@ -18087,6 +18099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 houdaolj.com
 0.0.0.0 houdini.haaretz.co.il
 0.0.0.0 houmekredit.ru
+0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
 0.0.0.0 house-rent.us
 0.0.0.0 houseads-prod.elasticbeanstalk.com
@@ -19515,6 +19528,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 irgreen.ml
 0.0.0.0 irgulzk8bi.com
 0.0.0.0 iridiumsergeiprogenitor.info
+0.0.0.0 irjfsrocuzwkpf.com
 0.0.0.0 irjo.ga
 0.0.0.0 irkgxjcgl.com
 0.0.0.0 irkuj.com
@@ -20238,6 +20252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jnhmeywrl.com
 0.0.0.0 jnjbdvchvk.com
 0.0.0.0 jnljkbkiaqcmb.com
+0.0.0.0 jnmqym4.cn
 0.0.0.0 jnnezwibrkwpz.com
 0.0.0.0 jnnswtdifjgx.com
 0.0.0.0 jnqbgmlapkkrsj.com
@@ -26953,6 +26968,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ohleiludieje.info
 0.0.0.0 ohlpmbbiw.bid
 0.0.0.0 ohmcasting.com
+0.0.0.0 ohmchoicechi.online
 0.0.0.0 ohmvrqomsitr.com
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohmyad.co
@@ -28854,6 +28870,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plexop.net
 0.0.0.0 plgalhmhkhzy.com
 0.0.0.0 plgdhrvzsvxp.com
+0.0.0.0 plgrrkpxnjrvac.com
 0.0.0.0 plhielbsmvlm.com
 0.0.0.0 plhvzqkkirw.com
 0.0.0.0 plified.pro
@@ -34273,6 +34290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 soilebol.com
 0.0.0.0 sokitosa.com
 0.0.0.0 soknm.com
+0.0.0.0 sokoyo-fq.com
 0.0.0.0 sokrostream.tv
 0.0.0.0 solanog.com
 0.0.0.0 solapoka.com
@@ -38267,6 +38285,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 usfmamdapvmfs.com
 0.0.0.0 usfmwydo.com
+0.0.0.0 ushooque.net
 0.0.0.0 ushqvpdtwoecis.com
 0.0.0.0 usimonat.com
 0.0.0.0 usingde.com
@@ -39762,6 +39781,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wau.com.ua
 0.0.0.0 waubasou.com
 0.0.0.0 waucyeeziiiyul.com
+0.0.0.0 waugeboa.net
 0.0.0.0 wauthaum.com
 0.0.0.0 wauzoust.com
 0.0.0.0 wave525.com.ua
@@ -61835,6 +61855,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ybjpvh.xyz
 0.0.0.0 yblileapbnc.com
 0.0.0.0 ybmdgyywbhk.com
+0.0.0.0 ybmlwhhsuf.com
 0.0.0.0 ybnuasihsy.com
 0.0.0.0 ybofeikeckfxh.com
 0.0.0.0 ybpxv.com
@@ -62987,6 +63008,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zhlfogiy.com
 0.0.0.0 zhlrcaahpuqh.com
 0.0.0.0 zhmbxvmyk.com
+0.0.0.0 zhongchengzp.com
 0.0.0.0 zhongfujiaoyu.cn
 0.0.0.0 zhongjiangguoji.org
 0.0.0.0 zhongkaowu.com

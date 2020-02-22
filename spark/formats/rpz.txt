@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.053
 ; Release: 053
-; Entries: 61,176
+; Entries: 61,200
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 22 Feb 20 12:09:58
+; Updated: Sat, 22 Feb 20 18:10:18
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6692,6 +6692,7 @@ adzhub.com CNAME .
 adziff.com CNAME .
 adzincome.in CNAME .
 adzintext.com CNAME .
+adziondin.club CNAME .
 adzip.s3.amazonaws.com CNAME .
 adzmaza.in CNAME .
 adzmedia.com CNAME .
@@ -12167,6 +12168,7 @@ botkano.info CNAME .
 bottle-brush.tagboard.com.herokudns.com CNAME .
 bottlecapspool.com CNAME .
 bottleguy.com CNAME .
+boubeeth.com CNAME .
 boudinotassociates.com CNAME .
 boudja.com CNAME .
 boudougu.com CNAME .
@@ -13374,6 +13376,7 @@ casino-ad-mediation.me2zengame.com CNAME .
 casino-zilla.com CNAME .
 casino770.com CNAME .
 casinogames.com CNAME .
+casinohacksforyou.com CNAME .
 casinopays.com CNAME .
 casinoportugal.pt CNAME .
 casinorewards.com CNAME .
@@ -14962,6 +14965,7 @@ clickbrokers.com CNAME .
 clickbux.ru CNAME .
 clickc.admaster.com.cn CNAME .
 clickcash.com CNAME .
+clickcdn.co CNAME .
 clickcdn.shareaholic.com CNAME .
 clickcertain.com CNAME .
 clickcompare.co.uk CNAME .
@@ -19698,6 +19702,7 @@ eagamesuk.112.2o7.net CNAME .
 eagleapi.io CNAME .
 eaglemiles.112.2o7.net CNAME .
 eahkxyuezqvx.com CNAME .
+eaiatlexsotxbh.com CNAME .
 eaidabmuxbqy.com CNAME .
 eajmyphr.com CNAME .
 eaknxurdsogwr.com CNAME .
@@ -19829,6 +19834,7 @@ ecdtrk.com CNAME .
 ecezkkrm.com CNAME .
 ecgajcijcbgiibdgach.ru CNAME .
 echoa.randbinternationaltravel.com CNAME .
+echoazou.com CNAME .
 echofonads.appspot.com CNAME .
 echoserver.production.infolinks.com CNAME .
 ecircle-ag.com CNAME .
@@ -21927,6 +21933,7 @@ fixerinst.com CNAME .
 fixionmedia.com CNAME .
 fixnow.us CNAME .
 fixpass.net CNAME .
+fixsirrod.site CNAME .
 fizzylabs.afftrack.com CNAME .
 fjallravenkankenmochilas.com.es CNAME .
 fjallravenpack.com CNAME .
@@ -23942,6 +23949,7 @@ gobba.myeffect.net CNAME .
 gobeerta.net CNAME .
 gobijnwbyri.com CNAME .
 gobljmgamwfjrc.bid CNAME .
+gobovoul.net CNAME .
 gocarrot.com CNAME .
 gocdn.ru CNAME .
 goclick.com CNAME .
@@ -24311,6 +24319,7 @@ greetpanda.info CNAME .
 greetzebra.com CNAME .
 greev.randbinternationaltravel.com CNAME .
 gregnobs.com CNAME .
+grementessenti.info CNAME .
 gremimedia.pl CNAME .
 gremiperruqueries.es CNAME .
 grensauy.com CNAME .
@@ -25571,6 +25580,7 @@ hotspot.cz CNAME .
 hotstats.roxr.net.re.getclicky.com CNAME .
 hotwords.com CNAME .
 houchosi.net CNAME .
+hounicuy.com CNAME .
 hourakob.net CNAME .
 house.addapptr.com CNAME .
 housead.umeng.com CNAME .
@@ -27886,6 +27896,7 @@ ireklama.mk CNAME .
 irfiysdcrnleu.com CNAME .
 irgulzk8bi.com CNAME .
 iris.adtdp.com CNAME .
+irjfsrocuzwkpf.com CNAME .
 irkgxjcgl.com CNAME .
 irmctbwmhnyznx.com CNAME .
 iroko.gocarrot.com CNAME .
@@ -35308,6 +35319,7 @@ nltzieywjkfb.com CNAME .
 nlujbqmtgv.com CNAME .
 nlwy0.com CNAME .
 nlyqwlyykvjl.com CNAME .
+nlzz7a3md4sx.com CNAME .
 nm.brainlyads.com CNAME .
 nm.eqads.com CNAME .
 nmanchorage.112.2o7.net CNAME .
@@ -36376,6 +36388,7 @@ ohkoexdr.com CNAME .
 ohleiludieje.info CNAME .
 ohlpmbbiw.bid CNAME .
 ohmcasting.com CNAME .
+ohmchoicechi.online CNAME .
 ohmvrqomsitr.com CNAME .
 ohmwrite.com CNAME .
 ohmydating.com CNAME .
@@ -37870,6 +37883,7 @@ pact.thecon.com CNAME .
 pad-v3.prod.cloud.ogury.io CNAME .
 pads.cdnads.com CNAME .
 padsabz.com CNAME .
+padsatz.com CNAME .
 padsblue.com CNAME .
 padsbrown.com CNAME .
 padsdel.com CNAME .
@@ -39400,6 +39414,7 @@ plg2.ha1.yumenetworks.com CNAME .
 plg2.yumenetworks.com CNAME .
 plgalhmhkhzy.com CNAME .
 plgdhrvzsvxp.com CNAME .
+plgrrkpxnjrvac.com CNAME .
 plgxy.bemobtrk.com CNAME .
 plhielbsmvlm.com CNAME .
 plhvzqkkirw.com CNAME .
@@ -40750,6 +40765,7 @@ punfbtrcvfdxl.com CNAME .
 punlkhusprgw.com CNAME .
 punosy.top CNAME .
 punto-printer.com CNAME .
+puntoenun.site CNAME .
 punvqjsvnmubxb.com CNAME .
 puogotzrsvtg.com CNAME .
 pups.baidu.com CNAME .
@@ -41711,6 +41727,7 @@ qxdmmuwiz.bid CNAME .
 qxekuavasuzgfc.com CNAME .
 qxfzgftkfgukkp.com CNAME .
 qxgoedqwr.bid CNAME .
+qxlohjsxaaq.com CNAME .
 qxmecqgzrgdh.com CNAME .
 qxnniyuuaxhv.com CNAME .
 qxphrauujms.com CNAME .
@@ -42254,6 +42271,7 @@ redemptionengine.com CNAME .
 redense.com CNAME .
 redentiatowel.info CNAME .
 redentofketheg.pro CNAME .
+redewdit.pro CNAME .
 redhat.demdex.net CNAME .
 redhat.sc.omtrdc.net CNAME .
 redhotchilli.co.uk CNAME .
@@ -53015,6 +53033,7 @@ usevideo.adsrvr.org CNAME .
 usfmamdapvmfs.com CNAME .
 usfmwydo.com CNAME .
 ush.adspecs.yahoo.com CNAME .
+ushooque.net CNAME .
 ushub.awin.com CNAME .
 usinesmycete.info CNAME .
 usjguyybhhtjos.com CNAME .
@@ -53851,6 +53870,7 @@ vidtodo.pro CNAME .
 vidutils.taboola.com CNAME .
 vidvrzcdn.taboola.com CNAME .
 vidzi.tv CNAME .
+viebitgreasy.email CNAME .
 vietbuzzad.com CNAME .
 view-ads.de CNAME .
 view.adhoc2.net CNAME .
@@ -54474,6 +54494,7 @@ wagershare.com CNAME .
 wagoapse.com CNAME .
 wahacondrax.iad-03.braze.com CNAME .
 wahaha.work CNAME .
+wahamtou.net CNAME .
 wahoha.com CNAME .
 waiads.com CNAME .
 wainveredspar.info CNAME .
@@ -54581,6 +54602,7 @@ wau.tynt.com CNAME .
 waubasou.com CNAME .
 waucyeeziiiyul.com CNAME .
 waudeesestew.com CNAME .
+waugeboa.net CNAME .
 waust.at CNAME .
 wauthaum.com CNAME .
 wauzoust.com CNAME .
@@ -54988,6 +55010,7 @@ whatshelp.io CNAME .
 whautsel.net CNAME .
 whdzxabhqsdnlc.com CNAME .
 wheelches.info CNAME .
+wheessoo.com CNAME .
 whefungu.com CNAME .
 whegadry.com CNAME .
 whegrads.com CNAME .
@@ -60098,6 +60121,7 @@ ybgnyxinr.com CNAME .
 ybhgzvkqtocedj.com CNAME .
 ybhssnaemxyer.cinci.rr.com CNAME .
 yblileapbnc.com CNAME .
+ybmlwhhsuf.com CNAME .
 ybnuasihsy.com CNAME .
 ybofeikeckfxh.com CNAME .
 ybqqjrjf.com CNAME .

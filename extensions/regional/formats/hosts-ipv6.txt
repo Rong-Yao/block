@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.053
 # Release: 053
-# Entries: 63,468
+# Entries: 63,490
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 12:13:45
+# Updated: Sat, 22 Feb 20 18:14:08
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -407,6 +407,7 @@ ff02::3 ip6-allhosts
 :: 12jf3.cn
 :: 12l22.net
 :: 12place.com
+:: 12rge.xyz
 :: 12rng.cn
 :: 1314sss.top
 :: 13190546cd1dec9bbdc.com
@@ -4550,6 +4551,7 @@ ff02::3 ip6-allhosts
 :: adziff.com
 :: adzincome.in
 :: adzintext.com
+:: adziondin.club
 :: adziran.gq
 :: adzmath.com
 :: adzmaza.in
@@ -5359,6 +5361,7 @@ ff02::3 ip6-allhosts
 :: amobi.vn
 :: amp-error-reporting.appspot.com
 :: amp.rd.linksynergy.com
+:: ampallall.site
 :: amparcaim.club
 :: ampburask.site
 :: ampclicks.com
@@ -7037,6 +7040,7 @@ ff02::3 ip6-allhosts
 :: bdbdqnxkdb.com
 :: bdbdqqxkdb.com
 :: bdbdqsxkdb.com
+:: bdbdqxdkdb.com
 :: bdcm.kandianla.com
 :: bdcode.2345.com
 :: bdcode.35d1.com
@@ -7972,6 +7976,7 @@ ff02::3 ip6-allhosts
 :: botiviga.com
 :: botkano.info
 :: bottleguy.com
+:: boubeeth.com
 :: boudja.com
 :: boudougu.com
 :: bouldrethedti.info
@@ -8768,6 +8773,7 @@ ff02::3 ip6-allhosts
 :: casinobonusdeal.com
 :: casinoclubpoker.com
 :: casinoha.ru
+:: casinohacksforyou.com
 :: casinopokercoin.com
 :: caspion.com
 :: cassini.efigence.com
@@ -9660,6 +9666,7 @@ ff02::3 ip6-allhosts
 :: clickbux.ru
 :: clickcash.com
 :: clickcashmoney.com
+:: clickcdn.co
 :: clickcertain.com
 :: clickcoin.com
 :: clickconvert.ru
@@ -10889,6 +10896,7 @@ ff02::3 ip6-allhosts
 :: cykahax.net
 :: cylinderlongcheng.com
 :: cymeeoolym.com
+:: cyneburg-yam.com
 :: cyonix.to
 :: cyqbtxpgarmc.com
 :: cyssfnqt.com
@@ -11126,6 +11134,7 @@ ff02::3 ip6-allhosts
 :: d22chwk8np.com
 :: d22lo5bcpq2fif.cloudfront.net
 :: d22sfab2t5o9bq.cloudfront.net
+:: d22z575k8abudv.cloudfront.net
 :: d239g0z67jcted.cloudfront.net
 :: d23guct4biwna6.cloudfront.net
 :: d23rdjhd16xqjq.cloudfront.net
@@ -13207,6 +13216,7 @@ ff02::3 ip6-allhosts
 :: eagleapi.io
 :: eaglepro.net
 :: eahkxyuezqvx.com
+:: eaiatlexsotxbh.com
 :: eajmyphr.com
 :: eaknxurdsogwr.com
 :: eaolnbvd.com
@@ -16880,6 +16890,7 @@ ff02::3 ip6-allhosts
 :: greetpanda.info
 :: gregnobs.com
 :: grekaser.space
+:: grementessenti.info
 :: grenka.date
 :: grensauy.com
 :: grergoch.net
@@ -17991,6 +18002,7 @@ ff02::3 ip6-allhosts
 :: hongtefm.com
 :: hongyangbg.com
 :: honouncil.com
+:: hontent.steamplay.me
 :: hoo1luha.com
 :: hoochoor.com
 :: hood.ninja
@@ -18087,6 +18099,7 @@ ff02::3 ip6-allhosts
 :: houdaolj.com
 :: houdini.haaretz.co.il
 :: houmekredit.ru
+:: hounicuy.com
 :: hourakob.net
 :: house-rent.us
 :: houseads-prod.elasticbeanstalk.com
@@ -19515,6 +19528,7 @@ ff02::3 ip6-allhosts
 :: irgreen.ml
 :: irgulzk8bi.com
 :: iridiumsergeiprogenitor.info
+:: irjfsrocuzwkpf.com
 :: irjo.ga
 :: irkgxjcgl.com
 :: irkuj.com
@@ -20238,6 +20252,7 @@ ff02::3 ip6-allhosts
 :: jnhmeywrl.com
 :: jnjbdvchvk.com
 :: jnljkbkiaqcmb.com
+:: jnmqym4.cn
 :: jnnezwibrkwpz.com
 :: jnnswtdifjgx.com
 :: jnqbgmlapkkrsj.com
@@ -26953,6 +26968,7 @@ ff02::3 ip6-allhosts
 :: ohleiludieje.info
 :: ohlpmbbiw.bid
 :: ohmcasting.com
+:: ohmchoicechi.online
 :: ohmvrqomsitr.com
 :: ohmwrite.com
 :: ohmyad.co
@@ -28854,6 +28870,7 @@ ff02::3 ip6-allhosts
 :: plexop.net
 :: plgalhmhkhzy.com
 :: plgdhrvzsvxp.com
+:: plgrrkpxnjrvac.com
 :: plhielbsmvlm.com
 :: plhvzqkkirw.com
 :: plified.pro
@@ -34273,6 +34290,7 @@ ff02::3 ip6-allhosts
 :: soilebol.com
 :: sokitosa.com
 :: soknm.com
+:: sokoyo-fq.com
 :: sokrostream.tv
 :: solanog.com
 :: solapoka.com
@@ -38267,6 +38285,7 @@ ff02::3 ip6-allhosts
 :: userstats.shopee.vn
 :: usfmamdapvmfs.com
 :: usfmwydo.com
+:: ushooque.net
 :: ushqvpdtwoecis.com
 :: usimonat.com
 :: usingde.com
@@ -39762,6 +39781,7 @@ ff02::3 ip6-allhosts
 :: wau.com.ua
 :: waubasou.com
 :: waucyeeziiiyul.com
+:: waugeboa.net
 :: wauthaum.com
 :: wauzoust.com
 :: wave525.com.ua
@@ -61835,6 +61855,7 @@ ff02::3 ip6-allhosts
 :: ybjpvh.xyz
 :: yblileapbnc.com
 :: ybmdgyywbhk.com
+:: ybmlwhhsuf.com
 :: ybnuasihsy.com
 :: ybofeikeckfxh.com
 :: ybpxv.com
@@ -62987,6 +63008,7 @@ ff02::3 ip6-allhosts
 :: zhlfogiy.com
 :: zhlrcaahpuqh.com
 :: zhmbxvmyk.com
+:: zhongchengzp.com
 :: zhongfujiaoyu.cn
 :: zhongjiangguoji.org
 :: zhongkaowu.com

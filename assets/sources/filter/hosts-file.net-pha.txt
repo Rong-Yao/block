@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/pha.txt
 # Last Converted - 22.02.2020
-# Total Domains - 14948
+# Total Domains - 14947
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2141,7 +2141,6 @@
 0.0.0.0 dduyhhssa.hotpricea.su
 0.0.0.0 de-online-apotheke.com
 0.0.0.0 de.alledstore.com
-0.0.0.0 de.bloomfloweres.com
 0.0.0.0 de.medsplaza.com
 0.0.0.0 de.saferxmd.com
 0.0.0.0 dean.xn--80adinac0a4h.xn--p1ai

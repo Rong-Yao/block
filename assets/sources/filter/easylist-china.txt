@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/easylistchina.txt
 # Last Converted - 22.02.2020
-# Total Domains - 5541
+# Total Domains - 5545
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -169,6 +169,7 @@
 0.0.0.0 123hala.com
 0.0.0.0 12jf3.cn
 0.0.0.0 12l22.net
+0.0.0.0 12rge.xyz
 0.0.0.0 12rng.cn
 0.0.0.0 1314sss.top
 0.0.0.0 133gp.com
@@ -2882,6 +2883,7 @@
 0.0.0.0 jmsyzj.com
 0.0.0.0 jmxlaser.com
 0.0.0.0 jndczg.com
+0.0.0.0 jnmqym4.cn
 0.0.0.0 jnsdkjzs.com
 0.0.0.0 jntmedia.cn
 0.0.0.0 jnyngg.cn
@@ -4223,6 +4225,7 @@
 0.0.0.0 socdm.com
 0.0.0.0 sohu999.com
 0.0.0.0 sohucs.com
+0.0.0.0 sokoyo-fq.com
 0.0.0.0 somennew.com
 0.0.0.0 somode.net
 0.0.0.0 sonomoyo.com
@@ -5433,6 +5436,7 @@
 0.0.0.0 zhixiuchang.com
 0.0.0.0 zhiyaowan.cn
 0.0.0.0 zhjfad.com
+0.0.0.0 zhongchengzp.com
 0.0.0.0 zhongfujiaoyu.cn
 0.0.0.0 zhongjiangguoji.org
 0.0.0.0 zhongkaowu.com

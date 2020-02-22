@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 22.02.2020
-# Total Domains - 5941
+# Total Domains - 5936
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4013,7 +4013,6 @@
 0.0.0.0 www.getgamecheats.com
 0.0.0.0 www.gethc.pl
 0.0.0.0 www.getleads.pl
-0.0.0.0 www.getthesneakers.pl
 0.0.0.0 www.gh-cup.pl
 0.0.0.0 www.giftdomain.site
 0.0.0.0 www.giga-tech.pl
@@ -4191,7 +4190,6 @@
 0.0.0.0 www.irismal.com
 0.0.0.0 www.irydoidy.pl
 0.0.0.0 www.islandmob.com
-0.0.0.0 www.isru.pl
 0.0.0.0 www.italianonfiction.pl
 0.0.0.0 www.itcity.pl
 0.0.0.0 www.itorrenty.org
@@ -5406,7 +5404,6 @@
 0.0.0.0 www.tajonis.com
 0.0.0.0 www.talkfusion.com
 0.0.0.0 www.talksinthecity.pl
-0.0.0.0 www.taniebutyfirmowe.pl
 0.0.0.0 www.taniebutymaster.com
 0.0.0.0 www.taniebutysklep.pl
 0.0.0.0 www.taniebutysportowe.com
@@ -5711,7 +5708,6 @@
 0.0.0.0 www.wypoczywajunas.pl
 0.0.0.0 www.wyprzedazobuwie.pl
 0.0.0.0 www.wyremontujklinike.pl
-0.0.0.0 www.wys24h.eu
 0.0.0.0 www.wytypowany-zwyciezca.com
 0.0.0.0 www.wytypowany-zwyciezca.pl
 0.0.0.0 www.wzdrowiupiekno.pl
@@ -5831,7 +5827,6 @@
 0.0.0.0 wypoczywajunas.pl
 0.0.0.0 wyprzedazobuwie.pl
 0.0.0.0 wyremontujklinike.pl
-0.0.0.0 wys24h.eu
 0.0.0.0 wyspaofert.com
 0.0.0.0 wytypowany-zwyciezca.com
 0.0.0.0 wzdrowiupiekno.pl

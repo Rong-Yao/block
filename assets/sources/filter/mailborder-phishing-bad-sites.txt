@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
 # Last Converted - 22.02.2020
-# Total Domains - 13863
+# Total Domains - 13862
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2841,7 +2841,6 @@
 0.0.0.0 dobermansecurity.ro
 0.0.0.0 dobersun.com
 0.0.0.0 dobra-pobeda.cf
-0.0.0.0 doc.novahue.org
 0.0.0.0 doceriadarebeka.com.br
 0.0.0.0 docesfavodemel.com.br
 0.0.0.0 docfile.000webhostapp.com

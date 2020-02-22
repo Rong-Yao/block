@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.053
 ; Release: 053
-; Entries: 61,156
+; Entries: 61,173
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 22 Feb 20 00:10:22
+; Updated: Sat, 22 Feb 20 06:10:22
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -3364,7 +3364,6 @@ ad4partners.com CNAME .
 ad4push.com CNAME .
 ad4screen.com CNAME .
 ad5.adriver.ru CNAME .
-ad5.adspaces.ero-advertising.com CNAME .
 ad5.banners.ero-advertising.com CNAME .
 ad5.bigmir.net CNAME .
 ad5.contentabc.com CNAME .
@@ -7080,6 +7079,7 @@ aimatch.com CNAME .
 aimes.com CNAME .
 aimg.fc2.com CNAME .
 aimg.media.net CNAME .
+ainess.pro CNAME .
 aintinuumdelos.com CNAME .
 aio.media CNAME .
 aio_flashlight.s.xoxknct.com CNAME .
@@ -7191,6 +7191,7 @@ akamai.tags.tiqcdn.com CNAME .
 akamai.vungle-cdn.vungle.com CNAME .
 akapiprod.netmera.com CNAME .
 akar.iad.appboy.com CNAME .
+akashdayalgroups.com CNAME .
 akatracking.esearchvision.com CNAME .
 akavita.com CNAME .
 akbeyfcu.com CNAME .
@@ -10152,6 +10153,7 @@ auctionnudge.com CNAME .
 aud-lhr.pubmatic.com CNAME .
 aud.pubmatic.com CNAME .
 aud11000.pubmatic.com CNAME .
+aud3g.com CNAME .
 audacity.es CNAME .
 audacity.fr CNAME .
 audersmi.com CNAME .
@@ -10371,6 +10373,7 @@ awfjqdhcuftd.com CNAME .
 awgdgpawhwgi.bid CNAME .
 awgsmfzrslcp.com CNAME .
 awhootoa.net CNAME .
+awhoufob.com CNAME .
 awhxbiqf.com CNAME .
 awin.com CNAME .
 awin1.com CNAME .
@@ -15215,6 +15218,7 @@ clothfoot.xyz CNAME .
 clothingsshopping.club CNAME .
 clotholip.xyz CNAME .
 clothsdinfg.xyz CNAME .
+cloud-based-service.us-south.cf.appdomain.cloud CNAME .
 cloud-emea.analytics-egain.com CNAME .
 cloud-graphql-live.us-east-1.elasticbeanstalk.com CNAME .
 cloud-observer.ip-label.net CNAME .
@@ -18355,6 +18359,7 @@ diamondtraff.com CNAME .
 dianepiette.co.uk CNAME .
 dianomi.com CNAME .
 dianomioffers.co.uk CNAME .
+diantcummiere.info CNAME .
 diapi.webgains.com CNAME .
 diaryofagameaddict.com CNAME .
 diazepam.shengen.ru CNAME .
@@ -20430,6 +20435,7 @@ enmisindingat.info CNAME .
 ennwwuxijwjgdm.bid CNAME .
 enokjulejktukh.com CNAME .
 enoratraffic.com CNAME .
+enormitteen.pro CNAME .
 enoughts.info CNAME .
 enquisite.com CNAME .
 enrcqdgqnjb.com CNAME .
@@ -21379,6 +21385,7 @@ fadsatz.com CNAME .
 fadsecs.com CNAME .
 fadsecz.com CNAME .
 fadsims.com CNAME .
+fadsips.com CNAME .
 fadskis.com CNAME .
 fadslims.com CNAME .
 fadsoks.com CNAME .
@@ -22166,6 +22173,7 @@ foreman-ash.krxd.net CNAME .
 foreman-dub.krxd.net CNAME .
 foreman-pdx.krxd.net CNAME .
 forestchild-leather.com CNAME .
+foreventwithenwas.info CNAME .
 forex-affiliate.com CNAME .
 forex-affiliate.net CNAME .
 forex-broker.hut1.ru CNAME .
@@ -26977,6 +26985,7 @@ imgad1.3conline.com CNAME .
 imgad2.3conline.com CNAME .
 imgad3.3conline.com CNAME .
 imgadult.com CNAME .
+imgair.net CNAME .
 imgc.psychcentral.com CNAME .
 imgdew.pw CNAME .
 imgfeedget.com CNAME .
@@ -26991,6 +27000,7 @@ imgg.traffic-media.co CNAME .
 imgg.traffic-media.co.uk CNAME .
 imggprx.mgid.com CNAME .
 imggprx.traffic-media.co.uk CNAME .
+imghot.net CNAME .
 imgkcxjlrlqf.com CNAME .
 imglinks.industrybrains.com CNAME .
 imglnka.com CNAME .
@@ -27516,6 +27526,7 @@ instruminahui.edu.ec CNAME .
 insurads.com CNAME .
 insurance-info.us CNAME .
 insurancejournal.freestats.com CNAME .
+insurances.tips CNAME .
 int.a-ads.com CNAME .
 int.dpool.sina.com.cn CNAME .
 int.propellerads.com CNAME .
@@ -29052,6 +29063,7 @@ kaytri.com CNAME .
 kazaa.com CNAME .
 kb.adacts.com CNAME .
 kb.bluekai.com CNAME .
+kbaomelffq.com CNAME .
 kbaughmanphotography.com CNAME .
 kbbmain.112.2o7.net CNAME .
 kbd1.kpns.ijinshan.com CNAME .
@@ -29274,6 +29286,7 @@ kiosked.com CNAME .
 kioxqnfhyh.com CNAME .
 kip5j.com CNAME .
 kipasdenim.com CNAME .
+kipemhoxruov.com CNAME .
 kiplingbagshop.club CNAME .
 kiplingbuy.online CNAME .
 kiplinger-d.openx.net CNAME .
@@ -31117,6 +31130,7 @@ lptggobhuuxcdw.com CNAME .
 lptnfhmvnd.com CNAME .
 lptrack.co CNAME .
 lptracker.net.ru CNAME .
+lpvgsdbtcmyqy.com CNAME .
 lpwre.top CNAME .
 lpwwerdeef.com CNAME .
 lpwzjhkuwbe.com CNAME .
@@ -38948,6 +38962,7 @@ pixfuture.net CNAME .
 pixhost.icu CNAME .
 pixiv.org CNAME .
 pixjqfvlsqvu.com CNAME .
+pixsense.net CNAME .
 pixtrack.in CNAME .
 pixxur.com CNAME .
 piyzmkcxa.bid CNAME .
@@ -40833,6 +40848,7 @@ pushnevis.com CNAME .
 pushnews.org CNAME .
 pushnice.com CNAME .
 pushno.com CNAME .
+pushnotifications.click CNAME .
 pushns.ibuildapp.com CNAME .
 pushofferpro.com CNAME .
 pushokey.com CNAME .
@@ -41474,6 +41490,7 @@ qr00rq.com CNAME .
 qrcsppwzjryh.com CNAME .
 qrecxvdoewmztq.com CNAME .
 qregqtqtuisj.com CNAME .
+qreoifgajnoor.com CNAME .
 qriasmotw.bid CNAME .
 qrirkdzdxtxc.com CNAME .
 qrjvglpkpl.bid CNAME .
@@ -43841,6 +43858,7 @@ sadbads.com CNAME .
 sadcat.tk CNAME .
 sade-ecrivain.com CNAME .
 sadiqtv.com CNAME .
+sadorsagreeng.info CNAME .
 sads.mobclix.com CNAME .
 sadsabs.com CNAME .
 sadsamps.com CNAME .
@@ -45303,6 +45321,7 @@ shinyglamy.com CNAME .
 shinystat.com CNAME .
 shinystat.it CNAME .
 shinystat.shiny.it CNAME .
+shiptoud.com CNAME .
 shiqzx.com CNAME .
 shirareru.microad.co.jp CNAME .
 shitiphu.com CNAME .
@@ -55640,7 +55659,6 @@ ww965.smartadserver.com CNAME .
 wwa.ero-advertising.com CNAME .
 wwaol.com CNAME .
 wwatchcomusa.112.2o7.net CNAME .
-wwbanners2.ero-advertising.com CNAME .
 wwbn.com CNAME .
 wwbzfppvhiebl.com CNAME .
 wweconsumer.112.2o7.net CNAME .
@@ -55842,7 +55860,6 @@ www.ad2.ero-advertising.com CNAME .
 www.ad2.thumbs.ero-advertising.com CNAME .
 www.ad3.api.ero-advertising.com CNAME .
 www.ad3.banners.ero-advertising.com CNAME .
-www.ad4.adspaces.ero-advertising.com CNAME .
 www.ad4.api.ero-advertising.com CNAME .
 www.ad4.banners.ero-advertising.com CNAME .
 www.ad4.layerads.ero-advertising.com CNAME .
@@ -56119,6 +56136,7 @@ www.aim4media.com CNAME .
 www.aimes.com CNAME .
 www.airadmins.com CNAME .
 www.airsonett.se CNAME .
+www.akashdayalgroups.com CNAME .
 www.akirkpatrick.com CNAME .
 www.alb.reddit.com CNAME .
 www.albiondrugs.com CNAME .
@@ -57303,7 +57321,6 @@ www.iovation.co.uk CNAME .
 www.iovation.com CNAME .
 www.iperbanner.com CNAME .
 www.iplogger.com CNAME .
-www.iplogger.org CNAME .
 www.iplogger.ru CNAME .
 www.iplua.o.xoxknct.com CNAME .
 www.ipuss.tv CNAME .

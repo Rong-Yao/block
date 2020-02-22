@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
 # Last Converted - 22.02.2020
-# Total Domains - 56497
+# Total Domains - 56495
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -14683,7 +14683,6 @@
 0.0.0.0 ad4mat.se
 0.0.0.0 ad4max.com
 0.0.0.0 ad4partners.com
-0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.bigmir.net
 0.0.0.0 ad5.fpa.ero-advertising.com
@@ -48348,7 +48347,6 @@
 0.0.0.0 wwa.ero-advertising.com
 0.0.0.0 wwaol.com
 0.0.0.0 wwatchcomusa.112.2o7.net
-0.0.0.0 wwbanners2.ero-advertising.com
 0.0.0.0 wwclick.su
 0.0.0.0 wwclickgo.com
 0.0.0.0 wwdviagrayuhs.p2a.pl

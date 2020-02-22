@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
 # Last Converted - 22.02.2020
-# Total Domains - 27752
+# Total Domains - 27748
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1496,7 +1496,6 @@
 0.0.0.0 ad4mat.net
 0.0.0.0 ad4screen.com
 0.0.0.0 ad5.adriver.ru
-0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.contentabc.com
 0.0.0.0 ad5.fpa.ero-advertising.com
@@ -25391,7 +25390,6 @@
 0.0.0.0 ww57.smartadserver.com
 0.0.0.0 ww7.69oxt4q05.com
 0.0.0.0 wwa.ero-advertising.com
-0.0.0.0 wwbanners2.ero-advertising.com
 0.0.0.0 wwbn.com
 0.0.0.0 wwmcuhvqaf.com
 0.0.0.0 wws.ero-advertising.com
@@ -25513,7 +25511,6 @@
 0.0.0.0 www.ad2.thumbs.ero-advertising.com
 0.0.0.0 www.ad3.api.ero-advertising.com
 0.0.0.0 www.ad3.banners.ero-advertising.com
-0.0.0.0 www.ad4.adspaces.ero-advertising.com
 0.0.0.0 www.ad4.api.ero-advertising.com
 0.0.0.0 www.ad4.banners.ero-advertising.com
 0.0.0.0 www.ad4.layerads.ero-advertising.com
@@ -26210,7 +26207,6 @@
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.ioh9.com
 0.0.0.0 www.iplogger.com
-0.0.0.0 www.iplogger.org
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.iplua.o.xoxknct.com
 0.0.0.0 www.ipuss.tv

@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.053
 # Release: 053
-# Entries: 122,418
+# Entries: 122,346
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 00:10:29
+# Updated: Sat, 22 Feb 20 06:10:26
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -63,7 +63,6 @@
 0-100.burst-team.us
 0-100.burst.wickedmine.com
 0-100pool.burstcoin.ro
-0.btcc.com
 0.nextyourcontent.com
 0.up.qingdaonews.com
 00.video-ak.cdn.spotify.com
@@ -437,7 +436,6 @@
 10xbtc.net
 10xhellometro.112.2o7.net
 11-15.net
-11-161.btcc.com
 11.96131.com.cn
 11.easyhash.de
 11.gddx1.crsky.com
@@ -569,7 +567,6 @@
 126-47.btcc.com
 1262.hittail.com
 12648afd00d93.com
-127-128.btcc.com
 127-131.btcc.com
 1274.mediatraffic.com
 1275.api.swrve.com
@@ -604,7 +601,6 @@
 12xhardcore.com
 13.minercircle.com
 13.video-ak.cdn.spotify.com
-130-171.btcc.com
 13023.url.7wkw.com
 13023071da82751cf504af85aa406cd0.cloudflareworkers.com
 13146.engine.mobileapptracking.com
@@ -618,7 +614,6 @@
 13377xsite.imageshack.host
 1337crew.info
 1337pool.net
-134-292.btcc.com
 13453765871837679316.googlegroups.com
 1353.api.swrve.com
 1353.content.swrve.com
@@ -644,7 +639,6 @@
 14.minercircle.com
 14.thor.cryptopool.eu
 14.video-ak.cdn.spotify.com
-140-139.btcc.com
 140-232.btcc.com
 140.minercircle.com
 14012.deeplink.mobileapptracking.com
@@ -711,7 +705,6 @@
 1582.content.swrve.com
 1585.api.swrve.com
 1585.content.swrve.com
-15866.btcc.com
 15888.btcc.com
 159-158.btcc.com
 159126.engine.mobileapptracking.com
@@ -844,7 +837,6 @@
 189900.engine.mobileapptracking.com
 189983.engine.mobileapptracking.com
 189zx.com
-18ccf.btcc.com
 18clicks.com
 18cum.com
 18freeporn.com
@@ -1206,7 +1198,6 @@
 2026.btcc.com
 202ch.com
 204-121.btcc.com
-204-163.btcc.com
 204.scloud.lfengmobile.com
 20419.btcc.com
 20552817p.rfihub.com
@@ -1226,7 +1217,6 @@
 20dailycoin.com
 20dd02e5c51.com
 20dollars2surf.com
-20e5.btcc.com
 20local.bitcoin.com
 20min.app.tamedia.click
 20pascals.nl
@@ -1286,12 +1276,10 @@
 2259.api.swrve.com
 2259.content.swrve.com
 226.coinfoundry.org
-22762.btcc.com
 22793.btcc.com
 2284.api.swrve.com
 22a12efe35e3c2f.com
 22b765488021d482280.com
-22c3.btcc.com
 22kkkk.com
 22pixx.xyz
 23.video-ak.cdn.spotify.com
@@ -1430,7 +1418,6 @@
 25w.0tzp8c.cn
 25work.com
 25z5g623wpqpdwis.onion.to
-26-138.btcc.com
 26.video-ak.cdn.spotify.com
 2603b401-e0e4-4db4-8c8c-e55ba283f341.htmlpasta.com
 2607.cn
@@ -1491,7 +1478,6 @@
 290684.en.world-stone.com
 2915481222.gopeerclick.com
 2915481222.peerclicktrk.com
-29219.btcc.com
 2945.v.fwmrm.net
 29627a66.api.splkmobile.com
 29730396.ranking.fc2.com
@@ -2017,7 +2003,6 @@
 3724f6534b1c7.com
 373082.livecity.me
 374-18.btcc.com
-37593.btcc.com
 3761fcd24ef9281f5.com
 377baidu.com
 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
@@ -2285,7 +2270,6 @@
 4370.content.swrve.com
 4384.api.swrve.com
 4395963.fls.doubleclick.net
-43britney.btcc.com
 43d6f284d10bfbbb3.com
 43plc.com
 43yagowe3y.com
@@ -2738,7 +2722,6 @@
 5y9nfpes.52pk.com
 5yfi7sy.com
 5yrra.deshuangwang.cn
-6-215.btcc.com
 6.adsco.re
 6.minercircle.com
 6.nanopool.org
@@ -3263,7 +3246,6 @@
 8959.hittail.com
 898protrudesolve.com
 898tech.com
-8994.btcc.com
 89tmolir.top
 8a.video-ak.cdn.spotify.com
 8a1ccf65f2b1302.com
@@ -3868,7 +3850,6 @@ a135.wftv.com
 a15-tb.isnssdk.com
 a15256378569ec595.com
 a157ad075fcb34c.com
-a158.btcc.com
 a1589.casalemedia.com
 a15c5009bcbe272.com
 a15d55423.5tps.xyz
@@ -4405,7 +4386,6 @@ academic-reading.com
 academiclogo.wademcdonald.com
 academicplc.panyapiwat.ac.th
 academy-test.addthis.com
-academy.accesstrade.vn
 academy.bithumb.com
 acaiberryextreme.pl
 acales.ru
@@ -4928,7 +4908,6 @@ ad.about.co.kr
 ad.aboutwebservices.com
 ad.abum.com
 ad.accelerator-media.com
-ad.accesstrade.vn
 ad.activesolutions.cz
 ad.ad-rider.com
 ad.ad-srv.net
@@ -5723,7 +5702,6 @@ ad4partners.com
 ad4push.com
 ad4screen.com
 ad5.adriver.ru
-ad5.adspaces.ero-advertising.com
 ad5.banners.ero-advertising.com
 ad5.bigmir.net
 ad5.contentabc.com
@@ -6645,7 +6623,6 @@ admin.cybtc.info
 admin.dable.io
 admin.dapool.me
 admin.dinastycoin.com
-admin.drkpool.com
 admin.dsinw.com
 admin.exoclick.com
 admin.fam-ad.com
@@ -10115,7 +10092,6 @@ aeon.ingest.cryptoknight.cc
 aeon.mcmpool.eu
 aeon.miner.rocks
 aeon.minercountry.com
-aeon.minexmr24.ru
 aeon.nanopool.org
 aeon.pool.gntl.co.uk
 aeon.pool.minergate.com
@@ -10709,6 +10685,7 @@ aimg.fc2.com
 aimg.media.net
 aimnawnt.beget.tech
 aineistonsiirto.mailhouse.fi
+ainess.pro
 ainfinityperu.com
 aini321.com
 aintinuumdelos.com
@@ -10928,6 +10905,7 @@ akapiprod.netmera.com
 akar.iad.appboy.com
 akariyer.com
 akasc.com
+akashdayalgroups.com
 akatracking.esearchvision.com
 akaunting.cryptobro.eu
 akavita.com
@@ -13370,7 +13348,6 @@ ap.tnkfactory.com
 ap2.adriver.ru
 ap2.remerge.events
 ap4.btcc.com
-ap9.btcc.com
 apa-sha.adsrvr.org
 apa-sin.adsrvr.org
 apa-tok.adsrvr.org
@@ -13532,7 +13509,6 @@ api.99miners.com
 api.9snail.com
 api.accengage.com
 api.accengage.net
-api.accesstrade.vn
 api.actinium.org
 api.ad-brix.com
 api.ad-center.com
@@ -14788,7 +14764,6 @@ apple-limited-account.com
 apple-summary-report.com
 apple-verify-id.info
 apple.coinking.io
-apple.com-care-macbook-system.live
 apple.com.br-support.id
 apple.com.id-me.us
 apple.com.sovalumni.com
@@ -16158,6 +16133,7 @@ auctionnudge.com
 aud-lhr.pubmatic.com
 aud.pubmatic.com
 aud11000.pubmatic.com
+aud3g.com
 audacity.es
 audacity.fr
 audacitytobeyou.com
@@ -16653,6 +16629,7 @@ awgdgpawhwgi.bid
 awgsmfzrslcp.com
 awgyhiupjzvu.com
 awhootoa.net
+awhoufob.com
 awhxbiqf.com
 awin.com
 awin1.com
@@ -19236,7 +19213,6 @@ bip.mypool.online
 bip.presage.io
 bip.prod.cloud.ogury.io
 bipinshrestha.com
-bipm.btcc.com
 bipowe.ru
 bipwrite.com
 biq.keefung-zs.com
@@ -19598,7 +19574,6 @@ bl2aqusrch.atdmt.com
 bl2trk.atdmt.com
 bl5.btcc.com
 bl7.000webhostapp.com
-bl8.btcc.com
 bla.gtimg.com
 blaaaa12.googlecode.com
 blablacar.d3.ru
@@ -21175,7 +21150,6 @@ bttrack.com
 btttag.com
 btttmgxtziztqq.com
 bttucd7itf1vg41exelg.maherstcottage.com.au
-btu.btcc.com
 bturlzbakbcsdd.com
 btv.vvpool.com
 btvdzlkg.bid
@@ -22186,7 +22160,6 @@ c8.statcounter.com
 c8.video-ak.cdn.spotify.com
 c8.zedo.com
 c8vns35.pyogeinfluhu.com
-c9.btcc.com
 c9.statcounter.com
 c9.video-ak.cdn.spotify.com
 c91c7fb5801.com
@@ -23242,7 +23215,6 @@ ccx-au.bluerockpools.net
 ccx-eu.bluerockpools.net
 ccx.codpool.com
 ccx.go-mine.it
-ccx.loudmining.com
 ccx.scecf.org
 ccx.solopool.org
 ccx.thepiratemine.nl
@@ -23414,7 +23386,6 @@ cdn.810236.com
 cdn.88-f.net
 cdn.8digits.com
 cdn.accengage.com
-cdn.accesstrade.vn
 cdn.acloudvideos.com
 cdn.ad.maist.jp
 cdn.ad.plus
@@ -24972,7 +24943,6 @@ ci.appboy.com
 ci.btcc.com
 ci.hpool.com
 ci.iasds01.com
-ci.liquidblock.xyz
 ci.pandaminer.com
 cia.nanopool.org
 ciadorh.com.br
@@ -25248,7 +25218,6 @@ cl1.fidelizador.com
 cl3.webterren.com
 cl4.webterren.com
 cl5.webterren.com
-cl7.btcc.com
 cl7khotyeny.ru
 cl96rwprue.com
 clabac.000webhostapp.com
@@ -25444,7 +25413,6 @@ click-sb.irsrc-ads.com
 click-url.com
 click.a-ads.com
 click.abctrack.bid
-click.accesstrade.com.vn
 click.accesstrade.vn
 click.ad-stir.com
 click.adhoc2.net
@@ -26024,6 +25992,7 @@ clothfoot.xyz
 clothingsshopping.club
 clotholip.xyz
 clothsdinfg.xyz
+cloud-based-service.us-south.cf.appdomain.cloud
 cloud-emea.analytics-egain.com
 cloud-exploration.com
 cloud-graphql-live.us-east-1.elasticbeanstalk.com
@@ -26582,7 +26551,6 @@ coatobpljh.com
 coazuthu.net
 cobalten.com
 cobaltgroup.com
-cobeinboats.pl
 cobracraft.com.au
 cobradvh.beget.tech
 cobrowsing-ha.iadvize.com
@@ -26711,7 +26679,6 @@ coed-d.openx.net
 coedmediagroup.com
 coemmsa.com
 coepzyavjda.com
-cof.btcc.com
 cofee.theshotboard.net
 coffeandcigarets.asyx.ru
 coffeebot.me
@@ -30736,7 +30703,6 @@ dancemistake.com
 danchamp.pl
 dandingo.go2jump.org
 danger-phentermine.allforyourlife.com
-dangky.accesstrade.vn
 dangky.atoaivietnam.com
 danhhmhxkrm.com
 danielgrossitreinamento.com.br
@@ -31241,7 +31207,6 @@ db14a56766c5e1a1c2.com
 db3aqu.atdmt.com
 db52cc91beabf7e8.com
 db8a41d81b8dfe41de2.com
-db9b5.btcc.com
 dbadk.nuggad.net
 dbankscj.beget.tech
 dbankswx.beget.tech
@@ -32580,6 +32545,7 @@ dianneslechon.com
 dianomi.com
 dianomioffers.co.uk
 diansp.com
+diantcummiere.info
 diaopic.14bobo.com
 diapi.webgains.com
 diapress.pl
@@ -33503,7 +33469,6 @@ docs-dev.newrelic.com
 docs-mails.servehttp.com
 docs-staging.newrelic.com
 docs-test.nicehash.com
-docs.accesstrade.vn
 docs.adjust.com
 docs.admixer.net
 docs.adsnative.com
@@ -33579,7 +33544,6 @@ dogecoindark.miningpoolhub.com
 doged.mastermining.net
 dogepool.nimuecrypto.com
 dogepool.rf.gd
-dogeu.nut2pools.com
 doghole.ucweb.com
 doghoust.net
 doglickz.club
@@ -34179,7 +34143,6 @@ drbobruotolo.com
 drbrasmahavidyalayahelencha.in
 drbwugautcgh.com
 drc-group.net
-drc.btcc.com
 drcfjmkmy.com
 drchx.000webhostapp.com
 drcoray.com
@@ -34600,7 +34563,6 @@ duapps.com
 duapps2.wshifen.com
 duappsrec.wshifen.com
 duaputripalu.co.id
-duatop.accesstrade.vn
 dub-1-apex.go.sonobi.com
 dub-1-sync.go.sonobi.com
 dub-1-xcp.go.sonobi.com
@@ -35088,6 +35050,7 @@ e-hpaces.ero-advertising.com
 e-iphoneunlock.com
 e-kaiseki.com
 e-krezus.pl
+e-kurier24.net
 e-kuzbass.ru
 e-lektrosklep.com
 e-lena.de
@@ -35471,6 +35434,7 @@ earnlivingonline.net
 earnmines.com
 earnshare.net
 earnthismoney.top
+earnyourcash.net
 earth-111.com
 earth.coinium.org
 earthcontrolsys.com
@@ -36294,7 +36258,6 @@ ekbcrhpyfuo.com
 ekbiwwngwig.com
 ekdamsibldrg.bid
 ekdjdrmqqlc.bid
-ekerisiltihaliyikama.com
 ekg.riotgames.com
 ekggptrw.com
 ekgmjxjyfzzd.com
@@ -37007,6 +36970,7 @@ ennwwuxijwjgdm.bid
 enokjulejktukh.com
 enooc.com
 enoratraffic.com
+enormitteen.pro
 enormo.pl
 enoughts.info
 enpitsutenpura.web.fc2.com
@@ -37165,6 +37129,7 @@ epnjahss.com
 epnredirect.ru
 epnt.ebay.com
 epochtimeschicago.com
+epoczta247.com
 epom.com
 epomads2.4shared.com
 epomeolagrotta.com
@@ -37590,14 +37555,12 @@ et2-na61-na62.wagbridge.alibaba.tanx.com
 et2.btcc.com
 et3.btcc.com
 et5.btcc.com
-et6.btcc.com
 et9.btcc.com
 etacontent.com
 etamarketplace.com
 etamina.pl
 etargetnet.com
 etarynoneta.pro
-etb.btcc.com
 etbld.com
 etbmvqjnfxtk.com
 etbrjgpsadke.com
@@ -37698,7 +37661,6 @@ etcpool.phoenixmax.org
 etcpps.maxhash.org
 etcsolo.maxhash.org
 etcturk.sytes.net
-etd.btcc.com
 etdenxyerjuvz.fgppchg.fgpp.com
 etecco.com.my
 etecfor.com
@@ -38020,7 +37982,6 @@ etp.dodopool.com
 etp.fairpool.cloud
 etp.fairpool.xyz
 etp.mole-pool.net
-etp.orchardcoins.com
 etp.sandpool.org
 etp.topmining.co.kr
 etpj.btcc.com
@@ -38652,6 +38613,7 @@ ewaosdzofcsy.bid
 ewbejjirdygik.com
 ewbio.cn
 ewccxwve.bid
+ewciakurier.com
 ewebanalytics.com
 ewebcounter.com
 eweibo.ru
@@ -38699,7 +38661,6 @@ ex3.mkt-coin.com
 ex4.mkt-coin.com
 ex5.btcc.com
 ex8.btcc.com
-ex9.btcc.com
 exactadvertising.com
 exactag.com
 exactdrive.com
@@ -38935,7 +38896,6 @@ expertcom.hekko24.pl
 experteerads.com
 expertosenbelleza.com
 expertsexchange.112.2o7.net
-exph.btcc.com
 expired-targeted.com
 expired.golodg.com
 explainidentifycoding.info
@@ -39535,6 +39495,7 @@ fadsatz.com
 fadsecs.com
 fadsecz.com
 fadsims.com
+fadsips.com
 fadskis.com
 fadslims.com
 fadsoks.com
@@ -39718,7 +39679,6 @@ fast-rescure.com
 fast-thinking.co.uk
 fast.a.klaviyo.com
 fast.accesstrade.com.vn
-fast.accesstrade.vn
 fast.forbes.com
 fast.mastermining.net
 fast2earn.com
@@ -41290,6 +41250,7 @@ forestarii.pl
 forestchild-leather.com
 forestersrest.com
 foresthillpta.com
+foreventwithenwas.info
 foreverkidsstore.com
 foreverliving.com
 foreverspringfl.com
@@ -41376,7 +41337,6 @@ fortvision.com
 fortyna-plus.ru
 forum-boost.site50.net
 forum-cs.net76.net
-forum.accesstrade.vn
 forum.addthis.com
 forum.adspaces.ero-advertising.com
 forum.adult-torrent.com
@@ -41471,6 +41431,7 @@ foto.hasimehrou.cz
 foto2.pl
 fotobraj.pl
 fotobudkahihotka.pl
+fotograficzny.fun
 fotokaszuby.pl
 fotokraci.pl
 fotolajt.pl
@@ -44043,7 +44004,6 @@ gexp.expanse.tech
 geyan.gepush.com
 gez.io
 gezaehlt.de
-gezginsepeti.com
 gezinti.com
 gezkddgdbliip.bid
 gf.f2pool.com
@@ -45615,7 +45575,6 @@ graviex.gpuhot.com
 gravity.retency.com
 gravity4.com
 gravitycoin.io
-gravium-explorer.arcpool.com
 gravium.chainz.ge
 graylog.mgid.com
 grazdanin.info
@@ -46871,6 +46830,7 @@ hashcoins.com
 hashcoins.ee
 hashcoins.ru
 hashcryptos.com
+hashearog.com
 hashfaster.com
 hashflare.eu
 hashflare.io
@@ -50745,6 +50705,7 @@ huigyetqu.com
 huijol.gq
 huirnbrfj.com
 huis.istats.nl
+huis.su
 huiso.si
 huiso.su
 huisvrouwen.be
@@ -52765,6 +52726,7 @@ imgad3.3conline.com
 imgadpai.thepaper.cn
 imgadsame.liba.com
 imgadult.com
+imgair.net
 imgaliyun.da.mgtv.com
 imgaliyun.res.mgtv.com
 imgapp.yeyou.com
@@ -52787,6 +52749,7 @@ imgg.traffic-media.co.uk
 imggprx.mgid.com
 imggprx.traffic-media.co.uk
 imghd.eu
+imghot.net
 imgkcxjlrlqf.com
 imglinks.industrybrains.com
 imglnka.com
@@ -53709,6 +53672,7 @@ instytutmed.pl
 insurads.com
 insurance-info.us
 insurancejournal.freestats.com
+insurances.tips
 int.a-ads.com
 int.dpool.sina.com.cn
 int.hashhot.com
@@ -54538,7 +54502,6 @@ it4cio.servicos.ws
 it4oop7.bid
 ita.codpool.com
 ita.leafpool.com
-ita.minexmr24.ru
 itachituff.duckdns.org
 italcase.ve.it
 italianadirectory.com
@@ -54936,7 +54899,6 @@ j3safetyismyname.com
 j5sf.com
 j6g3fzp.5k5.ru
 j82464f9.bget.ru
-j902757.myjino.ru
 j93557g.com
 j9j6l.top
 ja.ad-stir.com
@@ -56965,6 +56927,7 @@ kazuled.com.vn
 kb.adacts.com
 kb.bluekai.com
 kb.nanopool.org
+kbaomelffq.com
 kbaughmanphotography.com
 kbbmain.112.2o7.net
 kbcannabis.ciip-cis.co
@@ -57194,7 +57157,6 @@ keshoes.site
 kesikelyaf.com
 kesllcmdcsbd.com
 kesslerpark.org
-ket.btcc.com
 ketabnema.com
 ketads.com
 ketapang.biz
@@ -57284,7 +57246,6 @@ kfz-park-betzing.de
 kfz-ross.de
 kfzimhbhjdqa.com
 kg.aws.mashable.com
-kg.btcc.com
 kg.snapads.com
 kgbjsizq.com
 kgc.mastermining.net
@@ -57486,6 +57447,7 @@ kip5j.com
 kipasdenim.com
 kipatos.ru
 kipcoin.org
+kipemhoxruov.com
 kiplingbagshop.club
 kiplingbuy.online
 kiplinger-d.openx.net
@@ -57866,6 +57828,7 @@ komoona-d.openx.net
 komoona.com
 komorniik24.com
 komornik-gov.com
+komornik-gov24.com
 komostyle.com
 kompansmaku.pl
 kompasads.com
@@ -58040,6 +58003,7 @@ krabi.go.th
 krafteurope.112.2o7.net
 kraftinwestycje.pl
 krahul.chytrak.cz
+kraina-kopciuszka.pl
 kraken.production.ap-southeast-2.kops.kargo.com
 kraken.production.us-east-1.kops.kargo.com
 kraken.production.us-west-1.kops.kargo.com
@@ -58063,7 +58027,6 @@ krb.cryptonote.club
 krb.dark-mine.su
 krb.devphp.org.ua
 krb.miner.rocks
-krb.minexmr24.ru
 krb.mypool.online
 krb.sberex.com
 krb.semipool.com
@@ -58314,6 +58277,7 @@ kuqixxjguc.bid
 kuqlhzmdek.com
 kuqonhmcwaiot.com
 kuqylnamtv.bid
+kur24pl.eu
 kurdigroup.jo
 kurierat.cleverpush.com
 kuriero.pl
@@ -59036,7 +59000,6 @@ lcameratop.me
 lcc.bcmonster.com
 lcc.suprnova.cc
 lcc.vtrbandaancha.net
-lccf.btcc.com
 lceihiuarfqbn.bid
 lcf.btcc.com
 lcf.cmplay.cmcm.com
@@ -60373,7 +60336,6 @@ lo-7.btcc.com
 lo.marketer.lpsnmedia.net
 lo1.btcc.com
 lo2.me
-lo4.btcc.com
 load.ams1.exelator.com
 load.batmobi.net
 load.dfw2.exelator.com
@@ -61171,7 +61133,6 @@ loteumepag.com
 lotey.co.in
 loto.burstcoin.ro
 lotosart.pl
-lotte.accesstrade.vn
 lottery-lists.freebitco.in
 lottery.bitcoin.com
 lottery.bytecoins.world
@@ -61225,7 +61186,6 @@ loveualways.000webhostapp.com
 lovevipsale
 lovevipsale.com
 lovnxkrszlsb.com
-lovok.no-ip.com
 lovquiz.com
 lovvznyhujf.com
 lowaosan.com
@@ -61300,6 +61260,7 @@ lptggobhuuxcdw.com
 lptnfhmvnd.com
 lptrack.co
 lptracker.net.ru
+lpvgsdbtcmyqy.com
 lpwre.top
 lpwwerdeef.com
 lpwzjhkuwbe.com
@@ -63517,7 +63478,6 @@ masari.net
 masari.theskynet.xyz
 masaricoin.com
 mascara-ranking.com
-mascot.accesstrade.vn
 mascqybw.com
 masdadvogados.com.br
 masdk.3g.qq.com
@@ -64537,7 +64497,6 @@ mem.serverpower.net
 memarket.biz
 member-reviewalert195.com
 member.360in.com
-member.accesstrade.vn
 member.ad.org.vn
 member.adnetwork.vn
 member.ambient-platform.com
@@ -64588,7 +64547,6 @@ menjyhvs.bid
 menloenergyllc.com
 menon.org.gr
 mensa.iad.appboy.com
-mensfreedom.ru
 menshealthweb.co
 menstripgifts.com
 mentad.com
@@ -65438,7 +65396,6 @@ mine-buck-euro.equipool.1ds.us
 mine-euro.equipool.1ds.us
 mine-genx-asia.equipool.1ds.us
 mine-genx-euro.equipool.1ds.us
-mine-ltz-asia.equipool.1ds.us
 mine-ltz-euro.equipool.1ds.us
 mine-perkle.esprezzo.io
 mine-safe-asia.equipool.1ds.us
@@ -65848,7 +65805,6 @@ mixtraffic.com
 mixturehopeful.com
 mixuaeielbnlg.com
 mixup0813.web.fc2.com
-miy.btcc.com
 miyadu.web.fc2.com
 miyufortuneteller.web.fc2.com
 mizahturk.com
@@ -67101,7 +67057,6 @@ movip.wps.com
 movipax.com
 movitex.122.2o7.net
 movsflix.com
-mow.btcc.com
 mowfruit.com
 mowithlerendu.pro
 mox.cnpool.cc
@@ -68539,7 +68494,6 @@ n4403ad.doubleclick.net
 n479ad.doubleclick.net
 n4p.ru.redtram.com
 n4p.ua.redtram.com
-n59703188.btcc.com
 n5x.v2.dedicatedpool.com
 n69.com
 n711.btcc.com
@@ -69078,7 +69032,6 @@ nbytecoin.securepayment.cc
 nbz.bsod.pw
 nbzionsmbgrt.com
 nc-ass-vip.sdv.fr
-nc.btcc.com
 nc.cnpool.cc
 nc.gdt.qq.com
 nc.nanopool.org
@@ -70508,13 +70461,9 @@ nmgmtr.sigmapool.com
 nmhiltonhead.112.2o7.net
 nmine-btcz-euro.equipool.1ds.us
 nmine-buck-asia.equipool.1ds.us
-nmine-buck-euro.equipool.1ds.us
-nmine-euro2.equipool.1ds.us
 nmine-genx-asia.equipool.1ds.us
 nmine-genx-euro.equipool.1ds.us
 nmine-ltz-asia.equipool.1ds.us
-nmine-ltz-euro.equipool.1ds.us
-nmine-safe-asia.equipool.1ds.us
 nmine-zel-asia.equipool.1ds.us
 nmine.bbr.unipool.pro
 nmine.bcn.unipool.pro
@@ -70978,7 +70927,6 @@ norlux.duckdns.org
 normalexchange.com
 normiiz1-online.com
 normkela.com
-normour.com
 normygvd.bid
 nornelis.pw
 norranstats.azurewebsites.net
@@ -71453,7 +71401,6 @@ nsgwpapi.bid
 nshaschool.com
 nsights.sharethrough.com
 nsjpu.com
-nsl.btcc.com
 nslaingeninfinedna.info
 nslinking.com
 nsm.btcc.com
@@ -71701,7 +71648,6 @@ nwzexkxx.com
 nx.frosmo.com
 nx.webchain.network
 nxads.internet.com
-nxb.minexmr24.ru
 nxcount.com
 nxcxithvcoeh.com
 nxewruvxprbd.com
@@ -74590,7 +74536,6 @@ p493.atemda.com
 p49899.clksite.com
 p4dt2-scyd6.ads.tremorhub.com
 p5.appearch.info
-p5.btcc.com
 p5.firrectly.top
 p50032.clksite.com
 p51808.cdaz.icu
@@ -74678,6 +74623,7 @@ pacotdc2019.duckdns.org
 pact.thecon.com
 pacyfka99.pl
 pacyna2.republika.pl
+paczka.poczta-pay.com
 paczkadhl.info
 pad-v3.prod.cloud.ogury.io
 padariadesign.com.br
@@ -75073,7 +75019,6 @@ partner-ts.groupon.de
 partner-ts.groupon.fr
 partner-ts.groupon.nl
 partner-ts.groupon.pl
-partner.accesstrade.vn
 partner.addictiveads.com
 partner.admixer.co.kr
 partner.ads.placeiq.com
@@ -76190,6 +76135,7 @@ phonder-inv-eu.admixer.net
 phone-analytics.com
 phone-arena-d.openx.net
 phone-hack.com
+phone-notification.com
 phoneantivirus2017.r.xoxknct.com
 phoneantivirus2017.s.xoxknct.com
 phoneboosternew.s.xoxknct.com
@@ -76290,7 +76236,6 @@ pi.nanopool.org
 pi.pardot.com
 pi.technik3d.com
 pi2.bitcoin.cz
-pi9.btcc.com
 piachmen.pl
 pialaqq.com
 pialaqq365.net
@@ -76838,6 +76783,7 @@ pixiu.shangshufang.ksosoft.com
 pixiv.org
 pixjqfvlsqvu.com
 pixon.ads-pixiv.net
+pixsense.net
 pixt.transmit.live
 pixtrack.in
 pixxur.com
@@ -77660,6 +77606,7 @@ pocketmath.com
 pocketwhale.info
 pocofh.com
 poczta-login-neostrada.com
+poczta-pay.com
 poczta-polska.net
 pocztapolska48.net
 pocztex-24.link
@@ -77945,7 +77892,6 @@ pool.digitslate.io
 pool.dinastycoin.com
 pool.distilled.ie
 pool.doctorcoin.cc
-pool.doge.st
 pool.easy2mine.com
 pool.easyhash.de
 pool.echo-terminal.org
@@ -78055,7 +78001,6 @@ pool.raasu.org
 pool.ravencoin.world
 pool.redencoin.org
 pool.reosc.io
-pool.rfcpool.com
 pool.rig.tokyo
 pool.rmb.adhese.com
 pool.rplant.xyz
@@ -79253,6 +79198,7 @@ profilesnitch.com
 profileview.localytics.com
 profiling.avandor.com
 profiling.veoxa.com
+profit-trader.net
 profit.pool.bitcoin.com
 profitablesoft.top
 profitboosterapp.com
@@ -79270,7 +79216,6 @@ profitshare.ro
 profitsitesbiz.com
 profittravel.pl
 profolan.pl
-profscribe.com
 profunding.com.au
 profusesupport.com
 progaming-cheats.ru
@@ -79318,7 +79263,6 @@ projectw.skimlinks.com
 projectwonderful.com
 projekt-gitara.pl
 projektrestart.pl
-projektyxella.pl
 projetneon.xyz
 projetoaberto2019.duckdns.org
 projetomagiadeler.com.br
@@ -80322,6 +80266,7 @@ pushnevis.com
 pushnews.org
 pushnice.com
 pushno.com
+pushnotifications.click
 pushnotifynew-144926126122555.douglassstevens.com
 pushnotifynew-220285006548680.douglassstevens.com
 pushnotifynew-299804621622037.douglassstevens.com
@@ -81153,6 +81098,7 @@ qr00rq.com
 qrcsppwzjryh.com
 qrecxvdoewmztq.com
 qregqtqtuisj.com
+qreoifgajnoor.com
 qriasmotw.bid
 qrirkdzdxtxc.com
 qriswell.50webs.com
@@ -81207,6 +81153,7 @@ qsrmjfkfithk.findhere.org
 qsstats.com
 qstore.inner.api.sj.360.cn
 qstwmmuukimz.bid
+qsvtdcqikcqsk.com
 qsxggbsthsk.bid
 qt002x.corp.youdao.com
 qt0fvliu0g.s.ad6media.fr
@@ -81557,7 +81504,6 @@ r.api.xoxknct.com
 r.applovin.com
 r.appsflyer.com
 r.bbci.co.uk
-r.btcc.com
 r.bxb.oupeng.com
 r.clk41.com
 r.clube62.date
@@ -83272,7 +83218,6 @@ restore-pc.com
 restoredchurchofgod.112.2o7.net
 restoreinfo-unlockmyaccount-info.com
 restorti4.com
-restream.accesstrade.vn
 restricted-videos.servehttp.com
 restrictedpagesapple.com
 resulta8.beget.tech
@@ -84778,7 +84723,6 @@ rungrinh.vn
 runmeethoomes.info
 runmewivel.com
 runngineszservices.co.uk
-runoutsoftware.com
 runtastic.pushwoosh.com
 runtime.lemonpi.io
 runtnc.net
@@ -85522,6 +85466,7 @@ sadeghimachinery.com
 sadiqfeeds.com
 sadiqtv.com
 sadmin.wlink-net.com
+sadorsagreeng.info
 sads.mobclix.com
 sadsabs.com
 sadsad.ddns.net
@@ -86800,7 +86745,6 @@ seattle-times-d.openx.net
 seattletenniscouncil.org
 seavideo-ak.espn.go.com
 seaxhrqc.bid
-seb.btcc.com
 seb.d1.sc.omtrdc.net
 sebagoventa.online
 sebajamal.com
@@ -87800,7 +87744,6 @@ sessions.viglink.com
 sessionstack.com
 sestat.baidu.com
 seszopvxktsfn.com
-set0.hhtt.1209k.com
 setdealgo.com
 seth.avazutracking.net
 setlotnay.club
@@ -87817,6 +87760,7 @@ settings.luckyorange.net
 settingupdate.yourgoodflashupgradingmain.icu
 settlecruise.org
 settsoily.info
+setup-firefox.host
 setup.advancedcleaner.com
 setup.nanopool.org
 setupnow.amazinglysafeistallsforeveryonethisweek.review
@@ -88255,6 +88199,7 @@ shinystat.shiny.it
 shinyu.content.mimoproject.co.th
 shiporama.com
 shippinginsights.com
+shiptoud.com
 shiqzx.com
 shirareru.microad.co.jp
 shirimsr.beget.tech
@@ -88830,7 +88775,6 @@ sirablivefbxul.bid
 siradsalot.com
 sirareru.microad.co.jp
 sireni.ru
-sirijayareddypsychologist.com
 sirinikah.com
 sirish.com.np
 sirius-expedition.com
@@ -89062,7 +89006,6 @@ skcsrbija.com
 skcyigichh.com
 skdesignstudio.000webhostapp.com
 skdev.io
-skechersbuty.pl
 skechersen.online
 skechersshoes.pl
 skecherstanio.pl
@@ -89746,6 +89689,7 @@ snf.graft.community
 snfhwcvdqxioj.com
 snfqpqyecdrb.com
 snfsnm5.net
+snfzmkyzad.com
 sng.graft.community
 sng.nibirupool.com
 sngjaetjozyr.com
@@ -89849,7 +89793,6 @@ sobhbo.info
 sobolev.net.ru
 sobornarada.gov.ua
 soboro.uk.com
-soc9.btcc.com
 socapo.com
 soccerlivestream.tv
 soccerstars-hack.net
@@ -92273,7 +92216,6 @@ statics.audienceinsights.net
 statics.letfap.com
 statics.woozooo.com
 statictest.fraudmetrix.cn
-staticwebcontent.net
 statis.api.3g.youku.com
 statis.mobile.youku.com
 statis.push.netease.com
@@ -92766,7 +92708,6 @@ stb.eat.int.ru
 stbt.coupons.com
 stc-nas.nixcdn.com
 stc.adtima.vn
-stc.btcc.com
 stc.fx.fastcontentdelivery.com
 stc.gammaplatform.com
 stc.nas.nixcdn.com
@@ -93151,7 +93092,6 @@ stratum01.protopool.net
 stratum06.omegapool.cc
 stratum1.bitcoin.cz
 stratum1.coinking.io
-stratum1.leywapool.com
 stratum1.omegapool.cc
 stratum1.suchpool.pw
 stratum2.bitcoin.cz
@@ -93378,7 +93318,6 @@ su3.btcc.com
 sualle0i6a.4jxgsane74.madpendesign.com.au
 suapicvhgpwjp.com
 sub.avgle.com
-sub.btcc.com
 sub.powerapple.com
 sub.prod.vidible.tv
 sub1.sub2.sub3.bitcoin.com
@@ -93639,7 +93578,6 @@ superalts.com
 superbandeirante.com.br
 superbhacks.com
 superblockchain.con-ip.com
-superbox.accesstrade.vn
 superbrewards.com
 supercell.net
 superclix.de
@@ -95446,7 +95384,6 @@ team.klookva.com.ua
 team.nanopool.org
 teamamerika.org
 teambetaffiliates.com
-teamcoinye.com
 teamdoge.com
 teameda.comcastbiz.net
 teameda.net
@@ -95664,7 +95601,6 @@ tellaparts.com
 tellars.duckdns.org
 tellers.duckdns.org
 telllwrite.com
-tellurium.m00n.top
 tellus-resources.com
 teloblar.com
 telomereboost.com
@@ -95857,7 +95793,6 @@ test.emcd.io
 test.equihash.pro
 test.espace-yoga.fr
 test.ethertrench.com
-test.ethfans.org
 test.explorer.dashninja.pl
 test.faucet.dashninja.pl
 test.firstpool.ru
@@ -100531,7 +100466,6 @@ tuxflows.com
 tuxgnhcrhyugjf.com
 tuxphjbzmjfuh.com
 tuxzictbrqietq.com
-tuyendung.accesstrade.vn
 tuyendung.mediaz.vn
 tuyensinhv2.elo.edu.vn
 tuygdfsydexdeb.com
@@ -102413,7 +102347,6 @@ us1.siteimprove.com
 us1.splicky.com
 us1.whalesburg.com
 us1.zenmine.pro
-us1eclipsemc.com
 us1impr.kadxin.net
 us2.coinking.io
 us2.coinmine.pw
@@ -102909,7 +102842,6 @@ v.atomminer.com
 v.aty.sohu.com
 v.beahh.com
 v.bitember.com
-v.btcc.com
 v.cf.ssacdn.com
 v.chartboost.com
 v.easy2mine.com
@@ -104216,7 +104148,6 @@ virtualmin.cominers.org
 virtualminingcoin.miningpoolhub.com
 virtualnet.co.uk
 virtualreality.marketing
-virtualsklep.com
 virtualspirits.com
 virtualvarejo.com
 virusdns.duckdns.org
@@ -105182,7 +105113,6 @@ wallet.bitcoininterest.io
 wallet.bitcoinrh.org
 wallet.bitcoinz.ph
 wallet.btc.com
-wallet.btcprivate.pro
 wallet.btgpool.pro
 wallet.burst-alliance.org
 wallet.burst-team.us
@@ -105932,7 +105862,6 @@ webmail.switchercoin.com
 webmail.theminingpool.online
 webmail.traaittplatform.com
 webmail.tyc.bubblemine.com
-webmail.virtopia.ca
 webmail.wazn.io
 webmail.xmo.bubblemine.com
 webmail.xmr.bubblemine.com
@@ -106353,7 +106282,6 @@ wha8q7pevj.com
 whackedmedia.com
 whadaupo.net
 whale.coinminer.space
-whale.drowningpool.net
 whale.hodlpool.com
 whale.orchardcoins.com
 whaleads.com
@@ -107722,7 +107650,6 @@ ww965.smartadserver.com
 wwa.ero-advertising.com
 wwaol.com
 wwatchcomusa.112.2o7.net
-wwbanners2.ero-advertising.com
 wwbn.com
 wwbzfppvhiebl.com
 wwe.leetieniu.com
@@ -107751,7 +107678,6 @@ wwv4ez0n.com
 wwvv.bcpzonasegurabeta.viabcu.com
 wwvv.secure-notifications.co
 www-01.nanopool.org
-www-92-8.btcc.com
 www-akamai.outbrain.com
 www-apple-com-anti-virus-systems.virus-removals.com
 www-banner.chat.ru
@@ -108066,7 +107992,6 @@ www.abcinfo.cc
 www.abcjmp.com
 www.abcnet.ro
 www.abestinsulation.org
-www.abhafzan.com
 www.abipoland.pl
 www.ableimmigration.ca
 www.about-preferences.host
@@ -108082,7 +108007,6 @@ www.acapic.com
 www.acbp0020171456.page.tl
 www.acces-inc-pay-pal.ml
 www.accessshopthemes.com
-www.accesstrade.vn
 www.accessvegas.com
 www.accidentadvicehelpline.co.uk
 www.acclaimenvironmental.co.uk
@@ -108153,7 +108077,6 @@ www.ad2.thumbs.ero-advertising.com
 www.ad3.api.ero-advertising.com
 www.ad3.banners.ero-advertising.com
 www.ad360.vn
-www.ad4.adspaces.ero-advertising.com
 www.ad4.api.ero-advertising.com
 www.ad4.banners.ero-advertising.com
 www.ad4.layerads.ero-advertising.com
@@ -108552,6 +108475,7 @@ www.akademiamocowania.pl
 www.akademianaukowa.pl
 www.akademiasw.pl
 www.akaritech.com
+www.akashdayalgroups.com
 www.akazoo.pl
 www.akbick.com
 www.akcjainijob.pl
@@ -108812,7 +108736,6 @@ www.appia.com
 www.appiq.mobi
 www.appk.mobi
 www.apple.coinking.io
-www.apple.com-care-macbook-system.live
 www.apple.com-clean-macbook-system.live
 www.apple.com-clean-macbook.live
 www.apple.com-shield-guard.live
@@ -110467,7 +110390,6 @@ www.data-ero-advertising.com
 www.data2.ero-advertising.com
 www.datadoghq-browser-agent.com
 www.dataforce.net
-www.datahunt.spectresecurity.io
 www.datatech.es
 www.date.ero-advertising.com
 www.datethatgirls.com
@@ -110856,6 +110778,7 @@ www.eapa.org
 www.eapn.pt
 www.earnify.com
 www.earnstations.com
+www.earnyourcash.net
 www.earthpowerint.com
 www.earthwax.top
 www.easticoin.org
@@ -111566,6 +111489,7 @@ www.foto-zdjecia.24.eu
 www.foto2.pl
 www.fotobraj.pl
 www.fotobudkahihotka.pl
+www.fotograficzny.fun
 www.fotoidea.com
 www.fotokaszuby.pl
 www.fotokraci.pl
@@ -112636,7 +112560,6 @@ www.iphonepolska.pl
 www.ipinyou.com
 www.ipinyou.com.cn
 www.iplogger.com
-www.iplogger.org
 www.iplogger.ru
 www.iplua.o.xoxknct.com
 www.ipominer.com
@@ -113054,6 +112977,7 @@ www.kollaart.org
 www.kolor.oq.pl
 www.kometal.pl
 www.komodia.com
+www.komornik-gov24.com
 www.kompiutery.pl
 www.koncepcjakirka.pl
 www.konferencje.vantis.pl
@@ -113083,6 +113007,7 @@ www.kpremium.com
 www.kpzkaj.pl
 www.kqlokjfrnz.com
 www.kqzyfj.com
+www.kraina-kopciuszka.pl
 www.kramikeli.pl
 www.krapyak.id
 www.krasnal-zlotoweczka.pl
@@ -113125,6 +113050,7 @@ www.kulturalubuska.pl
 www.kunay.nullrefexcep.com
 www.kunjia.org
 www.kupujemy.to
+www.kur24pl.eu
 www.kuriero.pl
 www.kursimebel.com
 www.kurtkacgallegro.com
@@ -114803,6 +114729,7 @@ www.p2pools.us
 www.p3322.com
 www.p33844.clksite.com
 www.pacyfka99.pl
+www.paczka.poczta-pay.com
 www.padirsaze.com
 www.pagechoice.net
 www.pagefair.com
@@ -115134,6 +115061,7 @@ www.pobiieerz-fotografiee.eu
 www.poc.foxypool.cf
 www.pociagdoukrainy.pl
 www.pocketwhale.info
+www.poczta-pay.com
 www.poczta-polska.net
 www.pocztexpolska24.com
 www.pod004.site
@@ -115359,6 +115287,7 @@ www.professionaldga.com
 www.proficredit.pl
 www.profill-smd.com
 www.profistend.info
+www.profit-trader.net
 www.profitablesoft.top
 www.profitbotpro.com
 www.profitechnik.pl
@@ -116162,6 +116091,7 @@ www.serwis.kb.help
 www.serwisagd-waw.pl
 www.serwislaptopowwarszawa.com.pl
 www.sesvanderhave.com
+www.setup-firefox.host
 www.sevabit.com
 www.sex-and-flirt.com
 www.sexadvertentiesite.nl
@@ -116296,7 +116226,6 @@ www.sion.com.hr
 www.siovv.voluumtrk.com
 www.sipp.pl
 www.sirigor.republika.pl
-www.sirijayareddypsychologist.com
 www.sirius-expedition.com
 www.siriuspool.net
 www.siroccogoldfci.pl
@@ -118199,6 +118128,7 @@ www.wymyslprezent.pl
 www.wypoczywajunas.pl
 www.wyprzedazobuwie.pl
 www.wyremontujklinike.pl
+www.wys24h.eu
 www.wysistat.com
 www.wytypowany-zwyciezca.com
 www.wytypowany-zwyciezca.pl
@@ -118961,6 +118891,7 @@ wyont.queensiteforapp.com
 wypoczywajunas.pl
 wyprzedazobuwie.pl
 wyremontujklinike.pl
+wys24h.eu
 wysara.pw
 wysasys.com
 wysistat.com
@@ -119995,7 +119926,6 @@ xrsfwclojycu.com
 xruuohzpxmmw.com
 xrvyetdriwzp.com
 xs.1drj.com
-xs.btcc.com
 xs.he9630.com
 xs.houyi.baofeng.net
 xs.instreamatic.com
@@ -120090,7 +120020,6 @@ xtnc.mine2gether.com
 xtnc.pool-pay.com
 xtncturtle.luckypool.io
 xtncwallet.llama.horse
-xto.btcc.com
 xtop.me
 xtqizu.com
 xtractor.no
@@ -120278,7 +120207,6 @@ xzywlbgldmpi.com
 y-track.com
 y.amobee.com
 y.analytics.yahoo.com
-y.btcc.com
 y.btdc8.cn
 y.da.hunantv.com
 y.da.mgtv.com

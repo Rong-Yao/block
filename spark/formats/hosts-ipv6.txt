@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.053
 # Release: 053
-# Entries: 61,156
+# Entries: 61,173
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 00:10:22
+# Updated: Sat, 22 Feb 20 06:10:22
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -3375,7 +3375,6 @@ ff02::3 ip6-allhosts
 :: ad4push.com
 :: ad4screen.com
 :: ad5.adriver.ru
-:: ad5.adspaces.ero-advertising.com
 :: ad5.banners.ero-advertising.com
 :: ad5.bigmir.net
 :: ad5.contentabc.com
@@ -7091,6 +7090,7 @@ ff02::3 ip6-allhosts
 :: aimes.com
 :: aimg.fc2.com
 :: aimg.media.net
+:: ainess.pro
 :: aintinuumdelos.com
 :: aio.media
 :: aio_flashlight.s.xoxknct.com
@@ -7202,6 +7202,7 @@ ff02::3 ip6-allhosts
 :: akamai.vungle-cdn.vungle.com
 :: akapiprod.netmera.com
 :: akar.iad.appboy.com
+:: akashdayalgroups.com
 :: akatracking.esearchvision.com
 :: akavita.com
 :: akbeyfcu.com
@@ -10163,6 +10164,7 @@ ff02::3 ip6-allhosts
 :: aud-lhr.pubmatic.com
 :: aud.pubmatic.com
 :: aud11000.pubmatic.com
+:: aud3g.com
 :: audacity.es
 :: audacity.fr
 :: audersmi.com
@@ -10382,6 +10384,7 @@ ff02::3 ip6-allhosts
 :: awgdgpawhwgi.bid
 :: awgsmfzrslcp.com
 :: awhootoa.net
+:: awhoufob.com
 :: awhxbiqf.com
 :: awin.com
 :: awin1.com
@@ -15226,6 +15229,7 @@ ff02::3 ip6-allhosts
 :: clothingsshopping.club
 :: clotholip.xyz
 :: clothsdinfg.xyz
+:: cloud-based-service.us-south.cf.appdomain.cloud
 :: cloud-emea.analytics-egain.com
 :: cloud-graphql-live.us-east-1.elasticbeanstalk.com
 :: cloud-observer.ip-label.net
@@ -18366,6 +18370,7 @@ ff02::3 ip6-allhosts
 :: dianepiette.co.uk
 :: dianomi.com
 :: dianomioffers.co.uk
+:: diantcummiere.info
 :: diapi.webgains.com
 :: diaryofagameaddict.com
 :: diazepam.shengen.ru
@@ -20441,6 +20446,7 @@ ff02::3 ip6-allhosts
 :: ennwwuxijwjgdm.bid
 :: enokjulejktukh.com
 :: enoratraffic.com
+:: enormitteen.pro
 :: enoughts.info
 :: enquisite.com
 :: enrcqdgqnjb.com
@@ -21390,6 +21396,7 @@ ff02::3 ip6-allhosts
 :: fadsecs.com
 :: fadsecz.com
 :: fadsims.com
+:: fadsips.com
 :: fadskis.com
 :: fadslims.com
 :: fadsoks.com
@@ -22177,6 +22184,7 @@ ff02::3 ip6-allhosts
 :: foreman-dub.krxd.net
 :: foreman-pdx.krxd.net
 :: forestchild-leather.com
+:: foreventwithenwas.info
 :: forex-affiliate.com
 :: forex-affiliate.net
 :: forex-broker.hut1.ru
@@ -26988,6 +26996,7 @@ ff02::3 ip6-allhosts
 :: imgad2.3conline.com
 :: imgad3.3conline.com
 :: imgadult.com
+:: imgair.net
 :: imgc.psychcentral.com
 :: imgdew.pw
 :: imgfeedget.com
@@ -27002,6 +27011,7 @@ ff02::3 ip6-allhosts
 :: imgg.traffic-media.co.uk
 :: imggprx.mgid.com
 :: imggprx.traffic-media.co.uk
+:: imghot.net
 :: imgkcxjlrlqf.com
 :: imglinks.industrybrains.com
 :: imglnka.com
@@ -27527,6 +27537,7 @@ ff02::3 ip6-allhosts
 :: insurads.com
 :: insurance-info.us
 :: insurancejournal.freestats.com
+:: insurances.tips
 :: int.a-ads.com
 :: int.dpool.sina.com.cn
 :: int.propellerads.com
@@ -29063,6 +29074,7 @@ ff02::3 ip6-allhosts
 :: kazaa.com
 :: kb.adacts.com
 :: kb.bluekai.com
+:: kbaomelffq.com
 :: kbaughmanphotography.com
 :: kbbmain.112.2o7.net
 :: kbd1.kpns.ijinshan.com
@@ -29285,6 +29297,7 @@ ff02::3 ip6-allhosts
 :: kioxqnfhyh.com
 :: kip5j.com
 :: kipasdenim.com
+:: kipemhoxruov.com
 :: kiplingbagshop.club
 :: kiplingbuy.online
 :: kiplinger-d.openx.net
@@ -31128,6 +31141,7 @@ ff02::3 ip6-allhosts
 :: lptnfhmvnd.com
 :: lptrack.co
 :: lptracker.net.ru
+:: lpvgsdbtcmyqy.com
 :: lpwre.top
 :: lpwwerdeef.com
 :: lpwzjhkuwbe.com
@@ -38959,6 +38973,7 @@ ff02::3 ip6-allhosts
 :: pixhost.icu
 :: pixiv.org
 :: pixjqfvlsqvu.com
+:: pixsense.net
 :: pixtrack.in
 :: pixxur.com
 :: piyzmkcxa.bid
@@ -40844,6 +40859,7 @@ ff02::3 ip6-allhosts
 :: pushnews.org
 :: pushnice.com
 :: pushno.com
+:: pushnotifications.click
 :: pushns.ibuildapp.com
 :: pushofferpro.com
 :: pushokey.com
@@ -41485,6 +41501,7 @@ ff02::3 ip6-allhosts
 :: qrcsppwzjryh.com
 :: qrecxvdoewmztq.com
 :: qregqtqtuisj.com
+:: qreoifgajnoor.com
 :: qriasmotw.bid
 :: qrirkdzdxtxc.com
 :: qrjvglpkpl.bid
@@ -43852,6 +43869,7 @@ ff02::3 ip6-allhosts
 :: sadcat.tk
 :: sade-ecrivain.com
 :: sadiqtv.com
+:: sadorsagreeng.info
 :: sads.mobclix.com
 :: sadsabs.com
 :: sadsamps.com
@@ -45314,6 +45332,7 @@ ff02::3 ip6-allhosts
 :: shinystat.com
 :: shinystat.it
 :: shinystat.shiny.it
+:: shiptoud.com
 :: shiqzx.com
 :: shirareru.microad.co.jp
 :: shitiphu.com
@@ -55651,7 +55670,6 @@ ff02::3 ip6-allhosts
 :: wwa.ero-advertising.com
 :: wwaol.com
 :: wwatchcomusa.112.2o7.net
-:: wwbanners2.ero-advertising.com
 :: wwbn.com
 :: wwbzfppvhiebl.com
 :: wweconsumer.112.2o7.net
@@ -55853,7 +55871,6 @@ ff02::3 ip6-allhosts
 :: www.ad2.thumbs.ero-advertising.com
 :: www.ad3.api.ero-advertising.com
 :: www.ad3.banners.ero-advertising.com
-:: www.ad4.adspaces.ero-advertising.com
 :: www.ad4.api.ero-advertising.com
 :: www.ad4.banners.ero-advertising.com
 :: www.ad4.layerads.ero-advertising.com
@@ -56130,6 +56147,7 @@ ff02::3 ip6-allhosts
 :: www.aimes.com
 :: www.airadmins.com
 :: www.airsonett.se
+:: www.akashdayalgroups.com
 :: www.akirkpatrick.com
 :: www.alb.reddit.com
 :: www.albiondrugs.com
@@ -57314,7 +57332,6 @@ ff02::3 ip6-allhosts
 :: www.iovation.com
 :: www.iperbanner.com
 :: www.iplogger.com
-:: www.iplogger.org
 :: www.iplogger.ru
 :: www.iplua.o.xoxknct.com
 :: www.ipuss.tv

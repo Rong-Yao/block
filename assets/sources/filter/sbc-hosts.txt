@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # Last Converted - 22.02.2020
-# Total Domains - 801
+# Total Domains - 799
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -47,7 +47,6 @@
 0.0.0.0 ad4.api.ero-advertising.com
 0.0.0.0 ad4.banners.ero-advertising.com
 0.0.0.0 ad4.layerads.ero-advertising.com
-0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.fpa.ero-advertising.com
 0.0.0.0 ad6.banners.ero-advertising.com
@@ -85,6 +84,7 @@
 0.0.0.0 afs.ero-advertising.com
 0.0.0.0 agl-intl.hotstar.com
 0.0.0.0 aicleaner.shouji.360.cn
+0.0.0.0 akashdayalgroups.com
 0.0.0.0 alliance4media.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
@@ -181,6 +181,7 @@
 0.0.0.0 chat.ero-advertising.com
 0.0.0.0 chauksoa.net
 0.0.0.0 click.union.ucweb.com
+0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 com-fasting.live
 0.0.0.0 console.rtk.io
 0.0.0.0 consumerproductsusa.com
@@ -420,7 +421,6 @@
 0.0.0.0 speed4cksa.ero-advertising.com
 0.0.0.0 speedclics.ero-advertising.com
 0.0.0.0 speeuclicks.ero-advertising.com
-0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 sportsinteraction.com
 0.0.0.0 spottyfly.com
 0.0.0.0 sqm.telemetry.microsoft.com
@@ -504,7 +504,6 @@
 0.0.0.0 wta.ero-advertising.com
 0.0.0.0 ww2.ero-advertising.com
 0.0.0.0 wwa.ero-advertising.com
-0.0.0.0 wwbanners2.ero-advertising.com
 0.0.0.0 wws.ero-advertising.com
 0.0.0.0 www.0latfee.ero-advertising.com
 0.0.0.0 www.2468.go2cloud.org
@@ -536,7 +535,6 @@
 0.0.0.0 www.ad2.thumbs.ero-advertising.com
 0.0.0.0 www.ad3.api.ero-advertising.com
 0.0.0.0 www.ad3.banners.ero-advertising.com
-0.0.0.0 www.ad4.adspaces.ero-advertising.com
 0.0.0.0 www.ad4.api.ero-advertising.com
 0.0.0.0 www.ad4.banners.ero-advertising.com
 0.0.0.0 www.ad4.layerads.ero-advertising.com
@@ -569,6 +567,7 @@
 0.0.0.0 www.adw.ero-advertising.com
 0.0.0.0 www.adzerk.com
 0.0.0.0 www.afs.ero-advertising.com
+0.0.0.0 www.akashdayalgroups.com
 0.0.0.0 www.alphonso.tv
 0.0.0.0 www.amarktflow.com
 0.0.0.0 www.amazonco.uk
@@ -680,7 +679,6 @@
 0.0.0.0 www.intext.ero-advertising.com
 0.0.0.0 www.ioads.ero-advertising.com
 0.0.0.0 www.iplogger.com
-0.0.0.0 www.iplogger.org
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.ipuss.tv
 0.0.0.0 www.js.ads.ero-advertising.com

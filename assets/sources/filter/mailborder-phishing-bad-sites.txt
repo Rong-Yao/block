@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
 # Last Converted - 22.02.2020
-# Total Domains - 13864
+# Total Domains - 13863
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1226,7 +1226,6 @@
 0.0.0.0 banconet.org
 0.0.0.0 bancoposta.sicurezza.poste.it.taborda.com
 0.0.0.0 bancosdigitais.net
-0.0.0.0 band.novahue.org
 0.0.0.0 bandaconmocion.com
 0.0.0.0 banddz.com
 0.0.0.0 bandithound.com

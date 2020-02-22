@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.053
 # Release: 053
-# Entries: 63,453
+# Entries: 63,464
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 00:15:00
+# Updated: Sat, 22 Feb 20 06:15:10
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -6282,6 +6282,7 @@ awfull.pro
 awgsmfzrslcp.com
 awhate.ru
 awhootoa.net
+awhoufob.com
 awhxbiqf.com
 awifi.cn
 awin1.com
@@ -11086,6 +11087,7 @@ d1vguuq5efvsfq.cloudfront.net
 d1vp02a2w2d335.cloudfront.net
 d1vrcwxei1aj0g.cloudfront.net
 d1vwpe7grtcv9d.cloudfront.net
+d1w24oanovvxvg.cloudfront.net
 d1wi563t0137vz.cloudfront.net
 d1wjj8n9m51z7v.cloudfront.net
 d1wjz6mrey9f5v.cloudfront.net
@@ -12087,6 +12089,7 @@ dian500.com
 dian5000.com
 dianomi.com
 dianomioffers.co.uk
+diantcummiere.info
 dianwenwang.com
 dianxin.com
 diaobanstudio.com
@@ -13726,6 +13729,7 @@ enokjulejktukh.com
 enolatekoa.com
 enoratraffic.com
 enorkear.ru
+enormitteen.pro
 enot.k-yroky.ru
 enoughts.info
 enousouz.info
@@ -20789,6 +20793,7 @@ kawmxbphaj.com
 kayfdraimewk.com
 kazban.su
 kazmedia.su
+kbaomelffq.com
 kbdstwnruc.com
 kbgyxsoskilli.com
 kbhaxxsiucgnek.com
@@ -21094,6 +21099,7 @@ kiosked.com
 kioxprngouirqu.com
 kioxqnfhyh.com
 kip5j.com
+kipemhoxruov.com
 kipfilms.ru
 kipoutch.net
 kipyn.com
@@ -22827,6 +22833,7 @@ lpsgc.cn
 lptggobhuuxcdw.com
 lptiu.top
 lptnfhmvnd.com
+lpvgsdbtcmyqy.com
 lpwre.top
 lpwwerdeef.com
 lpwzjhkuwbe.com
@@ -23994,6 +24001,7 @@ mendoc.cn
 menemier.info
 menepe.com
 meng.360zuowen.com
+mengbingyuan.com
 mengchengbao.com
 mengheyu.com
 menghuanzs.com
@@ -30889,6 +30897,7 @@ qrdqbe.cn
 qrecxvdoewmztq.com
 qregation.info
 qregqtqtuisj.com
+qreoifgajnoor.com
 qriasmotw.bid
 qrirkdzdxtxc.com
 qrjvglpkpl.bid
@@ -32773,6 +32782,7 @@ sadbads.com
 sadji.cricket
 sadkasd.party
 sadobo.com
+sadorsagreeng.info
 sadsabs.com
 sadsamps.com
 sadsans.com
@@ -33633,6 +33643,7 @@ shinkme.com
 shinobi.jp
 shiokambing2.com
 shipboardserviceberrysiltstone.info
+shiptoud.com
 shipyards.xyz
 shitiphu.com
 shjmjmds.com

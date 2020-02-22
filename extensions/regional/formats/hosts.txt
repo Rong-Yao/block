@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.053
 # Release: 053
-# Entries: 63,453
+# Entries: 63,464
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 00:15:00
+# Updated: Sat, 22 Feb 20 06:15:10
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -6301,6 +6301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 awgsmfzrslcp.com
 0.0.0.0 awhate.ru
 0.0.0.0 awhootoa.net
+0.0.0.0 awhoufob.com
 0.0.0.0 awhxbiqf.com
 0.0.0.0 awifi.cn
 0.0.0.0 awin1.com
@@ -11105,6 +11106,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1vp02a2w2d335.cloudfront.net
 0.0.0.0 d1vrcwxei1aj0g.cloudfront.net
 0.0.0.0 d1vwpe7grtcv9d.cloudfront.net
+0.0.0.0 d1w24oanovvxvg.cloudfront.net
 0.0.0.0 d1wi563t0137vz.cloudfront.net
 0.0.0.0 d1wjj8n9m51z7v.cloudfront.net
 0.0.0.0 d1wjz6mrey9f5v.cloudfront.net
@@ -12106,6 +12108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dian5000.com
 0.0.0.0 dianomi.com
 0.0.0.0 dianomioffers.co.uk
+0.0.0.0 diantcummiere.info
 0.0.0.0 dianwenwang.com
 0.0.0.0 dianxin.com
 0.0.0.0 diaobanstudio.com
@@ -13745,6 +13748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 enolatekoa.com
 0.0.0.0 enoratraffic.com
 0.0.0.0 enorkear.ru
+0.0.0.0 enormitteen.pro
 0.0.0.0 enot.k-yroky.ru
 0.0.0.0 enoughts.info
 0.0.0.0 enousouz.info
@@ -20808,6 +20812,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kayfdraimewk.com
 0.0.0.0 kazban.su
 0.0.0.0 kazmedia.su
+0.0.0.0 kbaomelffq.com
 0.0.0.0 kbdstwnruc.com
 0.0.0.0 kbgyxsoskilli.com
 0.0.0.0 kbhaxxsiucgnek.com
@@ -21113,6 +21118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kioxprngouirqu.com
 0.0.0.0 kioxqnfhyh.com
 0.0.0.0 kip5j.com
+0.0.0.0 kipemhoxruov.com
 0.0.0.0 kipfilms.ru
 0.0.0.0 kipoutch.net
 0.0.0.0 kipyn.com
@@ -22846,6 +22852,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lptiu.top
 0.0.0.0 lptnfhmvnd.com
+0.0.0.0 lpvgsdbtcmyqy.com
 0.0.0.0 lpwre.top
 0.0.0.0 lpwwerdeef.com
 0.0.0.0 lpwzjhkuwbe.com
@@ -24013,6 +24020,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 menemier.info
 0.0.0.0 menepe.com
 0.0.0.0 meng.360zuowen.com
+0.0.0.0 mengbingyuan.com
 0.0.0.0 mengchengbao.com
 0.0.0.0 mengheyu.com
 0.0.0.0 menghuanzs.com
@@ -30908,6 +30916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qrecxvdoewmztq.com
 0.0.0.0 qregation.info
 0.0.0.0 qregqtqtuisj.com
+0.0.0.0 qreoifgajnoor.com
 0.0.0.0 qriasmotw.bid
 0.0.0.0 qrirkdzdxtxc.com
 0.0.0.0 qrjvglpkpl.bid
@@ -32792,6 +32801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sadji.cricket
 0.0.0.0 sadkasd.party
 0.0.0.0 sadobo.com
+0.0.0.0 sadorsagreeng.info
 0.0.0.0 sadsabs.com
 0.0.0.0 sadsamps.com
 0.0.0.0 sadsans.com
@@ -33652,6 +33662,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shinobi.jp
 0.0.0.0 shiokambing2.com
 0.0.0.0 shipboardserviceberrysiltstone.info
+0.0.0.0 shiptoud.com
 0.0.0.0 shipyards.xyz
 0.0.0.0 shitiphu.com
 0.0.0.0 shjmjmds.com

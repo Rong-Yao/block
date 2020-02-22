@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Last Converted - 22.02.2020
-# Total Domains - 25625
+# Total Domains - 25624
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -21591,7 +21591,6 @@
 0.0.0.0 www.abc.prawo.link
 0.0.0.0 www.abcjmp.com
 0.0.0.0 www.abestinsulation.org
-0.0.0.0 www.abhafzan.com
 0.0.0.0 www.ableimmigration.ca
 0.0.0.0 www.absolutesocialmedia.com
 0.0.0.0 www.aca-uccle.be

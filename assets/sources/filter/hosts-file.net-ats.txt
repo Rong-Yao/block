@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
 # Last Converted - 22.02.2020
-# Total Domains - 31585
+# Total Domains - 31583
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -13352,7 +13352,6 @@
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4me.net
 0.0.0.0 ad4partners.com
-0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.fpa.ero-advertising.com
 0.0.0.0 ad5.paycount.com
@@ -30047,7 +30046,6 @@
 0.0.0.0 ww856.smartadserver.com
 0.0.0.0 ww881.smartadserver.com
 0.0.0.0 wwa.ero-advertising.com
-0.0.0.0 wwbanners2.ero-advertising.com
 0.0.0.0 wweconsumer.112.2o7.net
 0.0.0.0 wws.ero-advertising.com
 0.0.0.0 wwv4ez0n.com

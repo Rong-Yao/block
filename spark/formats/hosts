@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.053
 # Release: 053
-# Entries: 61,156
+# Entries: 61,173
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 00:10:22
+# Updated: Sat, 22 Feb 20 06:10:22
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -3375,7 +3375,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad4push.com
 0.0.0.0 ad4screen.com
 0.0.0.0 ad5.adriver.ru
-0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.bigmir.net
 0.0.0.0 ad5.contentabc.com
@@ -7091,6 +7090,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aimes.com
 0.0.0.0 aimg.fc2.com
 0.0.0.0 aimg.media.net
+0.0.0.0 ainess.pro
 0.0.0.0 aintinuumdelos.com
 0.0.0.0 aio.media
 0.0.0.0 aio_flashlight.s.xoxknct.com
@@ -7202,6 +7202,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 akamai.vungle-cdn.vungle.com
 0.0.0.0 akapiprod.netmera.com
 0.0.0.0 akar.iad.appboy.com
+0.0.0.0 akashdayalgroups.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 akavita.com
 0.0.0.0 akbeyfcu.com
@@ -10163,6 +10164,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aud-lhr.pubmatic.com
 0.0.0.0 aud.pubmatic.com
 0.0.0.0 aud11000.pubmatic.com
+0.0.0.0 aud3g.com
 0.0.0.0 audacity.es
 0.0.0.0 audacity.fr
 0.0.0.0 audersmi.com
@@ -10382,6 +10384,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 awgdgpawhwgi.bid
 0.0.0.0 awgsmfzrslcp.com
 0.0.0.0 awhootoa.net
+0.0.0.0 awhoufob.com
 0.0.0.0 awhxbiqf.com
 0.0.0.0 awin.com
 0.0.0.0 awin1.com
@@ -15226,6 +15229,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clothingsshopping.club
 0.0.0.0 clotholip.xyz
 0.0.0.0 clothsdinfg.xyz
+0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-graphql-live.us-east-1.elasticbeanstalk.com
 0.0.0.0 cloud-observer.ip-label.net
@@ -18366,6 +18370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dianepiette.co.uk
 0.0.0.0 dianomi.com
 0.0.0.0 dianomioffers.co.uk
+0.0.0.0 diantcummiere.info
 0.0.0.0 diapi.webgains.com
 0.0.0.0 diaryofagameaddict.com
 0.0.0.0 diazepam.shengen.ru
@@ -20441,6 +20446,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ennwwuxijwjgdm.bid
 0.0.0.0 enokjulejktukh.com
 0.0.0.0 enoratraffic.com
+0.0.0.0 enormitteen.pro
 0.0.0.0 enoughts.info
 0.0.0.0 enquisite.com
 0.0.0.0 enrcqdgqnjb.com
@@ -21390,6 +21396,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fadsecs.com
 0.0.0.0 fadsecz.com
 0.0.0.0 fadsims.com
+0.0.0.0 fadsips.com
 0.0.0.0 fadskis.com
 0.0.0.0 fadslims.com
 0.0.0.0 fadsoks.com
@@ -22177,6 +22184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 foreman-dub.krxd.net
 0.0.0.0 foreman-pdx.krxd.net
 0.0.0.0 forestchild-leather.com
+0.0.0.0 foreventwithenwas.info
 0.0.0.0 forex-affiliate.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 forex-broker.hut1.ru
@@ -26988,6 +26996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imgad2.3conline.com
 0.0.0.0 imgad3.3conline.com
 0.0.0.0 imgadult.com
+0.0.0.0 imgair.net
 0.0.0.0 imgc.psychcentral.com
 0.0.0.0 imgdew.pw
 0.0.0.0 imgfeedget.com
@@ -27002,6 +27011,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 imgg.traffic-media.co.uk
 0.0.0.0 imggprx.mgid.com
 0.0.0.0 imggprx.traffic-media.co.uk
+0.0.0.0 imghot.net
 0.0.0.0 imgkcxjlrlqf.com
 0.0.0.0 imglinks.industrybrains.com
 0.0.0.0 imglnka.com
@@ -27527,6 +27537,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 insurads.com
 0.0.0.0 insurance-info.us
 0.0.0.0 insurancejournal.freestats.com
+0.0.0.0 insurances.tips
 0.0.0.0 int.a-ads.com
 0.0.0.0 int.dpool.sina.com.cn
 0.0.0.0 int.propellerads.com
@@ -29063,6 +29074,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kazaa.com
 0.0.0.0 kb.adacts.com
 0.0.0.0 kb.bluekai.com
+0.0.0.0 kbaomelffq.com
 0.0.0.0 kbaughmanphotography.com
 0.0.0.0 kbbmain.112.2o7.net
 0.0.0.0 kbd1.kpns.ijinshan.com
@@ -29285,6 +29297,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kioxqnfhyh.com
 0.0.0.0 kip5j.com
 0.0.0.0 kipasdenim.com
+0.0.0.0 kipemhoxruov.com
 0.0.0.0 kiplingbagshop.club
 0.0.0.0 kiplingbuy.online
 0.0.0.0 kiplinger-d.openx.net
@@ -31128,6 +31141,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lptnfhmvnd.com
 0.0.0.0 lptrack.co
 0.0.0.0 lptracker.net.ru
+0.0.0.0 lpvgsdbtcmyqy.com
 0.0.0.0 lpwre.top
 0.0.0.0 lpwwerdeef.com
 0.0.0.0 lpwzjhkuwbe.com
@@ -38959,6 +38973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixhost.icu
 0.0.0.0 pixiv.org
 0.0.0.0 pixjqfvlsqvu.com
+0.0.0.0 pixsense.net
 0.0.0.0 pixtrack.in
 0.0.0.0 pixxur.com
 0.0.0.0 piyzmkcxa.bid
@@ -40844,6 +40859,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pushnews.org
 0.0.0.0 pushnice.com
 0.0.0.0 pushno.com
+0.0.0.0 pushnotifications.click
 0.0.0.0 pushns.ibuildapp.com
 0.0.0.0 pushofferpro.com
 0.0.0.0 pushokey.com
@@ -41485,6 +41501,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qrcsppwzjryh.com
 0.0.0.0 qrecxvdoewmztq.com
 0.0.0.0 qregqtqtuisj.com
+0.0.0.0 qreoifgajnoor.com
 0.0.0.0 qriasmotw.bid
 0.0.0.0 qrirkdzdxtxc.com
 0.0.0.0 qrjvglpkpl.bid
@@ -43852,6 +43869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sadcat.tk
 0.0.0.0 sade-ecrivain.com
 0.0.0.0 sadiqtv.com
+0.0.0.0 sadorsagreeng.info
 0.0.0.0 sads.mobclix.com
 0.0.0.0 sadsabs.com
 0.0.0.0 sadsamps.com
@@ -45314,6 +45332,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shinystat.shiny.it
+0.0.0.0 shiptoud.com
 0.0.0.0 shiqzx.com
 0.0.0.0 shirareru.microad.co.jp
 0.0.0.0 shitiphu.com
@@ -55651,7 +55670,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wwa.ero-advertising.com
 0.0.0.0 wwaol.com
 0.0.0.0 wwatchcomusa.112.2o7.net
-0.0.0.0 wwbanners2.ero-advertising.com
 0.0.0.0 wwbn.com
 0.0.0.0 wwbzfppvhiebl.com
 0.0.0.0 wweconsumer.112.2o7.net
@@ -55853,7 +55871,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ad2.thumbs.ero-advertising.com
 0.0.0.0 www.ad3.api.ero-advertising.com
 0.0.0.0 www.ad3.banners.ero-advertising.com
-0.0.0.0 www.ad4.adspaces.ero-advertising.com
 0.0.0.0 www.ad4.api.ero-advertising.com
 0.0.0.0 www.ad4.banners.ero-advertising.com
 0.0.0.0 www.ad4.layerads.ero-advertising.com
@@ -56130,6 +56147,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.aimes.com
 0.0.0.0 www.airadmins.com
 0.0.0.0 www.airsonett.se
+0.0.0.0 www.akashdayalgroups.com
 0.0.0.0 www.akirkpatrick.com
 0.0.0.0 www.alb.reddit.com
 0.0.0.0 www.albiondrugs.com
@@ -57314,7 +57332,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.iovation.com
 0.0.0.0 www.iperbanner.com
 0.0.0.0 www.iplogger.com
-0.0.0.0 www.iplogger.org
 0.0.0.0 www.iplogger.ru
 0.0.0.0 www.iplua.o.xoxknct.com
 0.0.0.0 www.ipuss.tv

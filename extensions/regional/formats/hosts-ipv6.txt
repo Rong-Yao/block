@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.053
 # Release: 053
-# Entries: 63,453
+# Entries: 63,464
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 00:15:00
+# Updated: Sat, 22 Feb 20 06:15:10
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -6301,6 +6301,7 @@ ff02::3 ip6-allhosts
 :: awgsmfzrslcp.com
 :: awhate.ru
 :: awhootoa.net
+:: awhoufob.com
 :: awhxbiqf.com
 :: awifi.cn
 :: awin1.com
@@ -11105,6 +11106,7 @@ ff02::3 ip6-allhosts
 :: d1vp02a2w2d335.cloudfront.net
 :: d1vrcwxei1aj0g.cloudfront.net
 :: d1vwpe7grtcv9d.cloudfront.net
+:: d1w24oanovvxvg.cloudfront.net
 :: d1wi563t0137vz.cloudfront.net
 :: d1wjj8n9m51z7v.cloudfront.net
 :: d1wjz6mrey9f5v.cloudfront.net
@@ -12106,6 +12108,7 @@ ff02::3 ip6-allhosts
 :: dian5000.com
 :: dianomi.com
 :: dianomioffers.co.uk
+:: diantcummiere.info
 :: dianwenwang.com
 :: dianxin.com
 :: diaobanstudio.com
@@ -13745,6 +13748,7 @@ ff02::3 ip6-allhosts
 :: enolatekoa.com
 :: enoratraffic.com
 :: enorkear.ru
+:: enormitteen.pro
 :: enot.k-yroky.ru
 :: enoughts.info
 :: enousouz.info
@@ -20808,6 +20812,7 @@ ff02::3 ip6-allhosts
 :: kayfdraimewk.com
 :: kazban.su
 :: kazmedia.su
+:: kbaomelffq.com
 :: kbdstwnruc.com
 :: kbgyxsoskilli.com
 :: kbhaxxsiucgnek.com
@@ -21113,6 +21118,7 @@ ff02::3 ip6-allhosts
 :: kioxprngouirqu.com
 :: kioxqnfhyh.com
 :: kip5j.com
+:: kipemhoxruov.com
 :: kipfilms.ru
 :: kipoutch.net
 :: kipyn.com
@@ -22846,6 +22852,7 @@ ff02::3 ip6-allhosts
 :: lptggobhuuxcdw.com
 :: lptiu.top
 :: lptnfhmvnd.com
+:: lpvgsdbtcmyqy.com
 :: lpwre.top
 :: lpwwerdeef.com
 :: lpwzjhkuwbe.com
@@ -24013,6 +24020,7 @@ ff02::3 ip6-allhosts
 :: menemier.info
 :: menepe.com
 :: meng.360zuowen.com
+:: mengbingyuan.com
 :: mengchengbao.com
 :: mengheyu.com
 :: menghuanzs.com
@@ -30908,6 +30916,7 @@ ff02::3 ip6-allhosts
 :: qrecxvdoewmztq.com
 :: qregation.info
 :: qregqtqtuisj.com
+:: qreoifgajnoor.com
 :: qriasmotw.bid
 :: qrirkdzdxtxc.com
 :: qrjvglpkpl.bid
@@ -32792,6 +32801,7 @@ ff02::3 ip6-allhosts
 :: sadji.cricket
 :: sadkasd.party
 :: sadobo.com
+:: sadorsagreeng.info
 :: sadsabs.com
 :: sadsamps.com
 :: sadsans.com
@@ -33652,6 +33662,7 @@ ff02::3 ip6-allhosts
 :: shinobi.jp
 :: shiokambing2.com
 :: shipboardserviceberrysiltstone.info
+:: shiptoud.com
 :: shipyards.xyz
 :: shitiphu.com
 :: shjmjmds.com

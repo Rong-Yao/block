@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Last Converted - 22.02.2020
-# Total Domains - 95230
+# Total Domains - 95233
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -15324,6 +15324,7 @@
 0.0.0.0 aivaulttest.applicationinsights.io
 0.0.0.0 aj1.ebis.ne.jp
 0.0.0.0 aj124.infusionsoft.com
+0.0.0.0 aj2073.online
 0.0.0.0 aj225.infusionsoft.com
 0.0.0.0 aj5e.adj.st
 0.0.0.0 aj9wz.app.link
@@ -25566,6 +25567,7 @@
 0.0.0.0 cdn702.rontar.com
 0.0.0.0 cdn703.rontar.com
 0.0.0.0 cdn704.rontar.com
+0.0.0.0 cdn77.aj2073.online
 0.0.0.0 cdn77.omniconvert.com
 0.0.0.0 cdn8.abtasty.com
 0.0.0.0 cdn8.forter.com
@@ -89156,6 +89158,7 @@
 0.0.0.0 www.airfind.com
 0.0.0.0 www.airpr.com
 0.0.0.0 www.airvertiseme.com
+0.0.0.0 www.aj2073.online
 0.0.0.0 www.akademija.marketing365.mk
 0.0.0.0 www.aks.go.pl
 0.0.0.0 www.akstat.io

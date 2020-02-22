@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 22.02.2020
-# Total Domains - 5218
+# Total Domains - 5208
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -901,7 +901,6 @@
 0.0.0.0 chyfjrkstyzl.bid
 0.0.0.0 chytrrvwvabg.com
 0.0.0.0 chzashakbgds.com
-0.0.0.0 ci.liquidblock.xyz
 0.0.0.0 ciaszbncdj.bid
 0.0.0.0 cibmcziio.bid
 0.0.0.0 cieh.mx
@@ -1355,7 +1354,6 @@
 0.0.0.0 doge.thecoinrush.com
 0.0.0.0 dogecoin.dog
 0.0.0.0 dogepool.rf.gd
-0.0.0.0 dogeu.nut2pools.com
 0.0.0.0 dohhehsgnxfl.com
 0.0.0.0 doiljgzpurycgx.bid
 0.0.0.0 doipool.com
@@ -2451,7 +2449,6 @@
 0.0.0.0 izmwtewwobxy.com
 0.0.0.0 iznhvszyizwd.com
 0.0.0.0 iztsbnkxphnj.com
-0.0.0.0 j902757.myjino.ru
 0.0.0.0 jabcdkwmwnek.com
 0.0.0.0 jacroxrssmme.bid
 0.0.0.0 jadecoin.net
@@ -2916,7 +2913,6 @@
 0.0.0.0 loudmining.com
 0.0.0.0 louhimo.net
 0.0.0.0 lovdkmqvoc.bid
-0.0.0.0 lovok.no-ip.com
 0.0.0.0 loxmetwdjrmh.com
 0.0.0.0 lpdeuhyakoits.bid
 0.0.0.0 lpiqwtsuduhh.com
@@ -3075,7 +3071,6 @@
 0.0.0.0 melqdjqiekcv.com
 0.0.0.0 mempool.com
 0.0.0.0 menjyhvs.bid
-0.0.0.0 mensfreedom.ru
 0.0.0.0 mepirtedic.com
 0.0.0.0 mer30.org
 0.0.0.0 mergemining.com
@@ -3937,7 +3932,6 @@
 0.0.0.0 pool.chaucha.cl
 0.0.0.0 pool.coinlab.com
 0.0.0.0 pool.d2.cc
-0.0.0.0 pool.doge.st
 0.0.0.0 pool.ejpool.info
 0.0.0.0 pool.ga
 0.0.0.0 pool.gold
@@ -3946,7 +3940,6 @@
 0.0.0.0 pool.mn
 0.0.0.0 pool.no
 0.0.0.0 pool.pink
-0.0.0.0 pool.rfcpool.com
 0.0.0.0 pool.schaetter.us
 0.0.0.0 pool.se
 0.0.0.0 pool.sexy
@@ -4471,7 +4464,6 @@
 0.0.0.0 server.com
 0.0.0.0 server1.cryptovalley.com
 0.0.0.0 serverpower.net
-0.0.0.0 set0.hhtt.1209k.com
 0.0.0.0 sevabit.com
 0.0.0.0 sfaprgtgcguh.com
 0.0.0.0 sfcckxdgfgzo.com
@@ -4743,7 +4735,6 @@
 0.0.0.0 tdrmyefiig.bid
 0.0.0.0 tdsnpnyg.bid
 0.0.0.0 tdxqgpfkiye.bid
-0.0.0.0 teamcoinye.com
 0.0.0.0 teamdoge.com
 0.0.0.0 techtricksworld.com
 0.0.0.0 tecracoin.io
@@ -5034,7 +5025,6 @@
 0.0.0.0 us.coinum.org
 0.0.0.0 us.ozco.in
 0.0.0.0 us.stratum.ltc.nushor.net
-0.0.0.0 us1eclipsemc.com
 0.0.0.0 usa-1.liteguardian.com
 0.0.0.0 usa-1b.liteguardian.com
 0.0.0.0 usa.liteguardian.com

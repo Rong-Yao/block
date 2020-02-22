@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 22.02.2020
-# Total Domains - 18414
+# Total Domains - 18424
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2312,6 +2312,7 @@
 0.0.0.0 awestatic.com
 0.0.0.0 awgsmfzrslcp.com
 0.0.0.0 awhootoa.net
+0.0.0.0 awhoufob.com
 0.0.0.0 awhxbiqf.com
 0.0.0.0 awltovhc.com
 0.0.0.0 awmpartners.com
@@ -4236,6 +4237,7 @@
 0.0.0.0 d1v99qnc7usc0g.cloudfront.net
 0.0.0.0 d1vrcwxei1aj0g.cloudfront.net
 0.0.0.0 d1vwpe7grtcv9d.cloudfront.net
+0.0.0.0 d1w24oanovvxvg.cloudfront.net
 0.0.0.0 d1wi563t0137vz.cloudfront.net
 0.0.0.0 d1wjz6mrey9f5v.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
@@ -4665,6 +4667,7 @@
 0.0.0.0 diamongs.com
 0.0.0.0 dianomi.com
 0.0.0.0 dianomioffers.co.uk
+0.0.0.0 diantcummiere.info
 0.0.0.0 diaobanstudio.com
 0.0.0.0 dieho.lacasadeltikitakatv.me
 0.0.0.0 diekhxpwngawme.com
@@ -5403,6 +5406,7 @@
 0.0.0.0 enmisindingat.info
 0.0.0.0 enokjulejktukh.com
 0.0.0.0 enoratraffic.com
+0.0.0.0 enormitteen.pro
 0.0.0.0 enoughts.info
 0.0.0.0 enousouz.info
 0.0.0.0 enrcqdgqnjb.com
@@ -8490,6 +8494,7 @@
 0.0.0.0 kaunairu.net
 0.0.0.0 kavanga.ru
 0.0.0.0 kawmxbphaj.com
+0.0.0.0 kbaomelffq.com
 0.0.0.0 kbdstwnruc.com
 0.0.0.0 kbgyxsoskilli.com
 0.0.0.0 kbhaxxsiucgnek.com
@@ -8604,6 +8609,7 @@
 0.0.0.0 kiosked.com
 0.0.0.0 kioxqnfhyh.com
 0.0.0.0 kip5j.com
+0.0.0.0 kipemhoxruov.com
 0.0.0.0 kiqsynap.com
 0.0.0.0 kirilaboola.com
 0.0.0.0 kischartsrelimit.pro
@@ -9289,6 +9295,7 @@
 0.0.0.0 lprkphlgaybvtn.com
 0.0.0.0 lptggobhuuxcdw.com
 0.0.0.0 lptnfhmvnd.com
+0.0.0.0 lpvgsdbtcmyqy.com
 0.0.0.0 lpwre.top
 0.0.0.0 lpwwerdeef.com
 0.0.0.0 lpwzjhkuwbe.com
@@ -13232,6 +13239,7 @@
 0.0.0.0 qrcsppwzjryh.com
 0.0.0.0 qrecxvdoewmztq.com
 0.0.0.0 qregqtqtuisj.com
+0.0.0.0 qreoifgajnoor.com
 0.0.0.0 qriasmotw.bid
 0.0.0.0 qrirkdzdxtxc.com
 0.0.0.0 qrjvglpkpl.bid
@@ -14088,6 +14096,7 @@
 0.0.0.0 sabin.free.fr
 0.0.0.0 saboopiz.net
 0.0.0.0 sadbads.com
+0.0.0.0 sadorsagreeng.info
 0.0.0.0 sadsabs.com
 0.0.0.0 sadsamps.com
 0.0.0.0 sadsans.com
@@ -14406,6 +14415,7 @@
 0.0.0.0 shilian168.cn
 0.0.0.0 shillivee.pro
 0.0.0.0 shinasi.info
+0.0.0.0 shiptoud.com
 0.0.0.0 shitiphu.com
 0.0.0.0 shjmjmds.com
 0.0.0.0 shjuivapg.bid

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
 # Last Converted - 22.02.2020
-# Total Domains - 6848
+# Total Domains - 6847
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2716,7 +2716,6 @@
 0.0.0.0 j4ckd4w.ugu.pl
 0.0.0.0 j6g3fzp.5k5.ru
 0.0.0.0 j7jd72e-001-site1.ftempurl.com
-0.0.0.0 j902757.myjino.ru
 0.0.0.0 j960484.myjino.ru
 0.0.0.0 j962822.myjino.ru
 0.0.0.0 j97463d7.beget.tech

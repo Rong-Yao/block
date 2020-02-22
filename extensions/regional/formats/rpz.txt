@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.053
 ; Release: 053
-; Entries: 63,453
+; Entries: 63,464
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 22 Feb 20 00:15:00
+; Updated: Sat, 22 Feb 20 06:15:10
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6290,6 +6290,7 @@ awfull.pro CNAME .
 awgsmfzrslcp.com CNAME .
 awhate.ru CNAME .
 awhootoa.net CNAME .
+awhoufob.com CNAME .
 awhxbiqf.com CNAME .
 awifi.cn CNAME .
 awin1.com CNAME .
@@ -11094,6 +11095,7 @@ d1vguuq5efvsfq.cloudfront.net CNAME .
 d1vp02a2w2d335.cloudfront.net CNAME .
 d1vrcwxei1aj0g.cloudfront.net CNAME .
 d1vwpe7grtcv9d.cloudfront.net CNAME .
+d1w24oanovvxvg.cloudfront.net CNAME .
 d1wi563t0137vz.cloudfront.net CNAME .
 d1wjj8n9m51z7v.cloudfront.net CNAME .
 d1wjz6mrey9f5v.cloudfront.net CNAME .
@@ -12095,6 +12097,7 @@ dian500.com CNAME .
 dian5000.com CNAME .
 dianomi.com CNAME .
 dianomioffers.co.uk CNAME .
+diantcummiere.info CNAME .
 dianwenwang.com CNAME .
 dianxin.com CNAME .
 diaobanstudio.com CNAME .
@@ -13734,6 +13737,7 @@ enokjulejktukh.com CNAME .
 enolatekoa.com CNAME .
 enoratraffic.com CNAME .
 enorkear.ru CNAME .
+enormitteen.pro CNAME .
 enot.k-yroky.ru CNAME .
 enoughts.info CNAME .
 enousouz.info CNAME .
@@ -20797,6 +20801,7 @@ kawmxbphaj.com CNAME .
 kayfdraimewk.com CNAME .
 kazban.su CNAME .
 kazmedia.su CNAME .
+kbaomelffq.com CNAME .
 kbdstwnruc.com CNAME .
 kbgyxsoskilli.com CNAME .
 kbhaxxsiucgnek.com CNAME .
@@ -21102,6 +21107,7 @@ kiosked.com CNAME .
 kioxprngouirqu.com CNAME .
 kioxqnfhyh.com CNAME .
 kip5j.com CNAME .
+kipemhoxruov.com CNAME .
 kipfilms.ru CNAME .
 kipoutch.net CNAME .
 kipyn.com CNAME .
@@ -22835,6 +22841,7 @@ lpsgc.cn CNAME .
 lptggobhuuxcdw.com CNAME .
 lptiu.top CNAME .
 lptnfhmvnd.com CNAME .
+lpvgsdbtcmyqy.com CNAME .
 lpwre.top CNAME .
 lpwwerdeef.com CNAME .
 lpwzjhkuwbe.com CNAME .
@@ -24002,6 +24009,7 @@ mendoc.cn CNAME .
 menemier.info CNAME .
 menepe.com CNAME .
 meng.360zuowen.com CNAME .
+mengbingyuan.com CNAME .
 mengchengbao.com CNAME .
 mengheyu.com CNAME .
 menghuanzs.com CNAME .
@@ -30897,6 +30905,7 @@ qrdqbe.cn CNAME .
 qrecxvdoewmztq.com CNAME .
 qregation.info CNAME .
 qregqtqtuisj.com CNAME .
+qreoifgajnoor.com CNAME .
 qriasmotw.bid CNAME .
 qrirkdzdxtxc.com CNAME .
 qrjvglpkpl.bid CNAME .
@@ -32781,6 +32790,7 @@ sadbads.com CNAME .
 sadji.cricket CNAME .
 sadkasd.party CNAME .
 sadobo.com CNAME .
+sadorsagreeng.info CNAME .
 sadsabs.com CNAME .
 sadsamps.com CNAME .
 sadsans.com CNAME .
@@ -33641,6 +33651,7 @@ shinkme.com CNAME .
 shinobi.jp CNAME .
 shiokambing2.com CNAME .
 shipboardserviceberrysiltstone.info CNAME .
+shiptoud.com CNAME .
 shipyards.xyz CNAME .
 shitiphu.com CNAME .
 shjmjmds.com CNAME .

@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts IPV6
-# Version: 20.02.053
-# Release: 053
-# Entries: 63,490
+# Version: 20.02.054
+# Release: 054
+# Entries: 63,526
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 18:14:08
+# Updated: Sun, 23 Feb 20 00:13:54
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -6234,6 +6234,7 @@ ff02::3 ip6-allhosts
 :: autoua.com
 :: autoyou1678.com
 :: auwqdpbyl.com
+:: auxml.com
 :: auxmoney-partnerprogramm.de
 :: auyyklnpj.com
 :: av-by.ru
@@ -6930,6 +6931,7 @@ ff02::3 ip6-allhosts
 :: bbackcssmwam.com
 :: bbballs.men
 :: bbbp1.com
+:: bbbr8.com
 :: bbbx.xyz
 :: bbcdn.ad2.ip.ro
 :: bbcdn.go.arbopl.bbelements.com
@@ -7421,6 +7423,7 @@ ff02::3 ip6-allhosts
 :: bidgear-syndication.com
 :: bidgear.com
 :: bidhead.net
+:: bidiology.com
 :: bidmax.cz
 :: bidoraln.com
 :: bidr.trellian.com
@@ -8010,6 +8013,7 @@ ff02::3 ip6-allhosts
 :: bpniszadiuc.com
 :: bpnjigwalqjho.com
 :: bposterss.net
+:: bpplltxabaayhm.com
 :: bppzqphtd.com
 :: bps.sysact.cn
 :: bpsxhmtotf.com
@@ -8711,6 +8715,7 @@ ff02::3 ip6-allhosts
 :: carbours.com
 :: card120.ru
 :: cardniu.com
+:: caredaily.me
 :: careerjournalonline.com
 :: careerlink.vn
 :: carfax.sc.omtrdc.net
@@ -10356,6 +10361,7 @@ ff02::3 ip6-allhosts
 :: counterpartonline.ru
 :: counterparttv.ru
 :: countersys.cn
+:: countertrck.com
 :: countreg.com
 :: coupleglassesofmilk.ru
 :: coupon2buy.com
@@ -10431,6 +10437,7 @@ ff02::3 ip6-allhosts
 :: cpc.cc
 :: cpcclick.novanet.vn
 :: cpcfeed.com
+:: cpcmart.com
 :: cpcv.cc
 :: cpd.adsplay.xyz
 :: cpd.vietad.vn
@@ -12178,6 +12185,7 @@ ff02::3 ip6-allhosts
 :: dillweqbducwi.com
 :: dilruwha.net
 :: dilutercelebraltygu.info
+:: dimessing-parker.com
 :: dimouze.com
 :: dimpy.narod.ru
 :: dimsofiz.net
@@ -12244,6 +12252,7 @@ ff02::3 ip6-allhosts
 :: dirty-tinder.com
 :: disafere.co
 :: disc.host
+:: discoverapp.xyz
 :: discovernative.com
 :: discoverredirect.com
 :: discovery-ptp.eu
@@ -13334,6 +13343,7 @@ ff02::3 ip6-allhosts
 :: echo.andumb.com
 :: echo.biasdo.com
 :: echo.scund.com
+:: echoazou.com
 :: echobanners.net
 :: echtebesucher.de
 :: ecigareta.eu
@@ -13937,6 +13947,7 @@ ff02::3 ip6-allhosts
 :: ervtm9lrdj.com
 :: erxalim.xyz
 :: erxvdkrivto.com
+:: esauwoan.com
 :: esawuervlpptj.com
 :: esc-team.com
 :: escalatenetwork.com
@@ -15495,6 +15506,7 @@ ff02::3 ip6-allhosts
 :: ftrnum.club
 :: ftrnwcewum.club
 :: ftrp4.cn
+:: ftssqcsl.com
 :: ftsygfycaybskz.com
 :: fttsgimpiagrwa.com
 :: ftttziizhuplfj.com
@@ -15779,6 +15791,7 @@ ff02::3 ip6-allhosts
 :: gadsecz.com
 :: gadsimz.com
 :: gadsipz.com
+:: gadsokz.com
 :: gadwhy.com
 :: gaftaums.com
 :: gagacon.com
@@ -16596,6 +16609,7 @@ ff02::3 ip6-allhosts
 :: gobali.cn
 :: gobeerta.net
 :: gobf.ru
+:: gobovoul.net
 :: gobrowserdownload.com
 :: gobylink.info
 :: gocdn.ru
@@ -19655,6 +19669,7 @@ ff02::3 ip6-allhosts
 :: iuhojiqev.com
 :: iuhpbpzwpldqbj.com
 :: iuiyeje4qmbe.ru
+:: iulianus-mon.com
 :: iuncajvw.com
 :: iuooczzbi.com
 :: iuowwbrqblweoa.com
@@ -19819,6 +19834,7 @@ ff02::3 ip6-allhosts
 :: jajkgegza.com
 :: jaklikora.com
 :: jakzpcgrxgda.com
+:: jamestop.xyz
 :: jandolav.com
 :: janesvillelykens.com
 :: jango.com
@@ -19937,6 +19953,7 @@ ff02::3 ip6-allhosts
 :: jeanclementcom.us
 :: jebadu.com
 :: jecbbkrnfn.com
+:: jechesmacaltont.info
 :: jeckethemarbut.net
 :: jeclittrecheckrep.info
 :: jeconotinhi.info
@@ -20519,6 +20536,7 @@ ff02::3 ip6-allhosts
 :: jtneoqbd.com
 :: jtogel.com
 :: jttoioquq.com
+:: jtuvgczhvuptzn.com
 :: jtveisrh.com
 :: jtxh.net
 :: ju33.com
@@ -20730,6 +20748,7 @@ ff02::3 ip6-allhosts
 :: k7tju.xyz
 :: k859n.cn
 :: k8s.dable.io
+:: k8yy.tv
 :: k99.cc
 :: k9wi2d.cn
 :: k9x.net
@@ -22021,6 +22040,7 @@ ff02::3 ip6-allhosts
 :: leokross.com
 :: leonardoadv.it
 :: leoneaningtoldre.pro
+:: leontius-eli.com
 :: lepinsar.com
 :: lepintor.com
 :: lepodownload.mediatek.com
@@ -22201,6 +22221,7 @@ ff02::3 ip6-allhosts
 :: lien-torrent.com
 :: lien.lu
 :: liesiotlpfvjm.com
+:: lievr.cc
 :: liex.ru
 :: lifeads.ru
 :: lifebloggersz.ru
@@ -22742,6 +22763,7 @@ ff02::3 ip6-allhosts
 :: lolhello.com
 :: loli.io
 :: loli.net
+:: lolmp4.com
 :: lologhfd.com
 :: lolshock.com
 :: loltrack.com
@@ -26106,6 +26128,7 @@ ff02::3 ip6-allhosts
 :: nlujbqmtgv.com
 :: nlwy0.com
 :: nlyqwlyykvjl.com
+:: nlzz7a3md4sx.com
 :: nm05qsxpn.tech
 :: nmbtedu.com
 :: nmcdn.us
@@ -27906,6 +27929,7 @@ ff02::3 ip6-allhosts
 :: padfukkk.ru
 :: padla.xyz
 :: padsabz.com
+:: padsatz.com
 :: padsblue.com
 :: padsbrown.com
 :: padsdel.com
@@ -28172,6 +28196,7 @@ ff02::3 ip6-allhosts
 :: patriot.cs.pp.cn
 :: patuarioahzaen.bid
 :: paujoawa.top
+:: paula-secundinus.com
 :: paumoogo.net
 :: paupbxxmhh.com
 :: paupepsu.click
@@ -30104,6 +30129,7 @@ ff02::3 ip6-allhosts
 :: push-time.com
 :: push-tools-system.com
 :: push.exchange
+:: push.house
 :: push.poptm.com
 :: push.yoads.net
 :: push2.yoads.net
@@ -30171,6 +30197,7 @@ ff02::3 ip6-allhosts
 :: pushosubk.com
 :: pushplay.com
 :: pushprofit.ru
+:: pushpush.net
 :: pushqwer.com
 :: pushrase.com
 :: pushresponse.net
@@ -30186,6 +30213,7 @@ ff02::3 ip6-allhosts
 :: pushua.info
 :: pushup.space
 :: pushwhy.com
+:: pushworldtool.com
 :: pushzolo.com
 :: pusk.ua
 :: pussl10.com
@@ -30879,6 +30907,7 @@ ff02::3 ip6-allhosts
 :: qpljfpwdpk.com
 :: qpmswrurt.com
 :: qpodgrwu.bid
+:: qpokok.com
 :: qpppobrqizen.com
 :: qpqnbnsnosdss.com
 :: qpshvivbqpz.com
@@ -31170,6 +31199,7 @@ ff02::3 ip6-allhosts
 :: qxfzgftkfgukkp.com
 :: qxgoedqwr.bid
 :: qxjdlf.com
+:: qxlohjsxaaq.com
 :: qxmecqgzrgdh.com
 :: qxnniyuuaxhv.com
 :: qxphrauujms.com
@@ -31537,6 +31567,7 @@ ff02::3 ip6-allhosts
 :: reals-story.ru
 :: realsecuredredir.com
 :: realsecuredredirect.com
+:: realsrv.com
 :: realssp.co.kr
 :: realtime-bid.com
 :: realtraf.net
@@ -31942,6 +31973,7 @@ ff02::3 ip6-allhosts
 :: rewdinghes.com
 :: rewenoughteenin.info
 :: rewords.pl
+:: rexadvert.xyz
 :: rexbucks.com
 :: rexchange.begun.ru
 :: rextentingade.info
@@ -32318,6 +32350,7 @@ ff02::3 ip6-allhosts
 :: roundfortred.ru
 :: roupsouk.com
 :: roustast.net
+:: routeserve.info
 :: routgveriprt.com
 :: rouvitoa.net
 :: rouvoute.net
@@ -33089,6 +33122,7 @@ ff02::3 ip6-allhosts
 :: sdahxz.xyz
 :: sdaiv.com
 :: sdaixz.xyz
+:: sdakxz.xyz
 :: sdarotil.top
 :: sdasasyydd.com
 :: sdc.mako.co.il
@@ -39665,6 +39699,7 @@ ff02::3 ip6-allhosts
 :: wagenlux.cn
 :: wagershare.com
 :: wagoapse.com
+:: wahamtou.net
 :: wahoha.com
 :: waiads.com
 :: waigettwini.ml
@@ -40146,6 +40181,7 @@ ff02::3 ip6-allhosts
 :: whdulnhnrscfqx.com
 :: whdzxabhqsdnlc.com
 :: wheelches.info
+:: wheessoo.com
 :: wheets.pro
 :: whefungu.com
 :: whegadry.com

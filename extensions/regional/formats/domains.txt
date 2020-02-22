@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: domain list
-# Version: 20.02.053
-# Release: 053
-# Entries: 63,490
+# Version: 20.02.054
+# Release: 054
+# Entries: 63,526
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 18:14:08
+# Updated: Sun, 23 Feb 20 00:13:54
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -6215,6 +6215,7 @@ autotizer.ru
 autoua.com
 autoyou1678.com
 auwqdpbyl.com
+auxml.com
 auxmoney-partnerprogramm.de
 auyyklnpj.com
 av-by.ru
@@ -6911,6 +6912,7 @@ bb7c59fd2c7e0.com
 bbackcssmwam.com
 bbballs.men
 bbbp1.com
+bbbr8.com
 bbbx.xyz
 bbcdn.ad2.ip.ro
 bbcdn.go.arbopl.bbelements.com
@@ -7402,6 +7404,7 @@ bidfppkjo.com
 bidgear-syndication.com
 bidgear.com
 bidhead.net
+bidiology.com
 bidmax.cz
 bidoraln.com
 bidr.trellian.com
@@ -7991,6 +7994,7 @@ bpmskwgodi.com
 bpniszadiuc.com
 bpnjigwalqjho.com
 bposterss.net
+bpplltxabaayhm.com
 bppzqphtd.com
 bps.sysact.cn
 bpsxhmtotf.com
@@ -8692,6 +8696,7 @@ carbonads.com
 carbours.com
 card120.ru
 cardniu.com
+caredaily.me
 careerjournalonline.com
 careerlink.vn
 carfax.sc.omtrdc.net
@@ -10337,6 +10342,7 @@ counter2.blog.livedoor.com
 counterpartonline.ru
 counterparttv.ru
 countersys.cn
+countertrck.com
 countreg.com
 coupleglassesofmilk.ru
 coupon2buy.com
@@ -10412,6 +10418,7 @@ cpbtcwar.com
 cpc.cc
 cpcclick.novanet.vn
 cpcfeed.com
+cpcmart.com
 cpcv.cc
 cpd.adsplay.xyz
 cpd.vietad.vn
@@ -12159,6 +12166,7 @@ dildo.tnaflix.com
 dillweqbducwi.com
 dilruwha.net
 dilutercelebraltygu.info
+dimessing-parker.com
 dimouze.com
 dimpy.narod.ru
 dimsofiz.net
@@ -12225,6 +12233,7 @@ dirkino-traff.ru
 dirty-tinder.com
 disafere.co
 disc.host
+discoverapp.xyz
 discovernative.com
 discoverredirect.com
 discovery-ptp.eu
@@ -13315,6 +13324,7 @@ echo.12cpm.com
 echo.andumb.com
 echo.biasdo.com
 echo.scund.com
+echoazou.com
 echobanners.net
 echtebesucher.de
 ecigareta.eu
@@ -13918,6 +13928,7 @@ ervinguewty.com
 ervtm9lrdj.com
 erxalim.xyz
 erxvdkrivto.com
+esauwoan.com
 esawuervlpptj.com
 esc-team.com
 escalatenetwork.com
@@ -15476,6 +15487,7 @@ ftqnttckompj.com
 ftrnum.club
 ftrnwcewum.club
 ftrp4.cn
+ftssqcsl.com
 ftsygfycaybskz.com
 fttsgimpiagrwa.com
 ftttziizhuplfj.com
@@ -15760,6 +15772,7 @@ gadsats.com
 gadsecz.com
 gadsimz.com
 gadsipz.com
+gadsokz.com
 gadwhy.com
 gaftaums.com
 gagacon.com
@@ -16577,6 +16590,7 @@ gobaiwhe.net
 gobali.cn
 gobeerta.net
 gobf.ru
+gobovoul.net
 gobrowserdownload.com
 gobylink.info
 gocdn.ru
@@ -19636,6 +19650,7 @@ iugwmpnszxxwti.com
 iuhojiqev.com
 iuhpbpzwpldqbj.com
 iuiyeje4qmbe.ru
+iulianus-mon.com
 iuncajvw.com
 iuooczzbi.com
 iuowwbrqblweoa.com
@@ -19800,6 +19815,7 @@ jajbufmcl.com
 jajkgegza.com
 jaklikora.com
 jakzpcgrxgda.com
+jamestop.xyz
 jandolav.com
 janesvillelykens.com
 jango.com
@@ -19918,6 +19934,7 @@ jdzw3frs.com
 jeanclementcom.us
 jebadu.com
 jecbbkrnfn.com
+jechesmacaltont.info
 jeckethemarbut.net
 jeclittrecheckrep.info
 jeconotinhi.info
@@ -20500,6 +20517,7 @@ jtmwjkkoes.com
 jtneoqbd.com
 jtogel.com
 jttoioquq.com
+jtuvgczhvuptzn.com
 jtveisrh.com
 jtxh.net
 ju33.com
@@ -20711,6 +20729,7 @@ k7poker.com
 k7tju.xyz
 k859n.cn
 k8s.dable.io
+k8yy.tv
 k99.cc
 k9wi2d.cn
 k9x.net
@@ -22002,6 +22021,7 @@ leohd59.ru
 leokross.com
 leonardoadv.it
 leoneaningtoldre.pro
+leontius-eli.com
 lepinsar.com
 lepintor.com
 lepodownload.mediatek.com
@@ -22182,6 +22202,7 @@ lien-amateur.org
 lien-torrent.com
 lien.lu
 liesiotlpfvjm.com
+lievr.cc
 liex.ru
 lifeads.ru
 lifebloggersz.ru
@@ -22723,6 +22744,7 @@ loldata.top
 lolhello.com
 loli.io
 loli.net
+lolmp4.com
 lologhfd.com
 lolshock.com
 loltrack.com
@@ -26087,6 +26109,7 @@ nltzieywjkfb.com
 nlujbqmtgv.com
 nlwy0.com
 nlyqwlyykvjl.com
+nlzz7a3md4sx.com
 nm05qsxpn.tech
 nmbtedu.com
 nmcdn.us
@@ -27887,6 +27910,7 @@ paddsup.com
 padfukkk.ru
 padla.xyz
 padsabz.com
+padsatz.com
 padsblue.com
 padsbrown.com
 padsdel.com
@@ -28153,6 +28177,7 @@ patracy.pro
 patriot.cs.pp.cn
 patuarioahzaen.bid
 paujoawa.top
+paula-secundinus.com
 paumoogo.net
 paupbxxmhh.com
 paupepsu.click
@@ -30085,6 +30110,7 @@ push-pro.net
 push-time.com
 push-tools-system.com
 push.exchange
+push.house
 push.poptm.com
 push.yoads.net
 push2.yoads.net
@@ -30152,6 +30178,7 @@ pushosub.com
 pushosubk.com
 pushplay.com
 pushprofit.ru
+pushpush.net
 pushqwer.com
 pushrase.com
 pushresponse.net
@@ -30167,6 +30194,7 @@ pushtun.info
 pushua.info
 pushup.space
 pushwhy.com
+pushworldtool.com
 pushzolo.com
 pusk.ua
 pussl10.com
@@ -30860,6 +30888,7 @@ qplcqdbiob.com
 qpljfpwdpk.com
 qpmswrurt.com
 qpodgrwu.bid
+qpokok.com
 qpppobrqizen.com
 qpqnbnsnosdss.com
 qpshvivbqpz.com
@@ -31151,6 +31180,7 @@ qxfly.com
 qxfzgftkfgukkp.com
 qxgoedqwr.bid
 qxjdlf.com
+qxlohjsxaaq.com
 qxmecqgzrgdh.com
 qxnniyuuaxhv.com
 qxphrauujms.com
@@ -31518,6 +31548,7 @@ realpush.network
 reals-story.ru
 realsecuredredir.com
 realsecuredredirect.com
+realsrv.com
 realssp.co.kr
 realtime-bid.com
 realtraf.net
@@ -31923,6 +31954,7 @@ rewartific.com
 rewdinghes.com
 rewenoughteenin.info
 rewords.pl
+rexadvert.xyz
 rexbucks.com
 rexchange.begun.ru
 rextentingade.info
@@ -32299,6 +32331,7 @@ roulettebotplus.com
 roundfortred.ru
 roupsouk.com
 roustast.net
+routeserve.info
 routgveriprt.com
 rouvitoa.net
 rouvoute.net
@@ -33070,6 +33103,7 @@ sdagxz.xyz
 sdahxz.xyz
 sdaiv.com
 sdaixz.xyz
+sdakxz.xyz
 sdarotil.top
 sdasasyydd.com
 sdc.mako.co.il
@@ -39646,6 +39680,7 @@ waframedia8.com
 wagenlux.cn
 wagershare.com
 wagoapse.com
+wahamtou.net
 wahoha.com
 waiads.com
 waigettwini.ml
@@ -40127,6 +40162,7 @@ whbfgaspmycyve.com
 whdulnhnrscfqx.com
 whdzxabhqsdnlc.com
 wheelches.info
+wheessoo.com
 wheets.pro
 whefungu.com
 whegadry.com

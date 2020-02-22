@@ -1,8 +1,8 @@
 # Title: gasb-pe Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
-# Last Converted - 22.02.2020
-# Total Domains - 44500
+# Last Converted - 23.02.2020
+# Total Domains - 44499
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -36044,7 +36044,6 @@
 0.0.0.0 www.coolscreens.com
 0.0.0.0 www.coolservecorp.com
 0.0.0.0 www.coolshader.com
-0.0.0.0 www.coolvids.net
 0.0.0.0 www.coolwebsearch.info
 0.0.0.0 www.coolwwwsearch.com
 0.0.0.0 www.copay.io

@@ -1,8 +1,8 @@
 # Title: ador-energized Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
-# Last Converted - 22.02.2020
-# Total Domains - 27751
+# Last Converted - 23.02.2020
+# Total Domains - 27750
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -18828,7 +18828,6 @@
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 recino.com
-0.0.0.0 reckendrees.systems
 0.0.0.0 reckintersupwas.info
 0.0.0.0 reckless-addict.net
 0.0.0.0 reco.flow.headline.uodoo.com

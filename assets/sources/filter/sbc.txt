@@ -1,8 +1,8 @@
 # Title: sbc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
-# Last Converted - 22.02.2020
-# Total Domains - 35917
+# Last Converted - 23.02.2020
+# Total Domains - 35910
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2166,6 +2166,7 @@
 0.0.0.0 ad4mat.net
 0.0.0.0 ad4partners.com
 0.0.0.0 ad4push.com
+0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.bigmir.net
 0.0.0.0 ad5.fpa.ero-advertising.com
@@ -30695,7 +30696,6 @@
 0.0.0.0 www.akcjainijob.pl
 0.0.0.0 www.akirkpatrick.com
 0.0.0.0 www.akitaken.pl
-0.0.0.0 www.akredytowane.pl
 0.0.0.0 www.aktpl.com
 0.0.0.0 www.aktywnechwile.pl
 0.0.0.0 www.aktywnytylicz.pl
@@ -31391,7 +31391,6 @@
 0.0.0.0 www.conversionruler.com
 0.0.0.0 www.cool-technology.com
 0.0.0.0 www.cool4mob.com
-0.0.0.0 www.coolvids.net
 0.0.0.0 www.coreglead.co.uk
 0.0.0.0 www.coreplays.com
 0.0.0.0 www.corezone.pl
@@ -31745,7 +31744,6 @@
 0.0.0.0 www.electroline.pl
 0.0.0.0 www.elegrina.pl
 0.0.0.0 www.elektromax.in.net
-0.0.0.0 www.elememory.com
 0.0.0.0 www.elementium-shop.pl
 0.0.0.0 www.elemntindexer.com
 0.0.0.0 www.elepta.pl
@@ -31922,7 +31920,6 @@
 0.0.0.0 www.filmstube.pl
 0.0.0.0 www.filmu.pl
 0.0.0.0 www.filmy-i-seriale.pl
-0.0.0.0 www.filmyfilmy.pl
 0.0.0.0 www.filmyonline.com.pl
 0.0.0.0 www.filo-shop.pl
 0.0.0.0 www.finansedladziecka.pl
@@ -32438,7 +32435,6 @@
 0.0.0.0 www.insightexpress.com
 0.0.0.0 www.inskinad.com
 0.0.0.0 www.inspektorzyzieleni.pl
-0.0.0.0 www.instantgiftcodes.com
 0.0.0.0 www.instantreward.site
 0.0.0.0 www.instytut-pomocy.pl
 0.0.0.0 www.instytutmed.pl
@@ -33061,7 +33057,6 @@
 0.0.0.0 www.monkeytreephoto.com
 0.0.0.0 www.montacarichi.it
 0.0.0.0 www.monthlywinners.com
-0.0.0.0 www.mordi.fun
 0.0.0.0 www.morefreecamsecrets.com
 0.0.0.0 www.morena.in.net
 0.0.0.0 www.morevisits.info
@@ -33581,7 +33576,6 @@
 0.0.0.0 www.pobierzteraz.mobi
 0.0.0.0 www.pobiieerz-fotografiee.eu
 0.0.0.0 www.pociagdoukrainy.pl
-0.0.0.0 www.poczta-pay.com
 0.0.0.0 www.poczta-polska.net
 0.0.0.0 www.pocztexpolska24.com
 0.0.0.0 www.pod004.site
@@ -35092,7 +35086,6 @@
 0.0.0.0 www.yceml.net
 0.0.0.0 www.ychicenter.com
 0.0.0.0 www.yeezy-boost350.pl
-0.0.0.0 www.yeuquynhnhai.com
 0.0.0.0 www.yidsense.com
 0.0.0.0 www.yieldmanager.net
 0.0.0.0 www.yieldtraffic.com

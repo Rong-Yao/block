@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.02.053
-; Release: 053
-; Entries: 63,490
+; Version: 20.02.054
+; Release: 054
+; Entries: 63,526
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sat, 22 Feb 20 18:14:08
+; Updated: Sun, 23 Feb 20 00:13:54
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6223,6 +6223,7 @@ autotizer.ru CNAME .
 autoua.com CNAME .
 autoyou1678.com CNAME .
 auwqdpbyl.com CNAME .
+auxml.com CNAME .
 auxmoney-partnerprogramm.de CNAME .
 auyyklnpj.com CNAME .
 av-by.ru CNAME .
@@ -6919,6 +6920,7 @@ bb7c59fd2c7e0.com CNAME .
 bbackcssmwam.com CNAME .
 bbballs.men CNAME .
 bbbp1.com CNAME .
+bbbr8.com CNAME .
 bbbx.xyz CNAME .
 bbcdn.ad2.ip.ro CNAME .
 bbcdn.go.arbopl.bbelements.com CNAME .
@@ -7410,6 +7412,7 @@ bidfppkjo.com CNAME .
 bidgear-syndication.com CNAME .
 bidgear.com CNAME .
 bidhead.net CNAME .
+bidiology.com CNAME .
 bidmax.cz CNAME .
 bidoraln.com CNAME .
 bidr.trellian.com CNAME .
@@ -7999,6 +8002,7 @@ bpmskwgodi.com CNAME .
 bpniszadiuc.com CNAME .
 bpnjigwalqjho.com CNAME .
 bposterss.net CNAME .
+bpplltxabaayhm.com CNAME .
 bppzqphtd.com CNAME .
 bps.sysact.cn CNAME .
 bpsxhmtotf.com CNAME .
@@ -8700,6 +8704,7 @@ carbonads.com CNAME .
 carbours.com CNAME .
 card120.ru CNAME .
 cardniu.com CNAME .
+caredaily.me CNAME .
 careerjournalonline.com CNAME .
 careerlink.vn CNAME .
 carfax.sc.omtrdc.net CNAME .
@@ -10345,6 +10350,7 @@ counter2.blog.livedoor.com CNAME .
 counterpartonline.ru CNAME .
 counterparttv.ru CNAME .
 countersys.cn CNAME .
+countertrck.com CNAME .
 countreg.com CNAME .
 coupleglassesofmilk.ru CNAME .
 coupon2buy.com CNAME .
@@ -10420,6 +10426,7 @@ cpbtcwar.com CNAME .
 cpc.cc CNAME .
 cpcclick.novanet.vn CNAME .
 cpcfeed.com CNAME .
+cpcmart.com CNAME .
 cpcv.cc CNAME .
 cpd.adsplay.xyz CNAME .
 cpd.vietad.vn CNAME .
@@ -12167,6 +12174,7 @@ dildo.tnaflix.com CNAME .
 dillweqbducwi.com CNAME .
 dilruwha.net CNAME .
 dilutercelebraltygu.info CNAME .
+dimessing-parker.com CNAME .
 dimouze.com CNAME .
 dimpy.narod.ru CNAME .
 dimsofiz.net CNAME .
@@ -12233,6 +12241,7 @@ dirkino-traff.ru CNAME .
 dirty-tinder.com CNAME .
 disafere.co CNAME .
 disc.host CNAME .
+discoverapp.xyz CNAME .
 discovernative.com CNAME .
 discoverredirect.com CNAME .
 discovery-ptp.eu CNAME .
@@ -13323,6 +13332,7 @@ echo.12cpm.com CNAME .
 echo.andumb.com CNAME .
 echo.biasdo.com CNAME .
 echo.scund.com CNAME .
+echoazou.com CNAME .
 echobanners.net CNAME .
 echtebesucher.de CNAME .
 ecigareta.eu CNAME .
@@ -13926,6 +13936,7 @@ ervinguewty.com CNAME .
 ervtm9lrdj.com CNAME .
 erxalim.xyz CNAME .
 erxvdkrivto.com CNAME .
+esauwoan.com CNAME .
 esawuervlpptj.com CNAME .
 esc-team.com CNAME .
 escalatenetwork.com CNAME .
@@ -15484,6 +15495,7 @@ ftqnttckompj.com CNAME .
 ftrnum.club CNAME .
 ftrnwcewum.club CNAME .
 ftrp4.cn CNAME .
+ftssqcsl.com CNAME .
 ftsygfycaybskz.com CNAME .
 fttsgimpiagrwa.com CNAME .
 ftttziizhuplfj.com CNAME .
@@ -15768,6 +15780,7 @@ gadsats.com CNAME .
 gadsecz.com CNAME .
 gadsimz.com CNAME .
 gadsipz.com CNAME .
+gadsokz.com CNAME .
 gadwhy.com CNAME .
 gaftaums.com CNAME .
 gagacon.com CNAME .
@@ -16585,6 +16598,7 @@ gobaiwhe.net CNAME .
 gobali.cn CNAME .
 gobeerta.net CNAME .
 gobf.ru CNAME .
+gobovoul.net CNAME .
 gobrowserdownload.com CNAME .
 gobylink.info CNAME .
 gocdn.ru CNAME .
@@ -19644,6 +19658,7 @@ iugwmpnszxxwti.com CNAME .
 iuhojiqev.com CNAME .
 iuhpbpzwpldqbj.com CNAME .
 iuiyeje4qmbe.ru CNAME .
+iulianus-mon.com CNAME .
 iuncajvw.com CNAME .
 iuooczzbi.com CNAME .
 iuowwbrqblweoa.com CNAME .
@@ -19808,6 +19823,7 @@ jajbufmcl.com CNAME .
 jajkgegza.com CNAME .
 jaklikora.com CNAME .
 jakzpcgrxgda.com CNAME .
+jamestop.xyz CNAME .
 jandolav.com CNAME .
 janesvillelykens.com CNAME .
 jango.com CNAME .
@@ -19926,6 +19942,7 @@ jdzw3frs.com CNAME .
 jeanclementcom.us CNAME .
 jebadu.com CNAME .
 jecbbkrnfn.com CNAME .
+jechesmacaltont.info CNAME .
 jeckethemarbut.net CNAME .
 jeclittrecheckrep.info CNAME .
 jeconotinhi.info CNAME .
@@ -20508,6 +20525,7 @@ jtmwjkkoes.com CNAME .
 jtneoqbd.com CNAME .
 jtogel.com CNAME .
 jttoioquq.com CNAME .
+jtuvgczhvuptzn.com CNAME .
 jtveisrh.com CNAME .
 jtxh.net CNAME .
 ju33.com CNAME .
@@ -20719,6 +20737,7 @@ k7poker.com CNAME .
 k7tju.xyz CNAME .
 k859n.cn CNAME .
 k8s.dable.io CNAME .
+k8yy.tv CNAME .
 k99.cc CNAME .
 k9wi2d.cn CNAME .
 k9x.net CNAME .
@@ -22010,6 +22029,7 @@ leohd59.ru CNAME .
 leokross.com CNAME .
 leonardoadv.it CNAME .
 leoneaningtoldre.pro CNAME .
+leontius-eli.com CNAME .
 lepinsar.com CNAME .
 lepintor.com CNAME .
 lepodownload.mediatek.com CNAME .
@@ -22190,6 +22210,7 @@ lien-amateur.org CNAME .
 lien-torrent.com CNAME .
 lien.lu CNAME .
 liesiotlpfvjm.com CNAME .
+lievr.cc CNAME .
 liex.ru CNAME .
 lifeads.ru CNAME .
 lifebloggersz.ru CNAME .
@@ -22731,6 +22752,7 @@ loldata.top CNAME .
 lolhello.com CNAME .
 loli.io CNAME .
 loli.net CNAME .
+lolmp4.com CNAME .
 lologhfd.com CNAME .
 lolshock.com CNAME .
 loltrack.com CNAME .
@@ -26095,6 +26117,7 @@ nltzieywjkfb.com CNAME .
 nlujbqmtgv.com CNAME .
 nlwy0.com CNAME .
 nlyqwlyykvjl.com CNAME .
+nlzz7a3md4sx.com CNAME .
 nm05qsxpn.tech CNAME .
 nmbtedu.com CNAME .
 nmcdn.us CNAME .
@@ -27895,6 +27918,7 @@ paddsup.com CNAME .
 padfukkk.ru CNAME .
 padla.xyz CNAME .
 padsabz.com CNAME .
+padsatz.com CNAME .
 padsblue.com CNAME .
 padsbrown.com CNAME .
 padsdel.com CNAME .
@@ -28161,6 +28185,7 @@ patracy.pro CNAME .
 patriot.cs.pp.cn CNAME .
 patuarioahzaen.bid CNAME .
 paujoawa.top CNAME .
+paula-secundinus.com CNAME .
 paumoogo.net CNAME .
 paupbxxmhh.com CNAME .
 paupepsu.click CNAME .
@@ -30093,6 +30118,7 @@ push-pro.net CNAME .
 push-time.com CNAME .
 push-tools-system.com CNAME .
 push.exchange CNAME .
+push.house CNAME .
 push.poptm.com CNAME .
 push.yoads.net CNAME .
 push2.yoads.net CNAME .
@@ -30160,6 +30186,7 @@ pushosub.com CNAME .
 pushosubk.com CNAME .
 pushplay.com CNAME .
 pushprofit.ru CNAME .
+pushpush.net CNAME .
 pushqwer.com CNAME .
 pushrase.com CNAME .
 pushresponse.net CNAME .
@@ -30175,6 +30202,7 @@ pushtun.info CNAME .
 pushua.info CNAME .
 pushup.space CNAME .
 pushwhy.com CNAME .
+pushworldtool.com CNAME .
 pushzolo.com CNAME .
 pusk.ua CNAME .
 pussl10.com CNAME .
@@ -30868,6 +30896,7 @@ qplcqdbiob.com CNAME .
 qpljfpwdpk.com CNAME .
 qpmswrurt.com CNAME .
 qpodgrwu.bid CNAME .
+qpokok.com CNAME .
 qpppobrqizen.com CNAME .
 qpqnbnsnosdss.com CNAME .
 qpshvivbqpz.com CNAME .
@@ -31159,6 +31188,7 @@ qxfly.com CNAME .
 qxfzgftkfgukkp.com CNAME .
 qxgoedqwr.bid CNAME .
 qxjdlf.com CNAME .
+qxlohjsxaaq.com CNAME .
 qxmecqgzrgdh.com CNAME .
 qxnniyuuaxhv.com CNAME .
 qxphrauujms.com CNAME .
@@ -31526,6 +31556,7 @@ realpush.network CNAME .
 reals-story.ru CNAME .
 realsecuredredir.com CNAME .
 realsecuredredirect.com CNAME .
+realsrv.com CNAME .
 realssp.co.kr CNAME .
 realtime-bid.com CNAME .
 realtraf.net CNAME .
@@ -31931,6 +31962,7 @@ rewartific.com CNAME .
 rewdinghes.com CNAME .
 rewenoughteenin.info CNAME .
 rewords.pl CNAME .
+rexadvert.xyz CNAME .
 rexbucks.com CNAME .
 rexchange.begun.ru CNAME .
 rextentingade.info CNAME .
@@ -32307,6 +32339,7 @@ roulettebotplus.com CNAME .
 roundfortred.ru CNAME .
 roupsouk.com CNAME .
 roustast.net CNAME .
+routeserve.info CNAME .
 routgveriprt.com CNAME .
 rouvitoa.net CNAME .
 rouvoute.net CNAME .
@@ -33078,6 +33111,7 @@ sdagxz.xyz CNAME .
 sdahxz.xyz CNAME .
 sdaiv.com CNAME .
 sdaixz.xyz CNAME .
+sdakxz.xyz CNAME .
 sdarotil.top CNAME .
 sdasasyydd.com CNAME .
 sdc.mako.co.il CNAME .
@@ -39654,6 +39688,7 @@ waframedia8.com CNAME .
 wagenlux.cn CNAME .
 wagershare.com CNAME .
 wagoapse.com CNAME .
+wahamtou.net CNAME .
 wahoha.com CNAME .
 waiads.com CNAME .
 waigettwini.ml CNAME .
@@ -40135,6 +40170,7 @@ whbfgaspmycyve.com CNAME .
 whdulnhnrscfqx.com CNAME .
 whdzxabhqsdnlc.com CNAME .
 wheelches.info CNAME .
+wheessoo.com CNAME .
 wheets.pro CNAME .
 whefungu.com CNAME .
 whegadry.com CNAME .

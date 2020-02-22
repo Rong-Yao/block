@@ -1,8 +1,8 @@
 # Title: easylist-china Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/easylistchina.txt
-# Last Converted - 22.02.2020
-# Total Domains - 5545
+# Last Converted - 23.02.2020
+# Total Domains - 5553
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -676,6 +676,7 @@
 0.0.0.0 9kff.com
 0.0.0.0 9nwg9sib9e.com
 0.0.0.0 9pb0h.cn
+0.0.0.0 9uys.co
 0.0.0.0 9w1an.com
 0.0.0.0 9w39.com
 0.0.0.0 9wotuan.com
@@ -1085,6 +1086,7 @@
 0.0.0.0 battmd168a1.xyz
 0.0.0.0 battmd168a2.xyz
 0.0.0.0 bazhigu.com
+0.0.0.0 bbbr8.com
 0.0.0.0 bbbx.xyz
 0.0.0.0 bbdsdy.com
 0.0.0.0 bbeyay41026.cn
@@ -1306,6 +1308,7 @@
 0.0.0.0 car.qcmrjx.com
 0.0.0.0 car156.net
 0.0.0.0 cardniu.com
+0.0.0.0 caredaily.me
 0.0.0.0 carpenterrprp.com
 0.0.0.0 casbanlly.com
 0.0.0.0 cayanfang.com
@@ -2996,6 +2999,7 @@
 0.0.0.0 k5ai3c.cn
 0.0.0.0 k7tju.xyz
 0.0.0.0 k859n.cn
+0.0.0.0 k8yy.tv
 0.0.0.0 k99.cc
 0.0.0.0 k9wi2d.cn
 0.0.0.0 ka12138.top
@@ -3203,6 +3207,7 @@
 0.0.0.0 libfre.obs.cn-east-3.myhuaweicloud.com
 0.0.0.0 librarymanagement.cn
 0.0.0.0 libs.tvmao.cn
+0.0.0.0 lievr.cc
 0.0.0.0 lifu11.com
 0.0.0.0 lifuzhubao.com
 0.0.0.0 lihongdou.cn
@@ -3249,6 +3254,7 @@
 0.0.0.0 loandatec.com
 0.0.0.0 loli.io
 0.0.0.0 loli.net
+0.0.0.0 lolmp4.com
 0.0.0.0 lolvsdota.cn
 0.0.0.0 long88.app
 0.0.0.0 longkoupeanut.cn
@@ -3911,6 +3917,7 @@
 0.0.0.0 qo26.com
 0.0.0.0 qoiusky.com
 0.0.0.0 qpb.sohu.com
+0.0.0.0 qpokok.com
 0.0.0.0 qq0au.cn
 0.0.0.0 qq167.com
 0.0.0.0 qq24h.com
@@ -4097,6 +4104,7 @@
 0.0.0.0 sdahxz.xyz
 0.0.0.0 sdaiv.com
 0.0.0.0 sdaixz.xyz
+0.0.0.0 sdakxz.xyz
 0.0.0.0 sdd.dzsc.com
 0.0.0.0 sdd.hi1718.com
 0.0.0.0 sdgdtz.cn

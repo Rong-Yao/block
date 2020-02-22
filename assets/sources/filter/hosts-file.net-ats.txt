@@ -1,8 +1,8 @@
 # Title: hosts-file.net-ats Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/ad_servers.txt
-# Last Converted - 22.02.2020
-# Total Domains - 31581
+# Last Converted - 23.02.2020
+# Total Domains - 31582
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -13350,6 +13350,7 @@
 0.0.0.0 ad4mat.de
 0.0.0.0 ad4me.net
 0.0.0.0 ad4partners.com
+0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.fpa.ero-advertising.com
 0.0.0.0 ad5.paycount.com

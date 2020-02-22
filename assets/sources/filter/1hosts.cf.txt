@@ -1,8 +1,8 @@
 # Title: 1hosts.cf Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
-# Last Converted - 22.02.2020
-# Total Domains - 59173
+# Last Converted - 23.02.2020
+# Total Domains - 59171
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2585,7 +2585,6 @@
 0.0.0.0 acs.maribacaberita.com
 0.0.0.0 acs4baichuan.m.taobao.com
 0.0.0.0 acs86.com
-0.0.0.0 acsdk.gameyw.easebar.com
 0.0.0.0 acsseo.com
 0.0.0.0 acstat.com
 0.0.0.0 act-jp.rd.linksynergy.com
@@ -51524,7 +51523,6 @@
 0.0.0.0 update.sdkbox.com
 0.0.0.0 update.stickyadstv.com
 0.0.0.0 update.toptools100.com
-0.0.0.0 update.unisdk.easebar.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 update1.api.augeapps.com
 0.0.0.0 update2.api.augeapps.com

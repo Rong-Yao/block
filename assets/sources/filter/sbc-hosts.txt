@@ -1,8 +1,8 @@
 # Title: sbc-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
-# Last Converted - 22.02.2020
-# Total Domains - 799
+# Last Converted - 23.02.2020
+# Total Domains - 800
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -47,6 +47,7 @@
 0.0.0.0 ad4.api.ero-advertising.com
 0.0.0.0 ad4.banners.ero-advertising.com
 0.0.0.0 ad4.layerads.ero-advertising.com
+0.0.0.0 ad5.adspaces.ero-advertising.com
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.fpa.ero-advertising.com
 0.0.0.0 ad6.banners.ero-advertising.com

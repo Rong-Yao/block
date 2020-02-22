@@ -1,8 +1,8 @@
 # Title: mailborder-phishing-bad-sites Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
-# Last Converted - 22.02.2020
-# Total Domains - 13862
+# Last Converted - 23.02.2020
+# Total Domains - 13861
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -576,7 +576,6 @@
 0.0.0.0 alfisilver.com
 0.0.0.0 algarotrading.com
 0.0.0.0 algarvetoastmastersclub.com
-0.0.0.0 algercomputersupport.com
 0.0.0.0 algotextil.com.br
 0.0.0.0 alhadbaa.org
 0.0.0.0 alhadigroup.net

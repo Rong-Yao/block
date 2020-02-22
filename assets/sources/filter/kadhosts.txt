@@ -1,8 +1,8 @@
 # Title: kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 22.02.2020
-# Total Domains - 5936
+# Last Converted - 23.02.2020
+# Total Domains - 5928
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3213,7 +3213,6 @@
 0.0.0.0 www.akazoo.pl
 0.0.0.0 www.akcjainijob.pl
 0.0.0.0 www.akitaken.pl
-0.0.0.0 www.akredytowane.pl
 0.0.0.0 www.aktpl.com
 0.0.0.0 www.aktywnechwile.pl
 0.0.0.0 www.aktywnytylicz.pl
@@ -3575,7 +3574,6 @@
 0.0.0.0 www.conversetanio.pl
 0.0.0.0 www.cool-technology.com
 0.0.0.0 www.cool4mob.com
-0.0.0.0 www.coolvids.net
 0.0.0.0 www.coreplays.com
 0.0.0.0 www.corezone.pl
 0.0.0.0 www.corneliafunke.pl
@@ -3779,7 +3777,6 @@
 0.0.0.0 www.electroline.pl
 0.0.0.0 www.elegrina.pl
 0.0.0.0 www.elektromax.in.net
-0.0.0.0 www.elememory.com
 0.0.0.0 www.elementium-shop.pl
 0.0.0.0 www.elepta.pl
 0.0.0.0 www.elite-crack.ml
@@ -3899,7 +3896,6 @@
 0.0.0.0 www.filmstube.pl
 0.0.0.0 www.filmu.pl
 0.0.0.0 www.filmy-i-seriale.pl
-0.0.0.0 www.filmyfilmy.pl
 0.0.0.0 www.filmyonline.com.pl
 0.0.0.0 www.filo-shop.pl
 0.0.0.0 www.finansedladziecka.pl
@@ -4170,7 +4166,6 @@
 0.0.0.0 www.innowacjewmarketingu.pl
 0.0.0.0 www.inochigniezno.pl
 0.0.0.0 www.inspektorzyzieleni.pl
-0.0.0.0 www.instantgiftcodes.com
 0.0.0.0 www.instantreward.site
 0.0.0.0 www.instytut-pomocy.pl
 0.0.0.0 www.instytutmed.pl
@@ -4566,7 +4561,6 @@
 0.0.0.0 www.moneywin24.com
 0.0.0.0 www.monkeytreephoto.com
 0.0.0.0 www.monthlywinners.com
-0.0.0.0 www.mordi.fun
 0.0.0.0 www.morena.in.net
 0.0.0.0 www.morinda.com
 0.0.0.0 www.moschinooutlet.pl
@@ -4900,7 +4894,6 @@
 0.0.0.0 www.pobierzteraz.mobi
 0.0.0.0 www.pobiieerz-fotografiee.eu
 0.0.0.0 www.pociagdoukrainy.pl
-0.0.0.0 www.poczta-pay.com
 0.0.0.0 www.poczta-polska.net
 0.0.0.0 www.pocztexpolska24.com
 0.0.0.0 www.pod004.site
@@ -5722,7 +5715,6 @@
 0.0.0.0 www.xzegarsmiercix.prv.pl
 0.0.0.0 www.ychicenter.com
 0.0.0.0 www.yeezy-boost350.pl
-0.0.0.0 www.yeuquynhnhai.com
 0.0.0.0 www.yotafiles.com
 0.0.0.0 www.yotefiles.com
 0.0.0.0 www.your-movies.pl

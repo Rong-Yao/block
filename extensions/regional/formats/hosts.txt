@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts
-# Version: 20.02.053
-# Release: 053
-# Entries: 63,490
+# Version: 20.02.054
+# Release: 054
+# Entries: 63,526
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sat, 22 Feb 20 18:14:08
+# Updated: Sun, 23 Feb 20 00:13:54
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -6234,6 +6234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 autoua.com
 0.0.0.0 autoyou1678.com
 0.0.0.0 auwqdpbyl.com
+0.0.0.0 auxml.com
 0.0.0.0 auxmoney-partnerprogramm.de
 0.0.0.0 auyyklnpj.com
 0.0.0.0 av-by.ru
@@ -6930,6 +6931,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bbackcssmwam.com
 0.0.0.0 bbballs.men
 0.0.0.0 bbbp1.com
+0.0.0.0 bbbr8.com
 0.0.0.0 bbbx.xyz
 0.0.0.0 bbcdn.ad2.ip.ro
 0.0.0.0 bbcdn.go.arbopl.bbelements.com
@@ -7421,6 +7423,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bidgear-syndication.com
 0.0.0.0 bidgear.com
 0.0.0.0 bidhead.net
+0.0.0.0 bidiology.com
 0.0.0.0 bidmax.cz
 0.0.0.0 bidoraln.com
 0.0.0.0 bidr.trellian.com
@@ -8010,6 +8013,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bpniszadiuc.com
 0.0.0.0 bpnjigwalqjho.com
 0.0.0.0 bposterss.net
+0.0.0.0 bpplltxabaayhm.com
 0.0.0.0 bppzqphtd.com
 0.0.0.0 bps.sysact.cn
 0.0.0.0 bpsxhmtotf.com
@@ -8711,6 +8715,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 carbours.com
 0.0.0.0 card120.ru
 0.0.0.0 cardniu.com
+0.0.0.0 caredaily.me
 0.0.0.0 careerjournalonline.com
 0.0.0.0 careerlink.vn
 0.0.0.0 carfax.sc.omtrdc.net
@@ -10356,6 +10361,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 counterpartonline.ru
 0.0.0.0 counterparttv.ru
 0.0.0.0 countersys.cn
+0.0.0.0 countertrck.com
 0.0.0.0 countreg.com
 0.0.0.0 coupleglassesofmilk.ru
 0.0.0.0 coupon2buy.com
@@ -10431,6 +10437,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpc.cc
 0.0.0.0 cpcclick.novanet.vn
 0.0.0.0 cpcfeed.com
+0.0.0.0 cpcmart.com
 0.0.0.0 cpcv.cc
 0.0.0.0 cpd.adsplay.xyz
 0.0.0.0 cpd.vietad.vn
@@ -12178,6 +12185,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dillweqbducwi.com
 0.0.0.0 dilruwha.net
 0.0.0.0 dilutercelebraltygu.info
+0.0.0.0 dimessing-parker.com
 0.0.0.0 dimouze.com
 0.0.0.0 dimpy.narod.ru
 0.0.0.0 dimsofiz.net
@@ -12244,6 +12252,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dirty-tinder.com
 0.0.0.0 disafere.co
 0.0.0.0 disc.host
+0.0.0.0 discoverapp.xyz
 0.0.0.0 discovernative.com
 0.0.0.0 discoverredirect.com
 0.0.0.0 discovery-ptp.eu
@@ -13334,6 +13343,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 echo.andumb.com
 0.0.0.0 echo.biasdo.com
 0.0.0.0 echo.scund.com
+0.0.0.0 echoazou.com
 0.0.0.0 echobanners.net
 0.0.0.0 echtebesucher.de
 0.0.0.0 ecigareta.eu
@@ -13937,6 +13947,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ervtm9lrdj.com
 0.0.0.0 erxalim.xyz
 0.0.0.0 erxvdkrivto.com
+0.0.0.0 esauwoan.com
 0.0.0.0 esawuervlpptj.com
 0.0.0.0 esc-team.com
 0.0.0.0 escalatenetwork.com
@@ -15495,6 +15506,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ftrnum.club
 0.0.0.0 ftrnwcewum.club
 0.0.0.0 ftrp4.cn
+0.0.0.0 ftssqcsl.com
 0.0.0.0 ftsygfycaybskz.com
 0.0.0.0 fttsgimpiagrwa.com
 0.0.0.0 ftttziizhuplfj.com
@@ -15779,6 +15791,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadsokz.com
 0.0.0.0 gadwhy.com
 0.0.0.0 gaftaums.com
 0.0.0.0 gagacon.com
@@ -16596,6 +16609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gobali.cn
 0.0.0.0 gobeerta.net
 0.0.0.0 gobf.ru
+0.0.0.0 gobovoul.net
 0.0.0.0 gobrowserdownload.com
 0.0.0.0 gobylink.info
 0.0.0.0 gocdn.ru
@@ -19655,6 +19669,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iuhojiqev.com
 0.0.0.0 iuhpbpzwpldqbj.com
 0.0.0.0 iuiyeje4qmbe.ru
+0.0.0.0 iulianus-mon.com
 0.0.0.0 iuncajvw.com
 0.0.0.0 iuooczzbi.com
 0.0.0.0 iuowwbrqblweoa.com
@@ -19819,6 +19834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jajkgegza.com
 0.0.0.0 jaklikora.com
 0.0.0.0 jakzpcgrxgda.com
+0.0.0.0 jamestop.xyz
 0.0.0.0 jandolav.com
 0.0.0.0 janesvillelykens.com
 0.0.0.0 jango.com
@@ -19937,6 +19953,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jeanclementcom.us
 0.0.0.0 jebadu.com
 0.0.0.0 jecbbkrnfn.com
+0.0.0.0 jechesmacaltont.info
 0.0.0.0 jeckethemarbut.net
 0.0.0.0 jeclittrecheckrep.info
 0.0.0.0 jeconotinhi.info
@@ -20519,6 +20536,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jtneoqbd.com
 0.0.0.0 jtogel.com
 0.0.0.0 jttoioquq.com
+0.0.0.0 jtuvgczhvuptzn.com
 0.0.0.0 jtveisrh.com
 0.0.0.0 jtxh.net
 0.0.0.0 ju33.com
@@ -20730,6 +20748,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 k7tju.xyz
 0.0.0.0 k859n.cn
 0.0.0.0 k8s.dable.io
+0.0.0.0 k8yy.tv
 0.0.0.0 k99.cc
 0.0.0.0 k9wi2d.cn
 0.0.0.0 k9x.net
@@ -22021,6 +22040,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leokross.com
 0.0.0.0 leonardoadv.it
 0.0.0.0 leoneaningtoldre.pro
+0.0.0.0 leontius-eli.com
 0.0.0.0 lepinsar.com
 0.0.0.0 lepintor.com
 0.0.0.0 lepodownload.mediatek.com
@@ -22201,6 +22221,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lien-torrent.com
 0.0.0.0 lien.lu
 0.0.0.0 liesiotlpfvjm.com
+0.0.0.0 lievr.cc
 0.0.0.0 liex.ru
 0.0.0.0 lifeads.ru
 0.0.0.0 lifebloggersz.ru
@@ -22742,6 +22763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lolhello.com
 0.0.0.0 loli.io
 0.0.0.0 loli.net
+0.0.0.0 lolmp4.com
 0.0.0.0 lologhfd.com
 0.0.0.0 lolshock.com
 0.0.0.0 loltrack.com
@@ -26106,6 +26128,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nlujbqmtgv.com
 0.0.0.0 nlwy0.com
 0.0.0.0 nlyqwlyykvjl.com
+0.0.0.0 nlzz7a3md4sx.com
 0.0.0.0 nm05qsxpn.tech
 0.0.0.0 nmbtedu.com
 0.0.0.0 nmcdn.us
@@ -27906,6 +27929,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 padfukkk.ru
 0.0.0.0 padla.xyz
 0.0.0.0 padsabz.com
+0.0.0.0 padsatz.com
 0.0.0.0 padsblue.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsdel.com
@@ -28172,6 +28196,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 patuarioahzaen.bid
 0.0.0.0 paujoawa.top
+0.0.0.0 paula-secundinus.com
 0.0.0.0 paumoogo.net
 0.0.0.0 paupbxxmhh.com
 0.0.0.0 paupepsu.click
@@ -30104,6 +30129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 push-time.com
 0.0.0.0 push-tools-system.com
 0.0.0.0 push.exchange
+0.0.0.0 push.house
 0.0.0.0 push.poptm.com
 0.0.0.0 push.yoads.net
 0.0.0.0 push2.yoads.net
@@ -30171,6 +30197,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pushosubk.com
 0.0.0.0 pushplay.com
 0.0.0.0 pushprofit.ru
+0.0.0.0 pushpush.net
 0.0.0.0 pushqwer.com
 0.0.0.0 pushrase.com
 0.0.0.0 pushresponse.net
@@ -30186,6 +30213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pushua.info
 0.0.0.0 pushup.space
 0.0.0.0 pushwhy.com
+0.0.0.0 pushworldtool.com
 0.0.0.0 pushzolo.com
 0.0.0.0 pusk.ua
 0.0.0.0 pussl10.com
@@ -30879,6 +30907,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qpljfpwdpk.com
 0.0.0.0 qpmswrurt.com
 0.0.0.0 qpodgrwu.bid
+0.0.0.0 qpokok.com
 0.0.0.0 qpppobrqizen.com
 0.0.0.0 qpqnbnsnosdss.com
 0.0.0.0 qpshvivbqpz.com
@@ -31170,6 +31199,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qxfzgftkfgukkp.com
 0.0.0.0 qxgoedqwr.bid
 0.0.0.0 qxjdlf.com
+0.0.0.0 qxlohjsxaaq.com
 0.0.0.0 qxmecqgzrgdh.com
 0.0.0.0 qxnniyuuaxhv.com
 0.0.0.0 qxphrauujms.com
@@ -31537,6 +31567,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 reals-story.ru
 0.0.0.0 realsecuredredir.com
 0.0.0.0 realsecuredredirect.com
+0.0.0.0 realsrv.com
 0.0.0.0 realssp.co.kr
 0.0.0.0 realtime-bid.com
 0.0.0.0 realtraf.net
@@ -31942,6 +31973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rewdinghes.com
 0.0.0.0 rewenoughteenin.info
 0.0.0.0 rewords.pl
+0.0.0.0 rexadvert.xyz
 0.0.0.0 rexbucks.com
 0.0.0.0 rexchange.begun.ru
 0.0.0.0 rextentingade.info
@@ -32318,6 +32350,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roundfortred.ru
 0.0.0.0 roupsouk.com
 0.0.0.0 roustast.net
+0.0.0.0 routeserve.info
 0.0.0.0 routgveriprt.com
 0.0.0.0 rouvitoa.net
 0.0.0.0 rouvoute.net
@@ -33089,6 +33122,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sdahxz.xyz
 0.0.0.0 sdaiv.com
 0.0.0.0 sdaixz.xyz
+0.0.0.0 sdakxz.xyz
 0.0.0.0 sdarotil.top
 0.0.0.0 sdasasyydd.com
 0.0.0.0 sdc.mako.co.il
@@ -39665,6 +39699,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wagenlux.cn
 0.0.0.0 wagershare.com
 0.0.0.0 wagoapse.com
+0.0.0.0 wahamtou.net
 0.0.0.0 wahoha.com
 0.0.0.0 waiads.com
 0.0.0.0 waigettwini.ml
@@ -40146,6 +40181,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whdulnhnrscfqx.com
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheelches.info
+0.0.0.0 wheessoo.com
 0.0.0.0 wheets.pro
 0.0.0.0 whefungu.com
 0.0.0.0 whegadry.com

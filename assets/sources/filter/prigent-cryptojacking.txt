@@ -1,8 +1,8 @@
 # Title: prigent-cryptojacking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
-# Last Converted - 22.02.2020
-# Total Domains - 5193
+# Last Converted - 23.02.2020
+# Total Domains - 5187
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -846,7 +846,6 @@
 0.0.0.0 c1d2.com
 0.0.0.0 c3pool.com
 0.0.0.0 cacpcaizwx.bid
-0.0.0.0 callistopool.io
 0.0.0.0 callistopool.org
 0.0.0.0 camillesanz.com
 0.0.0.0 candid.zone
@@ -1287,7 +1286,6 @@
 0.0.0.0 dgb-sonicpool.com
 0.0.0.0 dgb256.online
 0.0.0.0 dgbhmpumhxy.bid
-0.0.0.0 dgc.happymining.eu
 0.0.0.0 dgcxsmiavpg.bid
 0.0.0.0 dggcgurqynie.com
 0.0.0.0 dgghbqysqzs.bid
@@ -3115,7 +3113,6 @@
 0.0.0.0 mineblocks.ch
 0.0.0.0 mineblocks.co.uk
 0.0.0.0 mineblocks.eu
-0.0.0.0 minecnc.dontmine.me
 0.0.0.0 minecraftplay.org
 0.0.0.0 minecraftpool.com
 0.0.0.0 minecrypto.pro
@@ -3766,7 +3763,6 @@
 0.0.0.0 p2pmine.com
 0.0.0.0 p2pminers.com
 0.0.0.0 p2pmining.com
-0.0.0.0 p2pool-net.pl
 0.0.0.0 p2pool.axe.siampm.com
 0.0.0.0 p2pool.in
 0.0.0.0 p2pool.info
@@ -3932,7 +3928,6 @@
 0.0.0.0 pool.se
 0.0.0.0 pool.sexy
 0.0.0.0 pool.stalwartbucks.com
-0.0.0.0 pool.testserino.de
 0.0.0.0 pool.testserverino.de
 0.0.0.0 pool.traid.tv
 0.0.0.0 pool137.com
@@ -4466,7 +4461,6 @@
 0.0.0.0 sha.eobot.com
 0.0.0.0 sharing-is-caring.info
 0.0.0.0 sharkcoin.xyz
-0.0.0.0 shibepool.com
 0.0.0.0 shitcoinmining.net
 0.0.0.0 shjuivapg.bid
 0.0.0.0 shnoadlvpylf.com

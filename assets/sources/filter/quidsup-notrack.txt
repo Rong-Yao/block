@@ -1,8 +1,8 @@
 # Title: quidsup-notrack Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# Last Converted - 22.02.2020
-# Total Domains - 14136
+# Last Converted - 23.02.2020
+# Total Domains - 14140
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1135,6 +1135,7 @@
 0.0.0.0 currentanalysisgroup.com
 0.0.0.0 curulate.com
 0.0.0.0 custom-emailing.com
+0.0.0.0 customer.io
 0.0.0.0 customerjourney.com
 0.0.0.0 customersciences.com
 0.0.0.0 customize.cz
@@ -1962,6 +1963,7 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.spotify.com
+0.0.0.0 logger.foxitcloud.com
 0.0.0.0 loggly.net
 0.0.0.0 loggly.org
 0.0.0.0 logmatic.io
@@ -2045,6 +2047,7 @@
 0.0.0.0 mcstats.spigotmc.org
 0.0.0.0 mdotlabs.com
 0.0.0.0 measure.mf.cz
+0.0.0.0 measuread.com
 0.0.0.0 medi-8.net
 0.0.0.0 media.net
 0.0.0.0 media6degrees.com
@@ -12851,6 +12854,7 @@
 0.0.0.0 piwik.root.ax
 0.0.0.0 piwik.up.welt.de
 0.0.0.0 piwikpro.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.brit.co
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.getshogun.com
@@ -12924,7 +12928,6 @@
 0.0.0.0 prnx.net
 0.0.0.0 pro-market.net
 0.0.0.0 proadsredmsmt.com
-0.0.0.0 prod.spotify.map.fastlylb.net
 0.0.0.0 productserve.com
 0.0.0.0 profile-matching.com
 0.0.0.0 profilmatch.com
@@ -13688,6 +13691,7 @@
 0.0.0.0 track.flexlinkspro.com
 0.0.0.0 track.ft.com
 0.0.0.0 track.kijackpen.ru
+0.0.0.0 track.lexico.com
 0.0.0.0 track.mypcbackup.com
 0.0.0.0 track.news.bg
 0.0.0.0 track.sublytics-5b89aa9c7351b.com

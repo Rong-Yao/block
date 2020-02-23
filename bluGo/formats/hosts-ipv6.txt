@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.054
 # Release: 054
-# Entries: 122,155
+# Entries: 122,165
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 00:10:08
+# Updated: Sun, 23 Feb 20 06:10:19
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -18423,6 +18423,7 @@ ff02::3 ip6-allhosts
 :: benchmarks-api.adjust.com
 :: benchtag2.co
 :: benders45.duckdns.org
+:: benefitsorganic.com
 :: benesserelab.com
 :: bengkalisinfo.com
 :: bengkelcatmobiltangsel.com
@@ -24872,6 +24873,7 @@ ff02::3 ip6-allhosts
 :: chucktaylor.pl
 :: chudykucharz.pl
 :: chufudsi.net
+:: chugagre.com
 :: chuhlmann.de
 :: chukalapopi.com
 :: chukalorqa.com
@@ -42551,6 +42553,7 @@ ff02::3 ip6-allhosts
 :: fvsdvxjpxi.com
 :: fvsniyfeyjvg.com
 :: fvtwyjev.com
+:: fvugxwoy.com
 :: fvwcwbdrprdt.com
 :: fvwfkfzhha.com
 :: fvwlzsm3tt921krvoq6.pro
@@ -45429,6 +45432,7 @@ ff02::3 ip6-allhosts
 :: graidsee.net
 :: graivaik.com
 :: gramombird.com
+:: grampouz.net
 :: grand-prix.cityads.com
 :: grandandtoy.demdex.net
 :: grandautogarage.com
@@ -53899,6 +53903,7 @@ ff02::3 ip6-allhosts
 :: inwemo.com
 :: inwesternmusic.com
 :: inwestujwrozwoj.pl
+:: inwig3aqg9xq.com
 :: inwind.ws
 :: inxhtjrwictg.com
 :: inyour.accountkit.com
@@ -63587,6 +63592,7 @@ ff02::3 ip6-allhosts
 :: mautic.4miner.me
 :: mautic.com
 :: mautic.eto-cms.ru
+:: mauzobou.net
 :: maven.apptimize.com
 :: maven.fabric.io
 :: maven.kissmetrics.com
@@ -75990,6 +75996,7 @@ ff02::3 ip6-allhosts
 :: pheedo.com
 :: pheedroh.net
 :: pheegoab.click
+:: pheekrie.com
 :: pheepudo.net
 :: pheergar.com
 :: pheersie.com
@@ -80959,6 +80966,7 @@ ff02::3 ip6-allhosts
 :: qpfefgwv.dyndns.org
 :: qpfzpcsknvt.com
 :: qpganepbkw.com
+:: qphxgwnqgbkzwh.com
 :: qpianhkxxuc.com
 :: qpjowolqlpg.com
 :: qpjrrhbfglrly.com
@@ -92803,6 +92811,7 @@ ff02::3 ip6-allhosts
 :: stonedpuppy.com
 :: stoneprice.ru
 :: stonewallcamps.com
+:: stonseeb.net
 :: stoomeddert.info
 :: stootoat.com
 :: stop-sign.com
@@ -106183,6 +106192,7 @@ ff02::3 ip6-allhosts
 :: whatsyourclan.com
 :: whattomine.com
 :: whatyoufound.com
+:: whaustou.net
 :: whautsel.net
 :: whdzxabhqsdnlc.com
 :: wheel.bitcoinz.ph

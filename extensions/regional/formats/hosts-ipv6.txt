@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.054
 # Release: 054
-# Entries: 63,526
+# Entries: 63,535
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 00:13:54
+# Updated: Sun, 23 Feb 20 06:14:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -9449,6 +9449,7 @@ ff02::3 ip6-allhosts
 :: chuantu.biz
 :: chucity.com
 :: chufudsi.net
+:: chugagre.com
 :: chuhanweb.com
 :: chuhul.cn
 :: chukalapopi.com
@@ -15629,6 +15630,7 @@ ff02::3 ip6-allhosts
 :: fvsdvxjpxi.com
 :: fvsniyfeyjvg.com
 :: fvtwyjev.com
+:: fvugxwoy.com
 :: fvuvr.com
 :: fvwfkfzhha.com
 :: fvwlzsm3tt921krvoq6.pro
@@ -16852,6 +16854,7 @@ ff02::3 ip6-allhosts
 :: graivaik.com
 :: gramombird.com
 :: gramovi.info
+:: grampouz.net
 :: grand-ads.com
 :: grand-pr.ru
 :: grand-prix.cityads.com
@@ -23577,6 +23580,7 @@ ff02::3 ip6-allhosts
 :: maudau.com
 :: maudfkdsuyp.com
 :: mautic.sfanews.pl
+:: mauzobou.net
 :: mavexercial.info
 :: mavmlkzt.com
 :: mavq.net
@@ -24975,6 +24979,7 @@ ff02::3 ip6-allhosts
 :: mtdatahaba.rocks
 :: mtdlcstsqt.com
 :: mtlog.droid4x.cn
+:: mtmuhcmpz.com
 :: mtnobdfcgylhuj.com
 :: mtnreztslx.com
 :: mto.mediatakeout.com
@@ -28547,6 +28552,7 @@ ff02::3 ip6-allhosts
 :: pheedroh.net
 :: pheeftie.link
 :: pheegoab.click
+:: pheekrie.com
 :: pheepudo.net
 :: pheergar.com
 :: pheersie.com
@@ -30899,6 +30905,7 @@ ff02::3 ip6-allhosts
 :: qpernrqxjfto.com
 :: qpfzpcsknvt.com
 :: qpganepbkw.com
+:: qphxgwnqgbkzwh.com
 :: qpianhkxxuc.com
 :: qpjowolqlpg.com
 :: qpjrrhbfglrly.com
@@ -34975,6 +34982,7 @@ ff02::3 ip6-allhosts
 :: stogocky.net
 :: stompebi.link
 :: stonecalcom.com
+:: stonseeb.net
 :: stoomeddert.info
 :: stoordep.com
 :: stootoat.com
@@ -40176,6 +40184,7 @@ ff02::3 ip6-allhosts
 :: whatsappsohbetim.net
 :: whatseet.net
 :: whatshelp.io
+:: whaustou.net
 :: whautsel.net
 :: whbfgaspmycyve.com
 :: whdulnhnrscfqx.com

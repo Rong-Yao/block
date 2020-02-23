@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 23.02.2020
-# Total Domains - 5928
+# Total Domains - 5930
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1005,6 +1005,7 @@
 0.0.0.0 freeminecraftgiftcode.net
 0.0.0.0 freesamsung.club
 0.0.0.0 freevbuckx.com
+0.0.0.0 fres-news.com
 0.0.0.0 fresh-finance.pl
 0.0.0.0 freshcoffeenetwork.com
 0.0.0.0 freshiuz.com
@@ -3941,6 +3942,7 @@
 0.0.0.0 www.freefollower.eu
 0.0.0.0 www.freehackpl.com
 0.0.0.0 www.freevbuckx.com
+0.0.0.0 www.fres-news.com
 0.0.0.0 www.freshcoffeenetwork.com
 0.0.0.0 www.freshiuz.com
 0.0.0.0 www.frio.com.pl

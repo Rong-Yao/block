@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.054
 ; Release: 054
-; Entries: 122,155
+; Entries: 122,165
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 23 Feb 20 00:10:08
+; Updated: Sun, 23 Feb 20 06:10:19
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -18412,6 +18412,7 @@ benchit.com CNAME .
 benchmarks-api.adjust.com CNAME .
 benchtag2.co CNAME .
 benders45.duckdns.org CNAME .
+benefitsorganic.com CNAME .
 benesserelab.com CNAME .
 bengkalisinfo.com CNAME .
 bengkelcatmobiltangsel.com CNAME .
@@ -24861,6 +24862,7 @@ chuckfaganco.com CNAME .
 chucktaylor.pl CNAME .
 chudykucharz.pl CNAME .
 chufudsi.net CNAME .
+chugagre.com CNAME .
 chuhlmann.de CNAME .
 chukalapopi.com CNAME .
 chukalorqa.com CNAME .
@@ -42540,6 +42542,7 @@ fvrvxmksxhut.com CNAME .
 fvsdvxjpxi.com CNAME .
 fvsniyfeyjvg.com CNAME .
 fvtwyjev.com CNAME .
+fvugxwoy.com CNAME .
 fvwcwbdrprdt.com CNAME .
 fvwfkfzhha.com CNAME .
 fvwlzsm3tt921krvoq6.pro CNAME .
@@ -45418,6 +45421,7 @@ graicmiw.com CNAME .
 graidsee.net CNAME .
 graivaik.com CNAME .
 gramombird.com CNAME .
+grampouz.net CNAME .
 grand-prix.cityads.com CNAME .
 grandandtoy.demdex.net CNAME .
 grandautogarage.com CNAME .
@@ -53888,6 +53892,7 @@ involve-you.net CNAME .
 inwemo.com CNAME .
 inwesternmusic.com CNAME .
 inwestujwrozwoj.pl CNAME .
+inwig3aqg9xq.com CNAME .
 inwind.ws CNAME .
 inxhtjrwictg.com CNAME .
 inyour.accountkit.com CNAME .
@@ -63576,6 +63581,7 @@ maureenkile.com CNAME .
 mautic.4miner.me CNAME .
 mautic.com CNAME .
 mautic.eto-cms.ru CNAME .
+mauzobou.net CNAME .
 maven.apptimize.com CNAME .
 maven.fabric.io CNAME .
 maven.kissmetrics.com CNAME .
@@ -75979,6 +75985,7 @@ phee1oci.com CNAME .
 pheedo.com CNAME .
 pheedroh.net CNAME .
 pheegoab.click CNAME .
+pheekrie.com CNAME .
 pheepudo.net CNAME .
 pheergar.com CNAME .
 pheersie.com CNAME .
@@ -80948,6 +80955,7 @@ qpernrqxjfto.com CNAME .
 qpfefgwv.dyndns.org CNAME .
 qpfzpcsknvt.com CNAME .
 qpganepbkw.com CNAME .
+qphxgwnqgbkzwh.com CNAME .
 qpianhkxxuc.com CNAME .
 qpjowolqlpg.com CNAME .
 qpjrrhbfglrly.com CNAME .
@@ -92792,6 +92800,7 @@ stonecalcom.com CNAME .
 stonedpuppy.com CNAME .
 stoneprice.ru CNAME .
 stonewallcamps.com CNAME .
+stonseeb.net CNAME .
 stoomeddert.info CNAME .
 stootoat.com CNAME .
 stop-sign.com CNAME .
@@ -106172,6 +106181,7 @@ whatsupindobz.com CNAME .
 whatsyourclan.com CNAME .
 whattomine.com CNAME .
 whatyoufound.com CNAME .
+whaustou.net CNAME .
 whautsel.net CNAME .
 whdzxabhqsdnlc.com CNAME .
 wheel.bitcoinz.ph CNAME .

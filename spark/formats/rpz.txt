@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.054
 ; Release: 054
-; Entries: 61,239
+; Entries: 61,249
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 23 Feb 20 00:10:02
+; Updated: Sun, 23 Feb 20 06:10:15
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -11269,6 +11269,7 @@ benbeattie.com CNAME .
 bench.uc.cn CNAME .
 benchemail.bmetrack.com CNAME .
 benchmarks-api.adjust.com CNAME .
+benefitsorganic.com CNAME .
 benesserelab.com CNAME .
 benimreklam.com CNAME .
 benstock.free.fr CNAME .
@@ -14619,6 +14620,7 @@ chtatic.appspot.com CNAME .
 chuchutrack.com CNAME .
 chuckfaganco.com CNAME .
 chufudsi.net CNAME .
+chugagre.com CNAME .
 chukalapopi.com CNAME .
 chukalorqa.com CNAME .
 chuknu.sokrati.com CNAME .
@@ -22774,6 +22776,7 @@ fvrbloxygbrv.com CNAME .
 fvsdvxjpxi.com CNAME .
 fvsniyfeyjvg.com CNAME .
 fvtwyjev.com CNAME .
+fvugxwoy.com CNAME .
 fvwcwbdrprdt.com CNAME .
 fvwfkfzhha.com CNAME .
 fvwlzsm3tt921krvoq6.pro CNAME .
@@ -24270,6 +24273,7 @@ graicmiw.com CNAME .
 graidsee.net CNAME .
 graivaik.com CNAME .
 gramombird.com CNAME .
+grampouz.net CNAME .
 grandandtoy.demdex.net CNAME .
 grandfuckauto.xxx CNAME .
 grandioseguide.com CNAME .
@@ -27721,6 +27725,7 @@ invitesugar.com CNAME .
 inviziads.com CNAME .
 involve-you.net CNAME .
 inwemo.com CNAME .
+inwig3aqg9xq.com CNAME .
 inwind.ws CNAME .
 inyour.accountkit.com CNAME .
 io-cdn.bfmio.com CNAME .
@@ -32064,6 +32069,7 @@ mau.mobincube.com CNAME .
 maudau.com CNAME .
 maudfkdsuyp.com CNAME .
 mautic.com CNAME .
+mauzobou.net CNAME .
 maven.apptimize.com CNAME .
 maven.fabric.io CNAME .
 maven.kissmetrics.com CNAME .
@@ -38639,6 +38645,7 @@ phee1oci.com CNAME .
 pheedo.com CNAME .
 pheedroh.net CNAME .
 pheegoab.click CNAME .
+pheekrie.com CNAME .
 pheepudo.net CNAME .
 pheergar.com CNAME .
 pheersie.com CNAME .
@@ -41496,6 +41503,7 @@ qpeczlqvv.com CNAME .
 qpernrqxjfto.com CNAME .
 qpfzpcsknvt.com CNAME .
 qpganepbkw.com CNAME .
+qphxgwnqgbkzwh.com CNAME .
 qpianhkxxuc.com CNAME .
 qpjowolqlpg.com CNAME .
 qpjrrhbfglrly.com CNAME .
@@ -47623,6 +47631,7 @@ stompebi.link CNAME .
 stoneb.cn CNAME .
 stonecalcom.com CNAME .
 stonewallcamps.com CNAME .
+stonseeb.net CNAME .
 stoomeddert.info CNAME .
 stootoat.com CNAME .
 stop-sign.com CNAME .
@@ -55045,6 +55054,7 @@ whatsapps.com CNAME .
 whatseek.com CNAME .
 whatseet.net CNAME .
 whatshelp.io CNAME .
+whaustou.net CNAME .
 whautsel.net CNAME .
 whdzxabhqsdnlc.com CNAME .
 wheelches.info CNAME .

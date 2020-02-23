@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.054
 ; Release: 054
-; Entries: 63,526
+; Entries: 63,535
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 23 Feb 20 00:13:54
+; Updated: Sun, 23 Feb 20 06:14:00
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9438,6 +9438,7 @@ chuangyixi.com CNAME .
 chuantu.biz CNAME .
 chucity.com CNAME .
 chufudsi.net CNAME .
+chugagre.com CNAME .
 chuhanweb.com CNAME .
 chuhul.cn CNAME .
 chukalapopi.com CNAME .
@@ -15618,6 +15619,7 @@ fvpluqipfjcsf.com CNAME .
 fvsdvxjpxi.com CNAME .
 fvsniyfeyjvg.com CNAME .
 fvtwyjev.com CNAME .
+fvugxwoy.com CNAME .
 fvuvr.com CNAME .
 fvwfkfzhha.com CNAME .
 fvwlzsm3tt921krvoq6.pro CNAME .
@@ -16841,6 +16843,7 @@ grainsox.net CNAME .
 graivaik.com CNAME .
 gramombird.com CNAME .
 gramovi.info CNAME .
+grampouz.net CNAME .
 grand-ads.com CNAME .
 grand-pr.ru CNAME .
 grand-prix.cityads.com CNAME .
@@ -23566,6 +23569,7 @@ mauckportcynwyd.com CNAME .
 maudau.com CNAME .
 maudfkdsuyp.com CNAME .
 mautic.sfanews.pl CNAME .
+mauzobou.net CNAME .
 mavexercial.info CNAME .
 mavmlkzt.com CNAME .
 mavq.net CNAME .
@@ -24964,6 +24968,7 @@ mtdata10.ru CNAME .
 mtdatahaba.rocks CNAME .
 mtdlcstsqt.com CNAME .
 mtlog.droid4x.cn CNAME .
+mtmuhcmpz.com CNAME .
 mtnobdfcgylhuj.com CNAME .
 mtnreztslx.com CNAME .
 mto.mediatakeout.com CNAME .
@@ -28536,6 +28541,7 @@ pheedo.com CNAME .
 pheedroh.net CNAME .
 pheeftie.link CNAME .
 pheegoab.click CNAME .
+pheekrie.com CNAME .
 pheepudo.net CNAME .
 pheergar.com CNAME .
 pheersie.com CNAME .
@@ -30888,6 +30894,7 @@ qpeczlqvv.com CNAME .
 qpernrqxjfto.com CNAME .
 qpfzpcsknvt.com CNAME .
 qpganepbkw.com CNAME .
+qphxgwnqgbkzwh.com CNAME .
 qpianhkxxuc.com CNAME .
 qpjowolqlpg.com CNAME .
 qpjrrhbfglrly.com CNAME .
@@ -34964,6 +34971,7 @@ stogerde.com CNAME .
 stogocky.net CNAME .
 stompebi.link CNAME .
 stonecalcom.com CNAME .
+stonseeb.net CNAME .
 stoomeddert.info CNAME .
 stoordep.com CNAME .
 stootoat.com CNAME .
@@ -40165,6 +40173,7 @@ whatsappsohbetet.com CNAME .
 whatsappsohbetim.net CNAME .
 whatseet.net CNAME .
 whatshelp.io CNAME .
+whaustou.net CNAME .
 whautsel.net CNAME .
 whbfgaspmycyve.com CNAME .
 whdulnhnrscfqx.com CNAME .

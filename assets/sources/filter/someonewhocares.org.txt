@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
 # Last Converted - 23.02.2020
-# Total Domains - 6156
+# Total Domains - 6157
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1242,6 +1242,7 @@
 0.0.0.0 bellglovemediapublishing.122.2o7.net
 0.0.0.0 bellserviceeng.112.2o7.net
 0.0.0.0 benchemail.bmetrack.com
+0.0.0.0 benefitsorganic.com
 0.0.0.0 benimreklam.com
 0.0.0.0 best-hir.com
 0.0.0.0 best2017games.com

@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.054
 # Release: 054
-# Entries: 63,526
+# Entries: 63,535
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 00:13:54
+# Updated: Sun, 23 Feb 20 06:14:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -9430,6 +9430,7 @@ chuangyixi.com
 chuantu.biz
 chucity.com
 chufudsi.net
+chugagre.com
 chuhanweb.com
 chuhul.cn
 chukalapopi.com
@@ -15610,6 +15611,7 @@ fvpluqipfjcsf.com
 fvsdvxjpxi.com
 fvsniyfeyjvg.com
 fvtwyjev.com
+fvugxwoy.com
 fvuvr.com
 fvwfkfzhha.com
 fvwlzsm3tt921krvoq6.pro
@@ -16833,6 +16835,7 @@ grainsox.net
 graivaik.com
 gramombird.com
 gramovi.info
+grampouz.net
 grand-ads.com
 grand-pr.ru
 grand-prix.cityads.com
@@ -23558,6 +23561,7 @@ mauckportcynwyd.com
 maudau.com
 maudfkdsuyp.com
 mautic.sfanews.pl
+mauzobou.net
 mavexercial.info
 mavmlkzt.com
 mavq.net
@@ -24956,6 +24960,7 @@ mtdata10.ru
 mtdatahaba.rocks
 mtdlcstsqt.com
 mtlog.droid4x.cn
+mtmuhcmpz.com
 mtnobdfcgylhuj.com
 mtnreztslx.com
 mto.mediatakeout.com
@@ -28528,6 +28533,7 @@ pheedo.com
 pheedroh.net
 pheeftie.link
 pheegoab.click
+pheekrie.com
 pheepudo.net
 pheergar.com
 pheersie.com
@@ -30880,6 +30886,7 @@ qpeczlqvv.com
 qpernrqxjfto.com
 qpfzpcsknvt.com
 qpganepbkw.com
+qphxgwnqgbkzwh.com
 qpianhkxxuc.com
 qpjowolqlpg.com
 qpjrrhbfglrly.com
@@ -34956,6 +34963,7 @@ stogerde.com
 stogocky.net
 stompebi.link
 stonecalcom.com
+stonseeb.net
 stoomeddert.info
 stoordep.com
 stootoat.com
@@ -40157,6 +40165,7 @@ whatsappsohbetet.com
 whatsappsohbetim.net
 whatseet.net
 whatshelp.io
+whaustou.net
 whautsel.net
 whbfgaspmycyve.com
 whdulnhnrscfqx.com

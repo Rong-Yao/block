@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.054
 # Release: 054
-# Entries: 122,155
+# Entries: 122,165
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 00:10:08
+# Updated: Sun, 23 Feb 20 06:10:19
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -18423,6 +18423,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 benchmarks-api.adjust.com
 0.0.0.0 benchtag2.co
 0.0.0.0 benders45.duckdns.org
+0.0.0.0 benefitsorganic.com
 0.0.0.0 benesserelab.com
 0.0.0.0 bengkalisinfo.com
 0.0.0.0 bengkelcatmobiltangsel.com
@@ -24872,6 +24873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chucktaylor.pl
 0.0.0.0 chudykucharz.pl
 0.0.0.0 chufudsi.net
+0.0.0.0 chugagre.com
 0.0.0.0 chuhlmann.de
 0.0.0.0 chukalapopi.com
 0.0.0.0 chukalorqa.com
@@ -42551,6 +42553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fvsdvxjpxi.com
 0.0.0.0 fvsniyfeyjvg.com
 0.0.0.0 fvtwyjev.com
+0.0.0.0 fvugxwoy.com
 0.0.0.0 fvwcwbdrprdt.com
 0.0.0.0 fvwfkfzhha.com
 0.0.0.0 fvwlzsm3tt921krvoq6.pro
@@ -45429,6 +45432,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 graidsee.net
 0.0.0.0 graivaik.com
 0.0.0.0 gramombird.com
+0.0.0.0 grampouz.net
 0.0.0.0 grand-prix.cityads.com
 0.0.0.0 grandandtoy.demdex.net
 0.0.0.0 grandautogarage.com
@@ -53899,6 +53903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inwemo.com
 0.0.0.0 inwesternmusic.com
 0.0.0.0 inwestujwrozwoj.pl
+0.0.0.0 inwig3aqg9xq.com
 0.0.0.0 inwind.ws
 0.0.0.0 inxhtjrwictg.com
 0.0.0.0 inyour.accountkit.com
@@ -63587,6 +63592,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mautic.4miner.me
 0.0.0.0 mautic.com
 0.0.0.0 mautic.eto-cms.ru
+0.0.0.0 mauzobou.net
 0.0.0.0 maven.apptimize.com
 0.0.0.0 maven.fabric.io
 0.0.0.0 maven.kissmetrics.com
@@ -75990,6 +75996,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pheedo.com
 0.0.0.0 pheedroh.net
 0.0.0.0 pheegoab.click
+0.0.0.0 pheekrie.com
 0.0.0.0 pheepudo.net
 0.0.0.0 pheergar.com
 0.0.0.0 pheersie.com
@@ -80959,6 +80966,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qpfefgwv.dyndns.org
 0.0.0.0 qpfzpcsknvt.com
 0.0.0.0 qpganepbkw.com
+0.0.0.0 qphxgwnqgbkzwh.com
 0.0.0.0 qpianhkxxuc.com
 0.0.0.0 qpjowolqlpg.com
 0.0.0.0 qpjrrhbfglrly.com
@@ -92803,6 +92811,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stonedpuppy.com
 0.0.0.0 stoneprice.ru
 0.0.0.0 stonewallcamps.com
+0.0.0.0 stonseeb.net
 0.0.0.0 stoomeddert.info
 0.0.0.0 stootoat.com
 0.0.0.0 stop-sign.com
@@ -106183,6 +106192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whatsyourclan.com
 0.0.0.0 whattomine.com
 0.0.0.0 whatyoufound.com
+0.0.0.0 whaustou.net
 0.0.0.0 whautsel.net
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheel.bitcoinz.ph

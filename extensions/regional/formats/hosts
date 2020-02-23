@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.054
 # Release: 054
-# Entries: 63,526
+# Entries: 63,535
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 00:13:54
+# Updated: Sun, 23 Feb 20 06:14:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -9449,6 +9449,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chuantu.biz
 0.0.0.0 chucity.com
 0.0.0.0 chufudsi.net
+0.0.0.0 chugagre.com
 0.0.0.0 chuhanweb.com
 0.0.0.0 chuhul.cn
 0.0.0.0 chukalapopi.com
@@ -15629,6 +15630,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fvsdvxjpxi.com
 0.0.0.0 fvsniyfeyjvg.com
 0.0.0.0 fvtwyjev.com
+0.0.0.0 fvugxwoy.com
 0.0.0.0 fvuvr.com
 0.0.0.0 fvwfkfzhha.com
 0.0.0.0 fvwlzsm3tt921krvoq6.pro
@@ -16852,6 +16854,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 graivaik.com
 0.0.0.0 gramombird.com
 0.0.0.0 gramovi.info
+0.0.0.0 grampouz.net
 0.0.0.0 grand-ads.com
 0.0.0.0 grand-pr.ru
 0.0.0.0 grand-prix.cityads.com
@@ -23577,6 +23580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 maudau.com
 0.0.0.0 maudfkdsuyp.com
 0.0.0.0 mautic.sfanews.pl
+0.0.0.0 mauzobou.net
 0.0.0.0 mavexercial.info
 0.0.0.0 mavmlkzt.com
 0.0.0.0 mavq.net
@@ -24975,6 +24979,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtdatahaba.rocks
 0.0.0.0 mtdlcstsqt.com
 0.0.0.0 mtlog.droid4x.cn
+0.0.0.0 mtmuhcmpz.com
 0.0.0.0 mtnobdfcgylhuj.com
 0.0.0.0 mtnreztslx.com
 0.0.0.0 mto.mediatakeout.com
@@ -28547,6 +28552,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pheedroh.net
 0.0.0.0 pheeftie.link
 0.0.0.0 pheegoab.click
+0.0.0.0 pheekrie.com
 0.0.0.0 pheepudo.net
 0.0.0.0 pheergar.com
 0.0.0.0 pheersie.com
@@ -30899,6 +30905,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qpernrqxjfto.com
 0.0.0.0 qpfzpcsknvt.com
 0.0.0.0 qpganepbkw.com
+0.0.0.0 qphxgwnqgbkzwh.com
 0.0.0.0 qpianhkxxuc.com
 0.0.0.0 qpjowolqlpg.com
 0.0.0.0 qpjrrhbfglrly.com
@@ -34975,6 +34982,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stogocky.net
 0.0.0.0 stompebi.link
 0.0.0.0 stonecalcom.com
+0.0.0.0 stonseeb.net
 0.0.0.0 stoomeddert.info
 0.0.0.0 stoordep.com
 0.0.0.0 stootoat.com
@@ -40176,6 +40184,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whatsappsohbetim.net
 0.0.0.0 whatseet.net
 0.0.0.0 whatshelp.io
+0.0.0.0 whaustou.net
 0.0.0.0 whautsel.net
 0.0.0.0 whbfgaspmycyve.com
 0.0.0.0 whdulnhnrscfqx.com

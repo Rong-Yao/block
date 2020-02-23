@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.054
 # Release: 054
-# Entries: 61,239
+# Entries: 61,249
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 00:10:02
+# Updated: Sun, 23 Feb 20 06:10:15
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -11280,6 +11280,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bench.uc.cn
 0.0.0.0 benchemail.bmetrack.com
 0.0.0.0 benchmarks-api.adjust.com
+0.0.0.0 benefitsorganic.com
 0.0.0.0 benesserelab.com
 0.0.0.0 benimreklam.com
 0.0.0.0 benstock.free.fr
@@ -14630,6 +14631,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chuchutrack.com
 0.0.0.0 chuckfaganco.com
 0.0.0.0 chufudsi.net
+0.0.0.0 chugagre.com
 0.0.0.0 chukalapopi.com
 0.0.0.0 chukalorqa.com
 0.0.0.0 chuknu.sokrati.com
@@ -22785,6 +22787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fvsdvxjpxi.com
 0.0.0.0 fvsniyfeyjvg.com
 0.0.0.0 fvtwyjev.com
+0.0.0.0 fvugxwoy.com
 0.0.0.0 fvwcwbdrprdt.com
 0.0.0.0 fvwfkfzhha.com
 0.0.0.0 fvwlzsm3tt921krvoq6.pro
@@ -24281,6 +24284,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 graidsee.net
 0.0.0.0 graivaik.com
 0.0.0.0 gramombird.com
+0.0.0.0 grampouz.net
 0.0.0.0 grandandtoy.demdex.net
 0.0.0.0 grandfuckauto.xxx
 0.0.0.0 grandioseguide.com
@@ -27732,6 +27736,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inviziads.com
 0.0.0.0 involve-you.net
 0.0.0.0 inwemo.com
+0.0.0.0 inwig3aqg9xq.com
 0.0.0.0 inwind.ws
 0.0.0.0 inyour.accountkit.com
 0.0.0.0 io-cdn.bfmio.com
@@ -32075,6 +32080,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 maudau.com
 0.0.0.0 maudfkdsuyp.com
 0.0.0.0 mautic.com
+0.0.0.0 mauzobou.net
 0.0.0.0 maven.apptimize.com
 0.0.0.0 maven.fabric.io
 0.0.0.0 maven.kissmetrics.com
@@ -38650,6 +38656,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pheedo.com
 0.0.0.0 pheedroh.net
 0.0.0.0 pheegoab.click
+0.0.0.0 pheekrie.com
 0.0.0.0 pheepudo.net
 0.0.0.0 pheergar.com
 0.0.0.0 pheersie.com
@@ -41507,6 +41514,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qpernrqxjfto.com
 0.0.0.0 qpfzpcsknvt.com
 0.0.0.0 qpganepbkw.com
+0.0.0.0 qphxgwnqgbkzwh.com
 0.0.0.0 qpianhkxxuc.com
 0.0.0.0 qpjowolqlpg.com
 0.0.0.0 qpjrrhbfglrly.com
@@ -47634,6 +47642,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stoneb.cn
 0.0.0.0 stonecalcom.com
 0.0.0.0 stonewallcamps.com
+0.0.0.0 stonseeb.net
 0.0.0.0 stoomeddert.info
 0.0.0.0 stootoat.com
 0.0.0.0 stop-sign.com
@@ -55056,6 +55065,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 whatseek.com
 0.0.0.0 whatseet.net
 0.0.0.0 whatshelp.io
+0.0.0.0 whaustou.net
 0.0.0.0 whautsel.net
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheelches.info

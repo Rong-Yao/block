@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-complete.txt
 # Last Converted - 23.02.2020
-# Total Domains - 22533
+# Total Domains - 22542
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4144,6 +4144,7 @@
 0.0.0.0 chrumedia.com
 0.0.0.0 chtntr.com
 0.0.0.0 chufudsi.net
+0.0.0.0 chugagre.com
 0.0.0.0 chukalapopi.com
 0.0.0.0 chukalorqa.com
 0.0.0.0 chvwtxtzmzbggo.com
@@ -7675,6 +7676,7 @@
 0.0.0.0 fvsdvxjpxi.com
 0.0.0.0 fvsniyfeyjvg.com
 0.0.0.0 fvtwyjev.com
+0.0.0.0 fvugxwoy.com
 0.0.0.0 fvwfkfzhha.com
 0.0.0.0 fvwlzsm3tt921krvoq6.pro
 0.0.0.0 fvwvhvsvqgyhs.com
@@ -8295,6 +8297,7 @@
 0.0.0.0 graidsee.net
 0.0.0.0 graivaik.com
 0.0.0.0 gramombird.com
+0.0.0.0 grampouz.net
 0.0.0.0 grand-ads.com
 0.0.0.0 granify.com
 0.0.0.0 grapeshot.co.uk
@@ -11590,6 +11593,7 @@
 0.0.0.0 matrix-cash.com
 0.0.0.0 maudau.com
 0.0.0.0 maudfkdsuyp.com
+0.0.0.0 mauzobou.net
 0.0.0.0 mavmlkzt.com
 0.0.0.0 maxcash.com
 0.0.0.0 maxgirlgames.com
@@ -12270,6 +12274,7 @@
 0.0.0.0 mtbwqtfqnj.com
 0.0.0.0 mtc.nhk.or.jp
 0.0.0.0 mtdlcstsqt.com
+0.0.0.0 mtmuhcmpz.com
 0.0.0.0 mtnobdfcgylhuj.com
 0.0.0.0 mtnreztslx.com
 0.0.0.0 mto.mediatakeout.com
@@ -14292,6 +14297,7 @@
 0.0.0.0 phedudug.net
 0.0.0.0 pheedroh.net
 0.0.0.0 pheegoab.click
+0.0.0.0 pheekrie.com
 0.0.0.0 pheepudo.net
 0.0.0.0 pheergar.com
 0.0.0.0 pheersie.com
@@ -15715,6 +15721,7 @@
 0.0.0.0 qpernrqxjfto.com
 0.0.0.0 qpfzpcsknvt.com
 0.0.0.0 qpganepbkw.com
+0.0.0.0 qphxgwnqgbkzwh.com
 0.0.0.0 qpianhkxxuc.com
 0.0.0.0 qpjowolqlpg.com
 0.0.0.0 qpjrrhbfglrly.com
@@ -18142,6 +18149,7 @@
 0.0.0.0 stoashou.net
 0.0.0.0 stoassod.com
 0.0.0.0 stonecalcom.com
+0.0.0.0 stonseeb.net
 0.0.0.0 stootoat.com
 0.0.0.0 stopadblock.info
 0.0.0.0 stopherapyimp.pro
@@ -21017,6 +21025,7 @@
 0.0.0.0 whalecashads.com
 0.0.0.0 whalepp.com
 0.0.0.0 whatseet.net
+0.0.0.0 whaustou.net
 0.0.0.0 whautsel.net
 0.0.0.0 whdzxabhqsdnlc.com
 0.0.0.0 wheessoo.com

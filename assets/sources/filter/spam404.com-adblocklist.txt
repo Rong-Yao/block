@@ -1,8 +1,8 @@
 # Title: spam404.com-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# Last Converted - 23.02.2020
-# Total Domains - 3309
+# Last Converted - 24.02.2020
+# Total Domains - 3308
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -613,7 +613,6 @@
 0.0.0.0 csgoskinsinfo.com
 0.0.0.0 csgoskinspattern.com
 0.0.0.0 csgoskinsprice.com
-0.0.0.0 csgotakeoff.com
 0.0.0.0 csgotourneys.live
 0.0.0.0 csgotrade.zone
 0.0.0.0 csgotradegear.com

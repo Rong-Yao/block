@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.02.054
-# Release: 054
-# Entries: 122,110
+# Version: 20.02.055
+# Release: 055
+# Entries: 122,062
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 18:10:39
+# Updated: Mon, 24 Feb 20 00:10:23
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -364,7 +364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 100-0-pool.burst-alliance.org
 0.0.0.0 100-164.btcc.com
 0.0.0.0 100-185.btcc.com
-0.0.0.0 100-219.btcc.com
 0.0.0.0 100-btc.com
 0.0.0.0 100.1qingdao.com
 0.0.0.0 100.pncdn.cn
@@ -435,7 +434,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 105app.com
 0.0.0.0 105vibe.com
 0.0.0.0 106242.hittail.com
-0.0.0.0 1067b.btcc.com
 0.0.0.0 107008.speead.jp
 0.0.0.0 108.177.15.108.cryptopool.eu
 0.0.0.0 108.177.15.108.hpool.com
@@ -469,7 +467,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 11165583-40348.id2.clickprotects.com
 0.0.0.0 111g.yiqig.cn
 0.0.0.0 112.2o7.net
-0.0.0.0 114-184.btcc.com
 0.0.0.0 1147.org
 0.0.0.0 114oldest.com
 0.0.0.0 114study.adsame.com
@@ -585,7 +582,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1274.mediatraffic.com
 0.0.0.0 1275.api.swrve.com
 0.0.0.0 1275.content.swrve.com
-0.0.0.0 12769.btcc.com
 0.0.0.0 1278725189.pub.ezanga.com
 0.0.0.0 12877.hittail.com
 0.0.0.0 128ad3cf92ed.com
@@ -641,7 +637,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 138shenbosbo.com
 0.0.0.0 139-61.btcc.com
 0.0.0.0 13903825045.com
-0.0.0.0 13919.btcc.com
 0.0.0.0 13ce9.btcc.com
 0.0.0.0 13tabs.com
 0.0.0.0 13vm73vbmp.com
@@ -659,7 +654,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 14119276be0852.com
 0.0.0.0 14198.com
 0.0.0.0 142.ip-164-132-197.eu
-0.0.0.0 14220.btcc.com
 0.0.0.0 14228.hittail.com
 0.0.0.0 144.dragonparking.com
 0.0.0.0 144.gulfcoastmining.com
@@ -673,7 +667,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 1465.content.swrve.com
 0.0.0.0 1465.link.swrve.com
 0.0.0.0 14826.btcc.com
-0.0.0.0 149-170.btcc.com
 0.0.0.0 14b41d7ec7766122d.com
 0.0.0.0 14bb52zfzi.h81yxqatzf.madpendesign.com.au
 0.0.0.0 14daily.com
@@ -692,7 +685,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 15143ab5b83.com
 0.0.0.0 15173835864570921.micropix.net
 0.0.0.0 15257dddaccde96.com
-0.0.0.0 15295.btcc.com
 0.0.0.0 152media.adk2.co
 0.0.0.0 152media.com
 0.0.0.0 153.webchain.network
@@ -810,7 +802,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 186262.engine.mobileapptracking.com
 0.0.0.0 1868.api.swrve.com
 0.0.0.0 1868.link.swrve.com
-0.0.0.0 187-3.btcc.com
 0.0.0.0 1873083787.rsc.cdn77.org
 0.0.0.0 18744.com
 0.0.0.0 188-30.btcc.com
@@ -861,7 +852,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 191gm.com
 0.0.0.0 192.168.122.2o7.net
 0.0.0.0 192211.engine.mobileapptracking.com
-0.0.0.0 194-40.btcc.com
 0.0.0.0 194192.engine.mobileapptracking.com
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 19500.hittail.com
@@ -1190,7 +1180,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 202ch.com
 0.0.0.0 204.scloud.lfengmobile.com
 0.0.0.0 20552817p.rfihub.com
-0.0.0.0 206-231.btcc.com
 0.0.0.0 206ads.com
 0.0.0.0 206solutions.com
 0.0.0.0 2070modern.com
@@ -1487,7 +1476,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 2c0dad36bdb9eb859f0.com
 0.0.0.0 2c3a97984f45.com
 0.0.0.0 2c6bcbbb82ce911.com
-0.0.0.0 2c6d8.btcc.com
 0.0.0.0 2cam.eu
 0.0.0.0 2cam.nl
 0.0.0.0 2cbisyjaae.com
@@ -2110,7 +2098,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 3i.skimresources.com
 0.0.0.0 3j5h64le0b.cywhxygctk.madpendesign.com.au
 0.0.0.0 3jmcwio.com
-0.0.0.0 3li.btcc.com
 0.0.0.0 3liennaak6.djc2tvnzza.madpendesign.com.au
 0.0.0.0 3lift.com
 0.0.0.0 3lr67y45.com
@@ -2543,12 +2530,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 51.la
 0.0.0.0 51.video-ak.cdn.spotify.com
 0.0.0.0 510w.com
-0.0.0.0 511.btcc.com
 0.0.0.0 511fc7a56936.com
 0.0.0.0 512dnf.com
 0.0.0.0 514-balcons.com
 0.0.0.0 51457642.de.strato-hosting.eu
-0.0.0.0 5150.btcc.com
 0.0.0.0 5151ac.com
 0.0.0.0 515646.net
 0.0.0.0 518.sdinfo.net
@@ -2607,7 +2592,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 553636.duckdns.org
 0.0.0.0 555.in.th
 0.0.0.0 55511b.com
-0.0.0.0 557.btcc.com
 0.0.0.0 55995-519009.link.iwanttodeliver.com
 0.0.0.0 55labs.com
 0.0.0.0 56.video-ak.cdn.spotify.com
@@ -2735,7 +2719,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 6178.eu-content.swrve.com
 0.0.0.0 618199.com
 0.0.0.0 6198399e4910e66-ovc.com
-0.0.0.0 6199.btcc.com
 0.0.0.0 619de07af53f8.com
 0.0.0.0 61gamei.com
 0.0.0.0 61kx.uk-insolvencydirect.com
@@ -3190,7 +3173,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 8816.engine.mobileapptracking.com
 0.0.0.0 883zy.com
 0.0.0.0 88461059da0a12ea.com
-0.0.0.0 884jinbaoboyulewang.btcc.com
 0.0.0.0 888-vip.net
 0.0.0.0 888.0769.it
 0.0.0.0 888.com
@@ -10080,7 +10062,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aepetor.pw
 0.0.0.0 aepwqsajypyti.com
 0.0.0.0 aepwtbusoofzw.com
-0.0.0.0 aeq.btcc.com
 0.0.0.0 aeq.easyhash.de
 0.0.0.0 aerakis.com
 0.0.0.0 aeriagenerator.com
@@ -16332,7 +16313,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 autoconfig.kippo.eu
 0.0.0.0 autoconfig.mastermining.net
 0.0.0.0 autoconfig.minerpool.net
-0.0.0.0 autoconfig.p2poolmining.us
 0.0.0.0 autoconfig.scryptpool.xyz
 0.0.0.0 autoconfig.test.sparkpool.com
 0.0.0.0 autoconfig.webminepool.com
@@ -16998,7 +16978,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 b3ff2cfeb6f49e.com
 0.0.0.0 b3pool.com
 0.0.0.0 b3z29k1uxb.com
-0.0.0.0 b4-176.btcc.com
 0.0.0.0 b4-24.btcc.com
 0.0.0.0 b4.3ddown.com
 0.0.0.0 b4.adinch.com
@@ -19150,7 +19129,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 binfaqeeh.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bingo.mine2gether.com
-0.0.0.0 bingo.spectresecurity.io
 0.0.0.0 bingo4affiliates.com
 0.0.0.0 bingoblitzcheats.com
 0.0.0.0 binlayer.com
@@ -19625,7 +19603,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 blethenmaine.112.2o7.net
 0.0.0.0 blggrounds.ca
 0.0.0.0 blgrwhaww.com
-0.0.0.0 blh.btcc.com
 0.0.0.0 bliink.io
 0.0.0.0 blikk.pushengage.com
 0.0.0.0 bliman.com
@@ -21983,6 +21960,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c11.statcounter.com
 0.0.0.0 c11370896.c.youradexchange.com
 0.0.0.0 c12.statcounter.com
+0.0.0.0 c123movies.com
 0.0.0.0 c12asd2.tretrasidiom.com
 0.0.0.0 c13.statcounter.com
 0.0.0.0 c14.statcounter.com
@@ -24911,7 +24889,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ci-ph.rdtcdn.com
 0.0.0.0 ci.adsafeprotected.com
 0.0.0.0 ci.appboy.com
-0.0.0.0 ci.btcc.com
 0.0.0.0 ci.hpool.com
 0.0.0.0 ci.iasds01.com
 0.0.0.0 ci.pandaminer.com
@@ -26696,7 +26673,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 coin1.coinminer.net
 0.0.0.0 coinad.com
 0.0.0.0 coinadvert.net
-0.0.0.0 coinangel.loudmining.com
 0.0.0.0 coinat.com
 0.0.0.0 coinbas-esignin.com
 0.0.0.0 coinbase.gift
@@ -29149,7 +29125,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 csgoskinsinfo.com
 0.0.0.0 csgoskinspattern.com
 0.0.0.0 csgoskinsprice.com
-0.0.0.0 csgotakeoff.com
 0.0.0.0 csgotourneys.live
 0.0.0.0 csgotrade.zone
 0.0.0.0 csgotradegear.com
@@ -31300,7 +31275,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dc43.s290.meetrics.net
 0.0.0.0 dc5-mpx-userver-upaas.ucweb.com
 0.0.0.0 dc5-userver-upaas.ucweb.com
-0.0.0.0 dc5.btcc.com
 0.0.0.0 dc56.s290.meetrics.net
 0.0.0.0 dc5ig2fc8lg83.cloudfront.net
 0.0.0.0 dc61.s290.meetrics.net
@@ -37840,7 +37814,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ethgiftonline.com
 0.0.0.0 ethgiveavvay.com
 0.0.0.0 ethgivewaypromo.info
-0.0.0.0 ethh.btcc.com
 0.0.0.0 ethicalhack.myftp.biz
 0.0.0.0 ethikuma.link
 0.0.0.0 ethman.ethosdistro.com
@@ -37974,7 +37947,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 etsuse-cure.000webhostapp.com
 0.0.0.0 ettamscqyvocxz.com
 0.0.0.0 ettournalurgerap.info
-0.0.0.0 etu.btcc.com
 0.0.0.0 etuch.cn
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etuihxnhuxrofl.com
@@ -38567,6 +38539,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 evuchenzypysci.com
 0.0.0.0 evvjvrpldtnlqk.com
 0.0.0.0 evvpibrfqzjn.com
+0.0.0.0 evvznnafduvs.com
 0.0.0.0 evyy.net
 0.0.0.0 ew-ph.rdtcdn.com
 0.0.0.0 ew.politros.com
@@ -38624,7 +38597,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ex3.mkt-coin.com
 0.0.0.0 ex4.mkt-coin.com
 0.0.0.0 ex5.btcc.com
-0.0.0.0 ex8.btcc.com
 0.0.0.0 exactadvertising.com
 0.0.0.0 exactag.com
 0.0.0.0 exactdrive.com
@@ -38979,7 +38951,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 explorer.vecocoin.io
 0.0.0.0 explorer.veopool.pw
 0.0.0.0 explorer.viabtc.com
-0.0.0.0 explorer.virtopia.ca
 0.0.0.0 explorer.wazn.io
 0.0.0.0 explorer.webchain.network
 0.0.0.0 explorer.wellgitu.xyz
@@ -39865,7 +39836,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fcanafta.tt.omtrdc.net
 0.0.0.0 fcbykurluasdeu.com
 0.0.0.0 fcd.autoads.asia
-0.0.0.0 fcd.btcc.com
 0.0.0.0 fcds.affiliatetracking.net
 0.0.0.0 fcfd5de4b3be3.com
 0.0.0.0 fcfhjuyanmlvgb.com
@@ -40164,6 +40134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fffyfyfyfhuhjn.000webhostapp.com
 0.0.0.0 fffzquckf.com
 0.0.0.0 ffhwzaenzoue.com
+0.0.0.0 ffilelogapp.nimo.tv
 0.0.0.0 ffjzebtmdwi.com
 0.0.0.0 ffkwprrdmyaj.bid
 0.0.0.0 ffmhgdnkdcs.com
@@ -42910,6 +42881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadskis.com
 0.0.0.0 gadsokz.com
 0.0.0.0 gadx.adnear.net
 0.0.0.0 gaee.hit.gemius.pl
@@ -44932,6 +44904,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gojotpbkyqou.bid
 0.0.0.0 gojukarate.biz
 0.0.0.0 gokicli.000webhostapp.com
+0.0.0.0 gokjicokl.com
 0.0.0.0 goku.brightcove.com
 0.0.0.0 goku.gslb.brightcove.com
 0.0.0.0 gol.pool.sexy
@@ -45219,7 +45192,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gozmioancm.bid
 0.0.0.0 gozovipsite.50webs.com
 0.0.0.0 gp-lottery.wsq.umeng.com
-0.0.0.0 gp.btcc.com
 0.0.0.0 gp.jstv.com
 0.0.0.0 gp.zaiyunli.cn
 0.0.0.0 gpacwxynxluey.bid
@@ -46123,7 +46095,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 guzqqzsv.com
 0.0.0.0 guzwqarqdxai.bid
 0.0.0.0 gv-inv-eus.admixer.net
-0.0.0.0 gv.btcc.com
 0.0.0.0 gv1.xdrig.com
 0.0.0.0 gva.tavis.tw
 0.0.0.0 gvahly.duckdns.org
@@ -46379,7 +46350,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 ha-askfm.pushwoosh.com
 0.0.0.0 ha.pushwoosh.com
-0.0.0.0 ha7.btcc.com
 0.0.0.0 haaretz.pushwoosh.com
 0.0.0.0 haartezenglish.redirectme.net
 0.0.0.0 haas.smartpool.by
@@ -48663,7 +48633,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hostmaster.hostmaster.hostmaster.hostmaster.btcpool.triplemining.com
 0.0.0.0 hostmaster.hostmaster.hostmaster.hostmaster.btl.poolerino.com
 0.0.0.0 hostmaster.hostmaster.hostmaster.hostmaster.burn.v2.dedicatedpool.com
-0.0.0.0 hostmaster.hostmaster.hostmaster.hostmaster.bytecoin.pt
 0.0.0.0 hostmaster.hostmaster.hostmaster.hostmaster.c4n10.triplemining.com
 0.0.0.0 hostmaster.hostmaster.hostmaster.hostmaster.ca.coinmine.pw
 0.0.0.0 hostmaster.hostmaster.hostmaster.hostmaster.cache.dedicatedpool.com
@@ -54056,7 +54025,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ipbc.io
 0.0.0.0 ipbc.my-mining-pool.de
 0.0.0.0 ipbc.thepiratemine.nl
-0.0.0.0 ipbcrocks.ingest.cryptoknight.cc
 0.0.0.0 ipbiydocgvllrg.com
 0.0.0.0 ipbsgpm4.top
 0.0.0.0 ipc-outdoor.com
@@ -62320,7 +62288,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ma-static.ru
 0.0.0.0 ma.ads.justpremium.com
 0.0.0.0 ma.alaziz-jatisawahan.com
-0.0.0.0 ma.btcc.com
 0.0.0.0 ma.eqads.com
 0.0.0.0 ma.fakehub.com
 0.0.0.0 ma.lifestylegroup.ru
@@ -62344,7 +62311,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ma277-r.analytics.edgekey.net
 0.0.0.0 ma278-r.analytics.edgekey.net
 0.0.0.0 ma291-r.analytics.edgekey.net
-0.0.0.0 ma3.btcc.com
 0.0.0.0 ma307-r.analytics.edgekey.net
 0.0.0.0 ma322-r.analytics.edgekey.net
 0.0.0.0 ma343-r.analytics.edgekey.net
@@ -62720,7 +62686,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.globalmannpowerservices.com
 0.0.0.0 mail.gnark-mining.com
 0.0.0.0 mail.gntl.co.uk
-0.0.0.0 mail.gpumining.ir
 0.0.0.0 mail.gruppoagostini.com
 0.0.0.0 mail.hajj.zeem.sa
 0.0.0.0 mail.hallym.ac.kr
@@ -62865,7 +62830,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mail.upool.in
 0.0.0.0 mail.uralscoin.info
 0.0.0.0 mail.ushareit.com
-0.0.0.0 mail.virtopia.ca
 0.0.0.0 mail.vivild-by.co.in
 0.0.0.0 mail.wazn.io
 0.0.0.0 mail.wemine.uk
@@ -64643,6 +64607,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metric.marthastewart.com
 0.0.0.0 metric.modcloth.com
 0.0.0.0 metric.nationalgeographic.com
+0.0.0.0 metric.nimo.tv
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metric.olivegarden.com
 0.0.0.0 metric.petinsurance.com
@@ -65343,7 +65308,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mine-safe-asia.equipool.1ds.us
 0.0.0.0 mine-safe-euro.equipool.1ds.us
 0.0.0.0 mine-this.com
-0.0.0.0 mine-vot-euro.equipool.1ds.us
 0.0.0.0 mine-xsg-asia.equipool.1ds.us
 0.0.0.0 mine-xsg-euro.equipool.1ds.us
 0.0.0.0 mine-zel-asia.equipool.1ds.us
@@ -66614,7 +66578,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 monero.org
 0.0.0.0 monero.pool-moscow.ru
 0.0.0.0 monero.ragerx.lol
-0.0.0.0 monero.rnetpool.com.br
 0.0.0.0 monero.us.to
 0.0.0.0 monerohash.com
 0.0.0.0 monerominer.rocks
@@ -67746,6 +67709,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvesulbecwq.bid
 0.0.0.0 mvid.com
 0.0.0.0 mvilivestats.com
+0.0.0.0 mvimzkmondb.com
 0.0.0.0 mvkmhjlqqjnay.bid
 0.0.0.0 mvlcwazi.bid
 0.0.0.0 mvncasmaxapgyk.bid
@@ -69165,7 +69129,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nedstat.tripod.com
 0.0.0.0 nedstatbasic.net
 0.0.0.0 nedstatpro.net
-0.0.0.0 nee.btcc.com
 0.0.0.0 neechuce.net
 0.0.0.0 neecnuaa.com
 0.0.0.0 need2buy.1gb.ru
@@ -71319,7 +71282,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nsdic.pp.ru
 0.0.0.0 nsdldlese.112.2o7.net
 0.0.0.0 nsdsvc.com
-0.0.0.0 nse.btcc.com
 0.0.0.0 nselnhbwlm.com
 0.0.0.0 nservices.space
 0.0.0.0 nsevermatold.info
@@ -77507,8 +77469,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 po.fyybox.com
 0.0.0.0 po.jiangchangbo.com
 0.0.0.0 po.ponant.com
-0.0.0.0 po5.btcc.com
-0.0.0.0 po8.btcc.com
 0.0.0.0 poagroul.com
 0.0.0.0 poaurtor.com
 0.0.0.0 poaxupoqbw.com
@@ -77681,7 +77641,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pon4ek.triplemining.com
 0.0.0.0 pondokalkes.com
 0.0.0.0 pondroadsouthselfstorage.com
-0.0.0.0 ponmlkjihgfedcba9876543210z.btcc.com
 0.0.0.0 ponnusmats.com
 0.0.0.0 pontevedrabeachsports.com
 0.0.0.0 pontiflex.com
@@ -87477,7 +87436,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 server.zombie-tv.org
 0.0.0.0 server03new.dot.at
 0.0.0.0 server1.affiz.net
-0.0.0.0 server1.cryptovalley.com
 0.0.0.0 server1.dinastycoin.com
 0.0.0.0 server1.extra-web.cz
 0.0.0.0 server1.jsecoin.com
@@ -93214,7 +93172,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 su.mining.eligius.st
 0.0.0.0 su0.btcc.com
 0.0.0.0 su2.btcc.com
-0.0.0.0 su3.btcc.com
 0.0.0.0 sualle0i6a.4jxgsane74.madpendesign.com.au
 0.0.0.0 suapicvhgpwjp.com
 0.0.0.0 sub.avgle.com
@@ -93966,9 +93923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 swtubbksgvg.com
 0.0.0.0 swtwtbiwbjvq.com
 0.0.0.0 swvyhuhnaht.bid
-0.0.0.0 swx.btcc.com
 0.0.0.0 swxrxdej.com
-0.0.0.0 swy.btcc.com
 0.0.0.0 swykcpfxkqvg.bid
 0.0.0.0 swzhb.com
 0.0.0.0 swzizkjqe.bid
@@ -100743,7 +100698,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 u002fz.moatads.com
 0.0.0.0 u1.2048sj.com
 0.0.0.0 u1.20q.cn
-0.0.0.0 u1.btcc.com
 0.0.0.0 u1.extreme-dm.com
 0.0.0.0 u1.img.mobile.sina.cn
 0.0.0.0 u1.nanopool.org
@@ -101220,6 +101174,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ujebryyesbeymm.bid
 0.0.0.0 ujieva.com
 0.0.0.0 ujjotriglqpkjh.com
+0.0.0.0 ujkqudpjtbztz.com
 0.0.0.0 ujlpbcsx.com
 0.0.0.0 ujm.clr9t.com
 0.0.0.0 ujm.snackmachinery.cn
@@ -102161,7 +102116,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 us.bytecoin-pool.org
 0.0.0.0 us.clo.epool.io
 0.0.0.0 us.coinium.org
-0.0.0.0 us.coinum.org
 0.0.0.0 us.datingworld.pw
 0.0.0.0 us.digitaldsp.com
 0.0.0.0 us.east.bitcoin.cz
@@ -105565,7 +105519,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 webclicktracker.com
 0.0.0.0 webclients.net
 0.0.0.0 webcn-solo.wattpool.net
-0.0.0.0 webcn.loudmining.com
 0.0.0.0 webcn.wattpool.net
 0.0.0.0 webcodau.mangoads.vn
 0.0.0.0 webcoin.me
@@ -106644,7 +106597,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wjwjwjwj.no-ip.org
 0.0.0.0 wjwontqlqchq.com
 0.0.0.0 wk.8686dy.com
-0.0.0.0 wk.btcc.com
 0.0.0.0 wk0mez2k5.homepage.t-online.de
 0.0.0.0 wkctj.baidu.com
 0.0.0.0 wkdjfgka.ddns.me.uk
@@ -119838,7 +119790,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xts7fgss.com
 0.0.0.0 xtsnbxwak.com
 0.0.0.0 xtxgsx.com
-0.0.0.0 xty.btcc.com
 0.0.0.0 xu5ctufltn.com
 0.0.0.0 xubob.com
 0.0.0.0 xudfxpvm.com
@@ -120448,6 +120399,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yllfdnftjo.com
 0.0.0.0 yllix.com
 0.0.0.0 ylnmzwwc.com
+0.0.0.0 ylog.nimo.tv
 0.0.0.0 yloidlvfhpkq.com
 0.0.0.0 ylqbiljjlyq.com
 0.0.0.0 yluvo.com

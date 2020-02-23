@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: domain list
-# Version: 20.02.054
-# Release: 054
-# Entries: 63,609
+# Version: 20.02.055
+# Release: 055
+# Entries: 63,621
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 18:14:41
+# Updated: Mon, 24 Feb 20 00:14:24
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -5905,6 +5905,7 @@ arkinhechershedt.info
 arlitasite.pro
 arllvzkoh.com
 armaimapt.club
+armashair.site
 armbadare.site
 armi.media
 arms.livedoor.net
@@ -11362,6 +11363,7 @@ d3pvcolmug0tz6.cloudfront.net
 d3q33rbmdkxzj.cloudfront.net
 d3qk9u6c2k2cid.cloudfront.net
 d3qrbrazsnzdog.cloudfront.net
+d3qu0b872n4q3x.cloudfront.net
 d3qyjzkrkuj7me.cloudfront.net
 d3rhktq8uy839j.cloudfront.net
 d3rm04c4p9a75q.cloudfront.net
@@ -14112,6 +14114,7 @@ euz.net
 euzavnv.info
 euzlyrzg.com
 ev2cdn.com
+evadavdsp.pro
 evaff.com
 evaffwmdjgtn.com
 evaluesa.com
@@ -14170,6 +14173,7 @@ evsembu.com
 evuchenzypysci.com
 evvjvrpldtnlqk.com
 evvpibrfqzjn.com
+evvznnafduvs.com
 ew.politros.com
 ew740.cn
 ewatch.ro
@@ -16650,6 +16654,7 @@ going.tv-mega.ru
 goingtocontent.com
 goiqwteaxvgc.com
 goitcl.com
+gokjicokl.com
 gokliks.ru
 golandwin.it
 golayazv.com
@@ -24896,6 +24901,7 @@ mppmnetwork.com
 mpqfzyh.com
 mpression.net
 mprezchc.com
+mprisedluxemb.info
 mps.yuwenba.cn
 mptedcazdep.info
 mptentry.com
@@ -25101,6 +25107,7 @@ mvbemeggnodty.com
 mvchallenges.s3-website-eu-west-1.amazonaws.com
 mvdbdtwicgw.bid
 mvdizbgdpfgl.com
+mvimzkmondb.com
 mvnuyjsdgle.com
 mvnyllursi.com
 mvo.g45td.xyz
@@ -31918,6 +31925,7 @@ rerwe.cn
 res1.applovin.com
 resadvantco.info
 resalag.com
+resbargarettybe.info
 reseireejoch.info
 resentaticexhaus.info
 reserches.com
@@ -32576,6 +32584,7 @@ rubicom.xyz
 rubiconproject.com
 rubiginose.com
 rubikon6.if.ua
+rubird.ru
 rubkate.ru
 rublacklist.net
 rubook.biz
@@ -35708,6 +35717,7 @@ tapsell.ir
 tapsense.com
 tapstat.ru
 taqesyqne.com
+tarawerap.com
 tardangro.com
 tare51vkh.ru
 targaubs.com
@@ -37976,6 +37986,7 @@ ujccccb.com
 ujian.cc
 ujieva.com
 ujikdd041o.cn
+ujkqudpjtbztz.com
 ujokee.com
 ujoongeilaej.info
 ujpakyfu.com
@@ -39068,6 +39079,7 @@ vidustal.com
 vidyp.com
 vidz7.pro
 vidzi.tv
+viebitgreasy.email
 viediil.com
 vietalle.com
 vietbuzzad.com

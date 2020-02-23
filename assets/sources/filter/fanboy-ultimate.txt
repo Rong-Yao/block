@@ -1,8 +1,8 @@
 # Title: fanboy-ultimate Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
-# Last Converted - 23.02.2020
-# Total Domains - 23286
+# Last Converted - 24.02.2020
+# Total Domains - 23293
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -5478,6 +5478,7 @@
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
 0.0.0.0 d3q7vxy7usqoub.cloudfront.net
+0.0.0.0 d3qu0b872n4q3x.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3rp5jatom3eyn.cloudfront.net
@@ -7081,6 +7082,7 @@
 0.0.0.0 evuchenzypysci.com
 0.0.0.0 evvjvrpldtnlqk.com
 0.0.0.0 evvpibrfqzjn.com
+0.0.0.0 evvznnafduvs.com
 0.0.0.0 evyy.net
 0.0.0.0 ew3.io
 0.0.0.0 ewebanalytics.com
@@ -8455,6 +8457,7 @@
 0.0.0.0 gohillgo.com
 0.0.0.0 goingup.com
 0.0.0.0 goiqwteaxvgc.com
+0.0.0.0 gokjicokl.com
 0.0.0.0 gold-file.com
 0.0.0.0 golderotica.com
 0.0.0.0 goldlambotrader.co
@@ -12557,6 +12560,7 @@
 0.0.0.0 mpqfzyh.com
 0.0.0.0 mpression.net
 0.0.0.0 mprezchc.com
+0.0.0.0 mprisedluxemb.info
 0.0.0.0 mps-gba.de
 0.0.0.0 mpstat.us
 0.0.0.0 mptedcazdep.info
@@ -12681,6 +12685,7 @@
 0.0.0.0 mvdbdtwicgw.bid
 0.0.0.0 mvdizbgdpfgl.com
 0.0.0.0 mvilivestats.com
+0.0.0.0 mvimzkmondb.com
 0.0.0.0 mvnuyjsdgle.com
 0.0.0.0 mvnyllursi.com
 0.0.0.0 mvotvznetuvfb.com
@@ -16800,6 +16805,7 @@
 0.0.0.0 res-x.com
 0.0.0.0 res.rbl.ms
 0.0.0.0 resadvantco.info
+0.0.0.0 resbargarettybe.info
 0.0.0.0 research-artisan.com
 0.0.0.0 research-int.se
 0.0.0.0 research-tool.com
@@ -20535,6 +20541,7 @@
 0.0.0.0 uizhcjow.com
 0.0.0.0 ujccccb.com
 0.0.0.0 ujieva.com
+0.0.0.0 ujkqudpjtbztz.com
 0.0.0.0 ujpakyfu.com
 0.0.0.0 ujpvnnmnsoypsa.com
 0.0.0.0 ujqiqzsibnfclm.com

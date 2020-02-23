@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.02.054
-; Release: 054
-; Entries: 61,315
+; Version: 20.02.055
+; Release: 055
+; Entries: 61,324
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 23 Feb 20 18:10:34
+; Updated: Mon, 24 Feb 20 00:10:19
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -12905,6 +12905,7 @@ c10ed2b8b417880.com CNAME .
 c11.statcounter.com CNAME .
 c11370896.c.youradexchange.com CNAME .
 c12.statcounter.com CNAME .
+c123movies.com CNAME .
 c13.statcounter.com CNAME .
 c14.statcounter.com CNAME .
 c14.zedo.com CNAME .
@@ -21053,6 +21054,7 @@ evt.mxplay.com CNAME .
 evuchenzypysci.com CNAME .
 evvjvrpldtnlqk.com CNAME .
 evvpibrfqzjn.com CNAME .
+evvznnafduvs.com CNAME .
 evyy.net CNAME .
 ew-ph.rdtcdn.com CNAME .
 ew.rdtcdn.com CNAME .
@@ -21762,6 +21764,7 @@ ffcqkvdaklrqkg.com CNAME .
 ffdrg.ml CNAME .
 fffzquckf.com CNAME .
 ffhwzaenzoue.com CNAME .
+ffilelogapp.nimo.tv CNAME .
 ffjzebtmdwi.com CNAME .
 ffoifngclwfuey.com CNAME .
 ffortongoropenityin.info CNAME .
@@ -22993,6 +22996,7 @@ gadsbee.com CNAME .
 gadsecz.com CNAME .
 gadsimz.com CNAME .
 gadsipz.com CNAME .
+gadskis.com CNAME .
 gadsokz.com CNAME .
 gaee.hit.gemius.pl CNAME .
 gaf-company.clean.to CNAME .
@@ -24015,6 +24019,7 @@ goingplatinum.com CNAME .
 goingtocontent.com CNAME .
 goiqwteaxvgc.com CNAME .
 gojotpbkyqou.bid CNAME .
+gokjicokl.com CNAME .
 goku.brightcove.com CNAME .
 goku.gslb.brightcove.com CNAME .
 gold-file.com CNAME .
@@ -32682,6 +32687,7 @@ metric.makemytrip.com CNAME .
 metric.marthastewart.com CNAME .
 metric.modcloth.com CNAME .
 metric.nationalgeographic.com CNAME .
+metric.nimo.tv CNAME .
 metric.nwsource.com CNAME .
 metric.olivegarden.com CNAME .
 metric.petinsurance.com CNAME .
@@ -34241,6 +34247,7 @@ mvdizbgdpfgl.com CNAME .
 mvdnsrgolwgru.com CNAME .
 mve.btrll.com CNAME .
 mver.agkn.com CNAME .
+mvimzkmondb.com CNAME .
 mvnuyjsdgle.com CNAME .
 mvnyllursi.com CNAME .
 mvonline.com CNAME .
@@ -52514,6 +52521,7 @@ uizhcjow.com CNAME .
 ujccccb.com CNAME .
 ujdctbsbbimb.com CNAME .
 ujieva.com CNAME .
+ujkqudpjtbztz.com CNAME .
 ujlpbcsx.com CNAME .
 ujpakyfu.com CNAME .
 ujpvnnmnsoypsa.com CNAME .
@@ -60439,6 +60447,7 @@ yllasatra.xyz CNAME .
 yllfdnftjo.com CNAME .
 yllix.com CNAME .
 ylnmzwwc.com CNAME .
+ylog.nimo.tv CNAME .
 yloidlvfhpkq.com CNAME .
 ylqbiljjlyq.com CNAME .
 yluvo.com CNAME .

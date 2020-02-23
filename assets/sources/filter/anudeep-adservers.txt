@@ -1,8 +1,8 @@
 # Title: anudeep-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-# Last Converted - 23.02.2020
-# Total Domains - 20199
+# Last Converted - 24.02.2020
+# Total Domains - 20198
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -16901,7 +16901,6 @@
 0.0.0.0 status.mopub.com
 0.0.0.0 status.parsely.com
 0.0.0.0 status.permutive.com
-0.0.0.0 status.revcontent.com
 0.0.0.0 status.rubiconproject.com
 0.0.0.0 status.segment.com
 0.0.0.0 status.taplytics.com

@@ -1,8 +1,8 @@
 # Title: adguard-english-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
-# Last Converted - 23.02.2020
-# Total Domains - 18560
+# Last Converted - 24.02.2020
+# Total Domains - 18572
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2149,6 +2149,7 @@
 0.0.0.0 arkhamxojvr.com
 0.0.0.0 arkinhechershedt.info
 0.0.0.0 arlitasite.pro
+0.0.0.0 armashair.site
 0.0.0.0 armbadare.site
 0.0.0.0 arolrurt.uk
 0.0.0.0 arpucyhlmes.com
@@ -4391,6 +4392,7 @@
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
 0.0.0.0 d3pvcolmug0tz6.cloudfront.net
 0.0.0.0 d3q33rbmdkxzj.cloudfront.net
+0.0.0.0 d3qu0b872n4q3x.cloudfront.net
 0.0.0.0 d3rhktq8uy839j.cloudfront.net
 0.0.0.0 d3rp5jatom3eyn.cloudfront.net
 0.0.0.0 d3t3lxfqz2g5hs.cloudfront.net
@@ -5616,6 +5618,7 @@
 0.0.0.0 euz.net
 0.0.0.0 euzlyrzg.com
 0.0.0.0 ev2cdn.com
+0.0.0.0 evadavdsp.pro
 0.0.0.0 evaffwmdjgtn.com
 0.0.0.0 evanetwork.com
 0.0.0.0 evantative.top
@@ -5639,6 +5642,7 @@
 0.0.0.0 evuchenzypysci.com
 0.0.0.0 evvjvrpldtnlqk.com
 0.0.0.0 evvpibrfqzjn.com
+0.0.0.0 evvznnafduvs.com
 0.0.0.0 ew740.cn
 0.0.0.0 ewebse.com
 0.0.0.0 ewgnexykqnyoun.com
@@ -6735,6 +6739,7 @@
 0.0.0.0 gogvo.com
 0.0.0.0 gohillgo.com
 0.0.0.0 goiqwteaxvgc.com
+0.0.0.0 gokjicokl.com
 0.0.0.0 gold-file.com
 0.0.0.0 golderotica.com
 0.0.0.0 goldlambotrader.co
@@ -10137,6 +10142,7 @@
 0.0.0.0 mpqfzyh.com
 0.0.0.0 mpression.net
 0.0.0.0 mprezchc.com
+0.0.0.0 mprisedluxemb.info
 0.0.0.0 mptedcazdep.info
 0.0.0.0 mptentry.com
 0.0.0.0 mpudcfnsnpj.com
@@ -10237,6 +10243,7 @@
 0.0.0.0 mvbemeggnodty.com
 0.0.0.0 mvdbdtwicgw.bid
 0.0.0.0 mvdizbgdpfgl.com
+0.0.0.0 mvimzkmondb.com
 0.0.0.0 mvnuyjsdgle.com
 0.0.0.0 mvnyllursi.com
 0.0.0.0 mvo.g45td.xyz
@@ -13772,6 +13779,7 @@
 0.0.0.0 rereghpaz.com
 0.0.0.0 reroplittrewheck.pro
 0.0.0.0 resadvantco.info
+0.0.0.0 resbargarettybe.info
 0.0.0.0 reseireejoch.info
 0.0.0.0 resentaticexhaus.info
 0.0.0.0 resonance.pk
@@ -14088,6 +14096,7 @@
 0.0.0.0 rubanners.com
 0.0.0.0 rubfwmlm.com
 0.0.0.0 rubiconproject.com
+0.0.0.0 rubird.ru
 0.0.0.0 rubxajsomnicfy.com
 0.0.0.0 rue1mi4.bid
 0.0.0.0 rueaukrim.club
@@ -15235,6 +15244,7 @@
 0.0.0.0 tapjoyads.com
 0.0.0.0 tapnative.com
 0.0.0.0 taqesyqne.com
+0.0.0.0 tarawerap.com
 0.0.0.0 tardangro.com
 0.0.0.0 targaubs.com
 0.0.0.0 target.vivid.com
@@ -16126,6 +16136,7 @@
 0.0.0.0 uizhcjow.com
 0.0.0.0 ujccccb.com
 0.0.0.0 ujieva.com
+0.0.0.0 ujkqudpjtbztz.com
 0.0.0.0 ujoongeilaej.info
 0.0.0.0 ujpakyfu.com
 0.0.0.0 ujpvnnmnsoypsa.com
@@ -16617,6 +16628,7 @@
 0.0.0.0 vidpay.com
 0.0.0.0 vidsdelivery.com
 0.0.0.0 vidz7.pro
+0.0.0.0 viebitgreasy.email
 0.0.0.0 view-ads.de
 0.0.0.0 viewablemedia.net
 0.0.0.0 viewclc.com

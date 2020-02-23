@@ -1,7 +1,7 @@
 # Title: mitchellkrogza-badd-boyz-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# Last Converted - 23.02.2020
+# Last Converted - 24.02.2020
 # Total Domains - 756
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro

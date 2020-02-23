@@ -1,8 +1,8 @@
 # Title: easylist-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-# Last Converted - 23.02.2020
-# Total Domains - 14306
+# Last Converted - 24.02.2020
+# Total Domains - 14310
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4045,6 +4045,7 @@
 0.0.0.0 evuchenzypysci.com
 0.0.0.0 evvjvrpldtnlqk.com
 0.0.0.0 evvpibrfqzjn.com
+0.0.0.0 evvznnafduvs.com
 0.0.0.0 ewgnexykqnyoun.com
 0.0.0.0 ewlnukukkca.com
 0.0.0.0 ewrdeqrktgcu.com
@@ -4887,6 +4888,7 @@
 0.0.0.0 gogvo.com
 0.0.0.0 gohillgo.com
 0.0.0.0 goiqwteaxvgc.com
+0.0.0.0 gokjicokl.com
 0.0.0.0 gold-file.com
 0.0.0.0 golizoli.com
 0.0.0.0 golkkzpniri.com
@@ -7677,6 +7679,7 @@
 0.0.0.0 mvbemeggnodty.com
 0.0.0.0 mvdbdtwicgw.bid
 0.0.0.0 mvdizbgdpfgl.com
+0.0.0.0 mvimzkmondb.com
 0.0.0.0 mvnuyjsdgle.com
 0.0.0.0 mvnyllursi.com
 0.0.0.0 mvotvznetuvfb.com
@@ -12308,6 +12311,7 @@
 0.0.0.0 uizhcjow.com
 0.0.0.0 ujccccb.com
 0.0.0.0 ujieva.com
+0.0.0.0 ujkqudpjtbztz.com
 0.0.0.0 ujpakyfu.com
 0.0.0.0 ujpvnnmnsoypsa.com
 0.0.0.0 ujqiqzsibnfclm.com

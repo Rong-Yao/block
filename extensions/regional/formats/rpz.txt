@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.02.054
-; Release: 054
-; Entries: 63,609
+; Version: 20.02.055
+; Release: 055
+; Entries: 63,621
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Sun, 23 Feb 20 18:14:41
+; Updated: Mon, 24 Feb 20 00:14:24
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -5913,6 +5913,7 @@ arkinhechershedt.info CNAME .
 arlitasite.pro CNAME .
 arllvzkoh.com CNAME .
 armaimapt.club CNAME .
+armashair.site CNAME .
 armbadare.site CNAME .
 armi.media CNAME .
 arms.livedoor.net CNAME .
@@ -11370,6 +11371,7 @@ d3pvcolmug0tz6.cloudfront.net CNAME .
 d3q33rbmdkxzj.cloudfront.net CNAME .
 d3qk9u6c2k2cid.cloudfront.net CNAME .
 d3qrbrazsnzdog.cloudfront.net CNAME .
+d3qu0b872n4q3x.cloudfront.net CNAME .
 d3qyjzkrkuj7me.cloudfront.net CNAME .
 d3rhktq8uy839j.cloudfront.net CNAME .
 d3rm04c4p9a75q.cloudfront.net CNAME .
@@ -14120,6 +14122,7 @@ euz.net CNAME .
 euzavnv.info CNAME .
 euzlyrzg.com CNAME .
 ev2cdn.com CNAME .
+evadavdsp.pro CNAME .
 evaff.com CNAME .
 evaffwmdjgtn.com CNAME .
 evaluesa.com CNAME .
@@ -14178,6 +14181,7 @@ evsembu.com CNAME .
 evuchenzypysci.com CNAME .
 evvjvrpldtnlqk.com CNAME .
 evvpibrfqzjn.com CNAME .
+evvznnafduvs.com CNAME .
 ew.politros.com CNAME .
 ew740.cn CNAME .
 ewatch.ro CNAME .
@@ -16658,6 +16662,7 @@ going.tv-mega.ru CNAME .
 goingtocontent.com CNAME .
 goiqwteaxvgc.com CNAME .
 goitcl.com CNAME .
+gokjicokl.com CNAME .
 gokliks.ru CNAME .
 golandwin.it CNAME .
 golayazv.com CNAME .
@@ -24904,6 +24909,7 @@ mppmnetwork.com CNAME .
 mpqfzyh.com CNAME .
 mpression.net CNAME .
 mprezchc.com CNAME .
+mprisedluxemb.info CNAME .
 mps.yuwenba.cn CNAME .
 mptedcazdep.info CNAME .
 mptentry.com CNAME .
@@ -25109,6 +25115,7 @@ mvbemeggnodty.com CNAME .
 mvchallenges.s3-website-eu-west-1.amazonaws.com CNAME .
 mvdbdtwicgw.bid CNAME .
 mvdizbgdpfgl.com CNAME .
+mvimzkmondb.com CNAME .
 mvnuyjsdgle.com CNAME .
 mvnyllursi.com CNAME .
 mvo.g45td.xyz CNAME .
@@ -31926,6 +31933,7 @@ rerwe.cn CNAME .
 res1.applovin.com CNAME .
 resadvantco.info CNAME .
 resalag.com CNAME .
+resbargarettybe.info CNAME .
 reseireejoch.info CNAME .
 resentaticexhaus.info CNAME .
 reserches.com CNAME .
@@ -32584,6 +32592,7 @@ rubicom.xyz CNAME .
 rubiconproject.com CNAME .
 rubiginose.com CNAME .
 rubikon6.if.ua CNAME .
+rubird.ru CNAME .
 rubkate.ru CNAME .
 rublacklist.net CNAME .
 rubook.biz CNAME .
@@ -35716,6 +35725,7 @@ tapsell.ir CNAME .
 tapsense.com CNAME .
 tapstat.ru CNAME .
 taqesyqne.com CNAME .
+tarawerap.com CNAME .
 tardangro.com CNAME .
 tare51vkh.ru CNAME .
 targaubs.com CNAME .
@@ -37984,6 +37994,7 @@ ujccccb.com CNAME .
 ujian.cc CNAME .
 ujieva.com CNAME .
 ujikdd041o.cn CNAME .
+ujkqudpjtbztz.com CNAME .
 ujokee.com CNAME .
 ujoongeilaej.info CNAME .
 ujpakyfu.com CNAME .
@@ -39076,6 +39087,7 @@ vidustal.com CNAME .
 vidyp.com CNAME .
 vidz7.pro CNAME .
 vidzi.tv CNAME .
+viebitgreasy.email CNAME .
 viediil.com CNAME .
 vietalle.com CNAME .
 vietbuzzad.com CNAME .

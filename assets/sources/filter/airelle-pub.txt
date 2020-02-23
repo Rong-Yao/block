@@ -1,8 +1,8 @@
 # Title: airelle-pub Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
-# Last Converted - 23.02.2020
-# Total Domains - 56493
+# Last Converted - 24.02.2020
+# Total Domains - 56490
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2534,7 +2534,6 @@
 0.0.0.0 ad.doubleclick.net.12741.9046.302br.net
 0.0.0.0 ad.doubleclick.net.12743.9046.302br.net
 0.0.0.0 ad.doubleclick.net.12744.9046.302br.net
-0.0.0.0 ad.doubleclick.net.12746.9047.302br.net
 0.0.0.0 ad.doubleclick.net.12749.9047.302br.net
 0.0.0.0 ad.doubleclick.net.12759.9047.302br.net
 0.0.0.0 ad.doubleclick.net.12762.9047.302br.net
@@ -20617,7 +20616,6 @@
 0.0.0.0 ardernhotel.com
 0.0.0.0 are-ter.com
 0.0.0.0 area51-ts.com
-0.0.0.0 area51.stackexchange.com
 0.0.0.0 areacode407.com
 0.0.0.0 areacode727.com
 0.0.0.0 areainfo.ppstream.com
@@ -33175,7 +33173,6 @@
 0.0.0.0 hardcoredatelink.com
 0.0.0.0 hardcorelinks.chat.ru
 0.0.0.0 hardcoremoviestation.com
-0.0.0.0 hardcorepornlinks.com
 0.0.0.0 hardcoresex.linkoverzicht.be
 0.0.0.0 hardtofindmilk.com
 0.0.0.0 hardware.pagecount.com

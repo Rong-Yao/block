@@ -24,13 +24,13 @@
 ! Title: Energized Regional Extension
 ! Description: An Extension to Block Regional Annoyances.
 ! Format: adblock
-! Version: 20.02.054
-! Release: 054
+! Version: 20.02.055
+! Release: 055
 ! Expires: 1 day (update frequency)
-! Entries: 63,609
+! Entries: 63,621
 ! Pack Code: EXR3G1094L-P
 ! License: MIT, https://energized.pro/license
-! Updated: Sun, 23 Feb 20 18:14:41
+! Updated: Mon, 24 Feb 20 00:14:24
 ! RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/filter
 ! --------------------------------------------
 !
@@ -5906,6 +5906,7 @@
 ||arlitasite.pro^
 ||arllvzkoh.com^
 ||armaimapt.club^
+||armashair.site^
 ||armbadare.site^
 ||armi.media^
 ||arms.livedoor.net^
@@ -11363,6 +11364,7 @@
 ||d3q33rbmdkxzj.cloudfront.net^
 ||d3qk9u6c2k2cid.cloudfront.net^
 ||d3qrbrazsnzdog.cloudfront.net^
+||d3qu0b872n4q3x.cloudfront.net^
 ||d3qyjzkrkuj7me.cloudfront.net^
 ||d3rhktq8uy839j.cloudfront.net^
 ||d3rm04c4p9a75q.cloudfront.net^
@@ -14113,6 +14115,7 @@
 ||euzavnv.info^
 ||euzlyrzg.com^
 ||ev2cdn.com^
+||evadavdsp.pro^
 ||evaff.com^
 ||evaffwmdjgtn.com^
 ||evaluesa.com^
@@ -14171,6 +14174,7 @@
 ||evuchenzypysci.com^
 ||evvjvrpldtnlqk.com^
 ||evvpibrfqzjn.com^
+||evvznnafduvs.com^
 ||ew.politros.com^
 ||ew740.cn^
 ||ewatch.ro^
@@ -16651,6 +16655,7 @@
 ||goingtocontent.com^
 ||goiqwteaxvgc.com^
 ||goitcl.com^
+||gokjicokl.com^
 ||gokliks.ru^
 ||golandwin.it^
 ||golayazv.com^
@@ -24897,6 +24902,7 @@
 ||mpqfzyh.com^
 ||mpression.net^
 ||mprezchc.com^
+||mprisedluxemb.info^
 ||mps.yuwenba.cn^
 ||mptedcazdep.info^
 ||mptentry.com^
@@ -25102,6 +25108,7 @@
 ||mvchallenges.s3-website-eu-west-1.amazonaws.com^
 ||mvdbdtwicgw.bid^
 ||mvdizbgdpfgl.com^
+||mvimzkmondb.com^
 ||mvnuyjsdgle.com^
 ||mvnyllursi.com^
 ||mvo.g45td.xyz^
@@ -31919,6 +31926,7 @@
 ||res1.applovin.com^
 ||resadvantco.info^
 ||resalag.com^
+||resbargarettybe.info^
 ||reseireejoch.info^
 ||resentaticexhaus.info^
 ||reserches.com^
@@ -32577,6 +32585,7 @@
 ||rubiconproject.com^
 ||rubiginose.com^
 ||rubikon6.if.ua^
+||rubird.ru^
 ||rubkate.ru^
 ||rublacklist.net^
 ||rubook.biz^
@@ -35709,6 +35718,7 @@
 ||tapsense.com^
 ||tapstat.ru^
 ||taqesyqne.com^
+||tarawerap.com^
 ||tardangro.com^
 ||tare51vkh.ru^
 ||targaubs.com^
@@ -37977,6 +37987,7 @@
 ||ujian.cc^
 ||ujieva.com^
 ||ujikdd041o.cn^
+||ujkqudpjtbztz.com^
 ||ujokee.com^
 ||ujoongeilaej.info^
 ||ujpakyfu.com^
@@ -39069,6 +39080,7 @@
 ||vidyp.com^
 ||vidz7.pro^
 ||vidzi.tv^
+||viebitgreasy.email^
 ||viediil.com^
 ||vietalle.com^
 ||vietbuzzad.com^

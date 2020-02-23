@@ -1,8 +1,8 @@
 # Title: uassets-badware Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
-# Last Converted - 23.02.2020
-# Total Domains - 210
+# Last Converted - 24.02.2020
+# Total Domains - 217
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -45,6 +45,7 @@
 0.0.0.0 blender3d.es
 0.0.0.0 blender3d.fr
 0.0.0.0 bluestacksdownloads.com
+0.0.0.0 bluevibes.online
 0.0.0.0 browsergames2018.com
 0.0.0.0 buzzadnetwork.com
 0.0.0.0 calibre.it
@@ -56,12 +57,14 @@
 0.0.0.0 check-prize-here3.life
 0.0.0.0 checkisreal.com
 0.0.0.0 circlerabbits.info
+0.0.0.0 clickenhanced.com
 0.0.0.0 clickpush.biz
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
 0.0.0.0 clonezilla.it
 0.0.0.0 cobalten.com
 0.0.0.0 com-guest.info
+0.0.0.0 comparetvs.net
 0.0.0.0 crvtck.com
 0.0.0.0 cyberduck.de
 0.0.0.0 cyberduck.es
@@ -95,6 +98,7 @@
 0.0.0.0 gabriellalovecats.com
 0.0.0.0 gadgetexclusivegifts.xyz
 0.0.0.0 gamekeys.gq
+0.0.0.0 gamerspad.net
 0.0.0.0 garagebandforpc.org
 0.0.0.0 geniusdexchange.com
 0.0.0.0 get.mysecurify.com
@@ -138,9 +142,12 @@
 0.0.0.0 kuhoot.it
 0.0.0.0 lameterthenhep.info
 0.0.0.0 lavfd.net
+0.0.0.0 marketenhanced.com
+0.0.0.0 marketingenhanced.net
 0.0.0.0 microsoft.com-repair-windows.live
 0.0.0.0 mp3hub.com
 0.0.0.0 mr.media-bucket.com
+0.0.0.0 mybestclick.net
 0.0.0.0 mysecurify.com
 0.0.0.0 nephef.com
 0.0.0.0 newsbreakshere.com

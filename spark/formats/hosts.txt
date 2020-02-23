@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.02.054
-# Release: 054
-# Entries: 61,315
+# Version: 20.02.055
+# Release: 055
+# Entries: 61,324
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 18:10:34
+# Updated: Mon, 24 Feb 20 00:10:19
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -12916,6 +12916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c11.statcounter.com
 0.0.0.0 c11370896.c.youradexchange.com
 0.0.0.0 c12.statcounter.com
+0.0.0.0 c123movies.com
 0.0.0.0 c13.statcounter.com
 0.0.0.0 c14.statcounter.com
 0.0.0.0 c14.zedo.com
@@ -21064,6 +21065,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 evuchenzypysci.com
 0.0.0.0 evvjvrpldtnlqk.com
 0.0.0.0 evvpibrfqzjn.com
+0.0.0.0 evvznnafduvs.com
 0.0.0.0 evyy.net
 0.0.0.0 ew-ph.rdtcdn.com
 0.0.0.0 ew.rdtcdn.com
@@ -21773,6 +21775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ffdrg.ml
 0.0.0.0 fffzquckf.com
 0.0.0.0 ffhwzaenzoue.com
+0.0.0.0 ffilelogapp.nimo.tv
 0.0.0.0 ffjzebtmdwi.com
 0.0.0.0 ffoifngclwfuey.com
 0.0.0.0 ffortongoropenityin.info
@@ -23004,6 +23007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadskis.com
 0.0.0.0 gadsokz.com
 0.0.0.0 gaee.hit.gemius.pl
 0.0.0.0 gaf-company.clean.to
@@ -24026,6 +24030,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 goingtocontent.com
 0.0.0.0 goiqwteaxvgc.com
 0.0.0.0 gojotpbkyqou.bid
+0.0.0.0 gokjicokl.com
 0.0.0.0 goku.brightcove.com
 0.0.0.0 goku.gslb.brightcove.com
 0.0.0.0 gold-file.com
@@ -32693,6 +32698,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metric.marthastewart.com
 0.0.0.0 metric.modcloth.com
 0.0.0.0 metric.nationalgeographic.com
+0.0.0.0 metric.nimo.tv
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metric.olivegarden.com
 0.0.0.0 metric.petinsurance.com
@@ -34252,6 +34258,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mvdnsrgolwgru.com
 0.0.0.0 mve.btrll.com
 0.0.0.0 mver.agkn.com
+0.0.0.0 mvimzkmondb.com
 0.0.0.0 mvnuyjsdgle.com
 0.0.0.0 mvnyllursi.com
 0.0.0.0 mvonline.com
@@ -52525,6 +52532,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ujccccb.com
 0.0.0.0 ujdctbsbbimb.com
 0.0.0.0 ujieva.com
+0.0.0.0 ujkqudpjtbztz.com
 0.0.0.0 ujlpbcsx.com
 0.0.0.0 ujpakyfu.com
 0.0.0.0 ujpvnnmnsoypsa.com
@@ -60450,6 +60458,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yllfdnftjo.com
 0.0.0.0 yllix.com
 0.0.0.0 ylnmzwwc.com
+0.0.0.0 ylog.nimo.tv
 0.0.0.0 yloidlvfhpkq.com
 0.0.0.0 ylqbiljjlyq.com
 0.0.0.0 yluvo.com

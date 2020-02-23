@@ -1,8 +1,8 @@
 # Title: prigent-cryptojacking Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
-# Last Converted - 23.02.2020
-# Total Domains - 5187
+# Last Converted - 24.02.2020
+# Total Domains - 5185
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4445,7 +4445,6 @@
 0.0.0.0 seotpqntjukhg.bid
 0.0.0.0 serie-vostfr.com
 0.0.0.0 server.com
-0.0.0.0 server1.cryptovalley.com
 0.0.0.0 serverpower.net
 0.0.0.0 sevabit.com
 0.0.0.0 sfaprgtgcguh.com
@@ -5003,7 +5002,6 @@
 0.0.0.0 uralscoin.info
 0.0.0.0 urchintelemetry.com
 0.0.0.0 urp.best
-0.0.0.0 us.coinum.org
 0.0.0.0 us.ozco.in
 0.0.0.0 usa-1.liteguardian.com
 0.0.0.0 usa-1b.liteguardian.com

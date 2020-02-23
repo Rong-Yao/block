@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: domain list
-# Version: 20.02.054
-# Release: 054
-# Entries: 61,315
+# Version: 20.02.055
+# Release: 055
+# Entries: 61,324
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 18:10:34
+# Updated: Mon, 24 Feb 20 00:10:19
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -12897,6 +12897,7 @@ c10ed2b8b417880.com
 c11.statcounter.com
 c11370896.c.youradexchange.com
 c12.statcounter.com
+c123movies.com
 c13.statcounter.com
 c14.statcounter.com
 c14.zedo.com
@@ -21045,6 +21046,7 @@ evt.mxplay.com
 evuchenzypysci.com
 evvjvrpldtnlqk.com
 evvpibrfqzjn.com
+evvznnafduvs.com
 evyy.net
 ew-ph.rdtcdn.com
 ew.rdtcdn.com
@@ -21754,6 +21756,7 @@ ffcqkvdaklrqkg.com
 ffdrg.ml
 fffzquckf.com
 ffhwzaenzoue.com
+ffilelogapp.nimo.tv
 ffjzebtmdwi.com
 ffoifngclwfuey.com
 ffortongoropenityin.info
@@ -22985,6 +22988,7 @@ gadsbee.com
 gadsecz.com
 gadsimz.com
 gadsipz.com
+gadskis.com
 gadsokz.com
 gaee.hit.gemius.pl
 gaf-company.clean.to
@@ -24007,6 +24011,7 @@ goingplatinum.com
 goingtocontent.com
 goiqwteaxvgc.com
 gojotpbkyqou.bid
+gokjicokl.com
 goku.brightcove.com
 goku.gslb.brightcove.com
 gold-file.com
@@ -32674,6 +32679,7 @@ metric.makemytrip.com
 metric.marthastewart.com
 metric.modcloth.com
 metric.nationalgeographic.com
+metric.nimo.tv
 metric.nwsource.com
 metric.olivegarden.com
 metric.petinsurance.com
@@ -34233,6 +34239,7 @@ mvdizbgdpfgl.com
 mvdnsrgolwgru.com
 mve.btrll.com
 mver.agkn.com
+mvimzkmondb.com
 mvnuyjsdgle.com
 mvnyllursi.com
 mvonline.com
@@ -52506,6 +52513,7 @@ uizhcjow.com
 ujccccb.com
 ujdctbsbbimb.com
 ujieva.com
+ujkqudpjtbztz.com
 ujlpbcsx.com
 ujpakyfu.com
 ujpvnnmnsoypsa.com
@@ -60431,6 +60439,7 @@ yllasatra.xyz
 yllfdnftjo.com
 yllix.com
 ylnmzwwc.com
+ylog.nimo.tv
 yloidlvfhpkq.com
 ylqbiljjlyq.com
 yluvo.com

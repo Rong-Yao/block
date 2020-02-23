@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts IPV6
-# Version: 20.02.054
-# Release: 054
-# Entries: 63,609
+# Version: 20.02.055
+# Release: 055
+# Entries: 63,621
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 18:14:41
+# Updated: Mon, 24 Feb 20 00:14:24
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -5924,6 +5924,7 @@ ff02::3 ip6-allhosts
 :: arlitasite.pro
 :: arllvzkoh.com
 :: armaimapt.club
+:: armashair.site
 :: armbadare.site
 :: armi.media
 :: arms.livedoor.net
@@ -11381,6 +11382,7 @@ ff02::3 ip6-allhosts
 :: d3q33rbmdkxzj.cloudfront.net
 :: d3qk9u6c2k2cid.cloudfront.net
 :: d3qrbrazsnzdog.cloudfront.net
+:: d3qu0b872n4q3x.cloudfront.net
 :: d3qyjzkrkuj7me.cloudfront.net
 :: d3rhktq8uy839j.cloudfront.net
 :: d3rm04c4p9a75q.cloudfront.net
@@ -14131,6 +14133,7 @@ ff02::3 ip6-allhosts
 :: euzavnv.info
 :: euzlyrzg.com
 :: ev2cdn.com
+:: evadavdsp.pro
 :: evaff.com
 :: evaffwmdjgtn.com
 :: evaluesa.com
@@ -14189,6 +14192,7 @@ ff02::3 ip6-allhosts
 :: evuchenzypysci.com
 :: evvjvrpldtnlqk.com
 :: evvpibrfqzjn.com
+:: evvznnafduvs.com
 :: ew.politros.com
 :: ew740.cn
 :: ewatch.ro
@@ -16669,6 +16673,7 @@ ff02::3 ip6-allhosts
 :: goingtocontent.com
 :: goiqwteaxvgc.com
 :: goitcl.com
+:: gokjicokl.com
 :: gokliks.ru
 :: golandwin.it
 :: golayazv.com
@@ -24915,6 +24920,7 @@ ff02::3 ip6-allhosts
 :: mpqfzyh.com
 :: mpression.net
 :: mprezchc.com
+:: mprisedluxemb.info
 :: mps.yuwenba.cn
 :: mptedcazdep.info
 :: mptentry.com
@@ -25120,6 +25126,7 @@ ff02::3 ip6-allhosts
 :: mvchallenges.s3-website-eu-west-1.amazonaws.com
 :: mvdbdtwicgw.bid
 :: mvdizbgdpfgl.com
+:: mvimzkmondb.com
 :: mvnuyjsdgle.com
 :: mvnyllursi.com
 :: mvo.g45td.xyz
@@ -31937,6 +31944,7 @@ ff02::3 ip6-allhosts
 :: res1.applovin.com
 :: resadvantco.info
 :: resalag.com
+:: resbargarettybe.info
 :: reseireejoch.info
 :: resentaticexhaus.info
 :: reserches.com
@@ -32595,6 +32603,7 @@ ff02::3 ip6-allhosts
 :: rubiconproject.com
 :: rubiginose.com
 :: rubikon6.if.ua
+:: rubird.ru
 :: rubkate.ru
 :: rublacklist.net
 :: rubook.biz
@@ -35727,6 +35736,7 @@ ff02::3 ip6-allhosts
 :: tapsense.com
 :: tapstat.ru
 :: taqesyqne.com
+:: tarawerap.com
 :: tardangro.com
 :: tare51vkh.ru
 :: targaubs.com
@@ -37995,6 +38005,7 @@ ff02::3 ip6-allhosts
 :: ujian.cc
 :: ujieva.com
 :: ujikdd041o.cn
+:: ujkqudpjtbztz.com
 :: ujokee.com
 :: ujoongeilaej.info
 :: ujpakyfu.com
@@ -39087,6 +39098,7 @@ ff02::3 ip6-allhosts
 :: vidyp.com
 :: vidz7.pro
 :: vidzi.tv
+:: viebitgreasy.email
 :: viediil.com
 :: vietalle.com
 :: vietbuzzad.com

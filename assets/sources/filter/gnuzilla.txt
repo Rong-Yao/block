@@ -1,7 +1,7 @@
 # Title: gnuzilla Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
-# Last Converted - 23.02.2020
+# Last Converted - 24.02.2020
 # Total Domains - 22658
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro

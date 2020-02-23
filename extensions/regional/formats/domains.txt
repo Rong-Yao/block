@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.054
 # Release: 054
-# Entries: 63,535
+# Entries: 63,564
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 06:14:00
+# Updated: Sun, 23 Feb 20 12:14:11
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -2523,6 +2523,7 @@ acloudimages.com
 acloudvideos.com
 aclwlkyzxxhn.com
 acmexxx.com
+acmsg.online
 acodes.b2b.cn
 acootaul.net
 acortame.net
@@ -4946,6 +4947,7 @@ aimatch.com
 aimato.com
 aimgd.com
 aimiyz.com
+aimrawwas.site
 ainads.ru
 ainder.club
 aingrow.com
@@ -5098,6 +5100,7 @@ aldam3h.com
 aldaobpuhvl.com
 aleailarm.com
 aleaimbuy.site
+alealebag.site
 aleapeact.club
 aleapeapt.club
 aleba.ru
@@ -5179,6 +5182,7 @@ allaptair.club
 allarmate.club
 allartand.club
 allashail.club
+allashark.site
 allbestnews.net
 allbn.net
 allbouttruth.info
@@ -7175,6 +7179,7 @@ belvertising.be
 belwrite.com
 bemobpath.com
 bemobtrk.com
+bemzepcnp.com
 bench-life.me
 bench55.me
 benkelmantimberville.com
@@ -7704,6 +7709,7 @@ blogistarts.com
 blogistories.com
 blogjudi.com
 blogkiemtien.club
+bloglife24.com
 bloglive.ru
 blogofest.com
 blogohertz.com
@@ -10633,6 +10639,7 @@ crwdcntrl.net
 crwzxtuhvzv.com
 crxhbchbd.com
 cryaptall.club
+cryartarm.online
 crykaxliilz.com
 crylukzsthjz.com
 cryptaloot.pro
@@ -11616,6 +11623,7 @@ dating-cart.com
 dating-exchange.com
 dating-service.net
 dating.lt
+dating2cloud.org
 datingadnetwork.com
 datingamateurs.com
 datingcensored.com
@@ -14437,6 +14445,7 @@ fadeatrighlet.com
 fads.online
 fadsabs.com
 fadsans.com
+fadsanz.com
 fadsats.com
 fadsecs.com
 fadsecz.com
@@ -17397,6 +17406,7 @@ hcaig.com
 hcatboilyxs.com
 hccms.com.cn
 hcenc.com
+hceykfajyioqkz.com
 hcg82f2b.com
 hcgtkmes.com
 hchig.com
@@ -19404,6 +19414,7 @@ invistionik.ru
 inviteonly.nl
 inviziads.com
 inwemo.com
+inwig3aqg9xq.com
 inwin.pw
 inxy.run
 io.narrative.io
@@ -21156,6 +21167,7 @@ kistured.com
 kistutch.net
 kit5hgver.com
 kitchenfurniture.cc
+kitferdog.site
 kitnmedia.com
 kitopr.com
 kitri.tk
@@ -22514,6 +22526,7 @@ lkalite.info
 lkamujrx.com
 lkfuihubbros.com
 lkhkeviyctneka.com
+lkhqosglqas.com
 lkjdwmhuqxupef.com
 lkksbzcslmeefw.com
 lklasoo.xyz
@@ -26194,6 +26207,7 @@ nobleppc.com
 noblok.com
 nobpgppgbucy.com
 nobrain.dk
+noclef.com
 noddus.com
 node.market-place.su
 nofejectontrab.info
@@ -26267,6 +26281,7 @@ notify-monad.com
 notify.rocks
 notify.support
 notifypushka.com
+notifysrv.com
 notmining.org
 nottonic.com
 nouleeps.com
@@ -26512,6 +26527,7 @@ nvrentao8.com
 nvsea.com
 nvsey.com
 nvshuyun.com
+nvtbspcwhb.com
 nvvdtfqboy.bid
 nvxzjmowusg.com
 nvztwdkbldp.com
@@ -27516,6 +27532,7 @@ orbidder.otto.de
 orbit.lun.ua
 orbitfour47.com
 orchidscape.net
+orcjagpox.com
 ordbtltlcmqv.com
 orddiltnmmlu.com
 ordermc.com
@@ -30568,6 +30585,7 @@ qertu.ru
 qerusedpastrong.info
 qetstdbssdvs.com
 qeuggztcqmashg.bid
+qevcxo.cn
 qevfmwciyp.bid
 qevivcixnngf.com
 qevkdmgcv.bid
@@ -31608,6 +31626,7 @@ recusticks.co
 recwy.com
 recycle-static.zoznam.sk
 red-direct-n.com
+redads.biz
 redakter.ru
 redappeneticfr.info
 redarianman.com
@@ -32338,6 +32357,7 @@ roulettebotplus.com
 roundfortred.ru
 roupsouk.com
 roustast.net
+routeme.one
 routeserve.info
 routgveriprt.com
 rouvitoa.net
@@ -33221,6 +33241,7 @@ secure.ognyvo.ru
 secure.securitetotale.com
 secure.securitetotale.fr
 secureboom.net
+securecloud-dt.com
 securecloud-smart.com
 securee.ru
 secureintl.com
@@ -33482,6 +33503,7 @@ sex-party.co.il
 sex4u.lg.ua
 sexad.net
 sexadonf.net
+sexagogal.site
 sexbadoo.ga
 sexclic.com
 sexdatecash.com
@@ -33544,6 +33566,7 @@ sffmctrnimk.com
 sfgkhgfdsochwd.com
 sfhrxcbbmtfqw.com
 sfkxmchhswobcq.com
+sflekykzhqz.com
 sfloushi.com
 sflyycxlsad.com
 sfmgzvam.com
@@ -35188,6 +35211,7 @@ supersonicads-a.akamaihd.net
 supersonicads.com
 superstyle.ru
 supertop.ru
+supertrackingz.com
 supertura.com
 superwebs.pro
 superwin.de
@@ -35882,6 +35906,7 @@ telemetry.nvidia.com
 telemetry.urs.microsoft.com
 telemetryverification.net
 teleprogramma.pro
+televeniesuc.pro
 televisionbomb.com
 teliad.com
 telllwrite.com
@@ -37925,6 +37950,7 @@ ukatoe.com
 ukbanners.com
 ukbet2017.com
 ukbet99.com
+ukcomparends.pro
 ukdjbubvp.com
 ukdtx.31202.fun
 ukdzmuvtelq.com
@@ -39314,6 +39340,7 @@ volvejudgetneig.info
 volyze.com
 vomitgirl.org
 vongomedia.ru
+vontent.powvideo.net
 voob.ru
 voodoo.com
 voono.ru
@@ -40421,6 +40448,7 @@ wizardmedia.org
 wizardsbd.com
 wizenedjogger.info
 wizknbrgxuqjo.com
+wizwarsum.site
 wizzzards.com
 wj.jiancai365.cn
 wjavelurhgx.com
@@ -61382,6 +61410,7 @@ xmladserver.com
 xmliw.com
 xmljx.cn
 xmlmonetize.com
+xmlppcbuzz.com
 xmlqerwrehfqo.com
 xmlterra.com
 xmlwizard.com

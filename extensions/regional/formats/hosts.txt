@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.054
 # Release: 054
-# Entries: 63,535
+# Entries: 63,564
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 06:14:00
+# Updated: Sun, 23 Feb 20 12:14:11
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2542,6 +2542,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 acloudvideos.com
 0.0.0.0 aclwlkyzxxhn.com
 0.0.0.0 acmexxx.com
+0.0.0.0 acmsg.online
 0.0.0.0 acodes.b2b.cn
 0.0.0.0 acootaul.net
 0.0.0.0 acortame.net
@@ -4965,6 +4966,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aimato.com
 0.0.0.0 aimgd.com
 0.0.0.0 aimiyz.com
+0.0.0.0 aimrawwas.site
 0.0.0.0 ainads.ru
 0.0.0.0 ainder.club
 0.0.0.0 aingrow.com
@@ -5117,6 +5119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aldaobpuhvl.com
 0.0.0.0 aleailarm.com
 0.0.0.0 aleaimbuy.site
+0.0.0.0 alealebag.site
 0.0.0.0 aleapeact.club
 0.0.0.0 aleapeapt.club
 0.0.0.0 aleba.ru
@@ -5198,6 +5201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 allarmate.club
 0.0.0.0 allartand.club
 0.0.0.0 allashail.club
+0.0.0.0 allashark.site
 0.0.0.0 allbestnews.net
 0.0.0.0 allbn.net
 0.0.0.0 allbouttruth.info
@@ -7194,6 +7198,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 belwrite.com
 0.0.0.0 bemobpath.com
 0.0.0.0 bemobtrk.com
+0.0.0.0 bemzepcnp.com
 0.0.0.0 bench-life.me
 0.0.0.0 bench55.me
 0.0.0.0 benkelmantimberville.com
@@ -7723,6 +7728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 blogistories.com
 0.0.0.0 blogjudi.com
 0.0.0.0 blogkiemtien.club
+0.0.0.0 bloglife24.com
 0.0.0.0 bloglive.ru
 0.0.0.0 blogofest.com
 0.0.0.0 blogohertz.com
@@ -10652,6 +10658,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 crwzxtuhvzv.com
 0.0.0.0 crxhbchbd.com
 0.0.0.0 cryaptall.club
+0.0.0.0 cryartarm.online
 0.0.0.0 crykaxliilz.com
 0.0.0.0 crylukzsthjz.com
 0.0.0.0 cryptaloot.pro
@@ -11635,6 +11642,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dating-exchange.com
 0.0.0.0 dating-service.net
 0.0.0.0 dating.lt
+0.0.0.0 dating2cloud.org
 0.0.0.0 datingadnetwork.com
 0.0.0.0 datingamateurs.com
 0.0.0.0 datingcensored.com
@@ -14456,6 +14464,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fads.online
 0.0.0.0 fadsabs.com
 0.0.0.0 fadsans.com
+0.0.0.0 fadsanz.com
 0.0.0.0 fadsats.com
 0.0.0.0 fadsecs.com
 0.0.0.0 fadsecz.com
@@ -17416,6 +17425,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hcatboilyxs.com
 0.0.0.0 hccms.com.cn
 0.0.0.0 hcenc.com
+0.0.0.0 hceykfajyioqkz.com
 0.0.0.0 hcg82f2b.com
 0.0.0.0 hcgtkmes.com
 0.0.0.0 hchig.com
@@ -19423,6 +19433,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 inviteonly.nl
 0.0.0.0 inviziads.com
 0.0.0.0 inwemo.com
+0.0.0.0 inwig3aqg9xq.com
 0.0.0.0 inwin.pw
 0.0.0.0 inxy.run
 0.0.0.0 io.narrative.io
@@ -21175,6 +21186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kistutch.net
 0.0.0.0 kit5hgver.com
 0.0.0.0 kitchenfurniture.cc
+0.0.0.0 kitferdog.site
 0.0.0.0 kitnmedia.com
 0.0.0.0 kitopr.com
 0.0.0.0 kitri.tk
@@ -22533,6 +22545,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lkamujrx.com
 0.0.0.0 lkfuihubbros.com
 0.0.0.0 lkhkeviyctneka.com
+0.0.0.0 lkhqosglqas.com
 0.0.0.0 lkjdwmhuqxupef.com
 0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 lklasoo.xyz
@@ -26213,6 +26226,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 noblok.com
 0.0.0.0 nobpgppgbucy.com
 0.0.0.0 nobrain.dk
+0.0.0.0 noclef.com
 0.0.0.0 noddus.com
 0.0.0.0 node.market-place.su
 0.0.0.0 nofejectontrab.info
@@ -26286,6 +26300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 notify.rocks
 0.0.0.0 notify.support
 0.0.0.0 notifypushka.com
+0.0.0.0 notifysrv.com
 0.0.0.0 notmining.org
 0.0.0.0 nottonic.com
 0.0.0.0 nouleeps.com
@@ -26531,6 +26546,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nvsea.com
 0.0.0.0 nvsey.com
 0.0.0.0 nvshuyun.com
+0.0.0.0 nvtbspcwhb.com
 0.0.0.0 nvvdtfqboy.bid
 0.0.0.0 nvxzjmowusg.com
 0.0.0.0 nvztwdkbldp.com
@@ -27535,6 +27551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 orbit.lun.ua
 0.0.0.0 orbitfour47.com
 0.0.0.0 orchidscape.net
+0.0.0.0 orcjagpox.com
 0.0.0.0 ordbtltlcmqv.com
 0.0.0.0 orddiltnmmlu.com
 0.0.0.0 ordermc.com
@@ -30587,6 +30604,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qerusedpastrong.info
 0.0.0.0 qetstdbssdvs.com
 0.0.0.0 qeuggztcqmashg.bid
+0.0.0.0 qevcxo.cn
 0.0.0.0 qevfmwciyp.bid
 0.0.0.0 qevivcixnngf.com
 0.0.0.0 qevkdmgcv.bid
@@ -31627,6 +31645,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 recwy.com
 0.0.0.0 recycle-static.zoznam.sk
 0.0.0.0 red-direct-n.com
+0.0.0.0 redads.biz
 0.0.0.0 redakter.ru
 0.0.0.0 redappeneticfr.info
 0.0.0.0 redarianman.com
@@ -32357,6 +32376,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roundfortred.ru
 0.0.0.0 roupsouk.com
 0.0.0.0 roustast.net
+0.0.0.0 routeme.one
 0.0.0.0 routeserve.info
 0.0.0.0 routgveriprt.com
 0.0.0.0 rouvitoa.net
@@ -33240,6 +33260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 secure.securitetotale.com
 0.0.0.0 secure.securitetotale.fr
 0.0.0.0 secureboom.net
+0.0.0.0 securecloud-dt.com
 0.0.0.0 securecloud-smart.com
 0.0.0.0 securee.ru
 0.0.0.0 secureintl.com
@@ -33501,6 +33522,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sex4u.lg.ua
 0.0.0.0 sexad.net
 0.0.0.0 sexadonf.net
+0.0.0.0 sexagogal.site
 0.0.0.0 sexbadoo.ga
 0.0.0.0 sexclic.com
 0.0.0.0 sexdatecash.com
@@ -33563,6 +33585,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sfgkhgfdsochwd.com
 0.0.0.0 sfhrxcbbmtfqw.com
 0.0.0.0 sfkxmchhswobcq.com
+0.0.0.0 sflekykzhqz.com
 0.0.0.0 sfloushi.com
 0.0.0.0 sflyycxlsad.com
 0.0.0.0 sfmgzvam.com
@@ -35207,6 +35230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 supersonicads.com
 0.0.0.0 superstyle.ru
 0.0.0.0 supertop.ru
+0.0.0.0 supertrackingz.com
 0.0.0.0 supertura.com
 0.0.0.0 superwebs.pro
 0.0.0.0 superwin.de
@@ -35901,6 +35925,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 teleprogramma.pro
+0.0.0.0 televeniesuc.pro
 0.0.0.0 televisionbomb.com
 0.0.0.0 teliad.com
 0.0.0.0 telllwrite.com
@@ -37944,6 +37969,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ukbanners.com
 0.0.0.0 ukbet2017.com
 0.0.0.0 ukbet99.com
+0.0.0.0 ukcomparends.pro
 0.0.0.0 ukdjbubvp.com
 0.0.0.0 ukdtx.31202.fun
 0.0.0.0 ukdzmuvtelq.com
@@ -39333,6 +39359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 volyze.com
 0.0.0.0 vomitgirl.org
 0.0.0.0 vongomedia.ru
+0.0.0.0 vontent.powvideo.net
 0.0.0.0 voob.ru
 0.0.0.0 voodoo.com
 0.0.0.0 voono.ru
@@ -40440,6 +40467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wizardsbd.com
 0.0.0.0 wizenedjogger.info
 0.0.0.0 wizknbrgxuqjo.com
+0.0.0.0 wizwarsum.site
 0.0.0.0 wizzzards.com
 0.0.0.0 wj.jiancai365.cn
 0.0.0.0 wjavelurhgx.com
@@ -61401,6 +61429,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 xmliw.com
 0.0.0.0 xmljx.cn
 0.0.0.0 xmlmonetize.com
+0.0.0.0 xmlppcbuzz.com
 0.0.0.0 xmlqerwrehfqo.com
 0.0.0.0 xmlterra.com
 0.0.0.0 xmlwizard.com

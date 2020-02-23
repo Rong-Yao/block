@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.054
 # Release: 054
-# Entries: 61,249
+# Entries: 61,270
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 06:10:15
+# Updated: Sun, 23 Feb 20 12:10:08
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -693,7 +693,6 @@ ff02::3 ip6-allhosts
 :: 247pcsecurity.com
 :: 247playz.com
 :: 247realmedia.com
-:: 247support.adtech.us
 :: 247teencash.net
 :: 247view.net
 :: 24809.hittail.com
@@ -2706,6 +2705,7 @@ ff02::3 ip6-allhosts
 :: acme.tango.me
 :: acme.top
 :: acmexxx.com
+:: acmsg.online
 :: acnenomor.com
 :: acootaul.net
 :: acortador.net
@@ -7095,6 +7095,7 @@ ff02::3 ip6-allhosts
 :: aimes.com
 :: aimg.fc2.com
 :: aimg.media.net
+:: aimrawwas.site
 :: ainess.pro
 :: aintinuumdelos.com
 :: aio.media
@@ -7269,6 +7270,7 @@ ff02::3 ip6-allhosts
 :: aldtrax.com
 :: aleailarm.com
 :: aleaimbuy.site
+:: alealebag.site
 :: aleapeact.club
 :: alegroup.info
 :: alemon.ru
@@ -11275,6 +11277,7 @@ ff02::3 ip6-allhosts
 :: belwrite.com
 :: bemob.entrepreneurmindmap.net
 :: bemobpath.com
+:: bemzepcnp.com
 :: ben.crxmouse.com
 :: benbeattie.com
 :: bench.uc.cn
@@ -11942,6 +11945,7 @@ ff02::3 ip6-allhosts
 :: blogherads.com
 :: blogimgs.sina.tw
 :: blogkiemtien.club
+:: bloglife24.com
 :: blogohertz.com
 :: blogoman-24.com
 :: blogpt.taboola.com
@@ -17778,6 +17782,7 @@ ff02::3 ip6-allhosts
 :: dating-banners.com
 :: dating-service.net
 :: dating.mgid.com
+:: dating2cloud.org
 :: dating4singlesonline1.com
 :: datinggold.com
 :: datnentayhanoi.info
@@ -24912,6 +24917,7 @@ ff02::3 ip6-allhosts
 :: hbycvbyyj.com
 :: hcanooncheap.store
 :: hcatboilyxs.com
+:: hceykfajyioqkz.com
 :: hcg82f2b.com
 :: hcgtkmes.com
 :: hchrmain.112.2o7.net
@@ -29358,6 +29364,7 @@ ff02::3 ip6-allhosts
 :: kitaramarketplace.com
 :: kitaramedia.com
 :: kitchenessentials.club
+:: kitferdog.site
 :: kithrup.matchlogic.com
 :: kitnmedia.com
 :: kits.crashlytics.com
@@ -29657,6 +29664,7 @@ ff02::3 ip6-allhosts
 :: kubient.com
 :: kubmcyofaeu.com
 :: kuchebraska.com
+:: kudzuphloemgunk.tech
 :: kugo.cc
 :: kuhdi.com
 :: kuikdelivery.com
@@ -30603,6 +30611,7 @@ ff02::3 ip6-allhosts
 :: lkaumkxmzefa.com
 :: lkdlamrwl.com
 :: lkhkeviyctneka.com
+:: lkhqosglqas.com
 :: lkjdwmhuqxupef.com
 :: lkksbzcslmeefw.com
 :: lkmoqyzfv.com
@@ -35448,6 +35457,7 @@ ff02::3 ip6-allhosts
 :: nobodyspeakstruth.narod.ru
 :: nobpgppgbucy.com
 :: nobrain.dk
+:: noclef.com
 :: noclick.connexity.com
 :: nocroom.com
 :: nodc.us
@@ -35883,6 +35893,7 @@ ff02::3 ip6-allhosts
 :: nvoepbzqtn.com
 :: nvosasae.com
 :: nvqsjdvgqnyk.com
+:: nvtbspcwhb.com
 :: nvvdtfqboy.bid
 :: nvxzjmowusg.com
 :: nvztwdkbldp.com
@@ -37111,6 +37122,7 @@ ff02::3 ip6-allhosts
 :: orbiyz.com
 :: orbowlada.strefa.pl
 :: orca.qubitproducts.com
+:: orcjagpox.com
 :: ord-ae.cj.com
 :: ord-ae.conversantmedia.com
 :: ordbtltlcmqv.com
@@ -43165,6 +43177,7 @@ ff02::3 ip6-allhosts
 :: roughroll.com
 :: roustast.net
 :: route.izooto.com
+:: routeme.one
 :: router.adlure.net
 :: router.cint.com
 :: routeserve.info
@@ -44761,6 +44774,7 @@ ff02::3 ip6-allhosts
 :: secure.w3track.com
 :: secure0.adswizz.com
 :: secureboom.net
+:: securecloud-dt.com
 :: securecloud-smart.com
 :: securedopen-bp.com
 :: securegfm.com
@@ -45186,6 +45200,7 @@ ff02::3 ip6-allhosts
 :: sex365.su
 :: sexad.net
 :: sexadvertentiesite.nl
+:: sexagogal.site
 :: sexcounter.com
 :: sexiba.com
 :: sexilbbpnc.com
@@ -45220,6 +45235,7 @@ ff02::3 ip6-allhosts
 :: sfgkhgfdsochwd.com
 :: sfhrxcbbmtfqw.com
 :: sfkxmchhswobcq.com
+:: sflekykzhqz.com
 :: sflyycxlsad.com
 :: sfmc-dev.urbanairship.com
 :: sfmc-stag.urbanairship.com
@@ -47918,6 +47934,7 @@ ff02::3 ip6-allhosts
 :: supertop.ru
 :: supertop100.com
 :: supertracking.net
+:: supertrackingz.com
 :: superwebs.pro
 :: superwifi.uodoo.com
 :: supforu.com
@@ -48943,6 +48960,7 @@ ff02::3 ip6-allhosts
 :: telenor.112.2o7.net
 :: teleport.soom.la
 :: teleriumads-x64zcsqq.netdna-ssl.com
+:: televeniesuc.pro
 :: telim.fractionalmedia.com
 :: telllwrite.com
 :: telstra.imrworldwide.com
@@ -52493,6 +52511,7 @@ ff02::3 ip6-allhosts
 :: ukapp.cj.com
 :: ukatoe.com
 :: ukbanners.com
+:: ukcomparends.pro
 :: ukdjbubvp.com
 :: ukdogshop.xyz
 :: ukdzmuvtelq.com
@@ -55281,6 +55300,7 @@ ff02::3 ip6-allhosts
 :: wiywlvkwwwrms.com
 :: wiz.outbrain.com
 :: wizardsbd.com
+:: wizwarsum.site
 :: wizzogames-sdk.wappier.com
 :: wjavelurhgx.com
 :: wjeeqkdbjsg.com
@@ -59838,6 +59858,7 @@ ff02::3 ip6-allhosts
 :: xmlads.bid
 :: xmlheads.com
 :: xmlmonetize.com
+:: xmlppcbuzz.com
 :: xmlqerwrehfqo.com
 :: xmlserving.mobagent.com
 :: xmlwizard.com

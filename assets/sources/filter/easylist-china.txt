@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/easylistchina.txt
 # Last Converted - 23.02.2020
-# Total Domains - 5553
+# Total Domains - 5554
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3860,6 +3860,7 @@
 0.0.0.0 qdsfzz.cn
 0.0.0.0 qdxrhg.com
 0.0.0.0 qdyazc.com
+0.0.0.0 qevcxo.cn
 0.0.0.0 qflwh.cn
 0.0.0.0 qfs365.com
 0.0.0.0 qgana.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # Last Converted - 23.02.2020
-# Total Domains - 11339
+# Total Domains - 11344
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -600,6 +600,7 @@
 0.0.0.0 bejotlmrijxvor.com
 0.0.0.0 bekiruvppl.com
 0.0.0.0 bektvxxfv.bid
+0.0.0.0 bemzepcnp.com
 0.0.0.0 beqkxrcgjfnc.com
 0.0.0.0 beucsyzvwdzqu.com
 0.0.0.0 beufosew.bid
@@ -3496,6 +3497,7 @@
 0.0.0.0 hbzzkwsuaooc.com
 0.0.0.0 hcatboilyxs.com
 0.0.0.0 hcbntenhgaq.bid
+0.0.0.0 hceykfajyioqkz.com
 0.0.0.0 hcggkyhzxzsv.com
 0.0.0.0 hcgtkmes.com
 0.0.0.0 hcijbbzz.com
@@ -5678,6 +5680,7 @@
 0.0.0.0 lkfuihubbros.com
 0.0.0.0 lkgcdedbklfse.com
 0.0.0.0 lkhkeviyctneka.com
+0.0.0.0 lkhqosglqas.com
 0.0.0.0 lkjdwmhuqxupef.com
 0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 lkmoqyzfv.com
@@ -6922,6 +6925,7 @@
 0.0.0.0 nvnvyikitffcdr.com
 0.0.0.0 nvoepbzqtn.com
 0.0.0.0 nvqsjdvgqnyk.com
+0.0.0.0 nvtbspcwhb.com
 0.0.0.0 nvvdtfqboy.bid
 0.0.0.0 nvwpybcjpzohoz.bid
 0.0.0.0 nvxzjmowusg.com
@@ -9004,6 +9008,7 @@
 0.0.0.0 sfhrxcbbmtfqw.com
 0.0.0.0 sfhyxyodjllrd.bid
 0.0.0.0 sfkxmchhswobcq.com
+0.0.0.0 sflekykzhqz.com
 0.0.0.0 sflyycxlsad.com
 0.0.0.0 sfmgzvam.com
 0.0.0.0 sfmnafrufk.com

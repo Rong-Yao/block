@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 # Last Converted - 23.02.2020
-# Total Domains - 14228
+# Total Domains - 14256
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -592,6 +592,7 @@
 0.0.0.0 acloudimages.com
 0.0.0.0 acloudvideos.com
 0.0.0.0 aclwlkyzxxhn.com
+0.0.0.0 acmsg.online
 0.0.0.0 acootaul.net
 0.0.0.0 acrabakasaka.com
 0.0.0.0 acrididae.com
@@ -1345,6 +1346,7 @@
 0.0.0.0 aim4media.com
 0.0.0.0 aimaptair.club
 0.0.0.0 aimatch.com
+0.0.0.0 aimrawwas.site
 0.0.0.0 aintinuumdelos.com
 0.0.0.0 aio.media
 0.0.0.0 aioemfxj.com
@@ -1400,6 +1402,7 @@
 0.0.0.0 alcidebrought.pro
 0.0.0.0 aleailarm.com
 0.0.0.0 aleaimbuy.site
+0.0.0.0 alealebag.site
 0.0.0.0 aleapeact.club
 0.0.0.0 alemon.ru
 0.0.0.0 alfynetwork.com
@@ -1485,6 +1488,7 @@
 0.0.0.0 aneqmscervl.com
 0.0.0.0 angege.com
 0.0.0.0 angusmemor.info
+0.0.0.0 aniashboy.club
 0.0.0.0 aniview.com
 0.0.0.0 anizedglittledisco.info
 0.0.0.0 anjqxwvqfnri.com
@@ -1949,6 +1953,7 @@
 0.0.0.0 behybmunweid.com
 0.0.0.0 beineiros.xyz
 0.0.0.0 beiren.xyz
+0.0.0.0 beiven.pw
 0.0.0.0 bejotlmrijxvor.com
 0.0.0.0 bekiruvppl.com
 0.0.0.0 belmonhezamil.pro
@@ -1957,6 +1962,7 @@
 0.0.0.0 belvertising.be
 0.0.0.0 belwrite.com
 0.0.0.0 bemobpath.com
+0.0.0.0 bemzepcnp.com
 0.0.0.0 bepolite.eu
 0.0.0.0 beqkxrcgjfnc.com
 0.0.0.0 beringmedia.com
@@ -2127,6 +2133,7 @@
 0.0.0.0 blogclans.com
 0.0.0.0 blogherads.com
 0.0.0.0 blogkiemtien.club
+0.0.0.0 bloglife24.com
 0.0.0.0 blogohertz.com
 0.0.0.0 blqgnbxva.com
 0.0.0.0 blrqeqn.com
@@ -2981,6 +2988,7 @@
 0.0.0.0 crwzxtuhvzv.com
 0.0.0.0 crxhbchbd.com
 0.0.0.0 cryaptall.club
+0.0.0.0 cryartarm.online
 0.0.0.0 crykaxliilz.com
 0.0.0.0 crylukzsthjz.com
 0.0.0.0 cryptoads.space
@@ -3160,6 +3168,7 @@
 0.0.0.0 datawrkz.com
 0.0.0.0 dating-banners.com
 0.0.0.0 dating-service.net
+0.0.0.0 dating2cloud.org
 0.0.0.0 datinggold.com
 0.0.0.0 daurifek.net
 0.0.0.0 davthnojr.com
@@ -5118,6 +5127,7 @@
 0.0.0.0 hbnqcbfgsjfa.com
 0.0.0.0 hbycvbyyj.com
 0.0.0.0 hcatboilyxs.com
+0.0.0.0 hceykfajyioqkz.com
 0.0.0.0 hcg82f2b.com
 0.0.0.0 hcgtkmes.com
 0.0.0.0 hcijbbzz.com
@@ -6408,6 +6418,7 @@
 0.0.0.0 kiqsynap.com
 0.0.0.0 kirilaboola.com
 0.0.0.0 kischartsrelimit.pro
+0.0.0.0 kitferdog.site
 0.0.0.0 kitnmedia.com
 0.0.0.0 kiuiqcxvuox.com
 0.0.0.0 kj2hy.com
@@ -6562,6 +6573,7 @@
 0.0.0.0 ktzwdewsckssid.com
 0.0.0.0 kubichpbtjdvo.com
 0.0.0.0 kuchebraska.com
+0.0.0.0 kudzuphloemgunk.tech
 0.0.0.0 kujpycorr.com
 0.0.0.0 kujwlsnl.com
 0.0.0.0 kuldifatlje.com
@@ -6870,6 +6882,7 @@
 0.0.0.0 ljzsucmiodrro.com
 0.0.0.0 lkamujrx.com
 0.0.0.0 lkhkeviyctneka.com
+0.0.0.0 lkhqosglqas.com
 0.0.0.0 lkjdwmhuqxupef.com
 0.0.0.0 lkksbzcslmeefw.com
 0.0.0.0 lkmoqyzfv.com
@@ -7991,6 +8004,7 @@
 0.0.0.0 noaptauw.com
 0.0.0.0 noblemagnition.com
 0.0.0.0 nobpgppgbucy.com
+0.0.0.0 noclef.com
 0.0.0.0 nofejectontrab.info
 0.0.0.0 nofhtrsaz.com
 0.0.0.0 noglolra.com
@@ -8014,6 +8028,7 @@
 0.0.0.0 notification-list.com
 0.0.0.0 notify-monad.com
 0.0.0.0 notify.rocks
+0.0.0.0 notifysrv.com
 0.0.0.0 nouseeth.com
 0.0.0.0 noutstancerewe.info
 0.0.0.0 novelty.media
@@ -8122,6 +8137,7 @@
 0.0.0.0 nvnbwkkryjqsvh.com
 0.0.0.0 nvoepbzqtn.com
 0.0.0.0 nvqsjdvgqnyk.com
+0.0.0.0 nvtbspcwhb.com
 0.0.0.0 nvvdtfqboy.bid
 0.0.0.0 nvxzjmowusg.com
 0.0.0.0 nvztwdkbldp.com
@@ -8634,6 +8650,7 @@
 0.0.0.0 oratosaeron.com
 0.0.0.0 orbengine.com
 0.0.0.0 orbitfour47.com
+0.0.0.0 orcjagpox.com
 0.0.0.0 ordbtltlcmqv.com
 0.0.0.0 orddiltnmmlu.com
 0.0.0.0 ordingly.com
@@ -9015,6 +9032,7 @@
 0.0.0.0 perfectmarket.com
 0.0.0.0 performance-based.com
 0.0.0.0 performanceadexchange.com
+0.0.0.0 performanceonclick.com
 0.0.0.0 performancingads.com
 0.0.0.0 performanteads.com
 0.0.0.0 performit.club
@@ -10449,6 +10467,7 @@
 0.0.0.0 reckinbuttiten.pro
 0.0.0.0 recomendedsite.com
 0.0.0.0 recusticks.co
+0.0.0.0 redads.biz
 0.0.0.0 redappeneticfr.info
 0.0.0.0 redcourtside.com
 0.0.0.0 redewdit.pro
@@ -10692,6 +10711,7 @@
 0.0.0.0 rotorads.com
 0.0.0.0 rotumal.com
 0.0.0.0 roustast.net
+0.0.0.0 routeme.one
 0.0.0.0 routeserve.info
 0.0.0.0 rouvoute.net
 0.0.0.0 rouvpebtazdlq.com
@@ -10949,6 +10969,7 @@
 0.0.0.0 secondstreetmedia.com
 0.0.0.0 secure-softwaremanager.com
 0.0.0.0 secureboom.net
+0.0.0.0 securecloud-dt.com
 0.0.0.0 securecloud-smart.com
 0.0.0.0 securesmrt-dt.com
 0.0.0.0 securesoft.info
@@ -11012,6 +11033,7 @@
 0.0.0.0 sevenads.net
 0.0.0.0 sevendaystart.com
 0.0.0.0 sevootie.com
+0.0.0.0 sexagogal.site
 0.0.0.0 sexilbbpnc.com
 0.0.0.0 sexmoney.com
 0.0.0.0 sexohme.ru
@@ -11019,6 +11041,7 @@
 0.0.0.0 sfgkhgfdsochwd.com
 0.0.0.0 sfhrxcbbmtfqw.com
 0.0.0.0 sfkxmchhswobcq.com
+0.0.0.0 sflekykzhqz.com
 0.0.0.0 sflyycxlsad.com
 0.0.0.0 sfmgzvam.com
 0.0.0.0 sfmnafrufk.com
@@ -11452,6 +11475,7 @@
 0.0.0.0 superloofy.com
 0.0.0.0 superonclick.com
 0.0.0.0 supersitetime.com
+0.0.0.0 supertrackingz.com
 0.0.0.0 superwebs.pro
 0.0.0.0 supletcedintand.pro
 0.0.0.0 supuv2.com
@@ -11637,6 +11661,7 @@
 0.0.0.0 tektbzadrceqje.com
 0.0.0.0 tel-tel-fie.com
 0.0.0.0 telemetryverification.net
+0.0.0.0 televeniesuc.pro
 0.0.0.0 telllwrite.com
 0.0.0.0 telwrite.com
 0.0.0.0 temphilltop.com
@@ -12248,6 +12273,7 @@
 0.0.0.0 ujylaibwmgtaow.com
 0.0.0.0 ukatoe.com
 0.0.0.0 ukbanners.com
+0.0.0.0 ukcomparends.pro
 0.0.0.0 ukdjbubvp.com
 0.0.0.0 ukdzmuvtelq.com
 0.0.0.0 ukjsibgu.com
@@ -13063,6 +13089,7 @@
 0.0.0.0 witalfieldt.com
 0.0.0.0 withingsessed.pro
 0.0.0.0 wiywlvkwwwrms.com
+0.0.0.0 wizwarsum.site
 0.0.0.0 wjavelurhgx.com
 0.0.0.0 wjeeqkdbjsg.com
 0.0.0.0 wjevvjxwg.com
@@ -13408,6 +13435,7 @@
 0.0.0.0 xmgrjuqqc.com
 0.0.0.0 xmlads.bid
 0.0.0.0 xmlmonetize.com
+0.0.0.0 xmlppcbuzz.com
 0.0.0.0 xmlqerwrehfqo.com
 0.0.0.0 xmlwizard.com
 0.0.0.0 xmnnurmdrjmd.com

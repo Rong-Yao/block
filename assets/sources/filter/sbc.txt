@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 23.02.2020
-# Total Domains - 35910
+# Total Domains - 35900
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -420,7 +420,6 @@
 0.0.0.0 247media.com
 0.0.0.0 247playz.com
 0.0.0.0 247realmedia.com
-0.0.0.0 247support.adtech.us
 0.0.0.0 24809.hittail.com
 0.0.0.0 24counter.com
 0.0.0.0 24holdem.com
@@ -11461,7 +11460,6 @@
 0.0.0.0 domob.cn
 0.0.0.0 domob.org
 0.0.0.0 domobcdn.com
-0.0.0.0 domowy-sprzet.pl
 0.0.0.0 domtrakenski.pl
 0.0.0.0 donate-api.recorder.duapps.com
 0.0.0.0 doncorlito.pl
@@ -16891,7 +16889,6 @@
 0.0.0.0 kumma-hb.hb.adx1.com
 0.0.0.0 kupgo.net
 0.0.0.0 kupujemy.to
-0.0.0.0 kur24pl.eu
 0.0.0.0 kurierat.cleverpush.com
 0.0.0.0 kuriero.pl
 0.0.0.0 kurlichan.com
@@ -21775,7 +21772,6 @@
 0.0.0.0 pl-huda.myshopify.com
 0.0.0.0 pl-pulsbiz.net
 0.0.0.0 pl-v2.presage.io
-0.0.0.0 pl.50kaweek.live
 0.0.0.0 pl.ads.justpremium.com
 0.0.0.0 pl.allsports4free.club
 0.0.0.0 pl.bbelements.com
@@ -23577,7 +23573,6 @@
 0.0.0.0 roosterfirework.com
 0.0.0.0 root--servers.org
 0.0.0.0 rootbuzz.com
-0.0.0.0 rosa-wypoczynek.pl
 0.0.0.0 rosalieeve.pl
 0.0.0.0 rosaspasowka.pl
 0.0.0.0 rose.ixbt.com
@@ -25105,7 +25100,6 @@
 0.0.0.0 simg.zedo.com
 0.0.0.0 similarsabine.com
 0.0.0.0 simmafia.pl
-0.0.0.0 simpatio.pl
 0.0.0.0 simpleads.net
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simplehitcounter.com
@@ -28524,7 +28518,6 @@
 0.0.0.0 trinitymirror-d.openx.net
 0.0.0.0 trinitymirror.112.2o7.net
 0.0.0.0 trion-d.openx.net
-0.0.0.0 trionz.pl
 0.0.0.0 triplelift.com
 0.0.0.0 triplequadturbo.com
 0.0.0.0 triptease.io
@@ -30718,7 +30711,6 @@
 0.0.0.0 www.alivar.vn
 0.0.0.0 www.all-internet-security.com
 0.0.0.0 www.all-player.pl
-0.0.0.0 www.alle-perfumy.pl
 0.0.0.0 www.allenit.pl
 0.0.0.0 www.allfet.info
 0.0.0.0 www.allfiles.pl
@@ -31602,7 +31594,6 @@
 0.0.0.0 www.domekpoddebami.pl
 0.0.0.0 www.domhandlowy.net
 0.0.0.0 www.dominikhalas.pl
-0.0.0.0 www.domowy-sprzet.pl
 0.0.0.0 www.domtrakenski.pl
 0.0.0.0 www.doncorlito.pl
 0.0.0.0 www.donicezmarmuru.pl
@@ -32694,7 +32685,6 @@
 0.0.0.0 www.kulalusramag.net
 0.0.0.0 www.kulturalubuska.pl
 0.0.0.0 www.kupujemy.to
-0.0.0.0 www.kur24pl.eu
 0.0.0.0 www.kuriero.pl
 0.0.0.0 www.kurtkacgallegro.com
 0.0.0.0 www.kurtkiwyprzedaz.pl

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 23.02.2020
-# Total Domains - 5930
+# Total Domains - 5921
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -671,7 +671,6 @@
 0.0.0.0 domhandlowy.net
 0.0.0.0 dominikhalas.pl
 0.0.0.0 domniespodzianek.com
-0.0.0.0 domowy-sprzet.pl
 0.0.0.0 domtrakenski.pl
 0.0.0.0 doncorlito.pl
 0.0.0.0 donicezmarmuru.pl
@@ -1494,7 +1493,6 @@
 0.0.0.0 kulturalubuska.pl
 0.0.0.0 kupgo.net
 0.0.0.0 kupujemy.to
-0.0.0.0 kur24pl.eu
 0.0.0.0 kuriero.pl
 0.0.0.0 kurtkacgallegro.com
 0.0.0.0 kurtkiwyprzedaz.pl
@@ -2108,7 +2106,6 @@
 0.0.0.0 pko-bp.pl
 0.0.0.0 pl-huda.myshopify.com
 0.0.0.0 pl-pulsbiz.net
-0.0.0.0 pl.50kaweek.live
 0.0.0.0 pl.allsports4free.club
 0.0.0.0 pl.btcprofitnow.website
 0.0.0.0 pl.bustcream-pro.com
@@ -2451,7 +2448,6 @@
 0.0.0.0 robotechcity.com
 0.0.0.0 romind27.com
 0.0.0.0 roofgardenrecords.com
-0.0.0.0 rosa-wypoczynek.pl
 0.0.0.0 rosalieeve.pl
 0.0.0.0 rosaspasowka.pl
 0.0.0.0 rossm.gift-cards.co.pl
@@ -2552,7 +2548,6 @@
 0.0.0.0 silesiatours.pl
 0.0.0.0 silvets.pl
 0.0.0.0 simmafia.pl
-0.0.0.0 simpatio.pl
 0.0.0.0 simplyjazz.pl
 0.0.0.0 siniaki.pl
 0.0.0.0 siobhanmcminn.com
@@ -2898,7 +2893,6 @@
 0.0.0.0 travelonsrilanka.com
 0.0.0.0 triggerinstalls.com
 0.0.0.0 trikegarage.pl
-0.0.0.0 trionz.pl
 0.0.0.0 troubadourbaker.com
 0.0.0.0 truchanbud.pl
 0.0.0.0 truegamers.ga
@@ -3231,7 +3225,6 @@
 0.0.0.0 www.alfabetnieruchomosci.pl
 0.0.0.0 www.alim.com.pl
 0.0.0.0 www.all-player.pl
-0.0.0.0 www.alle-perfumy.pl
 0.0.0.0 www.allenit.pl
 0.0.0.0 www.allfiles.pl
 0.0.0.0 www.allonline.pl
@@ -3679,7 +3672,6 @@
 0.0.0.0 www.domekpoddebami.pl
 0.0.0.0 www.domhandlowy.net
 0.0.0.0 www.dominikhalas.pl
-0.0.0.0 www.domowy-sprzet.pl
 0.0.0.0 www.domtrakenski.pl
 0.0.0.0 www.doncorlito.pl
 0.0.0.0 www.donicezmarmuru.pl
@@ -4337,7 +4329,6 @@
 0.0.0.0 www.kulalusramag.net
 0.0.0.0 www.kulturalubuska.pl
 0.0.0.0 www.kupujemy.to
-0.0.0.0 www.kur24pl.eu
 0.0.0.0 www.kuriero.pl
 0.0.0.0 www.kurtkacgallegro.com
 0.0.0.0 www.kurtkiwyprzedaz.pl

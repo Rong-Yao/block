@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 23.02.2020
-# Total Domains - 35900
+# Total Domains - 35897
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -21176,7 +21176,6 @@
 0.0.0.0 pacificnet.xyz
 0.0.0.0 paclitor.com
 0.0.0.0 pacyfka99.pl
-0.0.0.0 paczka.poczta-pay.com
 0.0.0.0 pad-v3.prod.cloud.ogury.io
 0.0.0.0 pads.cdnads.com
 0.0.0.0 padsdel.com
@@ -22534,7 +22533,6 @@
 0.0.0.0 prt.stsdk.vivoglobal.com
 0.0.0.0 pruszkowmieszkania.pl
 0.0.0.0 przechwycone-zdjecia.00x.eu
-0.0.0.0 przedsiebieblog.pl
 0.0.0.0 przedszkoleglobus.pl
 0.0.0.0 przedszkolekrainadziecka.pl
 0.0.0.0 przedszkoleszkrab.pl
@@ -32642,7 +32640,6 @@
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.kometal.pl
 0.0.0.0 www.komodia.com
-0.0.0.0 www.komornik-gov24.com
 0.0.0.0 www.kompiutery.pl
 0.0.0.0 www.koncepcjakirka.pl
 0.0.0.0 www.konferencje.vantis.pl

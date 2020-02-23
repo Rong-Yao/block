@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.054
 # Release: 054
-# Entries: 63,564
+# Entries: 63,609
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 12:14:11
+# Updated: Sun, 23 Feb 20 18:14:41
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -529,6 +529,7 @@ ff02::3 ip6-allhosts
 :: 1fwjpdwguvqs.com
 :: 1g0x09523.com
 :: 1g2q2xfxjca.site
+:: 1getbestf1le3.xyz
 :: 1girl1pitcher.com
 :: 1girl1pitcher.org
 :: 1gkjk1ms15.com
@@ -1232,6 +1233,7 @@ ff02::3 ip6-allhosts
 :: 4sbs7w33ozxwnn.com
 :: 4seeresults.com
 :: 4strokemedia.com
+:: 4t6u1amm3t3n.com
 :: 4taktershop.de
 :: 4th3d48.com
 :: 4top.in
@@ -4951,6 +4953,7 @@ ff02::3 ip6-allhosts
 :: aikdakxoc.com
 :: ailamtrieuphu.com
 :: ailanibah.com
+:: ailaskarc.club
 :: ailawlani.club
 :: aileenvideos.pro
 :: ailezhai.cn
@@ -4962,6 +4965,7 @@ ff02::3 ip6-allhosts
 :: aim4media.com
 :: aimairasp.club
 :: aimaptair.club
+:: aimassare.club
 :: aimatch.com
 :: aimato.com
 :: aimgd.com
@@ -5549,6 +5553,7 @@ ff02::3 ip6-allhosts
 :: anunciospatrocinados.com
 :: anvtnqpbkjyk.com
 :: anyaspasp.club
+:: anybagant.club
 :: anycadark.site
 :: anyclip-media.com
 :: anyfiles.ru
@@ -6283,6 +6288,7 @@ ff02::3 ip6-allhosts
 :: avtovod.org.ua
 :: avtozapchastivazlanos.ru
 :: avvfgiytnir.com
+:: avwincall.info
 :: avxcore.com
 :: avyrpwvm.com
 :: awakebottlestudy.com
@@ -6295,6 +6301,8 @@ ff02::3 ip6-allhosts
 :: awebanner.net
 :: awecr.com
 :: aweets.com
+:: awehobrasp.live
+:: aweinkbum.com
 :: awejmp.com
 :: awempire.com
 :: awentw.com
@@ -7038,6 +7046,7 @@ ff02::3 ip6-allhosts
 :: bdasd.chinabig.com.cn
 :: bdasd.wmxa.cn
 :: bdbdqbdkdb.com
+:: bdbdqddkdb.com
 :: bdbdqdxkdb.com
 :: bdbdqexkdb.com
 :: bdbdqfxkdb.com
@@ -7527,6 +7536,7 @@ ff02::3 ip6-allhosts
 :: binmedia.su
 :: binotwither.com
 :: binpartner.com
+:: binsatbee.club
 :: binullxzwnsqws.com
 :: biochempop.com
 :: biorghealth.com
@@ -9351,6 +9361,7 @@ ff02::3 ip6-allhosts
 :: cheksoam.com
 :: chelsust.com
 :: chendjiangxing.cn
+:: chengaib.net
 :: chengboke.cn
 :: chengruide.com
 :: chengzhao95511.com
@@ -9546,6 +9557,7 @@ ff02::3 ip6-allhosts
 :: cjwjpmudu.com
 :: ck-cdn.com
 :: ckaiv.com
+:: ckardwithinktab.info
 :: ckg.vipyl.com
 :: ckhfffgt.com
 :: ckikq.com
@@ -10139,6 +10151,7 @@ ff02::3 ip6-allhosts
 :: compass.adop.cc
 :: compazenad.com
 :: compedu.ru
+:: compensions.pro
 :: competing-stinger.site
 :: completeexecutor.com
 :: composivel.pro
@@ -10424,6 +10437,7 @@ ff02::3 ip6-allhosts
 :: cpaggetti.com
 :: cpagoods.ru
 :: cpagrip.com
+:: cpalabtracking.com
 :: cpalead.com
 :: cpalinktracker.com
 :: cpalock.com
@@ -10793,6 +10807,7 @@ ff02::3 ip6-allhosts
 :: cuoas.com
 :: cuortwomnr.com
 :: cuoss.com
+:: cupallask.site
 :: cupidontrade.com
 :: cuponidad.pe
 :: curaleani.club
@@ -11284,6 +11299,7 @@ ff02::3 ip6-allhosts
 :: d33otidwg56k90.cloudfront.net
 :: d33t3vvu2t2yu5.cloudfront.net
 :: d33z8jzg2xbwjp.cloudfront.net
+:: d347nuc6bd1dvs.cloudfront.net
 :: d34cznyf2woj3o.cloudfront.net
 :: d34rdvn2ky3gnm.cloudfront.net
 :: d34tnov8neex5n.cloudfront.net
@@ -13510,6 +13526,7 @@ ff02::3 ip6-allhosts
 :: efngeka8czukzyb.ru
 :: efnypuzqni.com
 :: eforeantheirma.info
+:: efqadeuwdt.com
 :: efrcjwdcwhhqrx.com
 :: efxjqdymvzqqkt.com
 :: efzhzqtyomldfj.com
@@ -14327,6 +14344,7 @@ ff02::3 ip6-allhosts
 :: eyereturn.com
 :: eyeviewads.com
 :: eyewonder.com
+:: eyhempsedinte.info
 :: eympwecfhxy.com
 :: eynusizl.com
 :: eyouv.cn
@@ -15076,6 +15094,7 @@ ff02::3 ip6-allhosts
 :: flowhot.la
 :: flowhotmp3.com
 :: flowlz.com
+:: flowwiththetide.xyz
 :: flrdra.com
 :: flrqdjglshsbi.com
 :: flsfxpostdtvgc.com
@@ -15772,6 +15791,7 @@ ff02::3 ip6-allhosts
 :: g2546417787.com
 :: g27zkdvsxl.com
 :: g2921554487.com
+:: g2afse.com
 :: g2tt3n5jch.com
 :: g3369554495.com
 :: g344530742.com
@@ -15910,6 +15930,7 @@ ff02::3 ip6-allhosts
 :: gaohuduo.cn
 :: gaoxiaocup.com
 :: gapinubuso.com
+:: gapsfartrely.best
 :: gaqhseuqp.com
 :: garacy.cn
 :: garatrelitt.ru
@@ -16691,6 +16712,7 @@ ff02::3 ip6-allhosts
 :: gonews1.net
 :: gonews2.net
 :: gonews3.net
+:: gongeeta.net
 :: gongfanglong.cn
 :: goninjaspiel.com
 :: gontent.steamplay.me
@@ -17379,6 +17401,7 @@ ff02::3 ip6-allhosts
 :: haviouslyshoutesce.info
 :: hawbfa.com
 :: hawifallon.com
+:: haypaydig.club
 :: hayxktgbqpmult.com
 :: hazelcrestcoxsackie.com
 :: hb-247.com
@@ -20394,6 +20417,7 @@ ff02::3 ip6-allhosts
 :: jpxevzab.com
 :: jpyoikrzrjcap.com
 :: jq2.avpris.ru
+:: jqamhmztnukb.com
 :: jqanygfhqne.com
 :: jqcv28q.com
 :: jqfjrjka5t.top
@@ -21990,6 +22014,7 @@ ff02::3 ip6-allhosts
 :: leathtexactlycin.info
 :: leb961.com
 :: lebanonreaders.com
+:: lebkeresxa.ml
 :: lebneeklnuru.com
 :: lebqrivt.com
 :: leche69.com
@@ -24027,6 +24052,7 @@ ff02::3 ip6-allhosts
 :: megawerbung.de
 :: megawmr.ru
 :: megdexchange.com
+:: megmobpoi.club
 :: megogo.1ru.tv
 :: meguanha.com
 :: mehhueboy.club
@@ -24055,6 +24081,7 @@ ff02::3 ip6-allhosts
 :: mellowads.com
 :: mellowblogs.com
 :: mellowtin.com
+:: melo.space
 :: meloads.com
 :: melodramo-adv.ru
 :: melodramo.ru
@@ -24276,6 +24303,7 @@ ff02::3 ip6-allhosts
 :: miiuv.com
 :: mikas.win
 :: mikpumwbahkx.com
+:: mikrairs.com
 :: milabra.com
 :: milaly.info
 :: milan-pub.com
@@ -24702,6 +24730,7 @@ ff02::3 ip6-allhosts
 :: molyk.ru
 :: momzs.com
 :: monad-rtb.com
+:: monadplug.com
 :: monarchads.com
 :: monastreaming.com
 :: monbonsai.info
@@ -26391,6 +26420,7 @@ ff02::3 ip6-allhosts
 :: nrnma.com
 :: nrrxxpvgtf.com
 :: nrtapaiums.com
+:: nrtorbqr.com
 :: nrubehhd.com
 :: nrupgnyboerssu.com
 :: nrzcj.top
@@ -27518,6 +27548,7 @@ ff02::3 ip6-allhosts
 :: optmnstr.com
 :: optmz.online
 :: optnmstr.com
+:: optvx.com
 :: opuspoker.cc
 :: opyavar.ru
 :: opyyykrdyuum.com
@@ -28488,6 +28519,7 @@ ff02::3 ip6-allhosts
 :: perymiynf.com
 :: pesbqkopdm.com
 :: pestrike.com
+:: petchesa.net
 :: peterboroughapalachicola.com
 :: peterjfarley.info
 :: petsarlaaafru.com
@@ -29387,6 +29419,7 @@ ff02::3 ip6-allhosts
 :: powerad.ai
 :: poweradcash.net
 :: poweradvertising.co.uk
+:: powerapp.download
 :: powercheff.com
 :: poweredbyliquidfire.com
 :: poweredbyliquidfire.mobi
@@ -29864,6 +29897,7 @@ ff02::3 ip6-allhosts
 :: prycratre.online
 :: prycratre.today
 :: pryovpwyimwh.com
+:: pryrhoohs.site
 :: przcratre.club
 :: przcratre.online
 :: przcratre.today
@@ -33759,6 +33793,7 @@ ff02::3 ip6-allhosts
 :: shmonekisot.com
 :: shmpdqwucl.com
 :: sho9wbox.com
+:: shoawhom.com
 :: shock-news.net
 :: shodroph.net
 :: shofteph.com
@@ -33948,6 +33983,7 @@ ff02::3 ip6-allhosts
 :: sirecaningtotone.info
 :: sirokuzo.com
 :: sirtonim.me
+:: sisewepod.com
 :: sisney.net
 :: sisrgcvomn.com
 :: sistacked.com
@@ -35045,6 +35081,7 @@ ff02::3 ip6-allhosts
 :: streamate.com
 :: streamateaccess.com
 :: streambeam.io
+:: streamclub.best
 :: streamdefence.com
 :: streaming-illimite.com
 :: streaming-serie.xyz
@@ -35098,6 +35135,7 @@ ff02::3 ip6-allhosts
 :: stuthvygifup.com
 :: stvayyokjvxnl.com
 :: stygg.xyz
+:: styheremo.site
 :: style-eyes.eu
 :: styleload.ru
 :: styleszelife.com
@@ -37025,6 +37063,7 @@ ff02::3 ip6-allhosts
 :: trackingoffer.info
 :: trackingoffer.net
 :: trackingpro.pro
+:: trackingzen.com
 :: trackity.tiki.vn
 :: tracklab.club
 :: trackmackweldon.com
@@ -37041,6 +37080,7 @@ ff02::3 ip6-allhosts
 :: trackpush.com
 :: trackrc.com
 :: tracksongs.dhingana.com
+:: trackspeeder.com
 :: trackstarsengland.net
 :: trackthatad.com
 :: tracktor.co.uk
@@ -37337,6 +37377,7 @@ ff02::3 ip6-allhosts
 :: trks.us
 :: trktnc.com
 :: trktrk011.com
+:: trkunited.com
 :: trmads.eu
 :: trmedie.ru
 :: trmget.eu
@@ -38238,6 +38279,7 @@ ff02::3 ip6-allhosts
 :: uptopop.com
 :: uptopopunder.com
 :: uptracker.ru
+:: upush.co
 :: upvtnuffy.com
 :: upwtyghvknaiw.com
 :: upwzuqfcvbeqo.com
@@ -39082,6 +39124,7 @@ ff02::3 ip6-allhosts
 :: vimart16.com
 :: vimaxasli.id
 :: vimaxpills.id
+:: vimdiebid.club
 :: vimenhhpqnb.com
 :: vimgs.ru
 :: vimhuspifwyy.com
@@ -39352,6 +39395,7 @@ ff02::3 ip6-allhosts
 :: voltads.com
 :: voluums.com
 :: voluumtlkrnarketing.com
+:: voluumtracker.com
 :: voluumtrk.com
 :: voluumtrk2.com
 :: voluumtrk3.com
@@ -63360,6 +63404,7 @@ ff02::3 ip6-allhosts
 :: zpfjfwbij.com
 :: zpfoyfae.com
 :: zpghmretcikhzs.com
+:: zpiqwngppibmf.com
 :: zpkshggvjif.com
 :: zplayer-trk.zdn.vn
 :: zplayer.trk.zapps.vn

@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.054
 # Release: 054
-# Entries: 63,564
+# Entries: 63,609
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Sun, 23 Feb 20 12:14:11
+# Updated: Sun, 23 Feb 20 18:14:41
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -529,6 +529,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1fwjpdwguvqs.com
 0.0.0.0 1g0x09523.com
 0.0.0.0 1g2q2xfxjca.site
+0.0.0.0 1getbestf1le3.xyz
 0.0.0.0 1girl1pitcher.com
 0.0.0.0 1girl1pitcher.org
 0.0.0.0 1gkjk1ms15.com
@@ -1232,6 +1233,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 4sbs7w33ozxwnn.com
 0.0.0.0 4seeresults.com
 0.0.0.0 4strokemedia.com
+0.0.0.0 4t6u1amm3t3n.com
 0.0.0.0 4taktershop.de
 0.0.0.0 4th3d48.com
 0.0.0.0 4top.in
@@ -4951,6 +4953,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aikdakxoc.com
 0.0.0.0 ailamtrieuphu.com
 0.0.0.0 ailanibah.com
+0.0.0.0 ailaskarc.club
 0.0.0.0 ailawlani.club
 0.0.0.0 aileenvideos.pro
 0.0.0.0 ailezhai.cn
@@ -4962,6 +4965,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aim4media.com
 0.0.0.0 aimairasp.club
 0.0.0.0 aimaptair.club
+0.0.0.0 aimassare.club
 0.0.0.0 aimatch.com
 0.0.0.0 aimato.com
 0.0.0.0 aimgd.com
@@ -5549,6 +5553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 anunciospatrocinados.com
 0.0.0.0 anvtnqpbkjyk.com
 0.0.0.0 anyaspasp.club
+0.0.0.0 anybagant.club
 0.0.0.0 anycadark.site
 0.0.0.0 anyclip-media.com
 0.0.0.0 anyfiles.ru
@@ -6283,6 +6288,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 avtovod.org.ua
 0.0.0.0 avtozapchastivazlanos.ru
 0.0.0.0 avvfgiytnir.com
+0.0.0.0 avwincall.info
 0.0.0.0 avxcore.com
 0.0.0.0 avyrpwvm.com
 0.0.0.0 awakebottlestudy.com
@@ -6295,6 +6301,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 awebanner.net
 0.0.0.0 awecr.com
 0.0.0.0 aweets.com
+0.0.0.0 awehobrasp.live
+0.0.0.0 aweinkbum.com
 0.0.0.0 awejmp.com
 0.0.0.0 awempire.com
 0.0.0.0 awentw.com
@@ -7038,6 +7046,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdasd.chinabig.com.cn
 0.0.0.0 bdasd.wmxa.cn
 0.0.0.0 bdbdqbdkdb.com
+0.0.0.0 bdbdqddkdb.com
 0.0.0.0 bdbdqdxkdb.com
 0.0.0.0 bdbdqexkdb.com
 0.0.0.0 bdbdqfxkdb.com
@@ -7527,6 +7536,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 binmedia.su
 0.0.0.0 binotwither.com
 0.0.0.0 binpartner.com
+0.0.0.0 binsatbee.club
 0.0.0.0 binullxzwnsqws.com
 0.0.0.0 biochempop.com
 0.0.0.0 biorghealth.com
@@ -9351,6 +9361,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cheksoam.com
 0.0.0.0 chelsust.com
 0.0.0.0 chendjiangxing.cn
+0.0.0.0 chengaib.net
 0.0.0.0 chengboke.cn
 0.0.0.0 chengruide.com
 0.0.0.0 chengzhao95511.com
@@ -9546,6 +9557,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cjwjpmudu.com
 0.0.0.0 ck-cdn.com
 0.0.0.0 ckaiv.com
+0.0.0.0 ckardwithinktab.info
 0.0.0.0 ckg.vipyl.com
 0.0.0.0 ckhfffgt.com
 0.0.0.0 ckikq.com
@@ -10139,6 +10151,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 compass.adop.cc
 0.0.0.0 compazenad.com
 0.0.0.0 compedu.ru
+0.0.0.0 compensions.pro
 0.0.0.0 competing-stinger.site
 0.0.0.0 completeexecutor.com
 0.0.0.0 composivel.pro
@@ -10424,6 +10437,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cpaggetti.com
 0.0.0.0 cpagoods.ru
 0.0.0.0 cpagrip.com
+0.0.0.0 cpalabtracking.com
 0.0.0.0 cpalead.com
 0.0.0.0 cpalinktracker.com
 0.0.0.0 cpalock.com
@@ -10793,6 +10807,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cuoas.com
 0.0.0.0 cuortwomnr.com
 0.0.0.0 cuoss.com
+0.0.0.0 cupallask.site
 0.0.0.0 cupidontrade.com
 0.0.0.0 cuponidad.pe
 0.0.0.0 curaleani.club
@@ -11284,6 +11299,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d33otidwg56k90.cloudfront.net
 0.0.0.0 d33t3vvu2t2yu5.cloudfront.net
 0.0.0.0 d33z8jzg2xbwjp.cloudfront.net
+0.0.0.0 d347nuc6bd1dvs.cloudfront.net
 0.0.0.0 d34cznyf2woj3o.cloudfront.net
 0.0.0.0 d34rdvn2ky3gnm.cloudfront.net
 0.0.0.0 d34tnov8neex5n.cloudfront.net
@@ -13510,6 +13526,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 efngeka8czukzyb.ru
 0.0.0.0 efnypuzqni.com
 0.0.0.0 eforeantheirma.info
+0.0.0.0 efqadeuwdt.com
 0.0.0.0 efrcjwdcwhhqrx.com
 0.0.0.0 efxjqdymvzqqkt.com
 0.0.0.0 efzhzqtyomldfj.com
@@ -14327,6 +14344,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
 0.0.0.0 eyewonder.com
+0.0.0.0 eyhempsedinte.info
 0.0.0.0 eympwecfhxy.com
 0.0.0.0 eynusizl.com
 0.0.0.0 eyouv.cn
@@ -15076,6 +15094,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 flowhot.la
 0.0.0.0 flowhotmp3.com
 0.0.0.0 flowlz.com
+0.0.0.0 flowwiththetide.xyz
 0.0.0.0 flrdra.com
 0.0.0.0 flrqdjglshsbi.com
 0.0.0.0 flsfxpostdtvgc.com
@@ -15772,6 +15791,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 g2546417787.com
 0.0.0.0 g27zkdvsxl.com
 0.0.0.0 g2921554487.com
+0.0.0.0 g2afse.com
 0.0.0.0 g2tt3n5jch.com
 0.0.0.0 g3369554495.com
 0.0.0.0 g344530742.com
@@ -15910,6 +15930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gaohuduo.cn
 0.0.0.0 gaoxiaocup.com
 0.0.0.0 gapinubuso.com
+0.0.0.0 gapsfartrely.best
 0.0.0.0 gaqhseuqp.com
 0.0.0.0 garacy.cn
 0.0.0.0 garatrelitt.ru
@@ -16691,6 +16712,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gonews1.net
 0.0.0.0 gonews2.net
 0.0.0.0 gonews3.net
+0.0.0.0 gongeeta.net
 0.0.0.0 gongfanglong.cn
 0.0.0.0 goninjaspiel.com
 0.0.0.0 gontent.steamplay.me
@@ -17379,6 +17401,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 haviouslyshoutesce.info
 0.0.0.0 hawbfa.com
 0.0.0.0 hawifallon.com
+0.0.0.0 haypaydig.club
 0.0.0.0 hayxktgbqpmult.com
 0.0.0.0 hazelcrestcoxsackie.com
 0.0.0.0 hb-247.com
@@ -20394,6 +20417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jpxevzab.com
 0.0.0.0 jpyoikrzrjcap.com
 0.0.0.0 jq2.avpris.ru
+0.0.0.0 jqamhmztnukb.com
 0.0.0.0 jqanygfhqne.com
 0.0.0.0 jqcv28q.com
 0.0.0.0 jqfjrjka5t.top
@@ -21990,6 +22014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 leathtexactlycin.info
 0.0.0.0 leb961.com
 0.0.0.0 lebanonreaders.com
+0.0.0.0 lebkeresxa.ml
 0.0.0.0 lebneeklnuru.com
 0.0.0.0 lebqrivt.com
 0.0.0.0 leche69.com
@@ -24027,6 +24052,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 megawerbung.de
 0.0.0.0 megawmr.ru
 0.0.0.0 megdexchange.com
+0.0.0.0 megmobpoi.club
 0.0.0.0 megogo.1ru.tv
 0.0.0.0 meguanha.com
 0.0.0.0 mehhueboy.club
@@ -24055,6 +24081,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mellowads.com
 0.0.0.0 mellowblogs.com
 0.0.0.0 mellowtin.com
+0.0.0.0 melo.space
 0.0.0.0 meloads.com
 0.0.0.0 melodramo-adv.ru
 0.0.0.0 melodramo.ru
@@ -24276,6 +24303,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 miiuv.com
 0.0.0.0 mikas.win
 0.0.0.0 mikpumwbahkx.com
+0.0.0.0 mikrairs.com
 0.0.0.0 milabra.com
 0.0.0.0 milaly.info
 0.0.0.0 milan-pub.com
@@ -24702,6 +24730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 molyk.ru
 0.0.0.0 momzs.com
 0.0.0.0 monad-rtb.com
+0.0.0.0 monadplug.com
 0.0.0.0 monarchads.com
 0.0.0.0 monastreaming.com
 0.0.0.0 monbonsai.info
@@ -26391,6 +26420,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nrnma.com
 0.0.0.0 nrrxxpvgtf.com
 0.0.0.0 nrtapaiums.com
+0.0.0.0 nrtorbqr.com
 0.0.0.0 nrubehhd.com
 0.0.0.0 nrupgnyboerssu.com
 0.0.0.0 nrzcj.top
@@ -27518,6 +27548,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 optmnstr.com
 0.0.0.0 optmz.online
 0.0.0.0 optnmstr.com
+0.0.0.0 optvx.com
 0.0.0.0 opuspoker.cc
 0.0.0.0 opyavar.ru
 0.0.0.0 opyyykrdyuum.com
@@ -28488,6 +28519,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 perymiynf.com
 0.0.0.0 pesbqkopdm.com
 0.0.0.0 pestrike.com
+0.0.0.0 petchesa.net
 0.0.0.0 peterboroughapalachicola.com
 0.0.0.0 peterjfarley.info
 0.0.0.0 petsarlaaafru.com
@@ -29387,6 +29419,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 powerad.ai
 0.0.0.0 poweradcash.net
 0.0.0.0 poweradvertising.co.uk
+0.0.0.0 powerapp.download
 0.0.0.0 powercheff.com
 0.0.0.0 poweredbyliquidfire.com
 0.0.0.0 poweredbyliquidfire.mobi
@@ -29864,6 +29897,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prycratre.online
 0.0.0.0 prycratre.today
 0.0.0.0 pryovpwyimwh.com
+0.0.0.0 pryrhoohs.site
 0.0.0.0 przcratre.club
 0.0.0.0 przcratre.online
 0.0.0.0 przcratre.today
@@ -33759,6 +33793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shmonekisot.com
 0.0.0.0 shmpdqwucl.com
 0.0.0.0 sho9wbox.com
+0.0.0.0 shoawhom.com
 0.0.0.0 shock-news.net
 0.0.0.0 shodroph.net
 0.0.0.0 shofteph.com
@@ -33948,6 +33983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sirecaningtotone.info
 0.0.0.0 sirokuzo.com
 0.0.0.0 sirtonim.me
+0.0.0.0 sisewepod.com
 0.0.0.0 sisney.net
 0.0.0.0 sisrgcvomn.com
 0.0.0.0 sistacked.com
@@ -35045,6 +35081,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 streamate.com
 0.0.0.0 streamateaccess.com
 0.0.0.0 streambeam.io
+0.0.0.0 streamclub.best
 0.0.0.0 streamdefence.com
 0.0.0.0 streaming-illimite.com
 0.0.0.0 streaming-serie.xyz
@@ -35098,6 +35135,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stuthvygifup.com
 0.0.0.0 stvayyokjvxnl.com
 0.0.0.0 stygg.xyz
+0.0.0.0 styheremo.site
 0.0.0.0 style-eyes.eu
 0.0.0.0 styleload.ru
 0.0.0.0 styleszelife.com
@@ -37025,6 +37063,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trackingoffer.info
 0.0.0.0 trackingoffer.net
 0.0.0.0 trackingpro.pro
+0.0.0.0 trackingzen.com
 0.0.0.0 trackity.tiki.vn
 0.0.0.0 tracklab.club
 0.0.0.0 trackmackweldon.com
@@ -37041,6 +37080,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trackpush.com
 0.0.0.0 trackrc.com
 0.0.0.0 tracksongs.dhingana.com
+0.0.0.0 trackspeeder.com
 0.0.0.0 trackstarsengland.net
 0.0.0.0 trackthatad.com
 0.0.0.0 tracktor.co.uk
@@ -37337,6 +37377,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trks.us
 0.0.0.0 trktnc.com
 0.0.0.0 trktrk011.com
+0.0.0.0 trkunited.com
 0.0.0.0 trmads.eu
 0.0.0.0 trmedie.ru
 0.0.0.0 trmget.eu
@@ -38238,6 +38279,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uptopop.com
 0.0.0.0 uptopopunder.com
 0.0.0.0 uptracker.ru
+0.0.0.0 upush.co
 0.0.0.0 upvtnuffy.com
 0.0.0.0 upwtyghvknaiw.com
 0.0.0.0 upwzuqfcvbeqo.com
@@ -39082,6 +39124,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vimart16.com
 0.0.0.0 vimaxasli.id
 0.0.0.0 vimaxpills.id
+0.0.0.0 vimdiebid.club
 0.0.0.0 vimenhhpqnb.com
 0.0.0.0 vimgs.ru
 0.0.0.0 vimhuspifwyy.com
@@ -39352,6 +39395,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 voltads.com
 0.0.0.0 voluums.com
 0.0.0.0 voluumtlkrnarketing.com
+0.0.0.0 voluumtracker.com
 0.0.0.0 voluumtrk.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 voluumtrk3.com
@@ -63360,6 +63404,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zpfjfwbij.com
 0.0.0.0 zpfoyfae.com
 0.0.0.0 zpghmretcikhzs.com
+0.0.0.0 zpiqwngppibmf.com
 0.0.0.0 zpkshggvjif.com
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 zplayer.trk.zapps.vn

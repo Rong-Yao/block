@@ -2812,7 +2812,6 @@
 0.0.0.0 imssl01.adtech.fr
 0.0.0.0 imssl01.adtech.us
 0.0.0.0 in.adserver.yahoo.com
-0.0.0.0 in.appcenter.ms
 0.0.0.0 in.getclicky.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 in.webcounter.cc
@@ -4739,6 +4738,7 @@
 0.0.0.0 tnttv.112.2o7.net
 0.0.0.0 todayresearch.com
 0.0.0.0 token.ad
+0.0.0.0 toknowall.com
 0.0.0.0 tommysbookmarks.com
 0.0.0.0 tommysbookmarks.net
 0.0.0.0 tongji.baidu.com

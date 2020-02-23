@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 23.02.2020
-# Total Domains - 5921
+# Total Domains - 5918
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2030,7 +2030,6 @@
 0.0.0.0 ozebox.pl
 0.0.0.0 p.24-7.help
 0.0.0.0 pacyfka99.pl
-0.0.0.0 paczka.poczta-pay.com
 0.0.0.0 paifemouchoa.com
 0.0.0.0 paifi.net
 0.0.0.0 pajos4.com
@@ -2300,7 +2299,6 @@
 0.0.0.0 provida.pl
 0.0.0.0 pruszkowmieszkania.pl
 0.0.0.0 przechwycone-zdjecia.00x.eu
-0.0.0.0 przedsiebieblog.pl
 0.0.0.0 przedszkoleglobus.pl
 0.0.0.0 przedszkolekrainadziecka.pl
 0.0.0.0 przedszkoleszkrab.pl
@@ -4293,7 +4291,6 @@
 0.0.0.0 www.kolenda-labus.pl
 0.0.0.0 www.kolor.oq.pl
 0.0.0.0 www.kometal.pl
-0.0.0.0 www.komornik-gov24.com
 0.0.0.0 www.kompiutery.pl
 0.0.0.0 www.koncepcjakirka.pl
 0.0.0.0 www.konferencje.vantis.pl

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 1922
+# Total Domains - 1921
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -656,7 +656,6 @@
 0.0.0.0 laexotic.com
 0.0.0.0 lanonna.co.uk
 0.0.0.0 lapiden.com
-0.0.0.0 lateecapes.com
 0.0.0.0 leadingedgecash.com
 0.0.0.0 legendofdragoon.com
 0.0.0.0 letssearch.com

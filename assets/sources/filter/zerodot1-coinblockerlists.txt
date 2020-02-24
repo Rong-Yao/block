@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 16129
+# Total Domains - 16114
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -131,7 +131,6 @@
 0.0.0.0 178a9.btcc.com
 0.0.0.0 179-184.btcc.com
 0.0.0.0 179.btcc.com
-0.0.0.0 17ece.btcc.com
 0.0.0.0 180150-192.btcc.com
 0.0.0.0 180tradeoption.com
 0.0.0.0 184-240.btcc.com
@@ -311,7 +310,6 @@
 0.0.0.0 96.114.157.78.hpool.com
 0.0.0.0 96hdoubler.biz
 0.0.0.0 97.74.135.143.cryptopool.eu
-0.0.0.0 981.btcc.com
 0.0.0.0 99btc.net
 0.0.0.0 99miners.com
 0.0.0.0 9returns.com
@@ -326,7 +324,6 @@
 0.0.0.0 a.minerpool.net
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
-0.0.0.0 a1.btcc.com
 0.0.0.0 a247.btcc.com
 0.0.0.0 a4.ltc.top
 0.0.0.0 a7.btcc.com
@@ -623,7 +620,6 @@
 0.0.0.0 analytics.ryo-currency.com
 0.0.0.0 analytics.uax.io
 0.0.0.0 analyzer.nastyfans.org
-0.0.0.0 anc.coinpool.in
 0.0.0.0 anc.poolerino.com
 0.0.0.0 andehou.cryptopowered.club
 0.0.0.0 andinia3.triplemining.com
@@ -1288,7 +1284,6 @@
 0.0.0.0 bci.nibirupool.com
 0.0.0.0 bci.suprnova.cc
 0.0.0.0 bcl.leafpool.com
-0.0.0.0 bclswap.bitcoinlatina.org
 0.0.0.0 bcmonster.com
 0.0.0.0 bcn.bubblemine.com
 0.0.0.0 bcn.cryptohispano.net
@@ -2476,7 +2471,6 @@
 0.0.0.0 coolmine.top
 0.0.0.0 coolpool.top
 0.0.0.0 coorp.io
-0.0.0.0 cop.btcc.com
 0.0.0.0 copay.io
 0.0.0.0 copay.tecracoin.io
 0.0.0.0 copper.coincave.nl
@@ -3257,7 +3251,6 @@
 0.0.0.0 dsh.nanopool.org
 0.0.0.0 dsh.shscrypto.net
 0.0.0.0 dsl.nanopool.org
-0.0.0.0 dsm.btcc.com
 0.0.0.0 dso-orkus.serverpower.net
 0.0.0.0 dsp.eos.minergate.com
 0.0.0.0 dubai.dgpool.ru
@@ -4280,7 +4273,6 @@
 0.0.0.0 ezil.me
 0.0.0.0 f.protopool.net
 0.0.0.0 f.xmrminingproxy.com
-0.0.0.0 f19.btcc.com
 0.0.0.0 f1ec.ethosdistro.com
 0.0.0.0 f1tbit.com
 0.0.0.0 f2.pool.sexy
@@ -7556,7 +7548,6 @@
 0.0.0.0 leviar.my-mining-pool.de
 0.0.0.0 lewd.ninja
 0.0.0.0 leywapool.com
-0.0.0.0 lf.btcc.com
 0.0.0.0 lgc.suchpool.pw
 0.0.0.0 lhd.awpool.com
 0.0.0.0 lhd.b3pool.com
@@ -8248,7 +8239,6 @@
 0.0.0.0 mine-asia.equipool.1ds.us
 0.0.0.0 mine-btcz-asia.equipool.1ds.us
 0.0.0.0 mine-btcz-euro.equipool.1ds.us
-0.0.0.0 mine-buck-euro.equipool.1ds.us
 0.0.0.0 mine-euro.equipool.1ds.us
 0.0.0.0 mine-genx-asia.equipool.1ds.us
 0.0.0.0 mine-genx-euro.equipool.1ds.us
@@ -10196,7 +10186,6 @@
 0.0.0.0 pool-pay.com
 0.0.0.0 pool-proxy.com
 0.0.0.0 pool-ru.50btc.com
-0.0.0.0 pool-ru.50btc.om
 0.0.0.0 pool-test.italocoin.com
 0.0.0.0 pool-tw.tweth.tw
 0.0.0.0 pool-us.50btc.com
@@ -12066,7 +12055,6 @@
 0.0.0.0 sub1.sub2.sub5.bitcoin.com
 0.0.0.0 suchcoins.com
 0.0.0.0 sucrecoin.org
-0.0.0.0 sue.btcc.com
 0.0.0.0 sugar.52hash.com
 0.0.0.0 sugar.anomp.com
 0.0.0.0 sugar.loudmining.com
@@ -12210,7 +12198,6 @@
 0.0.0.0 swap.miningocean.org
 0.0.0.0 swap.pool.krunzy.com
 0.0.0.0 swap.uax.io
-0.0.0.0 swap.zellabs.net
 0.0.0.0 swap2.luckypool.io
 0.0.0.0 swapx.leafpool.com
 0.0.0.0 swarm-prod-front02.whalesburg.com
@@ -12225,7 +12212,6 @@
 0.0.0.0 swing.thecoin.pw
 0.0.0.0 swiss.smartcash.cc
 0.0.0.0 switchercoin.com
-0.0.0.0 swj.btcc.com
 0.0.0.0 sxc.cryptominer.net
 0.0.0.0 sxc.e-pool.net
 0.0.0.0 sxc.thecoin.pw
@@ -15706,7 +15692,6 @@
 0.0.0.0 xmr.poolbux.com
 0.0.0.0 xmr.pooldd.com
 0.0.0.0 xmr.pt
-0.0.0.0 xmr.rnetpool.com.br
 0.0.0.0 xmr.rupool.org
 0.0.0.0 xmr.semipool.com
 0.0.0.0 xmr.sigmapool.com

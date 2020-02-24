@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 24.02.2020
-# Total Domains - 18581
+# Total Domains - 18586
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4885,6 +4885,7 @@
 0.0.0.0 domainbuyingservices.com
 0.0.0.0 domainsponsor.com
 0.0.0.0 dominoad.com
+0.0.0.0 domisesvivin.info
 0.0.0.0 dompegho.net
 0.0.0.0 donecooler.com
 0.0.0.0 donhyxngg.com
@@ -7205,6 +7206,7 @@
 0.0.0.0 hilltopgo.com
 0.0.0.0 himediads.com
 0.0.0.0 himediadx.com
+0.0.0.0 himselvepostly.site
 0.0.0.0 himselves.com
 0.0.0.0 hindurinning.pro
 0.0.0.0 hipals.com
@@ -10106,7 +10108,6 @@
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moradu.com
 0.0.0.0 morbitempus.com
-0.0.0.0 mordi.fun
 0.0.0.0 mordi.xyz
 0.0.0.0 moregamers.com
 0.0.0.0 morehitserver.com
@@ -11290,6 +11291,7 @@
 0.0.0.0 omzwbcsev.com
 0.0.0.0 on.maxspeedcdn.com
 0.0.0.0 onads.com
+0.0.0.0 onalentressionw.info
 0.0.0.0 onatozo.info
 0.0.0.0 onaudience.com
 0.0.0.0 onclasrv.com
@@ -12037,6 +12039,7 @@
 0.0.0.0 phudrour.net
 0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 phukrovo.com
+0.0.0.0 phvmjnkysnj.com
 0.0.0.0 phxwwaznm.club
 0.0.0.0 phyhggbk.com
 0.0.0.0 phywyzpugswttb.com
@@ -16953,6 +16956,7 @@
 0.0.0.0 waqsdyxhha.com
 0.0.0.0 warezlayer.to
 0.0.0.0 warpwrite.com
+0.0.0.0 warsalsintrol.site
 0.0.0.0 warsomnet.com
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 warumbistdusoarm.space
@@ -18567,6 +18571,7 @@
 0.0.0.0 zy16eoat1w.com
 0.0.0.0 zyadwzlxllogm.com
 0.0.0.0 zybxchina.com
+0.0.0.0 zyddpern.com
 0.0.0.0 zydvsvwgqqyxb.com
 0.0.0.0 zygrlkimddjzd.com
 0.0.0.0 zyiis.net

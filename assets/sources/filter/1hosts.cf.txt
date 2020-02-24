@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 24.02.2020
-# Total Domains - 60191
+# Total Domains - 60190
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -57106,7 +57106,6 @@
 0.0.0.0 www.keyoptimize.com
 0.0.0.0 www.keyshot.cc
 0.0.0.0 www.kfdqwo.top
-0.0.0.0 www.kfptslry.com
 0.0.0.0 www.kiaokuayoutui.com
 0.0.0.0 www.kidsinsandbox.info
 0.0.0.0 www.kingdeecn.cn

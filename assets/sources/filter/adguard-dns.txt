@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/15.txt
 # Last Converted - 24.02.2020
-# Total Domains - 25956
+# Total Domains - 25955
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -14291,7 +14291,6 @@
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 morbitempus.com
-0.0.0.0 mordi.fun
 0.0.0.0 mordi.xyz
 0.0.0.0 more427.net
 0.0.0.0 moregamers.com

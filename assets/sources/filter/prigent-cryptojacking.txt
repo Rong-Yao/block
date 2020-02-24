@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 24.02.2020
-# Total Domains - 5200
+# Total Domains - 5198
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -297,7 +297,6 @@
 0.0.0.0 ampnkoudpnd.bid
 0.0.0.0 analytics.blue
 0.0.0.0 anasjdzutdmv.com
-0.0.0.0 anc.coinpool.in
 0.0.0.0 andlache.com
 0.0.0.0 androidapk.world
 0.0.0.0 anfjrxbxbar.bid
@@ -3924,7 +3923,6 @@
 0.0.0.0 pool-nvc.khore.org
 0.0.0.0 pool-pay.com
 0.0.0.0 pool-proxy.com
-0.0.0.0 pool-ru.50btc.om
 0.0.0.0 pool.agrolifecoin.org
 0.0.0.0 pool.ar-net.info
 0.0.0.0 pool.cdy.one

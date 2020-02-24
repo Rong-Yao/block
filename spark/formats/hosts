@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 61,338
+# Entries: 61,342
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 06:10:14
+# Updated: Mon, 24 Feb 20 12:09:45
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -18921,6 +18921,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dominionenterprises.112.2o7.net
 0.0.0.0 dominoad.adk2.co
 0.0.0.0 dominoad.com
+0.0.0.0 domisesvivin.info
 0.0.0.0 domivideos.com
 0.0.0.0 domnovrek.com
 0.0.0.0 domob.cn
@@ -25229,6 +25230,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 himediads.com
 0.0.0.0 himediadx.com
 0.0.0.0 himicrosoft.com
+0.0.0.0 himselvepostly.site
 0.0.0.0 himselves.com
 0.0.0.0 hindurinning.pro
 0.0.0.0 hinesmonk.club
@@ -29984,7 +29986,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lastworking.theforcontentingflashupgrade.icu
 0.0.0.0 latam.adspecs.yahoo.com
 0.0.0.0 latam.taptapnetworks.com
-0.0.0.0 lateecapes.com
 0.0.0.0 latency.banner-server.fyber.com
 0.0.0.0 latency.interstitial-broker.fyber.com
 0.0.0.0 later-analytics-reports.s3-accelerate.amazonaws.com
@@ -33833,7 +33834,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moradu.com
 0.0.0.0 morbitempus.com
-0.0.0.0 mordi.fun
 0.0.0.0 more.nexage.com
 0.0.0.0 more.tapjoy.com
 0.0.0.0 morebitcoin.club
@@ -36724,6 +36724,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 on.nimp.org
 0.0.0.0 onads.com
 0.0.0.0 onadstracker.com
+0.0.0.0 onalentressionw.info
 0.0.0.0 onamind.com
 0.0.0.0 onatozo.info
 0.0.0.0 onaudience.com
@@ -38792,6 +38793,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 phulammarket.com
 0.0.0.0 phunware.com
 0.0.0.0 phuphi.com
+0.0.0.0 phvmjnkysnj.com
 0.0.0.0 phxwwaznm.club
 0.0.0.0 phyhggbk.com
 0.0.0.0 physioterapiablog.es
@@ -54700,6 +54702,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 warnerbrothersrecords.112.2o7.net
 0.0.0.0 warp.ly
 0.0.0.0 warpwrite.com
+0.0.0.0 warsalsintrol.site
 0.0.0.0 wartank.net
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 wartfielduneres.pro
@@ -61376,6 +61379,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zy16eoat1w.com
 0.0.0.0 zyadwzlxllogm.com
 0.0.0.0 zyban-store.shengen.ru
+0.0.0.0 zyddpern.com
 0.0.0.0 zydfsiuhqkbsqh.com
 0.0.0.0 zydvsvwgqqyxb.com
 0.0.0.0 zyf03k.xyz

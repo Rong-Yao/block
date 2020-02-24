@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 41,625
+# Entries: 41,624
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 06:14:13
+# Updated: Mon, 24 Feb 20 12:13:22
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts.txt
 # --------------------------------------------
 #
@@ -27658,7 +27658,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 unitexindia.com
 0.0.0.0 unitgold.com
 0.0.0.0 unitygame3d.com
-0.0.0.0 universalhack.net
 0.0.0.0 universalhentai.com
 0.0.0.0 universals.com.ua
 0.0.0.0 unixmanga.co

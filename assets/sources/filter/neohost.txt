@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts.nfz.moe/full/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 3199
+# Total Domains - 3198
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2242,7 +2242,6 @@
 0.0.0.0 s60.cnzz.com
 0.0.0.0 s61.cnzz.com
 0.0.0.0 s62.cnzz.com
-0.0.0.0 s63.cnzz.com
 0.0.0.0 s64.cnzz.com
 0.0.0.0 s65.cnzz.com
 0.0.0.0 s66.cnzz.com

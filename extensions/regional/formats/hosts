@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 63,640
+# Entries: 63,646
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 06:14:17
+# Updated: Mon, 24 Feb 20 12:13:25
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -12591,6 +12591,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 domertb.com
 0.0.0.0 dominasy.com
 0.0.0.0 dominoad.com
+0.0.0.0 domisesvivin.info
 0.0.0.0 dommediciny.ru
 0.0.0.0 domnovrek.com
 0.0.0.0 domo-zond.ru
@@ -17785,6 +17786,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 himediadx.com
 0.0.0.0 himowith.pro
 0.0.0.0 himselve.info
+0.0.0.0 himselvepostly.site
 0.0.0.0 himselves.com
 0.0.0.0 himselvet.info
 0.0.0.0 hindiranks.com
@@ -27284,6 +27286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onads.com
 0.0.0.0 onads.dk
 0.0.0.0 onagida.info
+0.0.0.0 onalentressionw.info
 0.0.0.0 onatozo.info
 0.0.0.0 onaudience.com
 0.0.0.0 onawaykeeline.com
@@ -28676,6 +28679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 phudrour.net
 0.0.0.0 phukienthoitranggiare.com
 0.0.0.0 phukrovo.com
+0.0.0.0 phvmjnkysnj.com
 0.0.0.0 phxwwaznm.club
 0.0.0.0 phyhggbk.com
 0.0.0.0 phywyzpugswttb.com
@@ -39885,6 +39889,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 warning.support
 0.0.0.0 warpwrite.com
 0.0.0.0 warron.cn
+0.0.0.0 warsalsintrol.site
 0.0.0.0 warsomnet.com
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 warumbistdusoarm.space
@@ -63651,6 +63656,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zybpj.com
 0.0.0.0 zybu.ru
 0.0.0.0 zybxchina.com
+0.0.0.0 zyddpern.com
 0.0.0.0 zydfsiuhqkbsqh.com
 0.0.0.0 zydvsvwgqqyxb.com
 0.0.0.0 zydyjzw.cn

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 61,338
+; Entries: 61,342
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 06:10:14
+; Updated: Mon, 24 Feb 20 12:09:45
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -18910,6 +18910,7 @@ dominations.analytics.nexonm.com CNAME .
 dominionenterprises.112.2o7.net CNAME .
 dominoad.adk2.co CNAME .
 dominoad.com CNAME .
+domisesvivin.info CNAME .
 domivideos.com CNAME .
 domnovrek.com CNAME .
 domob.cn CNAME .
@@ -25218,6 +25219,7 @@ himedia.112.2o7.net CNAME .
 himediads.com CNAME .
 himediadx.com CNAME .
 himicrosoft.com CNAME .
+himselvepostly.site CNAME .
 himselves.com CNAME .
 hindurinning.pro CNAME .
 hinesmonk.club CNAME .
@@ -29973,7 +29975,6 @@ lastminengb.112.2o7.net CNAME .
 lastworking.theforcontentingflashupgrade.icu CNAME .
 latam.adspecs.yahoo.com CNAME .
 latam.taptapnetworks.com CNAME .
-lateecapes.com CNAME .
 latency.banner-server.fyber.com CNAME .
 latency.interstitial-broker.fyber.com CNAME .
 later-analytics-reports.s3-accelerate.amazonaws.com CNAME .
@@ -33822,7 +33823,6 @@ mopubrtb23.lfstmedia.com CNAME .
 mopxhrgiyybr.com CNAME .
 moradu.com CNAME .
 morbitempus.com CNAME .
-mordi.fun CNAME .
 more.nexage.com CNAME .
 more.tapjoy.com CNAME .
 morebitcoin.club CNAME .
@@ -36713,6 +36713,7 @@ on.maxspeedcdn.com CNAME .
 on.nimp.org CNAME .
 onads.com CNAME .
 onadstracker.com CNAME .
+onalentressionw.info CNAME .
 onamind.com CNAME .
 onatozo.info CNAME .
 onaudience.com CNAME .
@@ -38781,6 +38782,7 @@ phukrovo.com CNAME .
 phulammarket.com CNAME .
 phunware.com CNAME .
 phuphi.com CNAME .
+phvmjnkysnj.com CNAME .
 phxwwaznm.club CNAME .
 phyhggbk.com CNAME .
 physioterapiablog.es CNAME .
@@ -54689,6 +54691,7 @@ warnerbros.112.2o7.net CNAME .
 warnerbrothersrecords.112.2o7.net CNAME .
 warp.ly CNAME .
 warpwrite.com CNAME .
+warsalsintrol.site CNAME .
 wartank.net CNAME .
 warten-sie-mal.xyz CNAME .
 wartfielduneres.pro CNAME .
@@ -61365,6 +61368,7 @@ zxxds.net CNAME .
 zy16eoat1w.com CNAME .
 zyadwzlxllogm.com CNAME .
 zyban-store.shengen.ru CNAME .
+zyddpern.com CNAME .
 zydfsiuhqkbsqh.com CNAME .
 zydvsvwgqqyxb.com CNAME .
 zyf03k.xyz CNAME .

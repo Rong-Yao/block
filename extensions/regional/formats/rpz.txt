@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 63,640
+; Entries: 63,646
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 06:14:17
+; Updated: Mon, 24 Feb 20 12:13:25
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -12580,6 +12580,7 @@ domenuyi.ru CNAME .
 domertb.com CNAME .
 dominasy.com CNAME .
 dominoad.com CNAME .
+domisesvivin.info CNAME .
 dommediciny.ru CNAME .
 domnovrek.com CNAME .
 domo-zond.ru CNAME .
@@ -17774,6 +17775,7 @@ himediads.com CNAME .
 himediadx.com CNAME .
 himowith.pro CNAME .
 himselve.info CNAME .
+himselvepostly.site CNAME .
 himselves.com CNAME .
 himselvet.info CNAME .
 hindiranks.com CNAME .
@@ -27273,6 +27275,7 @@ on68xf.cn CNAME .
 onads.com CNAME .
 onads.dk CNAME .
 onagida.info CNAME .
+onalentressionw.info CNAME .
 onatozo.info CNAME .
 onaudience.com CNAME .
 onawaykeeline.com CNAME .
@@ -28665,6 +28668,7 @@ phuclongcms.mangoads.vn CNAME .
 phudrour.net CNAME .
 phukienthoitranggiare.com CNAME .
 phukrovo.com CNAME .
+phvmjnkysnj.com CNAME .
 phxwwaznm.club CNAME .
 phyhggbk.com CNAME .
 phywyzpugswttb.com CNAME .
@@ -39874,6 +39878,7 @@ wari.com CNAME .
 warning.support CNAME .
 warpwrite.com CNAME .
 warron.cn CNAME .
+warsalsintrol.site CNAME .
 warsomnet.com CNAME .
 warten-sie-mal.xyz CNAME .
 warumbistdusoarm.space CNAME .
@@ -63640,6 +63645,7 @@ zyanechi.ru CNAME .
 zybpj.com CNAME .
 zybu.ru CNAME .
 zybxchina.com CNAME .
+zyddpern.com CNAME .
 zydfsiuhqkbsqh.com CNAME .
 zydvsvwgqqyxb.com CNAME .
 zydyjzw.cn CNAME .

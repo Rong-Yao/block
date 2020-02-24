@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 13554
+# Total Domains - 13553
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10787,7 +10787,6 @@
 0.0.0.0 searchadv.com
 0.0.0.0 searchanyway.com
 0.0.0.0 searchassistant.iwon.com
-0.0.0.0 searchclickads.net
 0.0.0.0 searchclickbuy.com
 0.0.0.0 searchdiscovered.com
 0.0.0.0 searchforit.com

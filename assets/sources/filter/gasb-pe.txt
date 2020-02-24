@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 24.02.2020
-# Total Domains - 44498
+# Total Domains - 44495
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -19104,7 +19104,6 @@
 0.0.0.0 lastripper.com
 0.0.0.0 lasvegas.com
 0.0.0.0 lasvegasusacasino.com
-0.0.0.0 lateecapes.com
 0.0.0.0 latestdl.info
 0.0.0.0 latexerotica.com
 0.0.0.0 latinaadultfriendfinder.com
@@ -27571,7 +27570,6 @@
 0.0.0.0 searchcactus.com
 0.0.0.0 searchcentrix.com
 0.0.0.0 searchclick.cc
-0.0.0.0 searchclickads.net
 0.0.0.0 searchclimbers.com
 0.0.0.0 searchclub.ws
 0.0.0.0 searchcluster.com
@@ -41619,7 +41617,6 @@
 0.0.0.0 www.starcelebs.com
 0.0.0.0 www.starcleaningservice.com.au
 0.0.0.0 www.starforce.ru
-0.0.0.0 www.stargazzette.com
 0.0.0.0 www.starmash.com
 0.0.0.0 www.starpoker.com
 0.0.0.0 www.starsads.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # Last Converted - 24.02.2020
-# Total Domains - 3307
+# Total Domains - 3306
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3008,7 +3008,6 @@
 0.0.0.0 uniquehack.com
 0.0.0.0 unityhack.com
 0.0.0.0 unityhacks.zone
-0.0.0.0 universalhack.net
 0.0.0.0 universehacks.com
 0.0.0.0 universityofhackers.com
 0.0.0.0 unja1l.com

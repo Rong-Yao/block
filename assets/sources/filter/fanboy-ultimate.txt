@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
 # Last Converted - 24.02.2020
-# Total Domains - 23305
+# Total Domains - 23310
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6082,6 +6082,7 @@
 0.0.0.0 domainsponsor.com
 0.0.0.0 dominoad.com
 0.0.0.0 dominocounter.net
+0.0.0.0 domisesvivin.info
 0.0.0.0 domodomain.com
 0.0.0.0 donecooler.com
 0.0.0.0 donhyxngg.com
@@ -9002,6 +9003,7 @@
 0.0.0.0 hilltopgo.com
 0.0.0.0 himediads.com
 0.0.0.0 himediadx.com
+0.0.0.0 himselvepostly.site
 0.0.0.0 himselves.com
 0.0.0.0 hindurinning.pro
 0.0.0.0 hipals.com
@@ -12516,7 +12518,6 @@
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moradu.com
 0.0.0.0 morbitempus.com
-0.0.0.0 mordi.fun
 0.0.0.0 moregamers.com
 0.0.0.0 morehitserver.com
 0.0.0.0 moreshare.com
@@ -13882,6 +13883,7 @@
 0.0.0.0 on-push.com
 0.0.0.0 on.maxspeedcdn.com
 0.0.0.0 onads.com
+0.0.0.0 onalentressionw.info
 0.0.0.0 onatozo.info
 0.0.0.0 onaudience.com
 0.0.0.0 onclasrv.com
@@ -14756,6 +14758,7 @@
 0.0.0.0 phu1aefue.com
 0.0.0.0 phudrour.net
 0.0.0.0 phukrovo.com
+0.0.0.0 phvmjnkysnj.com
 0.0.0.0 phxwwaznm.club
 0.0.0.0 phyhggbk.com
 0.0.0.0 phywi.org
@@ -21500,6 +21503,7 @@
 0.0.0.0 warezlayer.to
 0.0.0.0 warlog.ru
 0.0.0.0 warpwrite.com
+0.0.0.0 warsalsintrol.site
 0.0.0.0 warsomnet.com
 0.0.0.0 warten-sie-mal.xyz
 0.0.0.0 wasm.stream
@@ -23290,6 +23294,7 @@
 0.0.0.0 zxxds.net
 0.0.0.0 zy16eoat1w.com
 0.0.0.0 zyadwzlxllogm.com
+0.0.0.0 zyddpern.com
 0.0.0.0 zydvsvwgqqyxb.com
 0.0.0.0 zygrlkimddjzd.com
 0.0.0.0 zyiis.net

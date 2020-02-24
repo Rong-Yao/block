@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 24.02.2020
-# Total Domains - 5916
+# Total Domains - 5915
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1751,7 +1751,6 @@
 0.0.0.0 monthlywinners.com
 0.0.0.0 mopik.pl
 0.0.0.0 morceko.pl
-0.0.0.0 mordi.fun
 0.0.0.0 morena.in.net
 0.0.0.0 morinda.com
 0.0.0.0 moschinooutlet.pl

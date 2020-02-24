@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 35895
+# Total Domains - 35893
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -17004,7 +17004,6 @@
 0.0.0.0 lastworking.theforcontentingflashupgrade.icu
 0.0.0.0 latam.adspecs.yahoo.com
 0.0.0.0 latam.taptapnetworks.com
-0.0.0.0 lateecapes.com
 0.0.0.0 latency.banner-server.fyber.com
 0.0.0.0 latency.interstitial-broker.fyber.com
 0.0.0.0 later-analytics-reports.s3-accelerate.amazonaws.com
@@ -19261,7 +19260,6 @@
 0.0.0.0 mopubrtb23.lfstmedia.com
 0.0.0.0 moradu.com
 0.0.0.0 morceko.pl
-0.0.0.0 mordi.fun
 0.0.0.0 more.tapjoy.com
 0.0.0.0 morefreecamsecrets.com
 0.0.0.0 morehitserver.com

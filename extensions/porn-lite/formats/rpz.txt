@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 41,625
+; Entries: 41,624
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 06:14:13
+; Updated: Mon, 24 Feb 20 12:13:22
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -27647,7 +27647,6 @@ unitedtechguys.com CNAME .
 unitexindia.com CNAME .
 unitgold.com CNAME .
 unitygame3d.com CNAME .
-universalhack.net CNAME .
 universalhentai.com CNAME .
 universals.com.ua CNAME .
 unixmanga.co CNAME .

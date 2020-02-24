@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.055
 # Release: 055
-# Entries: 61,338
+# Entries: 61,342
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 06:10:14
+# Updated: Mon, 24 Feb 20 12:09:45
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -18902,6 +18902,7 @@ dominations.analytics.nexonm.com
 dominionenterprises.112.2o7.net
 dominoad.adk2.co
 dominoad.com
+domisesvivin.info
 domivideos.com
 domnovrek.com
 domob.cn
@@ -25210,6 +25211,7 @@ himedia.112.2o7.net
 himediads.com
 himediadx.com
 himicrosoft.com
+himselvepostly.site
 himselves.com
 hindurinning.pro
 hinesmonk.club
@@ -29965,7 +29967,6 @@ lastminengb.112.2o7.net
 lastworking.theforcontentingflashupgrade.icu
 latam.adspecs.yahoo.com
 latam.taptapnetworks.com
-lateecapes.com
 latency.banner-server.fyber.com
 latency.interstitial-broker.fyber.com
 later-analytics-reports.s3-accelerate.amazonaws.com
@@ -33814,7 +33815,6 @@ mopubrtb23.lfstmedia.com
 mopxhrgiyybr.com
 moradu.com
 morbitempus.com
-mordi.fun
 more.nexage.com
 more.tapjoy.com
 morebitcoin.club
@@ -36705,6 +36705,7 @@ on.maxspeedcdn.com
 on.nimp.org
 onads.com
 onadstracker.com
+onalentressionw.info
 onamind.com
 onatozo.info
 onaudience.com
@@ -38773,6 +38774,7 @@ phukrovo.com
 phulammarket.com
 phunware.com
 phuphi.com
+phvmjnkysnj.com
 phxwwaznm.club
 phyhggbk.com
 physioterapiablog.es
@@ -54681,6 +54683,7 @@ warnerbros.112.2o7.net
 warnerbrothersrecords.112.2o7.net
 warp.ly
 warpwrite.com
+warsalsintrol.site
 wartank.net
 warten-sie-mal.xyz
 wartfielduneres.pro
@@ -61357,6 +61360,7 @@ zxxds.net
 zy16eoat1w.com
 zyadwzlxllogm.com
 zyban-store.shengen.ru
+zyddpern.com
 zydfsiuhqkbsqh.com
 zydvsvwgqqyxb.com
 zyf03k.xyz

@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 63,646
+# Entries: 63,668
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 12:13:25
+# Updated: Mon, 24 Feb 20 18:14:22
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -5149,6 +5149,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 algomalillie.com
 0.0.0.0 algovid.com
 0.0.0.0 algrizej.com
+0.0.0.0 alhistoriousg.info
 0.0.0.0 alhpqmefnwkxtn.com
 0.0.0.0 ali-crm.ru
 0.0.0.0 ali.cityads.com
@@ -7051,6 +7052,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdbdqdxkdb.com
 0.0.0.0 bdbdqexkdb.com
 0.0.0.0 bdbdqfxkdb.com
+0.0.0.0 bdbdqidkdb.com
 0.0.0.0 bdbdqixkdb.com
 0.0.0.0 bdbdqkxkdb.com
 0.0.0.0 bdbdqnxkdb.com
@@ -7591,6 +7593,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitvene.ru
 0.0.0.0 bitvertise.io
 0.0.0.0 bitx.tv
+0.0.0.0 bityah-sym.com
 0.0.0.0 biupcyhpmjazv.com
 0.0.0.0 bivitr.com
 0.0.0.0 bivujadpvk.com
@@ -8017,6 +8020,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 boy.fujieace.com
 0.0.0.0 boyaidare.club
 0.0.0.0 boylesportsreklame.com
+0.0.0.0 boyswork.info
 0.0.0.0 boyueguoji.com
 0.0.0.0 bozhihua.com
 0.0.0.0 bp776.com
@@ -9188,6 +9192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cerotop.com
 0.0.0.0 certaken.com
 0.0.0.0 certakes.com
+0.0.0.0 certakesime.site
 0.0.0.0 certified-apps.com
 0.0.0.0 cespousseluniv.info
 0.0.0.0 cetedaninghining.pro
@@ -11109,6 +11114,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1n1ppeppre6d4.cloudfront.net
 0.0.0.0 d1n3tk65esqc4k.cloudfront.net
 0.0.0.0 d1n7ypf85zfej7.cloudfront.net
+0.0.0.0 d1nkvehlw5hmj4.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1o3ws1znr0uv8.cloudfront.net
 0.0.0.0 d1oaxhr280l1ho.cloudfront.net
@@ -11399,6 +11405,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d3uqm14ppr8tkw.cloudfront.net
 0.0.0.0 d3us2i0tqwa7m7.cloudfront.net
+0.0.0.0 d3vnm1492fpnm2.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
 0.0.0.0 d3vt0rqt08ph1x.cloudfront.net
 0.0.0.0 d4.adsplay.net
@@ -11827,6 +11834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 decce2efaeca.com
 0.0.0.0 decenthat.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 decisionediv.site
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com
 0.0.0.0 dedicated-server-hosting.space
@@ -11972,6 +11980,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 descz.ovh
 0.0.0.0 desgao1zt7irn.cloudfront.net
 0.0.0.0 desiasm.club
+0.0.0.0 desigactinific.pro
 0.0.0.0 designedy.com
 0.0.0.0 desipearl.com
 0.0.0.0 desire-xx.net
@@ -14721,6 +14730,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 feed.adrelayer.com
 0.0.0.0 feed.datinglab.net
 0.0.0.0 feed.monad-rtb.com
+0.0.0.0 feed.r-tb.com
 0.0.0.0 feed111.me
 0.0.0.0 feed777.me
 0.0.0.0 feedback.microsoft-hohm.com
@@ -16885,6 +16895,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 graftaub.com
 0.0.0.0 graftpool.ovh
 0.0.0.0 grafzen.com
+0.0.0.0 gragliapastri.info
 0.0.0.0 graicmiw.com
 0.0.0.0 graidsee.net
 0.0.0.0 grainac.com
@@ -18864,6 +18875,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ijhpzjzjaujpov.com
 0.0.0.0 ijhqzvlnsxu.com
 0.0.0.0 ijieo.com
+0.0.0.0 ijiraeitwqpj.com
 0.0.0.0 ijldfpgu.biz
 0.0.0.0 ijmzezsaxxomr.com
 0.0.0.0 ijnghdmfrb.com
@@ -18931,6 +18943,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 illyx.co
 0.0.0.0 illyx.com
+0.0.0.0 ilmijlktgjx.com
 0.0.0.0 ilo134ulih.com
 0.0.0.0 iloating.info
 0.0.0.0 ilopotun.com
@@ -26866,6 +26879,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ocyhpouojiss.com
 0.0.0.0 oczqdwqnvhzz.bid
 0.0.0.0 oczvtbskwbmj.com
+0.0.0.0 od0gddq27wkk.com
 0.0.0.0 od3ai.ru
 0.0.0.0 odanetrlgvunth.com
 0.0.0.0 odb.outbrain.com
@@ -30177,6 +30191,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 punosy.com
 0.0.0.0 punosy.top
 0.0.0.0 punsong.com
+0.0.0.0 puntoenun.site
 0.0.0.0 punvqjsvnmubxb.com
 0.0.0.0 puogotzrsvtg.com
 0.0.0.0 pupwgnmakgpnrl.com
@@ -31577,6 +31592,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rdsa2012.com
 0.0.0.0 rdsa2013.com
 0.0.0.0 rdsa2014.com
+0.0.0.0 rdsb2.club
 0.0.0.0 rdsrv.com
 0.0.0.0 rdthuvynnwgind.com
 0.0.0.0 rdtylx.cn
@@ -35109,6 +35125,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 streamateaccess.com
 0.0.0.0 streambeam.io
 0.0.0.0 streamclub.best
+0.0.0.0 streamclub.fun
 0.0.0.0 streamdefence.com
 0.0.0.0 streaming-illimite.com
 0.0.0.0 streaming-serie.xyz
@@ -36184,6 +36201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thefoxads.ru
 0.0.0.0 thefoxes.ru
 0.0.0.0 thefoxm.com
+0.0.0.0 thefuncoolstuff.com
 0.0.0.0 thegoodcaster.com
 0.0.0.0 thegrap.ru
 0.0.0.0 thegreenzoneblog.com
@@ -36202,6 +36220,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 themes.ladipage.vn
 0.0.0.0 themoneyes.ru
 0.0.0.0 themoneytizer.com
+0.0.0.0 themselvebu.site
 0.0.0.0 thenelis.pw
 0.0.0.0 thenlathettors.pro
 0.0.0.0 theonecdn.com
@@ -38009,6 +38028,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uimrmuoztkoia.com
 0.0.0.0 uimserv.net
 0.0.0.0 uinbjfve.com
+0.0.0.0 uinelypresse.info
 0.0.0.0 uiqefowmmxciwe.com
 0.0.0.0 uiqwtgcp.com
 0.0.0.0 uiru1ie.top
@@ -38220,6 +38240,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 untidyquestion.com
 0.0.0.0 untily.com
 0.0.0.0 untitled.dwstatic.com
+0.0.0.0 untridrisa.cf
 0.0.0.0 untypetenthdicket.info
 0.0.0.0 unugren.ru
 0.0.0.0 unumbonum.com
@@ -38870,6 +38891,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 verblife-3.co
 0.0.0.0 verdoledran.ru
 0.0.0.0 verdrivenbru.info
+0.0.0.0 veremund-hon.com
 0.0.0.0 veretiggoo.com
 0.0.0.0 vergestatic.com
 0.0.0.0 vergevs.com

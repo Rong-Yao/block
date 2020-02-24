@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://adaway.org/hosts.txt
 # Last Converted - 24.02.2020
-# Total Domains - 11043
+# Total Domains - 11042
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7084,7 +7084,6 @@
 0.0.0.0 na-sj20.marketo.com
 0.0.0.0 na-sj23.marketo.com
 0.0.0.0 na-sj24.marketo.com
-0.0.0.0 na-sjf.marketo.com
 0.0.0.0 na-tlx.3lift.com
 0.0.0.0 na.api.inrix.com
 0.0.0.0 na.cdn5.onthe.io

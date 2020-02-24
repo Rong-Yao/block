@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
 # Last Converted - 24.02.2020
-# Total Domains - 983
+# Total Domains - 978
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -131,7 +131,6 @@
 0.0.0.0 animeidhentai.com
 0.0.0.0 antaraimedia.com
 0.0.0.0 antoball.com
-0.0.0.0 aoredi.com
 0.0.0.0 apromoweb.com
 0.0.0.0 are-ter.com
 0.0.0.0 arlitasite.pro
@@ -297,7 +296,6 @@
 0.0.0.0 ebdr2.com
 0.0.0.0 ecortb.com
 0.0.0.0 elekted.com
-0.0.0.0 eneritchmax.info
 0.0.0.0 enoratraffic.com
 0.0.0.0 eoredi.com
 0.0.0.0 eqfgc.com
@@ -314,7 +312,6 @@
 0.0.0.0 exogripper.com
 0.0.0.0 exoticads.com
 0.0.0.0 eyemedias.com
-0.0.0.0 fabrkrup.com
 0.0.0.0 faceporn.com
 0.0.0.0 facetz.net
 0.0.0.0 fahdsite.pro
@@ -486,7 +483,6 @@
 0.0.0.0 kxqvnfcg.xyz
 0.0.0.0 lanayasite.pro
 0.0.0.0 laynsite.pro
-0.0.0.0 lcwfab1.com
 0.0.0.0 leche69.com
 0.0.0.0 libertystmedia.com
 0.0.0.0 lickbylick.com
@@ -865,7 +861,6 @@
 0.0.0.0 trw12.com
 0.0.0.0 try9.com
 0.0.0.0 tsandycateup.com
-0.0.0.0 tsyndicate.com
 0.0.0.0 ttlmodels.com
 0.0.0.0 tube.ac
 0.0.0.0 tubeadnetwork.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
 # Last Converted - 24.02.2020
-# Total Domains - 16732
+# Total Domains - 16756
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1676,6 +1676,7 @@
 0.0.0.0 algocashmaster.net
 0.0.0.0 algovid.com
 0.0.0.0 algrizej.com
+0.0.0.0 alhistoriousg.info
 0.0.0.0 alhpqmefnwkxtn.com
 0.0.0.0 ali-crm.ru
 0.0.0.0 aliadvert.ru
@@ -1939,6 +1940,7 @@
 0.0.0.0 asiangfsex.com
 0.0.0.0 asiinbyu.com
 0.0.0.0 askallalb.club
+0.0.0.0 askaspalb.online
 0.0.0.0 askhilltop.com
 0.0.0.0 asklots.com
 0.0.0.0 askywtrk.com
@@ -2499,6 +2501,7 @@
 0.0.0.0 bittorrent.am
 0.0.0.0 bittraffic.io
 0.0.0.0 bitx.tv
+0.0.0.0 bityah-sym.com
 0.0.0.0 biupcyhpmjazv.com
 0.0.0.0 bivujadpvk.com
 0.0.0.0 biwkvlmnpwulfl.com
@@ -3074,6 +3077,7 @@
 0.0.0.0 ceprovidingsesse.info
 0.0.0.0 ceraitoa.com
 0.0.0.0 cerotop.com
+0.0.0.0 certakesime.site
 0.0.0.0 certified-apps.com
 0.0.0.0 cespousseluniv.info
 0.0.0.0 cevwkduhwbuc.com
@@ -3758,6 +3762,7 @@
 0.0.0.0 d1mib12jcgwmnv.cloudfront.net
 0.0.0.0 d1n1ppeppre6d4.cloudfront.net
 0.0.0.0 d1n3tk65esqc4k.cloudfront.net
+0.0.0.0 d1nkvehlw5hmj4.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1pdpbxj733bb1.cloudfront.net
 0.0.0.0 d1qc76gneygidm.cloudfront.net
@@ -3849,6 +3854,7 @@
 0.0.0.0 d3ud741uvs727m.cloudfront.net
 0.0.0.0 d3ujids68p6xmq.cloudfront.net
 0.0.0.0 d3uqm14ppr8tkw.cloudfront.net
+0.0.0.0 d3vnm1492fpnm2.cloudfront.net
 0.0.0.0 d3vpf6i51y286p.cloudfront.net
 0.0.0.0 d400e5249d363b5617.com
 0.0.0.0 d4fed03105c9f65b.com
@@ -4003,6 +4009,7 @@
 0.0.0.0 debrium-surbara.com
 0.0.0.0 decademical.com
 0.0.0.0 decenthat.com
+0.0.0.0 decisionediv.site
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com
 0.0.0.0 dedicatedmedia.com
@@ -4048,6 +4055,7 @@
 0.0.0.0 derqboxqca.com
 0.0.0.0 descrepush.com
 0.0.0.0 descz.ovh
+0.0.0.0 desigactinific.pro
 0.0.0.0 desipearl.com
 0.0.0.0 desk.cmix.org
 0.0.0.0 desklks.com
@@ -5159,6 +5167,7 @@
 0.0.0.0 fecgvrvne.com
 0.0.0.0 fedsit.com
 0.0.0.0 feed-ads.com
+0.0.0.0 feed.r-tb.com
 0.0.0.0 feed111.me
 0.0.0.0 feed777.me
 0.0.0.0 feedgist.com
@@ -5677,6 +5686,7 @@
 0.0.0.0 gannett.gcion.com
 0.0.0.0 gapsfartrely.best
 0.0.0.0 gaqhseuqp.com
+0.0.0.0 gardoult.com
 0.0.0.0 garo-garo-osh.com
 0.0.0.0 garowrite.com
 0.0.0.0 garristo.com
@@ -6028,6 +6038,7 @@
 0.0.0.0 grafpedia.com
 0.0.0.0 graftaub.com
 0.0.0.0 grafzen.com
+0.0.0.0 gragliapastri.info
 0.0.0.0 graicmiw.com
 0.0.0.0 graidsee.net
 0.0.0.0 graivaik.com
@@ -6081,6 +6092,7 @@
 0.0.0.0 grtbzrsndrrtsb.com
 0.0.0.0 grtyj.com
 0.0.0.0 grtyv.com
+0.0.0.0 grubsoan.com
 0.0.0.0 gruglooh.net
 0.0.0.0 grumpyadzen.com
 0.0.0.0 grunkav.online
@@ -6810,6 +6822,7 @@
 0.0.0.0 ijfnbtksuntwqe.com
 0.0.0.0 ijhpzjzjaujpov.com
 0.0.0.0 ijhqzvlnsxu.com
+0.0.0.0 ijiraeitwqpj.com
 0.0.0.0 ijmzezsaxxomr.com
 0.0.0.0 ijnghdmfrb.com
 0.0.0.0 ijowsfraldsnb.com
@@ -6831,6 +6844,7 @@
 0.0.0.0 ilkphyyzg.com
 0.0.0.0 illazkka.com
 0.0.0.0 illustriousoatmeal.com
+0.0.0.0 ilmijlktgjx.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 ilqufadqxd.com
 0.0.0.0 ilstsympathsguitary.info
@@ -8524,6 +8538,7 @@
 0.0.0.0 madcpms.com
 0.0.0.0 madisonlogic.com
 0.0.0.0 madmen.alastonsuomi.com
+0.0.0.0 madplypie.club
 0.0.0.0 madsabs.com
 0.0.0.0 madsabz.com
 0.0.0.0 madsans.com
@@ -9843,6 +9858,7 @@
 0.0.0.0 ocyhpouojiss.com
 0.0.0.0 oczqdwqnvhzz.bid
 0.0.0.0 oczvtbskwbmj.com
+0.0.0.0 od0gddq27wkk.com
 0.0.0.0 odanetrlgvunth.com
 0.0.0.0 odcnpmjgsxrqpr.com
 0.0.0.0 oddkqxakmuky.bid
@@ -11438,6 +11454,7 @@
 0.0.0.0 punfbtrcvfdxl.com
 0.0.0.0 punlkhusprgw.com
 0.0.0.0 punsong.com
+0.0.0.0 puntoenun.site
 0.0.0.0 punvqjsvnmubxb.com
 0.0.0.0 puogotzrsvtg.com
 0.0.0.0 pupwgnmakgpnrl.com
@@ -12272,6 +12289,7 @@
 0.0.0.0 rdrcgrpsakrtn.com
 0.0.0.0 rdrkxlmlqpqns.com
 0.0.0.0 rdrtrk.com
+0.0.0.0 rdsb2.club
 0.0.0.0 rdsrv.com
 0.0.0.0 rdthuvynnwgind.com
 0.0.0.0 rdvinfidele.club
@@ -13484,6 +13502,7 @@
 0.0.0.0 streamate.com
 0.0.0.0 streamateaccess.com
 0.0.0.0 streamclub.best
+0.0.0.0 streamclub.fun
 0.0.0.0 streamdefence.com
 0.0.0.0 streaming.rtbiddingplatform.com
 0.0.0.0 stremanp.com
@@ -13833,10 +13852,12 @@
 0.0.0.0 theersoa.net
 0.0.0.0 thefaren.pw
 0.0.0.0 thefastpush.com
+0.0.0.0 thefuncoolstuff.com
 0.0.0.0 thegreenzoneblog.com
 0.0.0.0 theirsvendor.com
 0.0.0.0 theloungenet.com
 0.0.0.0 themoneytizer.com
+0.0.0.0 themselvebu.site
 0.0.0.0 thenelis.pw
 0.0.0.0 thenlathettors.pro
 0.0.0.0 theonecdn.com
@@ -14486,6 +14507,7 @@
 0.0.0.0 uimrmuoztkoia.com
 0.0.0.0 uimserv.net
 0.0.0.0 uinbjfve.com
+0.0.0.0 uinelypresse.info
 0.0.0.0 uiqwtgcp.com
 0.0.0.0 uisdjvwytl.com
 0.0.0.0 uisrihozphejjt.com
@@ -14574,6 +14596,7 @@
 0.0.0.0 unrulymedia.com
 0.0.0.0 unrzhgdly.com
 0.0.0.0 untidyquestion.com
+0.0.0.0 untridrisa.cf
 0.0.0.0 untypetenthdicket.info
 0.0.0.0 unumbonum.com
 0.0.0.0 unwyiror.com
@@ -14869,6 +14892,7 @@
 0.0.0.0 verblife-2.co
 0.0.0.0 verblife-3.co
 0.0.0.0 verdrivenbru.info
+0.0.0.0 veremund-hon.com
 0.0.0.0 vernmentbasily.com
 0.0.0.0 versahq.com
 0.0.0.0 versetime.com

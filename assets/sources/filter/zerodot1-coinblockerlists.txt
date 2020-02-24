@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 16114
+# Total Domains - 16113
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2180,7 +2180,6 @@
 0.0.0.0 clean.v2.dedicatedpool.com
 0.0.0.0 cleanqn.egem.io
 0.0.0.0 clevery.xyz
-0.0.0.0 clg.btcc.com
 0.0.0.0 clgserv.pro
 0.0.0.0 clickfight.net
 0.0.0.0 clickgem.com

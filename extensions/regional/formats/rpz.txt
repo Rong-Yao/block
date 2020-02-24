@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 63,646
+; Entries: 63,668
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 12:13:25
+; Updated: Mon, 24 Feb 20 18:14:22
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -5138,6 +5138,7 @@ algocashmaster.net CNAME .
 algomalillie.com CNAME .
 algovid.com CNAME .
 algrizej.com CNAME .
+alhistoriousg.info CNAME .
 alhpqmefnwkxtn.com CNAME .
 ali-crm.ru CNAME .
 ali.cityads.com CNAME .
@@ -7040,6 +7041,7 @@ bdbdqddkdb.com CNAME .
 bdbdqdxkdb.com CNAME .
 bdbdqexkdb.com CNAME .
 bdbdqfxkdb.com CNAME .
+bdbdqidkdb.com CNAME .
 bdbdqixkdb.com CNAME .
 bdbdqkxkdb.com CNAME .
 bdbdqnxkdb.com CNAME .
@@ -7580,6 +7582,7 @@ bittraffic.io CNAME .
 bitvene.ru CNAME .
 bitvertise.io CNAME .
 bitx.tv CNAME .
+bityah-sym.com CNAME .
 biupcyhpmjazv.com CNAME .
 bivitr.com CNAME .
 bivujadpvk.com CNAME .
@@ -8006,6 +8009,7 @@ boxxxcash.com CNAME .
 boy.fujieace.com CNAME .
 boyaidare.club CNAME .
 boylesportsreklame.com CNAME .
+boyswork.info CNAME .
 boyueguoji.com CNAME .
 bozhihua.com CNAME .
 bp776.com CNAME .
@@ -9177,6 +9181,7 @@ ceregete.com CNAME .
 cerotop.com CNAME .
 certaken.com CNAME .
 certakes.com CNAME .
+certakesime.site CNAME .
 certified-apps.com CNAME .
 cespousseluniv.info CNAME .
 cetedaninghining.pro CNAME .
@@ -11098,6 +11103,7 @@ d1my4dwo04nr8a.cloudfront.net CNAME .
 d1n1ppeppre6d4.cloudfront.net CNAME .
 d1n3tk65esqc4k.cloudfront.net CNAME .
 d1n7ypf85zfej7.cloudfront.net CNAME .
+d1nkvehlw5hmj4.cloudfront.net CNAME .
 d1nmxiiewlx627.cloudfront.net CNAME .
 d1o3ws1znr0uv8.cloudfront.net CNAME .
 d1oaxhr280l1ho.cloudfront.net CNAME .
@@ -11388,6 +11394,7 @@ d3ud741uvs727m.cloudfront.net CNAME .
 d3ujids68p6xmq.cloudfront.net CNAME .
 d3uqm14ppr8tkw.cloudfront.net CNAME .
 d3us2i0tqwa7m7.cloudfront.net CNAME .
+d3vnm1492fpnm2.cloudfront.net CNAME .
 d3vpf6i51y286p.cloudfront.net CNAME .
 d3vt0rqt08ph1x.cloudfront.net CNAME .
 d4.adsplay.net CNAME .
@@ -11816,6 +11823,7 @@ decajo.ru CNAME .
 decce2efaeca.com CNAME .
 decenthat.com CNAME .
 decide.mixpanel.com CNAME .
+decisionediv.site CNAME .
 decisionmark.com CNAME .
 decisionnews.com CNAME .
 dedicated-server-hosting.space CNAME .
@@ -11961,6 +11969,7 @@ descrepush.com CNAME .
 descz.ovh CNAME .
 desgao1zt7irn.cloudfront.net CNAME .
 desiasm.club CNAME .
+desigactinific.pro CNAME .
 designedy.com CNAME .
 desipearl.com CNAME .
 desire-xx.net CNAME .
@@ -14710,6 +14719,7 @@ feed-ads.com CNAME .
 feed.adrelayer.com CNAME .
 feed.datinglab.net CNAME .
 feed.monad-rtb.com CNAME .
+feed.r-tb.com CNAME .
 feed111.me CNAME .
 feed777.me CNAME .
 feedback.microsoft-hohm.com CNAME .
@@ -16874,6 +16884,7 @@ grafpedia.com CNAME .
 graftaub.com CNAME .
 graftpool.ovh CNAME .
 grafzen.com CNAME .
+gragliapastri.info CNAME .
 graicmiw.com CNAME .
 graidsee.net CNAME .
 grainac.com CNAME .
@@ -18853,6 +18864,7 @@ ijgs5i.ru CNAME .
 ijhpzjzjaujpov.com CNAME .
 ijhqzvlnsxu.com CNAME .
 ijieo.com CNAME .
+ijiraeitwqpj.com CNAME .
 ijldfpgu.biz CNAME .
 ijmzezsaxxomr.com CNAME .
 ijnghdmfrb.com CNAME .
@@ -18920,6 +18932,7 @@ illicium.web.money CNAME .
 illustriousoatmeal.com CNAME .
 illyx.co CNAME .
 illyx.com CNAME .
+ilmijlktgjx.com CNAME .
 ilo134ulih.com CNAME .
 iloating.info CNAME .
 ilopotun.com CNAME .
@@ -26855,6 +26868,7 @@ ocyhiome.com CNAME .
 ocyhpouojiss.com CNAME .
 oczqdwqnvhzz.bid CNAME .
 oczvtbskwbmj.com CNAME .
+od0gddq27wkk.com CNAME .
 od3ai.ru CNAME .
 odanetrlgvunth.com CNAME .
 odb.outbrain.com CNAME .
@@ -30166,6 +30180,7 @@ punlkhusprgw.com CNAME .
 punosy.com CNAME .
 punosy.top CNAME .
 punsong.com CNAME .
+puntoenun.site CNAME .
 punvqjsvnmubxb.com CNAME .
 puogotzrsvtg.com CNAME .
 pupwgnmakgpnrl.com CNAME .
@@ -31566,6 +31581,7 @@ rdrtrk.com CNAME .
 rdsa2012.com CNAME .
 rdsa2013.com CNAME .
 rdsa2014.com CNAME .
+rdsb2.club CNAME .
 rdsrv.com CNAME .
 rdthuvynnwgind.com CNAME .
 rdtylx.cn CNAME .
@@ -35098,6 +35114,7 @@ streamate.com CNAME .
 streamateaccess.com CNAME .
 streambeam.io CNAME .
 streamclub.best CNAME .
+streamclub.fun CNAME .
 streamdefence.com CNAME .
 streaming-illimite.com CNAME .
 streaming-serie.xyz CNAME .
@@ -36173,6 +36190,7 @@ thefox.mobi CNAME .
 thefoxads.ru CNAME .
 thefoxes.ru CNAME .
 thefoxm.com CNAME .
+thefuncoolstuff.com CNAME .
 thegoodcaster.com CNAME .
 thegrap.ru CNAME .
 thegreenzoneblog.com CNAME .
@@ -36191,6 +36209,7 @@ themee.cn CNAME .
 themes.ladipage.vn CNAME .
 themoneyes.ru CNAME .
 themoneytizer.com CNAME .
+themselvebu.site CNAME .
 thenelis.pw CNAME .
 thenlathettors.pro CNAME .
 theonecdn.com CNAME .
@@ -37998,6 +38017,7 @@ uiiswaeojpfee.com CNAME .
 uimrmuoztkoia.com CNAME .
 uimserv.net CNAME .
 uinbjfve.com CNAME .
+uinelypresse.info CNAME .
 uiqefowmmxciwe.com CNAME .
 uiqwtgcp.com CNAME .
 uiru1ie.top CNAME .
@@ -38209,6 +38229,7 @@ unsop.com CNAME .
 untidyquestion.com CNAME .
 untily.com CNAME .
 untitled.dwstatic.com CNAME .
+untridrisa.cf CNAME .
 untypetenthdicket.info CNAME .
 unugren.ru CNAME .
 unumbonum.com CNAME .
@@ -38859,6 +38880,7 @@ verblife-2.co CNAME .
 verblife-3.co CNAME .
 verdoledran.ru CNAME .
 verdrivenbru.info CNAME .
+veremund-hon.com CNAME .
 veretiggoo.com CNAME .
 vergestatic.com CNAME .
 vergevs.com CNAME .

@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 41,624
+# Entries: 41,620
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 12:13:22
+# Updated: Mon, 24 Feb 20 18:14:18
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2229,7 +2229,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 anyxxx.mobi
 0.0.0.0 anyxxx.pro
 0.0.0.0 aocinc.co.jp
-0.0.0.0 aoredi.com
 0.0.0.0 aosheng-tech.com
 0.0.0.0 aoto-wholesale.com
 0.0.0.0 ap.senai.br
@@ -7879,7 +7878,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 energydiet24.ru
 0.0.0.0 energysavingproductsinfo.com
 0.0.0.0 energysexmovies.com
-0.0.0.0 eneritchmax.info
 0.0.0.0 enf-cmnf.com
 0.0.0.0 enfys.me.uk
 0.0.0.0 engel69.de
@@ -8595,7 +8593,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fable.in.ua
 0.0.0.0 fabre-aubrespy.fr
 0.0.0.0 fabricakuhon.ru
-0.0.0.0 fabrkrup.com
 0.0.0.0 fabswingers.com
 0.0.0.0 fabuloussavers.com
 0.0.0.0 facadecleaners.com
@@ -15626,7 +15623,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lbtube.com
 0.0.0.0 lceihiuarfqbn.bid
 0.0.0.0 lcnvxuipvq.bid
-0.0.0.0 lcwfab1.com
 0.0.0.0 ldlritslfej.bid
 0.0.0.0 le.com
 0.0.0.0 league-of-hentai.com

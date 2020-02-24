@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Last Converted - 24.02.2020
-# Total Domains - 95312
+# Total Domains - 95311
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -56956,7 +56956,6 @@
 0.0.0.0 na-sj31.marketo.com
 0.0.0.0 na-sj32.marketo.com
 0.0.0.0 na-sjdemo1.marketo.com
-0.0.0.0 na-sjf.marketo.com
 0.0.0.0 na-sjg.marketo.com
 0.0.0.0 na-sjh.marketo.com
 0.0.0.0 na-sji.marketo.com

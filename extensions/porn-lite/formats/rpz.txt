@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 41,624
+; Entries: 41,620
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 12:13:22
+; Updated: Mon, 24 Feb 20 18:14:18
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2218,7 +2218,6 @@ anyxxx.com CNAME .
 anyxxx.mobi CNAME .
 anyxxx.pro CNAME .
 aocinc.co.jp CNAME .
-aoredi.com CNAME .
 aosheng-tech.com CNAME .
 aoto-wholesale.com CNAME .
 ap.senai.br CNAME .
@@ -7868,7 +7867,6 @@ energy-ua.com CNAME .
 energydiet24.ru CNAME .
 energysavingproductsinfo.com CNAME .
 energysexmovies.com CNAME .
-eneritchmax.info CNAME .
 enf-cmnf.com CNAME .
 enfys.me.uk CNAME .
 engel69.de CNAME .
@@ -8584,7 +8582,6 @@ fabiy.fastcomet.site CNAME .
 fable.in.ua CNAME .
 fabre-aubrespy.fr CNAME .
 fabricakuhon.ru CNAME .
-fabrkrup.com CNAME .
 fabswingers.com CNAME .
 fabuloussavers.com CNAME .
 facadecleaners.com CNAME .
@@ -15615,7 +15612,6 @@ lbhardcore.com CNAME .
 lbtube.com CNAME .
 lceihiuarfqbn.bid CNAME .
 lcnvxuipvq.bid CNAME .
-lcwfab1.com CNAME .
 ldlritslfej.bid CNAME .
 le.com CNAME .
 league-of-hentai.com CNAME .

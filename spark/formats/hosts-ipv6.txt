@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.055
 # Release: 055
-# Entries: 61,342
+# Entries: 61,358
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 12:09:45
+# Updated: Mon, 24 Feb 20 18:10:16
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -7298,6 +7298,7 @@ ff02::3 ip6-allhosts
 :: algovid.com
 :: algrizej.com
 :: alhist.com
+:: alhistoriousg.info
 :: alhpqmefnwkxtn.com
 :: ali-crm.ru
 :: ali-stats.jpush.cn
@@ -11758,6 +11759,7 @@ ff02::3 ip6-allhosts
 :: bittraffic.io
 :: bitupsss.com
 :: bitx.tv
+:: bityah-sym.com
 :: bitzfree.com
 :: biubiudown.com
 :: biuky.es
@@ -14371,6 +14373,7 @@ ff02::3 ip6-allhosts
 :: cerotop.com
 :: cert-test-alias.algolia.com
 :: certaken.com
+:: certakesime.site
 :: certified-toolbar.com
 :: certifiedwinners.info
 :: certify-amp.alexametrics.com
@@ -18012,6 +18015,7 @@ ff02::3 ip6-allhosts
 :: decenterads.com
 :: decenthat.com
 :: decision.cc
+:: decisionediv.site
 :: decisionmark.com
 :: decisionnews.com
 :: decisivedrawer.com
@@ -18195,6 +18199,7 @@ ff02::3 ip6-allhosts
 :: desiasm.club
 :: desibitinlet.pro
 :: desifever.com
+:: desigactinific.pro
 :: designyourowntote.com
 :: desigualeshop.com
 :: desigualitienda.com
@@ -24313,6 +24318,7 @@ ff02::3 ip6-allhosts
 :: graftpool.net
 :: graftpool.ovh
 :: grafzen.com
+:: gragliapastri.info
 :: graicmiw.com
 :: graidsee.net
 :: graivaik.com
@@ -24446,6 +24452,7 @@ ff02::3 ip6-allhosts
 :: grtyj.com
 :: grtyo.com
 :: grubpbrmek.com
+:: grubsoan.com
 :: gruglooh.net
 :: grumpyadzen.com
 :: grunerandjahr.112.2o7.net
@@ -26737,6 +26744,7 @@ ff02::3 ip6-allhosts
 :: ijfnbtksuntwqe.com
 :: ijhpzjzjaujpov.com
 :: ijhqzvlnsxu.com
+:: ijiraeitwqpj.com
 :: ijmzezsaxxomr.com
 :: ijnghdmfrb.com
 :: ijowsfraldsnb.com
@@ -26775,6 +26783,7 @@ ff02::3 ip6-allhosts
 :: illizuqkdqjobt.com
 :: illuminati.fgl.com
 :: illustriousoatmeal.com
+:: ilmijlktgjx.com
 :: iloopmobile.com
 :: ilovecheating.com
 :: ilovechollos.es
@@ -31729,6 +31738,7 @@ ff02::3 ip6-allhosts
 :: madisonavenue.com
 :: madisonlogic.com
 :: madnet.ru
+:: madplypie.club
 :: mads.advertising.com
 :: mads.amazon-adsystem.com
 :: mads.amazon.com
@@ -34590,7 +34600,6 @@ ff02::3 ip6-allhosts
 :: na-sj20.marketo.com
 :: na-sj23.marketo.com
 :: na-sj24.marketo.com
-:: na-sjf.marketo.com
 :: na-tlx.3lift.com
 :: na.ads.yahoo.com
 :: na.api.inrix.com
@@ -36299,6 +36308,7 @@ ff02::3 ip6-allhosts
 :: ocyhpouojiss.com
 :: oczqdwqnvhzz.bid
 :: oczvtbskwbmj.com
+:: od0gddq27wkk.com
 :: odanetrlgvunth.com
 :: odas.onedigitalad.com
 :: odb-chidc2.outbrain.com
@@ -42224,6 +42234,7 @@ ff02::3 ip6-allhosts
 :: rdrs.ad-score.com
 :: rdrtrk.com
 :: rdsa2012.com
+:: rdsb2.club
 :: rdthuvynnwgind.com
 :: rdtk.io
 :: rdtrck2.com
@@ -47770,6 +47781,7 @@ ff02::3 ip6-allhosts
 :: streamamp-d.openx.net
 :: streamate.com
 :: streamclub.best
+:: streamclub.fun
 :: streamdefence.com
 :: streamdream.ws
 :: streamguys.deliveryengine.adswizz.com
@@ -49288,6 +49300,7 @@ ff02::3 ip6-allhosts
 :: themillionaireinpjs.net
 :: theminingpool.thruhere.net
 :: themoneytizer.com
+:: themselvebu.site
 :: themusicnetwork.co.uk
 :: thenbehindesit.info
 :: thencouserechan.info
@@ -52534,6 +52547,7 @@ ff02::3 ip6-allhosts
 :: uimrmuoztkoia.com
 :: uimserv.net
 :: uinbjfve.com
+:: uinelypresse.info
 :: uip.semasio.net
 :: uipjeyipoumf.com
 :: uiqwtgcp.com
@@ -52784,6 +52798,7 @@ ff02::3 ip6-allhosts
 :: untidyquestion.com
 :: untotlowith.info
 :: untouchwarfar.info
+:: untridrisa.cf
 :: untypetenthdicket.info
 :: unumbonum.com
 :: unusualtitle.com
@@ -53718,6 +53733,7 @@ ff02::3 ip6-allhosts
 :: verclothesstore.club
 :: verdeypaisaje.es
 :: verdrivenbru.info
+:: veremund-hon.com
 :: vericlick.com
 :: verifier.live
 :: verisignwildcard.112.2o7.net

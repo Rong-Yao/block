@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 121,977
+# Entries: 121,995
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 12:09:49
+# Updated: Mon, 24 Feb 20 18:10:20
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -4503,7 +4503,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aciasms.com.br
 0.0.0.0 acidityfoamy.com
 0.0.0.0 acidpigs.com
-0.0.0.0 acieh.onecinema.us
 0.0.0.0 acikdeniz-tr-denizbank.com
 0.0.0.0 aciklise.web.tr
 0.0.0.0 acimo.com
@@ -11108,6 +11107,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alhijazhotels.com
 0.0.0.0 alhijaztrvl.com
 0.0.0.0 alhist.com
+0.0.0.0 alhistoriousg.info
 0.0.0.0 alhpqmefnwkxtn.com
 0.0.0.0 alhuriahglass.000webhostapp.com
 0.0.0.0 ali-crm.ru
@@ -19337,6 +19337,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitwork.ddns.net
 0.0.0.0 bitx.tv
 0.0.0.0 bitx.v2.dedicatedpool.com
+0.0.0.0 bityah-sym.com
 0.0.0.0 bitzec.insight.equihub.pro
 0.0.0.0 bitzfree.com
 0.0.0.0 biubiudown.com
@@ -24174,6 +24175,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cert-test-alias.algolia.com
 0.0.0.0 cert-test.sandbox.google.com
 0.0.0.0 certaken.com
+0.0.0.0 certakesime.site
 0.0.0.0 certifica.com
 0.0.0.0 certificates.ddns.net
 0.0.0.0 certified-hacks.com
@@ -25304,7 +25306,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 clevery.xyz
 0.0.0.0 clevi.com
 0.0.0.0 clevv.com
-0.0.0.0 clg.btcc.com
 0.0.0.0 clgserv.pro
 0.0.0.0 clgyhwaoh.com
 0.0.0.0 clhctrk.com
@@ -31517,6 +31518,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 decideinteractive.com
 0.0.0.0 deciduate-pot.000webhostapp.com
 0.0.0.0 decision.cc
+0.0.0.0 decisionediv.site
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com
 0.0.0.0 decisivedrawer.com
@@ -31928,6 +31930,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 desibitinlet.pro
 0.0.0.0 desidert.no
 0.0.0.0 desifever.com
+0.0.0.0 desigactinific.pro
 0.0.0.0 design.bixin.com
 0.0.0.0 design.mangoxl.com
 0.0.0.0 design14.info
@@ -45390,6 +45393,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 graftpool.ovh
 0.0.0.0 graftpool.site
 0.0.0.0 grafzen.com
+0.0.0.0 gragliapastri.info
 0.0.0.0 graicmiw.com
 0.0.0.0 graidsee.net
 0.0.0.0 graivaik.com
@@ -45725,6 +45729,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 grtyo.com
 0.0.0.0 grubersa.com
 0.0.0.0 grubpbrmek.com
+0.0.0.0 grubsoan.com
 0.0.0.0 gruglooh.net
 0.0.0.0 grumman.pl
 0.0.0.0 grumpyadzen.com
@@ -51994,6 +51999,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ijfnbtksuntwqe.com
 0.0.0.0 ijhpzjzjaujpov.com
 0.0.0.0 ijhqzvlnsxu.com
+0.0.0.0 ijiraeitwqpj.com
 0.0.0.0 ijmamurtika.id
 0.0.0.0 ijmzezsaxxomr.com
 0.0.0.0 ijnghdmfrb.com
@@ -52081,6 +52087,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 illuminiamoilpoggiodistantino.it
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 illymithics.fr
+0.0.0.0 ilmijlktgjx.com
 0.0.0.0 ilmupelet.net
 0.0.0.0 iln.zzjpgqd.com
 0.0.0.0 ilogbox.com
@@ -62381,6 +62388,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 madoko.jhfree.net
 0.0.0.0 madonna.sexybabesx.com
 0.0.0.0 madopera8767.duckdns.org
+0.0.0.0 madplypie.club
 0.0.0.0 madrasanajmulhudatenkasi.in
 0.0.0.0 mads.advertising.com
 0.0.0.0 mads.amazon-adsystem.com
@@ -68387,7 +68395,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 na-sj20.marketo.com
 0.0.0.0 na-sj23.marketo.com
 0.0.0.0 na-sj24.marketo.com
-0.0.0.0 na-sjf.marketo.com
 0.0.0.0 na-tlx.3lift.com
 0.0.0.0 na-toursru.416.com1.ru
 0.0.0.0 na.ads.yahoo.com
@@ -71966,6 +71973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ocyhpouojiss.com
 0.0.0.0 oczqdwqnvhzz.bid
 0.0.0.0 oczvtbskwbmj.com
+0.0.0.0 od0gddq27wkk.com
 0.0.0.0 oda.markitondemand.com
 0.0.0.0 odanetrlgvunth.com
 0.0.0.0 odas.onedigitalad.com
@@ -76602,6 +76610,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pixelhere.com
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixeljs-ads.pubmatic.com
+0.0.0.0 pixelpop.co
 0.0.0.0 pixelrevenue.com
 0.0.0.0 pixels.adzmedia.com
 0.0.0.0 pixels.asia
@@ -80809,6 +80818,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmjjvpoqhb.com
 0.0.0.0 qmkr7isp3o.com
 0.0.0.0 qmmdvzsebi.com
+0.0.0.0 qmokxgfz.com
 0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com
@@ -81060,6 +81070,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 quark.miningpoolhub.com
 0.0.0.0 quarrystats.egem.io
 0.0.0.0 quarterbean.com
+0.0.0.0 quartic.pl
 0.0.0.0 quartzsitedesertflyers.com
 0.0.0.0 quartzslabchina.com
 0.0.0.0 quasar18.duckdns.org
@@ -82010,6 +82021,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rdrtrk.com
 0.0.0.0 rds-assets.nvidia.com
 0.0.0.0 rdsa2012.com
+0.0.0.0 rdsb2.club
 0.0.0.0 rdsig.yahoo.co.jp
 0.0.0.0 rdstation.com.br
 0.0.0.0 rdtdlv.laredoute.fr
@@ -92928,6 +92940,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 streamate.com
 0.0.0.0 streambeam.io
 0.0.0.0 streamclub.best
+0.0.0.0 streamclub.fun
 0.0.0.0 streamdefence.com
 0.0.0.0 streamdream.ws
 0.0.0.0 streameye-prod.elasticbeanstalk.com
@@ -94545,6 +94558,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 tag.gayadnetwork.com
 0.0.0.0 tag.getdrip.com
+0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.hockeycurve.com
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 tag.imonomy.com
@@ -96106,6 +96120,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 themoneytizer.com
 0.0.0.0 themostpopularexercisequestions.net
 0.0.0.0 themovienation.com
+0.0.0.0 themselvebu.site
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thenabler.com
 0.0.0.0 thenational-gb.thenational.scot
@@ -101096,6 +101111,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uimrmuoztkoia.com
 0.0.0.0 uimserv.net
 0.0.0.0 uinbjfve.com
+0.0.0.0 uinelypresse.info
 0.0.0.0 uio.boencj.com
 0.0.0.0 uip.semasio.net
 0.0.0.0 uipjeyipoumf.com
@@ -101580,6 +101596,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 untoldindianews.com
 0.0.0.0 untotlowith.info
 0.0.0.0 untouchwarfar.info
+0.0.0.0 untridrisa.cf
 0.0.0.0 untuk-telinga.nanopool.org
 0.0.0.0 untypetenthdicket.info
 0.0.0.0 unumbonum.com
@@ -103237,6 +103254,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 verclothesstore.club
 0.0.0.0 verdeypaisaje.es
 0.0.0.0 verdrivenbru.info
+0.0.0.0 veremund-hon.com
 0.0.0.0 verfer.com
 0.0.0.0 verge.blake2s.com
 0.0.0.0 verge.mastermining.net

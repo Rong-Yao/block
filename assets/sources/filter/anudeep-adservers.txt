@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 # Last Converted - 24.02.2020
-# Total Domains - 20197
+# Total Domains - 20195
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10005,7 +10005,6 @@
 0.0.0.0 hrppu9wjkiw2oxj18uutbgu1icnw41510287750.nuid.imrworldwide.com
 0.0.0.0 hrsde.widget.criteo.com
 0.0.0.0 hs.moatads.com
-0.0.0.0 hs.news-subscribe.com
 0.0.0.0 hsads.zeotap.com
 0.0.0.0 hsbcbankglobal.sc.omtrdc.net
 0.0.0.0 hsg0svzo1i850ot0wo4eqhsjpk6vz1507564120.nuid.imrworldwide.com
@@ -12537,7 +12536,6 @@
 0.0.0.0 na-sj17.marketo.com
 0.0.0.0 na-sj18.marketo.com
 0.0.0.0 na-sj20.marketo.com
-0.0.0.0 na-sjf.marketo.com
 0.0.0.0 na-sjg.marketo.com
 0.0.0.0 na-sjh.marketo.com
 0.0.0.0 na-sji.marketo.com

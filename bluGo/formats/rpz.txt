@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 121,977
+; Entries: 121,995
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 12:09:49
+; Updated: Mon, 24 Feb 20 18:10:20
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4492,7 +4492,6 @@ acia.net.au CNAME .
 aciasms.com.br CNAME .
 acidityfoamy.com CNAME .
 acidpigs.com CNAME .
-acieh.onecinema.us CNAME .
 acikdeniz-tr-denizbank.com CNAME .
 aciklise.web.tr CNAME .
 acimo.com CNAME .
@@ -11097,6 +11096,7 @@ alheraschool.com CNAME .
 alhijazhotels.com CNAME .
 alhijaztrvl.com CNAME .
 alhist.com CNAME .
+alhistoriousg.info CNAME .
 alhpqmefnwkxtn.com CNAME .
 alhuriahglass.000webhostapp.com CNAME .
 ali-crm.ru CNAME .
@@ -19326,6 +19326,7 @@ bitvers.ddns.net CNAME .
 bitwork.ddns.net CNAME .
 bitx.tv CNAME .
 bitx.v2.dedicatedpool.com CNAME .
+bityah-sym.com CNAME .
 bitzec.insight.equihub.pro CNAME .
 bitzfree.com CNAME .
 biubiudown.com CNAME .
@@ -24163,6 +24164,7 @@ cert-mps.net CNAME .
 cert-test-alias.algolia.com CNAME .
 cert-test.sandbox.google.com CNAME .
 certaken.com CNAME .
+certakesime.site CNAME .
 certifica.com CNAME .
 certificates.ddns.net CNAME .
 certified-hacks.com CNAME .
@@ -25293,7 +25295,6 @@ cleverusenet.club CNAME .
 clevery.xyz CNAME .
 clevi.com CNAME .
 clevv.com CNAME .
-clg.btcc.com CNAME .
 clgserv.pro CNAME .
 clgyhwaoh.com CNAME .
 clhctrk.com CNAME .
@@ -31506,6 +31507,7 @@ decenthat.com CNAME .
 decideinteractive.com CNAME .
 deciduate-pot.000webhostapp.com CNAME .
 decision.cc CNAME .
+decisionediv.site CNAME .
 decisionmark.com CNAME .
 decisionnews.com CNAME .
 decisivedrawer.com CNAME .
@@ -31917,6 +31919,7 @@ desiasm.club CNAME .
 desibitinlet.pro CNAME .
 desidert.no CNAME .
 desifever.com CNAME .
+desigactinific.pro CNAME .
 design.bixin.com CNAME .
 design.mangoxl.com CNAME .
 design14.info CNAME .
@@ -45379,6 +45382,7 @@ graftpool.net CNAME .
 graftpool.ovh CNAME .
 graftpool.site CNAME .
 grafzen.com CNAME .
+gragliapastri.info CNAME .
 graicmiw.com CNAME .
 graidsee.net CNAME .
 graivaik.com CNAME .
@@ -45714,6 +45718,7 @@ grtyj.com CNAME .
 grtyo.com CNAME .
 grubersa.com CNAME .
 grubpbrmek.com CNAME .
+grubsoan.com CNAME .
 gruglooh.net CNAME .
 grumman.pl CNAME .
 grumpyadzen.com CNAME .
@@ -51983,6 +51988,7 @@ ijfchpiptvvzko.com CNAME .
 ijfnbtksuntwqe.com CNAME .
 ijhpzjzjaujpov.com CNAME .
 ijhqzvlnsxu.com CNAME .
+ijiraeitwqpj.com CNAME .
 ijmamurtika.id CNAME .
 ijmzezsaxxomr.com CNAME .
 ijnghdmfrb.com CNAME .
@@ -52070,6 +52076,7 @@ illuminati.fgl.com CNAME .
 illuminiamoilpoggiodistantino.it CNAME .
 illustriousoatmeal.com CNAME .
 illymithics.fr CNAME .
+ilmijlktgjx.com CNAME .
 ilmupelet.net CNAME .
 iln.zzjpgqd.com CNAME .
 ilogbox.com CNAME .
@@ -62370,6 +62377,7 @@ madnet.ru CNAME .
 madoko.jhfree.net CNAME .
 madonna.sexybabesx.com CNAME .
 madopera8767.duckdns.org CNAME .
+madplypie.club CNAME .
 madrasanajmulhudatenkasi.in CNAME .
 mads.advertising.com CNAME .
 mads.amazon-adsystem.com CNAME .
@@ -68376,7 +68384,6 @@ na-sj14.marketo.com CNAME .
 na-sj20.marketo.com CNAME .
 na-sj23.marketo.com CNAME .
 na-sj24.marketo.com CNAME .
-na-sjf.marketo.com CNAME .
 na-tlx.3lift.com CNAME .
 na-toursru.416.com1.ru CNAME .
 na.ads.yahoo.com CNAME .
@@ -71955,6 +71962,7 @@ ocyhiome.com CNAME .
 ocyhpouojiss.com CNAME .
 oczqdwqnvhzz.bid CNAME .
 oczvtbskwbmj.com CNAME .
+od0gddq27wkk.com CNAME .
 oda.markitondemand.com CNAME .
 odanetrlgvunth.com CNAME .
 odas.onedigitalad.com CNAME .
@@ -76591,6 +76599,7 @@ pixelglobal.sojern.com CNAME .
 pixelhere.com CNAME .
 pixelinteractivemedia.com CNAME .
 pixeljs-ads.pubmatic.com CNAME .
+pixelpop.co CNAME .
 pixelrevenue.com CNAME .
 pixels.adzmedia.com CNAME .
 pixels.asia CNAME .
@@ -80798,6 +80807,7 @@ qmiypgoukkl.com CNAME .
 qmjjvpoqhb.com CNAME .
 qmkr7isp3o.com CNAME .
 qmmdvzsebi.com CNAME .
+qmokxgfz.com CNAME .
 qmotkiltrim.com CNAME .
 qmotmcwz.com CNAME .
 qmouzhzz.com CNAME .
@@ -81049,6 +81059,7 @@ quantumws.net CNAME .
 quark.miningpoolhub.com CNAME .
 quarrystats.egem.io CNAME .
 quarterbean.com CNAME .
+quartic.pl CNAME .
 quartzsitedesertflyers.com CNAME .
 quartzslabchina.com CNAME .
 quasar18.duckdns.org CNAME .
@@ -81999,6 +82010,7 @@ rdrs.ad-score.com CNAME .
 rdrtrk.com CNAME .
 rds-assets.nvidia.com CNAME .
 rdsa2012.com CNAME .
+rdsb2.club CNAME .
 rdsig.yahoo.co.jp CNAME .
 rdstation.com.br CNAME .
 rdtdlv.laredoute.fr CNAME .
@@ -92917,6 +92929,7 @@ streamamp-d.openx.net CNAME .
 streamate.com CNAME .
 streambeam.io CNAME .
 streamclub.best CNAME .
+streamclub.fun CNAME .
 streamdefence.com CNAME .
 streamdream.ws CNAME .
 streameye-prod.elasticbeanstalk.com CNAME .
@@ -94534,6 +94547,7 @@ tag.dtrck.net CNAME .
 tag.gammaplatform.com CNAME .
 tag.gayadnetwork.com CNAME .
 tag.getdrip.com CNAME .
+tag.goldenbees.fr CNAME .
 tag.hockeycurve.com CNAME .
 tag.idsync.analytics.yahoo.com CNAME .
 tag.imonomy.com CNAME .
@@ -96095,6 +96109,7 @@ themodshop.ca CNAME .
 themoneytizer.com CNAME .
 themostpopularexercisequestions.net CNAME .
 themovienation.com CNAME .
+themselvebu.site CNAME .
 themusicnetwork.co.uk CNAME .
 thenabler.com CNAME .
 thenational-gb.thenational.scot CNAME .
@@ -101085,6 +101100,7 @@ uimovil.com CNAME .
 uimrmuoztkoia.com CNAME .
 uimserv.net CNAME .
 uinbjfve.com CNAME .
+uinelypresse.info CNAME .
 uio.boencj.com CNAME .
 uip.semasio.net CNAME .
 uipjeyipoumf.com CNAME .
@@ -101569,6 +101585,7 @@ untitled.dwstatic.com CNAME .
 untoldindianews.com CNAME .
 untotlowith.info CNAME .
 untouchwarfar.info CNAME .
+untridrisa.cf CNAME .
 untuk-telinga.nanopool.org CNAME .
 untypetenthdicket.info CNAME .
 unumbonum.com CNAME .
@@ -103226,6 +103243,7 @@ verblife-3.co CNAME .
 verclothesstore.club CNAME .
 verdeypaisaje.es CNAME .
 verdrivenbru.info CNAME .
+veremund-hon.com CNAME .
 verfer.com CNAME .
 verge.blake2s.com CNAME .
 verge.mastermining.net CNAME .

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 61,342
+; Entries: 61,358
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 12:09:45
+; Updated: Mon, 24 Feb 20 18:10:16
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7287,6 +7287,7 @@ algosecrets.algolia.com CNAME .
 algovid.com CNAME .
 algrizej.com CNAME .
 alhist.com CNAME .
+alhistoriousg.info CNAME .
 alhpqmefnwkxtn.com CNAME .
 ali-crm.ru CNAME .
 ali-stats.jpush.cn CNAME .
@@ -11747,6 +11748,7 @@ bitterstrawberry.org CNAME .
 bittraffic.io CNAME .
 bitupsss.com CNAME .
 bitx.tv CNAME .
+bityah-sym.com CNAME .
 bitzfree.com CNAME .
 biubiudown.com CNAME .
 biuky.es CNAME .
@@ -14360,6 +14362,7 @@ ceres.iad-03.braze.com CNAME .
 cerotop.com CNAME .
 cert-test-alias.algolia.com CNAME .
 certaken.com CNAME .
+certakesime.site CNAME .
 certified-toolbar.com CNAME .
 certifiedwinners.info CNAME .
 certify-amp.alexametrics.com CNAME .
@@ -18001,6 +18004,7 @@ decadiz.es CNAME .
 decenterads.com CNAME .
 decenthat.com CNAME .
 decision.cc CNAME .
+decisionediv.site CNAME .
 decisionmark.com CNAME .
 decisionnews.com CNAME .
 decisivedrawer.com CNAME .
@@ -18184,6 +18188,7 @@ deshmedia.com CNAME .
 desiasm.club CNAME .
 desibitinlet.pro CNAME .
 desifever.com CNAME .
+desigactinific.pro CNAME .
 designyourowntote.com CNAME .
 desigualeshop.com CNAME .
 desigualitienda.com CNAME .
@@ -24302,6 +24307,7 @@ graftaub.com CNAME .
 graftpool.net CNAME .
 graftpool.ovh CNAME .
 grafzen.com CNAME .
+gragliapastri.info CNAME .
 graicmiw.com CNAME .
 graidsee.net CNAME .
 graivaik.com CNAME .
@@ -24435,6 +24441,7 @@ grtyb.com CNAME .
 grtyj.com CNAME .
 grtyo.com CNAME .
 grubpbrmek.com CNAME .
+grubsoan.com CNAME .
 gruglooh.net CNAME .
 grumpyadzen.com CNAME .
 grunerandjahr.112.2o7.net CNAME .
@@ -26726,6 +26733,7 @@ ijfchpiptvvzko.com CNAME .
 ijfnbtksuntwqe.com CNAME .
 ijhpzjzjaujpov.com CNAME .
 ijhqzvlnsxu.com CNAME .
+ijiraeitwqpj.com CNAME .
 ijmzezsaxxomr.com CNAME .
 ijnghdmfrb.com CNAME .
 ijowsfraldsnb.com CNAME .
@@ -26764,6 +26772,7 @@ illfatedsnail.com CNAME .
 illizuqkdqjobt.com CNAME .
 illuminati.fgl.com CNAME .
 illustriousoatmeal.com CNAME .
+ilmijlktgjx.com CNAME .
 iloopmobile.com CNAME .
 ilovecheating.com CNAME .
 ilovechollos.es CNAME .
@@ -31718,6 +31727,7 @@ madienergias.es CNAME .
 madisonavenue.com CNAME .
 madisonlogic.com CNAME .
 madnet.ru CNAME .
+madplypie.club CNAME .
 mads.advertising.com CNAME .
 mads.amazon-adsystem.com CNAME .
 mads.amazon.com CNAME .
@@ -34579,7 +34589,6 @@ na-sj14.marketo.com CNAME .
 na-sj20.marketo.com CNAME .
 na-sj23.marketo.com CNAME .
 na-sj24.marketo.com CNAME .
-na-sjf.marketo.com CNAME .
 na-tlx.3lift.com CNAME .
 na.ads.yahoo.com CNAME .
 na.api.inrix.com CNAME .
@@ -36288,6 +36297,7 @@ ocyhiome.com CNAME .
 ocyhpouojiss.com CNAME .
 oczqdwqnvhzz.bid CNAME .
 oczvtbskwbmj.com CNAME .
+od0gddq27wkk.com CNAME .
 odanetrlgvunth.com CNAME .
 odas.onedigitalad.com CNAME .
 odb-chidc2.outbrain.com CNAME .
@@ -42213,6 +42223,7 @@ rdrkxlmlqpqns.com CNAME .
 rdrs.ad-score.com CNAME .
 rdrtrk.com CNAME .
 rdsa2012.com CNAME .
+rdsb2.club CNAME .
 rdthuvynnwgind.com CNAME .
 rdtk.io CNAME .
 rdtrck2.com CNAME .
@@ -47759,6 +47770,7 @@ stream-direct.com CNAME .
 streamamp-d.openx.net CNAME .
 streamate.com CNAME .
 streamclub.best CNAME .
+streamclub.fun CNAME .
 streamdefence.com CNAME .
 streamdream.ws CNAME .
 streamguys.deliveryengine.adswizz.com CNAME .
@@ -49277,6 +49289,7 @@ themexp.org CNAME .
 themillionaireinpjs.net CNAME .
 theminingpool.thruhere.net CNAME .
 themoneytizer.com CNAME .
+themselvebu.site CNAME .
 themusicnetwork.co.uk CNAME .
 thenbehindesit.info CNAME .
 thencouserechan.info CNAME .
@@ -52523,6 +52536,7 @@ uimovil.com CNAME .
 uimrmuoztkoia.com CNAME .
 uimserv.net CNAME .
 uinbjfve.com CNAME .
+uinelypresse.info CNAME .
 uip.semasio.net CNAME .
 uipjeyipoumf.com CNAME .
 uiqwtgcp.com CNAME .
@@ -52773,6 +52787,7 @@ unthem.com CNAME .
 untidyquestion.com CNAME .
 untotlowith.info CNAME .
 untouchwarfar.info CNAME .
+untridrisa.cf CNAME .
 untypetenthdicket.info CNAME .
 unumbonum.com CNAME .
 unusualtitle.com CNAME .
@@ -53707,6 +53722,7 @@ verblife-3.co CNAME .
 verclothesstore.club CNAME .
 verdeypaisaje.es CNAME .
 verdrivenbru.info CNAME .
+veremund-hon.com CNAME .
 vericlick.com CNAME .
 verifier.live CNAME .
 verisignwildcard.112.2o7.net CNAME .

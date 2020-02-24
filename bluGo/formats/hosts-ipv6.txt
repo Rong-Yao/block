@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.055
 # Release: 055
-# Entries: 121,977
+# Entries: 121,995
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 12:09:49
+# Updated: Mon, 24 Feb 20 18:10:20
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -4503,7 +4503,6 @@ ff02::3 ip6-allhosts
 :: aciasms.com.br
 :: acidityfoamy.com
 :: acidpigs.com
-:: acieh.onecinema.us
 :: acikdeniz-tr-denizbank.com
 :: aciklise.web.tr
 :: acimo.com
@@ -11108,6 +11107,7 @@ ff02::3 ip6-allhosts
 :: alhijazhotels.com
 :: alhijaztrvl.com
 :: alhist.com
+:: alhistoriousg.info
 :: alhpqmefnwkxtn.com
 :: alhuriahglass.000webhostapp.com
 :: ali-crm.ru
@@ -19337,6 +19337,7 @@ ff02::3 ip6-allhosts
 :: bitwork.ddns.net
 :: bitx.tv
 :: bitx.v2.dedicatedpool.com
+:: bityah-sym.com
 :: bitzec.insight.equihub.pro
 :: bitzfree.com
 :: biubiudown.com
@@ -24174,6 +24175,7 @@ ff02::3 ip6-allhosts
 :: cert-test-alias.algolia.com
 :: cert-test.sandbox.google.com
 :: certaken.com
+:: certakesime.site
 :: certifica.com
 :: certificates.ddns.net
 :: certified-hacks.com
@@ -25304,7 +25306,6 @@ ff02::3 ip6-allhosts
 :: clevery.xyz
 :: clevi.com
 :: clevv.com
-:: clg.btcc.com
 :: clgserv.pro
 :: clgyhwaoh.com
 :: clhctrk.com
@@ -31517,6 +31518,7 @@ ff02::3 ip6-allhosts
 :: decideinteractive.com
 :: deciduate-pot.000webhostapp.com
 :: decision.cc
+:: decisionediv.site
 :: decisionmark.com
 :: decisionnews.com
 :: decisivedrawer.com
@@ -31928,6 +31930,7 @@ ff02::3 ip6-allhosts
 :: desibitinlet.pro
 :: desidert.no
 :: desifever.com
+:: desigactinific.pro
 :: design.bixin.com
 :: design.mangoxl.com
 :: design14.info
@@ -45390,6 +45393,7 @@ ff02::3 ip6-allhosts
 :: graftpool.ovh
 :: graftpool.site
 :: grafzen.com
+:: gragliapastri.info
 :: graicmiw.com
 :: graidsee.net
 :: graivaik.com
@@ -45725,6 +45729,7 @@ ff02::3 ip6-allhosts
 :: grtyo.com
 :: grubersa.com
 :: grubpbrmek.com
+:: grubsoan.com
 :: gruglooh.net
 :: grumman.pl
 :: grumpyadzen.com
@@ -51994,6 +51999,7 @@ ff02::3 ip6-allhosts
 :: ijfnbtksuntwqe.com
 :: ijhpzjzjaujpov.com
 :: ijhqzvlnsxu.com
+:: ijiraeitwqpj.com
 :: ijmamurtika.id
 :: ijmzezsaxxomr.com
 :: ijnghdmfrb.com
@@ -52081,6 +52087,7 @@ ff02::3 ip6-allhosts
 :: illuminiamoilpoggiodistantino.it
 :: illustriousoatmeal.com
 :: illymithics.fr
+:: ilmijlktgjx.com
 :: ilmupelet.net
 :: iln.zzjpgqd.com
 :: ilogbox.com
@@ -62381,6 +62388,7 @@ ff02::3 ip6-allhosts
 :: madoko.jhfree.net
 :: madonna.sexybabesx.com
 :: madopera8767.duckdns.org
+:: madplypie.club
 :: madrasanajmulhudatenkasi.in
 :: mads.advertising.com
 :: mads.amazon-adsystem.com
@@ -68387,7 +68395,6 @@ ff02::3 ip6-allhosts
 :: na-sj20.marketo.com
 :: na-sj23.marketo.com
 :: na-sj24.marketo.com
-:: na-sjf.marketo.com
 :: na-tlx.3lift.com
 :: na-toursru.416.com1.ru
 :: na.ads.yahoo.com
@@ -71966,6 +71973,7 @@ ff02::3 ip6-allhosts
 :: ocyhpouojiss.com
 :: oczqdwqnvhzz.bid
 :: oczvtbskwbmj.com
+:: od0gddq27wkk.com
 :: oda.markitondemand.com
 :: odanetrlgvunth.com
 :: odas.onedigitalad.com
@@ -76602,6 +76610,7 @@ ff02::3 ip6-allhosts
 :: pixelhere.com
 :: pixelinteractivemedia.com
 :: pixeljs-ads.pubmatic.com
+:: pixelpop.co
 :: pixelrevenue.com
 :: pixels.adzmedia.com
 :: pixels.asia
@@ -80809,6 +80818,7 @@ ff02::3 ip6-allhosts
 :: qmjjvpoqhb.com
 :: qmkr7isp3o.com
 :: qmmdvzsebi.com
+:: qmokxgfz.com
 :: qmotkiltrim.com
 :: qmotmcwz.com
 :: qmouzhzz.com
@@ -81060,6 +81070,7 @@ ff02::3 ip6-allhosts
 :: quark.miningpoolhub.com
 :: quarrystats.egem.io
 :: quarterbean.com
+:: quartic.pl
 :: quartzsitedesertflyers.com
 :: quartzslabchina.com
 :: quasar18.duckdns.org
@@ -82010,6 +82021,7 @@ ff02::3 ip6-allhosts
 :: rdrtrk.com
 :: rds-assets.nvidia.com
 :: rdsa2012.com
+:: rdsb2.club
 :: rdsig.yahoo.co.jp
 :: rdstation.com.br
 :: rdtdlv.laredoute.fr
@@ -92928,6 +92940,7 @@ ff02::3 ip6-allhosts
 :: streamate.com
 :: streambeam.io
 :: streamclub.best
+:: streamclub.fun
 :: streamdefence.com
 :: streamdream.ws
 :: streameye-prod.elasticbeanstalk.com
@@ -94545,6 +94558,7 @@ ff02::3 ip6-allhosts
 :: tag.gammaplatform.com
 :: tag.gayadnetwork.com
 :: tag.getdrip.com
+:: tag.goldenbees.fr
 :: tag.hockeycurve.com
 :: tag.idsync.analytics.yahoo.com
 :: tag.imonomy.com
@@ -96106,6 +96120,7 @@ ff02::3 ip6-allhosts
 :: themoneytizer.com
 :: themostpopularexercisequestions.net
 :: themovienation.com
+:: themselvebu.site
 :: themusicnetwork.co.uk
 :: thenabler.com
 :: thenational-gb.thenational.scot
@@ -101096,6 +101111,7 @@ ff02::3 ip6-allhosts
 :: uimrmuoztkoia.com
 :: uimserv.net
 :: uinbjfve.com
+:: uinelypresse.info
 :: uio.boencj.com
 :: uip.semasio.net
 :: uipjeyipoumf.com
@@ -101580,6 +101596,7 @@ ff02::3 ip6-allhosts
 :: untoldindianews.com
 :: untotlowith.info
 :: untouchwarfar.info
+:: untridrisa.cf
 :: untuk-telinga.nanopool.org
 :: untypetenthdicket.info
 :: unumbonum.com
@@ -103237,6 +103254,7 @@ ff02::3 ip6-allhosts
 :: verclothesstore.club
 :: verdeypaisaje.es
 :: verdrivenbru.info
+:: veremund-hon.com
 :: verfer.com
 :: verge.blake2s.com
 :: verge.mastermining.net

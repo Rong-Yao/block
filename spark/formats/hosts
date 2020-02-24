@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 61,342
+# Entries: 61,358
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 12:09:45
+# Updated: Mon, 24 Feb 20 18:10:16
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -7298,6 +7298,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 algovid.com
 0.0.0.0 algrizej.com
 0.0.0.0 alhist.com
+0.0.0.0 alhistoriousg.info
 0.0.0.0 alhpqmefnwkxtn.com
 0.0.0.0 ali-crm.ru
 0.0.0.0 ali-stats.jpush.cn
@@ -11758,6 +11759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bittraffic.io
 0.0.0.0 bitupsss.com
 0.0.0.0 bitx.tv
+0.0.0.0 bityah-sym.com
 0.0.0.0 bitzfree.com
 0.0.0.0 biubiudown.com
 0.0.0.0 biuky.es
@@ -14371,6 +14373,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cerotop.com
 0.0.0.0 cert-test-alias.algolia.com
 0.0.0.0 certaken.com
+0.0.0.0 certakesime.site
 0.0.0.0 certified-toolbar.com
 0.0.0.0 certifiedwinners.info
 0.0.0.0 certify-amp.alexametrics.com
@@ -18012,6 +18015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 decenterads.com
 0.0.0.0 decenthat.com
 0.0.0.0 decision.cc
+0.0.0.0 decisionediv.site
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com
 0.0.0.0 decisivedrawer.com
@@ -18195,6 +18199,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 desiasm.club
 0.0.0.0 desibitinlet.pro
 0.0.0.0 desifever.com
+0.0.0.0 desigactinific.pro
 0.0.0.0 designyourowntote.com
 0.0.0.0 desigualeshop.com
 0.0.0.0 desigualitienda.com
@@ -24313,6 +24318,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 graftpool.net
 0.0.0.0 graftpool.ovh
 0.0.0.0 grafzen.com
+0.0.0.0 gragliapastri.info
 0.0.0.0 graicmiw.com
 0.0.0.0 graidsee.net
 0.0.0.0 graivaik.com
@@ -24446,6 +24452,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 grtyj.com
 0.0.0.0 grtyo.com
 0.0.0.0 grubpbrmek.com
+0.0.0.0 grubsoan.com
 0.0.0.0 gruglooh.net
 0.0.0.0 grumpyadzen.com
 0.0.0.0 grunerandjahr.112.2o7.net
@@ -26737,6 +26744,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ijfnbtksuntwqe.com
 0.0.0.0 ijhpzjzjaujpov.com
 0.0.0.0 ijhqzvlnsxu.com
+0.0.0.0 ijiraeitwqpj.com
 0.0.0.0 ijmzezsaxxomr.com
 0.0.0.0 ijnghdmfrb.com
 0.0.0.0 ijowsfraldsnb.com
@@ -26775,6 +26783,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 illizuqkdqjobt.com
 0.0.0.0 illuminati.fgl.com
 0.0.0.0 illustriousoatmeal.com
+0.0.0.0 ilmijlktgjx.com
 0.0.0.0 iloopmobile.com
 0.0.0.0 ilovecheating.com
 0.0.0.0 ilovechollos.es
@@ -31729,6 +31738,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 madisonavenue.com
 0.0.0.0 madisonlogic.com
 0.0.0.0 madnet.ru
+0.0.0.0 madplypie.club
 0.0.0.0 mads.advertising.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads.amazon.com
@@ -34590,7 +34600,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 na-sj20.marketo.com
 0.0.0.0 na-sj23.marketo.com
 0.0.0.0 na-sj24.marketo.com
-0.0.0.0 na-sjf.marketo.com
 0.0.0.0 na-tlx.3lift.com
 0.0.0.0 na.ads.yahoo.com
 0.0.0.0 na.api.inrix.com
@@ -36299,6 +36308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ocyhpouojiss.com
 0.0.0.0 oczqdwqnvhzz.bid
 0.0.0.0 oczvtbskwbmj.com
+0.0.0.0 od0gddq27wkk.com
 0.0.0.0 odanetrlgvunth.com
 0.0.0.0 odas.onedigitalad.com
 0.0.0.0 odb-chidc2.outbrain.com
@@ -42224,6 +42234,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rdrs.ad-score.com
 0.0.0.0 rdrtrk.com
 0.0.0.0 rdsa2012.com
+0.0.0.0 rdsb2.club
 0.0.0.0 rdthuvynnwgind.com
 0.0.0.0 rdtk.io
 0.0.0.0 rdtrck2.com
@@ -47770,6 +47781,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 streamamp-d.openx.net
 0.0.0.0 streamate.com
 0.0.0.0 streamclub.best
+0.0.0.0 streamclub.fun
 0.0.0.0 streamdefence.com
 0.0.0.0 streamdream.ws
 0.0.0.0 streamguys.deliveryengine.adswizz.com
@@ -49288,6 +49300,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 themillionaireinpjs.net
 0.0.0.0 theminingpool.thruhere.net
 0.0.0.0 themoneytizer.com
+0.0.0.0 themselvebu.site
 0.0.0.0 themusicnetwork.co.uk
 0.0.0.0 thenbehindesit.info
 0.0.0.0 thencouserechan.info
@@ -52534,6 +52547,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 uimrmuoztkoia.com
 0.0.0.0 uimserv.net
 0.0.0.0 uinbjfve.com
+0.0.0.0 uinelypresse.info
 0.0.0.0 uip.semasio.net
 0.0.0.0 uipjeyipoumf.com
 0.0.0.0 uiqwtgcp.com
@@ -52784,6 +52798,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 untidyquestion.com
 0.0.0.0 untotlowith.info
 0.0.0.0 untouchwarfar.info
+0.0.0.0 untridrisa.cf
 0.0.0.0 untypetenthdicket.info
 0.0.0.0 unumbonum.com
 0.0.0.0 unusualtitle.com
@@ -53718,6 +53733,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 verclothesstore.club
 0.0.0.0 verdeypaisaje.es
 0.0.0.0 verdrivenbru.info
+0.0.0.0 veremund-hon.com
 0.0.0.0 vericlick.com
 0.0.0.0 verifier.live
 0.0.0.0 verisignwildcard.112.2o7.net

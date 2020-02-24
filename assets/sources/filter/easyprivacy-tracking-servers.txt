@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
 # Last Converted - 24.02.2020
-# Total Domains - 2823
+# Total Domains - 2825
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1856,6 +1856,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixeleze.com
 0.0.0.0 pixelinteractivemedia.com
+0.0.0.0 pixelpop.co
 0.0.0.0 pixelrevenue.com
 0.0.0.0 pizzaandads.com
 0.0.0.0 pjatr.com
@@ -1938,6 +1939,7 @@
 0.0.0.0 quadran.eu
 0.0.0.0 quaintcan.com
 0.0.0.0 quantcount.com
+0.0.0.0 quartic.pl
 0.0.0.0 qubitproducts.com
 0.0.0.0 questionpro.com
 0.0.0.0 questradeaffiliates.com

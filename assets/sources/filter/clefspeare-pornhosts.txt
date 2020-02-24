@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 7241
+# Total Domains - 7240
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6186,7 +6186,6 @@
 0.0.0.0 www.swapsmut.com
 0.0.0.0 www.swebcams.com
 0.0.0.0 www.sweet-angels.com
-0.0.0.0 www.sweet-sin.com
 0.0.0.0 www.sweet.sweet-angels.net
 0.0.0.0 www.sweetandpussy.com
 0.0.0.0 www.sweetbabesblog.com

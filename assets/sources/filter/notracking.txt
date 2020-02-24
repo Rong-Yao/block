@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Last Converted - 24.02.2020
-# Total Domains - 25466
+# Total Domains - 25464
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10551,7 +10551,6 @@
 0.0.0.0 hospitality.quins.co.uk
 0.0.0.0 host.colocrossing.com
 0.0.0.0 host.torrent21.ru
-0.0.0.0 host1.5v.pl
 0.0.0.0 host238.hostmonster.com
 0.0.0.0 host775544.ddns.net
 0.0.0.0 host911178660.s1135.pppf.com.cn
@@ -22059,7 +22058,6 @@
 0.0.0.0 www.cioccolatopaolillo.it
 0.0.0.0 www.cirugiaurologica.com
 0.0.0.0 www.citrusspringslibrary.org
-0.0.0.0 www.city.gop
 0.0.0.0 www.cityradiusmaps.com
 0.0.0.0 www.clap4ya.com
 0.0.0.0 www.classandgo.co.uk

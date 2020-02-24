@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 41,626
+; Entries: 41,625
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 00:14:20
+; Updated: Mon, 24 Feb 20 06:14:13
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -38143,7 +38143,6 @@ www.swapsmut.com CNAME .
 www.swebcams.com CNAME .
 www.sweet-angels.com CNAME .
 www.sweet-pornstars.com CNAME .
-www.sweet-sin.com CNAME .
 www.sweet.sweet-angels.net CNAME .
 www.sweetandpussy.com CNAME .
 www.sweetbabesblog.com CNAME .

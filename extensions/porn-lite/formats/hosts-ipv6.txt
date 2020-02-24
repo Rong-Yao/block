@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.055
 # Release: 055
-# Entries: 41,626
+# Entries: 41,625
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 00:14:20
+# Updated: Mon, 24 Feb 20 06:14:13
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -38154,7 +38154,6 @@ ff02::3 ip6-allhosts
 :: www.swebcams.com
 :: www.sweet-angels.com
 :: www.sweet-pornstars.com
-:: www.sweet-sin.com
 :: www.sweet.sweet-angels.net
 :: www.sweetandpussy.com
 :: www.sweetbabesblog.com

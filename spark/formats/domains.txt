@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.055
 # Release: 055
-# Entries: 61,324
+# Entries: 61,338
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 00:10:19
+# Updated: Mon, 24 Feb 20 06:10:14
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -9775,6 +9775,7 @@ arkyn.es
 arllvzkoh.com
 armaimapt.club
 armantark.com
+armashair.site
 armbadare.site
 armoneandwa.pro
 armsart.com
@@ -17903,6 +17904,7 @@ dcs.adgear.com
 dcsbdmarket.com
 dctracking.com
 dcxitlzzmyxbwn.com
+dcxtvftrdd.com
 dcyeufoq.com
 dcznhkojghrl.com
 dd.smaxdn.com
@@ -18779,6 +18781,7 @@ dmtracker.com
 dmu20vut.com
 dmv-org-d.openx.net
 dmv-written-test.h-bid.com
+dmvbdfblevxvx.com
 dmvguidecom.112.2o7.net
 dmxleo.com
 dmxoedcqcb.com
@@ -29200,6 +29203,7 @@ keepass.com
 keepass.fr
 keepload.online
 keepyoungphone.bid
+kegpoihat.club
 kehalim.com
 kei.su
 kejet.net
@@ -36586,6 +36590,7 @@ olgjzpgp.com
 olgtex.com
 olhjdf.com
 olhupniause.com
+olicyconsendsi.info
 olineman.pro
 oliva.specialtoprice.com
 olivebrandresponse.com
@@ -37544,6 +37549,7 @@ ozonemedia.com
 ozpigvtnn.bid
 ozqbyd.gdn
 ozrdgjalmch.com
+ozrmnwplx.com
 ozsriqitazi.com
 ozssctuyet.com
 oztzipze.com
@@ -39846,6 +39852,7 @@ pornobomba.cc
 pornoh.info
 pornohub.cc
 pornoid.com
+pornoman.pl
 pornomovies.com
 pornoow.com
 pornoplay.online
@@ -42773,6 +42780,7 @@ retrotaft.com
 return.bs.domainnamesales.com
 return.domainnamesales.com
 return.uk.domainnamesales.com
+returnessety.site
 reundcwkqvctq.com
 reunion.crwdcntrl.net
 reunioncom.112.2o7.net
@@ -43635,6 +43643,7 @@ rxtun.bemobtrk.com
 rxuqpktyqixa.com
 rxysradiyvcp.com
 ryadqsgyfwx.cinci.rr.com
+ryaqdetppzpw.com
 rydohimowa.info
 rydresa.info
 ryestionsacticefr.info
@@ -47325,6 +47334,7 @@ static.trafficjunky.com
 static.trafficjunky.net
 static.trafficstars.com
 static.tubeadvertising.eu
+static.twincdn.com
 static.twinpine.adatrix.com
 static.ucgc.ucfly.com
 static.umbel.com
@@ -48710,6 +48720,7 @@ taptica.com
 taptun-handler.info
 taqesyqne.com
 tar.tradedoubler.com
+tarawerap.com
 tardangro.com
 tardishomecompanion.com
 targad.de
@@ -55597,6 +55608,7 @@ wrmcfyzl.com
 wrnrxzstxtjsn.com
 wroclawski.com.pl
 wronbouldrettons.pro
+wrongerababan.info
 wrongpotato.com
 wronresthatmedidn.pro
 wrontonshatbona.pro
@@ -59515,6 +59527,7 @@ wykskkpplgfi.com
 wyl1ccan.com
 wyl1ccany.com
 wyl1kkany.com
+wylblxhn.com
 wymoviciyvj.com
 wynather.com
 wyont.queensiteforapp.com
@@ -61242,6 +61255,7 @@ zrh.bewilderinglyalbumin.com
 zrhskqzfh.com
 zridsfev.com
 zrlxjcsvib.com
+zrnedsainsteady.info
 zrosbqwecw.com
 zrrat.31772.club
 zry8181.com

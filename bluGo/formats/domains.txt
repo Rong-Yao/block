@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.055
 # Release: 055
-# Entries: 122,062
+# Entries: 122,022
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 00:10:23
+# Updated: Mon, 24 Feb 20 06:10:18
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -79,7 +79,6 @@
 006.free-counter.co.uk
 006a039c957c142bb.com
 007.free-counter.co.uk
-007227n4198g957.btcc.com
 0073dd485d46d930dd9.com
 007angels.com
 008.free-counter.co.uk
@@ -489,7 +488,6 @@
 123-counter.de
 123-tracker.com
 123.39jz.com
-1234ni.btcc.com
 123any.com
 123boy.free.fr
 123branlemoi.free.fr
@@ -678,7 +676,6 @@
 155-59.btcc.com
 156.uw.to
 156002.com
-15603.btcc.com
 15628.hittail.com
 15694.hittail.com
 157ita684j.com
@@ -701,7 +698,6 @@
 161028.engine.mobileapptracking.com
 161118.engine.mobileapptracking.com
 163-78.btcc.com
-16343.btcc.com
 164-45.btcc.com
 16565.hittail.com
 165a7c15380874ef3.com
@@ -724,7 +720,6 @@
 16e2ae8f200d975b.com
 16games.it
 16yp1ji92a.com
-17-96.btcc.com
 17.easyhash.de
 17.huanqiu.com
 17.minercircle.com
@@ -759,7 +754,6 @@
 17so.so
 17updatechwe150218.ru
 17youzi.com
-18-245.btcc.com
 18.afs.googleadservices.com
 18.video-ak.cdn.spotify.com
 180150-192.btcc.com
@@ -876,7 +870,6 @@
 19tv.top
 1a-consultants.com
 1a.video-ak.cdn.spotify.com
-1a2a52.btcc.com
 1adult.com
 1b.video-ak.cdn.spotify.com
 1b.yt
@@ -1258,7 +1251,6 @@
 235-32.btcc.com
 2359.api.swrve.com
 2359.content.swrve.com
-236-146.btcc.com
 23606.xc.wenpie.com
 2367.api.swrve.com
 2367.content.swrve.com
@@ -1447,7 +1439,6 @@
 2amsports.com
 2an-hit-ren.com
 2anal.net
-2art.btcc.com
 2b.video-ak.cdn.spotify.com
 2b3a2372-5410-4587-b9a8-eeca1c8b096c.htmlpasta.com
 2baners.ero-advertising.com
@@ -2764,7 +2755,6 @@
 65mjvw6i1z.com
 65vk1fba34.com
 65xps.com
-66-26.btcc.com
 66.8ox.cn
 6602c412-67f3-4725-92eb-5c2ebb2c6166.htmlpasta.com
 660a755deb8829fe.com
@@ -2800,7 +2790,6 @@
 67ytfffyt.ddns.net
 68.video-ak.cdn.spotify.com
 681683.com
-683jinbaoboyulechengxianjinbaijiale.btcc.com
 6868bbe42af8e518.com
 6872afcd04.com
 688de7b3822de.com
@@ -10018,7 +10007,6 @@ aemhabst.bid
 aemxvcqi.com
 aenan.pw
 aenrqpnfmdogf.com
-aeo.btcc.com
 aeobzaii.com
 aeon-pool.com
 aeon-pool.net
@@ -13294,7 +13282,6 @@ ap.tapone.jp
 ap.tnkfactory.com
 ap2.adriver.ru
 ap2.remerge.events
-ap4.btcc.com
 apa-sha.adsrvr.org
 apa-sin.adsrvr.org
 apa-tok.adsrvr.org
@@ -13346,7 +13333,6 @@ apextechnotools.com
 apextop.cc
 apextwo.com
 apf.ads.justpremium.com
-apf.btcc.com
 apfbtiqdly.bid
 apfelzwerg.com
 apfmwcktbj.com
@@ -15232,6 +15218,7 @@ armaninofoods.com
 armanoizoamani.duckdns.org
 armantark.com
 armaqindustrial.com.br
+armashair.site
 armazones.com
 armbadare.site
 armenianfestival.com.au
@@ -15271,7 +15258,6 @@ arpucyhlmes.com
 arpxs.com
 arq-ird.arhash.xyz
 arq.minerhills.com
-arq.minexmr24.ru
 arq.pool.gntl.co.uk
 arq.semipool.com
 arq.superpools.online
@@ -21054,7 +21040,6 @@ btovopyov.com
 btpgbmvlk.bid
 btpnav.com
 btprmnav.com
-btq.btcc.com
 btqwmdinav.com
 btr-block-explorer.thepiratemine.nl
 btr.domywife.com
@@ -23186,7 +23171,6 @@ cdfyuyoyfxohj.bid
 cdgame.kgb.pl
 cdgfa.ifeng.com
 cdggua.yi.org
-cdh.btcc.com
 cdhiaqb3unbsye.ru
 cdhomexpo.cn
 cdhzxcwuibzk.com
@@ -24264,7 +24248,6 @@ cfasync.ga
 cfasync.gq
 cfasync.ml
 cfbdhcwm.com
-cfccblackjack.spectresecurity.io
 cfcgl.com
 cfcloudcdn.com
 cfcn.allocine.net
@@ -31342,6 +31325,7 @@ dcsbdmarket.com
 dct.mango-office.ru
 dctracking.com
 dcxitlzzmyxbwn.com
+dcxtvftrdd.com
 dcy.cpufan.club
 dcy.cryptomineros.com
 dcy.leafpool.com
@@ -31454,7 +31438,6 @@ de01.rayjump.com
 de01.smardroid.com
 de1.eu.nimiqpool.com
 de1.frosmo.com
-de1.miningpool.co
 de17a.com
 de2.btcc.com
 de2.splicky.com
@@ -33227,6 +33210,7 @@ dmtw0i4zln92b.cloudfront.net
 dmu20vut.com
 dmv-org-d.openx.net
 dmv-written-test.h-bid.com
+dmvbdfblevxvx.com
 dmvegzsxaxn.com
 dmvguidecom.112.2o7.net
 dmvmnafx.com
@@ -37596,7 +37580,6 @@ eternomezcal.com
 etertjes.nl
 etestosterone.com
 etete.eu
-etf.btcc.com
 etgd.com
 etgdta.com
 etggealva.com
@@ -38060,7 +38043,6 @@ eu.litecoinpool.org
 eu.luckpool.net
 eu.mesgo.net
 eu.metrics.adswizz.com
-eu.mineworks.co
 eu.minexpool.nl
 eu.mining.geekcash.org
 eu.mixpool.lightergame.com
@@ -39222,7 +39204,6 @@ f20.adventori.com
 f21.adventori.com
 f22.adventori.com
 f23.adventori.com
-f230.btcc.com
 f26f3cbe225289a0947.com
 f2958da6965fde48.com
 f2communitynews.112.2o7.net
@@ -42209,7 +42190,6 @@ ftp.fastpool.xyz
 ftp.flypool.com
 ftp.freecontent.net
 ftp.gntl.co.uk
-ftp.gpumining.ir
 ftp.gridcoin.co
 ftp.hmcapital.com.au
 ftp.hpool.com
@@ -45919,7 +45899,6 @@ gtvnygwfzrhfti.com
 gtxfafvoohbc.com
 gtzyfaro.bid
 gu-ru.net
-gu.btcc.com
 gu.dyntrk.com
 guamokqekridi.com
 guang.sdsgwy.com
@@ -48210,7 +48189,6 @@ host.colocrossing.com
 host.minerpool.net
 host.private-locker.com
 host.torrent21.ru
-host1.5v.pl
 host1.coinfoundry.org
 host1.miners.pro
 host1743588.hostland.pro
@@ -48811,7 +48789,6 @@ hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.boxxie.triplem
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.btcpool.triplemining.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.btl.poolerino.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.burn.v2.dedicatedpool.com
-hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.bytecoin.pt
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.c4n10.triplemining.com
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.ca.coinmine.pw
 hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.hostmaster.cache.dedicatedpool.com
@@ -50088,7 +50065,6 @@ hostmaster.switchercoin.com
 hostmaster.teamjacob.triplemining.com
 hostmaster.thehulkk.triplemining.com
 hostmaster.theo.v2.dedicatedpool.com
-hostmaster.thesevendwarfs.org
 hostmaster.thistled.triplemining.com
 hostmaster.tips.dedicatedpool.com
 hostmaster.tman540.triplemining.com
@@ -56982,6 +56958,7 @@ keeptube.pl
 keepyoungphone.bid
 keet1liod.com
 kegiw.ru
+kegpoihat.club
 keguh.ru
 kehalim.com
 kei.su
@@ -58299,7 +58276,6 @@ kwystoaqjvml.com
 kwyxncikkzz.bid
 kwzmlceez.com
 kwzuhmpwvsbsc.bid
-kx.btcc.com
 kxareafqwjop.com
 kxbpvlptnkrqvt.com
 kxemsltfmm.com
@@ -60159,7 +60135,6 @@ lm970.bemobtrk.com
 lmadvertising.engine.adglare.net
 lmalon.ddnsking.com
 lmbdkdxprktt.bid
-lmbr.loudmining.com
 lmbr.mcmpool.eu
 lmc.cryptopool.eu
 lmccawemcuqma.com
@@ -60234,7 +60209,6 @@ lnyhnpwjviyn.com
 lnyypjocad.com
 lo-7.btcc.com
 lo.marketer.lpsnmedia.net
-lo1.btcc.com
 lo2.me
 load.ams1.exelator.com
 load.batmobi.net
@@ -61705,7 +61679,6 @@ lzsiojww.com
 lztffxdgackjhi.com
 lztz.net
 lzvnaaozpqyb.com
-m-4-1.btcc.com
 m-9-55.btcc.com
 m-99.co.uk
 m-a.ants.vn
@@ -63361,7 +63334,6 @@ masari.hashvault.pro
 masari.herominers.com
 masari.ingest-asia.cryptoknight.cc
 masari.ingest-us.cryptoknight.cc
-masari.ingest.cryptoknight.cc
 masari.luckypool.io
 masari.miner.rocks
 masari.net
@@ -63622,7 +63594,6 @@ mb-npltfpro.com
 mb-srv.com
 mb.akado.ru
 mb.atm.youku.com
-mb.btcc.com
 mb.cision.com
 mb.gulongbbs.com
 mb.hiveon.net
@@ -65037,7 +65008,6 @@ mi.nanopool.org
 mi0.btcc.com
 mi61l.cn
 mi8.btcc.com
-mi9.btcc.com
 mia.btcc.com
 miabot.ethosdistro.com
 miakalyn.pw
@@ -65280,7 +65250,6 @@ mindylus.com
 mine-asia.equipool.1ds.us
 mine-btcz-asia.equipool.1ds.us
 mine-btcz-euro.equipool.1ds.us
-mine-buck-asia.equipool.1ds.us
 mine-buck-euro.equipool.1ds.us
 mine-euro.equipool.1ds.us
 mine-genx-asia.equipool.1ds.us
@@ -66053,7 +66022,6 @@ mo.test.haloapps.com
 mo.wajsa.com
 mo.zdceaa.cn
 mo.zsyse.top
-mo0.btcc.com
 mo3.btcc.com
 mo8mwxi1.com
 moabpolska.pl
@@ -69099,7 +69067,6 @@ neccorp.112.2o7.net
 necessary-service.info
 necessarywax.com
 nectelephoneengineer.com
-necu.btcc.com
 nedconstance.info
 neddwrmmced.bid
 nedepi.ru
@@ -70341,8 +70308,6 @@ nmgmt.sigmapool.com
 nmgmt.test.sigmapool.com
 nmgmtr.sigmapool.com
 nmhiltonhead.112.2o7.net
-nmine-genx-asia.equipool.1ds.us
-nmine-zel-asia.equipool.1ds.us
 nmine.bbr.unipool.pro
 nmine.bcn.unipool.pro
 nmine.xmr.unipool.pro
@@ -71241,7 +71206,6 @@ ns511849.ip-192-99-19.net
 ns513726.ip-192-99-148.net
 ns5m.btcc.com
 ns6.ucweb.com
-ns68.btcc.com
 ns7.ucweb.com
 ns74.appservestar.com
 ns8469rfvth42.xyz
@@ -72476,6 +72440,7 @@ olgtex.com
 olhjdf.com
 olhomagicocdt.duckdns.org
 olhupniause.com
+olicyconsendsi.info
 olil.peopleselect.cn
 olimpiade.scientia.id
 oline.ubrusupport.com
@@ -73964,6 +73929,7 @@ ozowarac.no-ip.org
 ozpigvtnn.bid
 ozqbyd.gdn
 ozrdgjalmch.com
+ozrmnwplx.com
 ozsriqitazi.com
 ozssctuyet.com
 oztzipze.com
@@ -74151,7 +74117,6 @@ p1agead2.googlesyndication.com
 p1cluster.cxense.com
 p2.2miners.com
 p2.firrectly.top
-p20.btcc.com
 p201030.clksite.com
 p20266.clksite.com
 p203551.clksite.com
@@ -76316,7 +76281,6 @@ pipiryiqu.com
 pipizhanzhang.com
 pippio.com
 pipsol.net
-piq.btcc.com
 piq.cr-nielsen.com
 piquantpigs.com
 piqvuvqc.com
@@ -77826,7 +77790,6 @@ pool.miner-control.de
 pool.miner-world.xyz
 pool.miner.tokyo
 pool.miners.pro
-pool.minexmr24.ru
 pool.miningpoolrw.de
 pool.mn
 pool.modcrypto.online
@@ -78181,6 +78144,7 @@ pornobomba.cc
 pornoh.info
 pornohub.cc
 pornoid.com
+pornoman.pl
 pornomovies.com
 pornoow.com
 pornoplay.online
@@ -79920,7 +79884,6 @@ pugm22000nf.pubmatic.com
 pugm22000nfc.pubmatic.com
 pugm33000nf.pubmatic.com
 pugpwrqsk.bid
-puhlu.com
 puhtml.com
 pujj652hkm.com
 pukrazopchatka.com
@@ -81644,7 +81607,6 @@ ramreleaser.s.xoxknct.com
 ramzes-logistics.pl
 ramzpcsupport.com
 ran-reporting.rakutenmarketing.com
-ran.btcc.com
 rancher-hk.inc.antpool.com
 ranczobojszowy.pl
 randewoo.ir
@@ -83137,6 +83099,7 @@ return.adsame.com
 return.bs.domainnamesales.com
 return.domainnamesales.com
 return.uk.domainnamesales.com
+returnessety.site
 returns.chrismissirian.net
 reundcwkqvctq.com
 reunion.crwdcntrl.net
@@ -84747,6 +84710,7 @@ ry.valerana44.ru
 ry1.btcc.com
 ryadqsgyfwx.cinci.rr.com
 ryankristomuljono.com
+ryaqdetppzpw.com
 rydohimowa.info
 rydresa.info
 ryeoanvkettth.com
@@ -88326,7 +88290,6 @@ si.nanopool.org
 si.nuggad.net
 si1.go2yd.com
 si1ef.com
-si9.btcc.com
 sia-asia2.nanopool.org
 sia-cd.poolgpu.com
 sia-e.nanopool.org
@@ -89963,7 +89926,6 @@ solo-zen.2miners.com
 solo-zen.2miners.ru
 solo-zen.altpool.pro
 solo-zen.equihub.pro
-solo.btcprivate.pro
 solo.btgpool.pro
 solo.ckpool.com
 solo.ckpool.org
@@ -91987,6 +91949,7 @@ static.trafficjunky.net
 static.trafficstars.com
 static.trickon.com
 static.tubeadvertising.eu
+static.twincdn.com
 static.twinpine.adatrix.com
 static.tzyiyuantuan.com
 static.ucgc.ucfly.com
@@ -93151,8 +93114,6 @@ su.bdimg.com
 su.bdstatic.com
 su.iadsdk.apple.com
 su.mining.eligius.st
-su0.btcc.com
-su2.btcc.com
 sualle0i6a.4jxgsane74.madpendesign.com.au
 suapicvhgpwjp.com
 sub.avgle.com
@@ -94894,6 +94855,7 @@ tapxchange.com
 taqesyqne.com
 taqyljgaqsaz.com
 tar.tradedoubler.com
+tarawerap.com
 tardangro.com
 tardishomecompanion.com
 tarekhack40.myftp.biz
@@ -101393,7 +101355,6 @@ umyiwkxzf.com
 umyjigrlwxywqz.com
 umzrccpfbnuu.com
 umzzaftkqgx.com
-un.btcc.com
 un.soarfi.cn
 un.winasdaq.com
 un.www.uc.cn
@@ -107007,6 +106968,7 @@ wrmcfyzl.com
 wrnrxzstxtjsn.com
 wroclawski.com.pl
 wronbouldrettons.pro
+wrongerababan.info
 wrongpotato.com
 wronresthatmedidn.pro
 wrontonshatbona.pro
@@ -109628,7 +109590,6 @@ www.cipherpool.io
 www.circlescatfish.com
 www.cirugiaurologica.com
 www.citrusspringslibrary.org
-www.city.gop
 www.cityads.com
 www.cityads.ru
 www.cityodyssey.com
@@ -114474,7 +114435,6 @@ www.p2pools.us
 www.p3322.com
 www.p33844.clksite.com
 www.pacyfka99.pl
-www.paczka.poczta-pay.com
 www.padirsaze.com
 www.pagechoice.net
 www.pagefair.com
@@ -118611,6 +118571,7 @@ wykskkpplgfi.com
 wyl1ccan.com
 wyl1ccany.com
 wyl1kkany.com
+wylblxhn.com
 wyleczpc.pl
 wylewkibetonowe.com.pl
 wymeserver777.ddns.net
@@ -119705,7 +119666,6 @@ xswezzwxh.com
 xswmgpypkfbqoe.com
 xswsrpeeyh.com
 xt.btcc.com
-xt1.btcc.com
 xt917.yobit.net
 xta.codpool.com
 xta.faucet.llama.horse
@@ -121471,7 +121431,6 @@ zfrpmiqby.com
 zfutrfvgfdr.com
 zfvrrodxfb.com
 zfwfrpcfvmd.com
-zg.btcc.com
 zg.mmyuer.com
 zgalaxyplays.com
 zgalaxystore.com
@@ -121875,6 +121834,7 @@ zrh.bewilderinglyalbumin.com
 zrhskqzfh.com
 zridsfev.com
 zrlxjcsvib.com
+zrnedsainsteady.info
 zrobaliipapa.com
 zroitracker.com
 zrosbqwecw.com

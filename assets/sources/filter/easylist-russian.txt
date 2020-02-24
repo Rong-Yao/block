@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/advblock.txt
 # Last Converted - 24.02.2020
-# Total Domains - 7351
+# Total Domains - 7362
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2051,6 +2051,7 @@
 0.0.0.0 e968806fd491b3.com
 0.0.0.0 ea8460bc653.com
 0.0.0.0 eab72ab21d90.com
+0.0.0.0 eadgxy.com
 0.0.0.0 eaqci.com
 0.0.0.0 easy.au.ru
 0.0.0.0 eb7b77123e2bc8fe9cbe.date
@@ -3434,6 +3435,7 @@
 0.0.0.0 l2top.ru
 0.0.0.0 l48ioxvhakxv.ru
 0.0.0.0 l6hba7sosm1.site
+0.0.0.0 laaming.com
 0.0.0.0 labadon.com
 0.0.0.0 lacembre.com
 0.0.0.0 lacest.com
@@ -4473,6 +4475,9 @@
 0.0.0.0 novfox2.com
 0.0.0.0 novinkifilmov.com
 0.0.0.0 novosti.dn.ua
+0.0.0.0 novosti10.ru
+0.0.0.0 novosti3.ru
+0.0.0.0 novosticenter.ru
 0.0.0.0 novwolf.com
 0.0.0.0 nowda.info
 0.0.0.0 nozago.ru
@@ -5766,13 +5771,17 @@
 0.0.0.0 smi.fm
 0.0.0.0 smi.pp.ua
 0.0.0.0 smi.today
+0.0.0.0 smi10.ru
 0.0.0.0 smi2.net
 0.0.0.0 smi2.ru
 0.0.0.0 smi2.tv
 0.0.0.0 smi24online.ru
 0.0.0.0 smi24x7.com
+0.0.0.0 smi2you.ru
 0.0.0.0 smi6.info
 0.0.0.0 smiar.ru
+0.0.0.0 smicenter.ml
+0.0.0.0 smicenter.ru
 0.0.0.0 smigid.ru
 0.0.0.0 smiinform.zone
 0.0.0.0 smiinformer.com
@@ -5956,6 +5965,7 @@
 0.0.0.0 superrdomain.info
 0.0.0.0 superrnovosti.ru
 0.0.0.0 superrstar.services
+0.0.0.0 supersmi.cf
 0.0.0.0 superstyle.ru
 0.0.0.0 supertop.ru
 0.0.0.0 supertura.com
@@ -6014,6 +6024,7 @@
 0.0.0.0 tapochek.net
 0.0.0.0 tare51vkh.ru
 0.0.0.0 targetan.com
+0.0.0.0 targetanza.ru
 0.0.0.0 targeterra.com
 0.0.0.0 targeterra.info
 0.0.0.0 targetix.net

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 24.02.2020
-# Total Domains - 5918
+# Total Domains - 5916
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1232,7 +1232,6 @@
 0.0.0.0 homgar.pl
 0.0.0.0 homoseksualizm.edu.pl
 0.0.0.0 hondawschod.pl
-0.0.0.0 host1.5v.pl
 0.0.0.0 hostedfiles.net
 0.0.0.0 hostujmy.pl
 0.0.0.0 hotchkissflowersco.com
@@ -4780,7 +4779,6 @@
 0.0.0.0 www.owio.pl
 0.0.0.0 www.ozebox.pl
 0.0.0.0 www.pacyfka99.pl
-0.0.0.0 www.paczka.poczta-pay.com
 0.0.0.0 www.paifi.net
 0.0.0.0 www.pajos4.com
 0.0.0.0 www.pakukgroup.com

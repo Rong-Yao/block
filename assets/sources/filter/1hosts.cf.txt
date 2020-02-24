@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 24.02.2020
-# Total Domains - 60192
+# Total Domains - 60191
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -58460,7 +58460,6 @@
 0.0.0.0 www.ucweb.com
 0.0.0.0 www.udmserve.net
 0.0.0.0 www.ugdturner.com
-0.0.0.0 www.ujpvnnmnsoypsa.com
 0.0.0.0 www.ukrbanner.net
 0.0.0.0 www.ulink.cc
 0.0.0.0 www.ultimatecounter.com

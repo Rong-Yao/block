@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
 # Last Converted - 24.02.2020
-# Total Domains - 13861
+# Total Domains - 13860
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -13537,7 +13537,6 @@
 0.0.0.0 www.wupx.ch
 0.0.0.0 www.wwsparbank.in.net
 0.0.0.0 www.wwww.nztertiarycollege.ac.nz
-0.0.0.0 www.xactroofsolutions.com
 0.0.0.0 www.xanfil.com.br
 0.0.0.0 www.xdhcf.com
 0.0.0.0 www.xhstudio.it

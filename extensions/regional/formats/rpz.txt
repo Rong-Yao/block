@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 63,621
+; Entries: 63,640
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 00:14:24
+; Updated: Mon, 24 Feb 20 06:14:17
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -11748,6 +11748,7 @@ dcreatssculpabl.info CNAME .
 dcuom.com CNAME .
 dcxitlzzmyxbwn.com CNAME .
 dcxmy.com CNAME .
+dcxtvftrdd.com CNAME .
 dcyeufoq.com CNAME .
 dczj9zildizai.cloudfront.net CNAME .
 dd-adkpf.newscloud.or.kr CNAME .
@@ -20954,6 +20955,7 @@ keeload.com CNAME .
 keepaira.net CNAME .
 keeporhard.com CNAME .
 kefeng56.com CNAME .
+kegpoihat.club CNAME .
 kehalim.com CNAME .
 kehuziliaona.com CNAME .
 keiskar.ru CNAME .
@@ -21724,6 +21726,7 @@ la.ladipage.com CNAME .
 la2.eclick.vn CNAME .
 la61d.cn CNAME .
 la71f.cn CNAME .
+laaming.com CNAME .
 lab.admicro.vn CNAME .
 labadon.com CNAME .
 labdwkqyavb.com CNAME .
@@ -26354,6 +26357,9 @@ novhyaxaioxaon.com CNAME .
 novinkifilmov.com CNAME .
 novosti-online.gq CNAME .
 novosti.dn.ua CNAME .
+novosti10.ru CNAME .
+novosti3.ru CNAME .
+novosticenter.ru CNAME .
 novostimira.biz CNAME .
 novostisporta.info CNAME .
 novoteka.ru CNAME .
@@ -27183,6 +27189,7 @@ olfkptkfop.com CNAME .
 olgin-svet.ru CNAME .
 olgjzpgp.com CNAME .
 olhupniause.com CNAME .
+olicyconsendsi.info CNAME .
 oligan.info CNAME .
 oliliga.ru CNAME .
 olimpbanners.info CNAME .
@@ -27913,6 +27920,7 @@ ozonemedia.com CNAME .
 ozpigvtnn.bid CNAME .
 ozpivat.ru CNAME .
 ozrdgjalmch.com CNAME .
+ozrmnwplx.com CNAME .
 ozsriqitazi.com CNAME .
 ozssctuyet.com CNAME .
 oztzipze.com CNAME .
@@ -31972,6 +31980,7 @@ retrollitt.ru CNAME .
 retrynow.net CNAME .
 retsiti.ru CNAME .
 rettal.ru CNAME .
+returnessety.site CNAME .
 returso.com CNAME .
 retytu.com CNAME .
 reu1ua3doqt0.top CNAME .
@@ -32764,6 +32773,7 @@ rxthdr.com CNAME .
 rxxdq.cn CNAME .
 rxysradiyvcp.com CNAME .
 rya.rockyou.com CNAME .
+ryaqdetppzpw.com CNAME .
 rybyzi.ru CNAME .
 rydarobron.ru CNAME .
 rydresa.info CNAME .
@@ -34204,13 +34214,17 @@ smgaklckpszzd.com CNAME .
 smi.fm CNAME .
 smi.pp.ua CNAME .
 smi.today CNAME .
+smi10.ru CNAME .
 smi2.net CNAME .
 smi2.ru CNAME .
 smi2.tv CNAME .
 smi24online.ru CNAME .
 smi24x7.com CNAME .
+smi2you.ru CNAME .
 smi6.info CNAME .
 smiar.ru CNAME .
+smicenter.ml CNAME .
+smicenter.ru CNAME .
 smigid.ru CNAME .
 smigro.info CNAME .
 smiinform.zone CNAME .
@@ -35261,6 +35275,7 @@ superrnovosti.ru CNAME .
 superrstar.services CNAME .
 superseksi.pw CNAME .
 supersitetime.com CNAME .
+supersmi.cf CNAME .
 supersmsoffers.com CNAME .
 supersonicads-a.akamaihd.net CNAME .
 supersonicads.com CNAME .
@@ -35734,6 +35749,7 @@ target.smi2.net CNAME .
 target.vivid.com CNAME .
 targetadverts.com CNAME .
 targetan.com CNAME .
+targetanza.ru CNAME .
 targetctracker.com CNAME .
 targetedinfo.com CNAME .
 targeterra.com CNAME .
@@ -40793,6 +40809,7 @@ writeln.ru CNAME .
 wrkxchcsdw.com CNAME .
 wrmcfyzl.com CNAME .
 wrnrxzstxtjsn.com CNAME .
+wrongerababan.info CNAME .
 wronsitand.ru CNAME .
 wrontineventonjec.pro CNAME .
 wrontonshatbona.pro CNAME .
@@ -60977,6 +60994,7 @@ wyhzzy.com CNAME .
 wyjdunwcqnetus.com CNAME .
 wyjtscdjfcmsy.com CNAME .
 wykskkpplgfi.com CNAME .
+wylblxhn.com CNAME .
 wymoviciyvj.com CNAME .
 wynather.com CNAME .
 wynnburgbottineau.com CNAME .
@@ -63460,6 +63478,7 @@ zricmrcrlmdeg.com CNAME .
 zridsfev.com CNAME .
 zrlcr.com CNAME .
 zrlxjcsvib.com CNAME .
+zrnedsainsteady.info CNAME .
 zrosbqwecw.com CNAME .
 zrpfk.com CNAME .
 zrwhartongroup.com CNAME .

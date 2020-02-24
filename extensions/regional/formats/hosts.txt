@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 63,621
+# Entries: 63,640
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 00:14:24
+# Updated: Mon, 24 Feb 20 06:14:17
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -11759,6 +11759,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcuom.com
 0.0.0.0 dcxitlzzmyxbwn.com
 0.0.0.0 dcxmy.com
+0.0.0.0 dcxtvftrdd.com
 0.0.0.0 dcyeufoq.com
 0.0.0.0 dczj9zildizai.cloudfront.net
 0.0.0.0 dd-adkpf.newscloud.or.kr
@@ -20965,6 +20966,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 keepaira.net
 0.0.0.0 keeporhard.com
 0.0.0.0 kefeng56.com
+0.0.0.0 kegpoihat.club
 0.0.0.0 kehalim.com
 0.0.0.0 kehuziliaona.com
 0.0.0.0 keiskar.ru
@@ -21735,6 +21737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 la2.eclick.vn
 0.0.0.0 la61d.cn
 0.0.0.0 la71f.cn
+0.0.0.0 laaming.com
 0.0.0.0 lab.admicro.vn
 0.0.0.0 labadon.com
 0.0.0.0 labdwkqyavb.com
@@ -26365,6 +26368,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 novinkifilmov.com
 0.0.0.0 novosti-online.gq
 0.0.0.0 novosti.dn.ua
+0.0.0.0 novosti10.ru
+0.0.0.0 novosti3.ru
+0.0.0.0 novosticenter.ru
 0.0.0.0 novostimira.biz
 0.0.0.0 novostisporta.info
 0.0.0.0 novoteka.ru
@@ -27194,6 +27200,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olgin-svet.ru
 0.0.0.0 olgjzpgp.com
 0.0.0.0 olhupniause.com
+0.0.0.0 olicyconsendsi.info
 0.0.0.0 oligan.info
 0.0.0.0 oliliga.ru
 0.0.0.0 olimpbanners.info
@@ -27924,6 +27931,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ozpigvtnn.bid
 0.0.0.0 ozpivat.ru
 0.0.0.0 ozrdgjalmch.com
+0.0.0.0 ozrmnwplx.com
 0.0.0.0 ozsriqitazi.com
 0.0.0.0 ozssctuyet.com
 0.0.0.0 oztzipze.com
@@ -31983,6 +31991,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 retrynow.net
 0.0.0.0 retsiti.ru
 0.0.0.0 rettal.ru
+0.0.0.0 returnessety.site
 0.0.0.0 returso.com
 0.0.0.0 retytu.com
 0.0.0.0 reu1ua3doqt0.top
@@ -32775,6 +32784,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rxxdq.cn
 0.0.0.0 rxysradiyvcp.com
 0.0.0.0 rya.rockyou.com
+0.0.0.0 ryaqdetppzpw.com
 0.0.0.0 rybyzi.ru
 0.0.0.0 rydarobron.ru
 0.0.0.0 rydresa.info
@@ -34215,13 +34225,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 smi.fm
 0.0.0.0 smi.pp.ua
 0.0.0.0 smi.today
+0.0.0.0 smi10.ru
 0.0.0.0 smi2.net
 0.0.0.0 smi2.ru
 0.0.0.0 smi2.tv
 0.0.0.0 smi24online.ru
 0.0.0.0 smi24x7.com
+0.0.0.0 smi2you.ru
 0.0.0.0 smi6.info
 0.0.0.0 smiar.ru
+0.0.0.0 smicenter.ml
+0.0.0.0 smicenter.ru
 0.0.0.0 smigid.ru
 0.0.0.0 smigro.info
 0.0.0.0 smiinform.zone
@@ -35272,6 +35286,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 superrstar.services
 0.0.0.0 superseksi.pw
 0.0.0.0 supersitetime.com
+0.0.0.0 supersmi.cf
 0.0.0.0 supersmsoffers.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 supersonicads.com
@@ -35745,6 +35760,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 target.vivid.com
 0.0.0.0 targetadverts.com
 0.0.0.0 targetan.com
+0.0.0.0 targetanza.ru
 0.0.0.0 targetctracker.com
 0.0.0.0 targetedinfo.com
 0.0.0.0 targeterra.com
@@ -40804,6 +40820,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wrkxchcsdw.com
 0.0.0.0 wrmcfyzl.com
 0.0.0.0 wrnrxzstxtjsn.com
+0.0.0.0 wrongerababan.info
 0.0.0.0 wronsitand.ru
 0.0.0.0 wrontineventonjec.pro
 0.0.0.0 wrontonshatbona.pro
@@ -60988,6 +61005,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wyjdunwcqnetus.com
 0.0.0.0 wyjtscdjfcmsy.com
 0.0.0.0 wykskkpplgfi.com
+0.0.0.0 wylblxhn.com
 0.0.0.0 wymoviciyvj.com
 0.0.0.0 wynather.com
 0.0.0.0 wynnburgbottineau.com
@@ -63471,6 +63489,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zridsfev.com
 0.0.0.0 zrlcr.com
 0.0.0.0 zrlxjcsvib.com
+0.0.0.0 zrnedsainsteady.info
 0.0.0.0 zrosbqwecw.com
 0.0.0.0 zrpfk.com
 0.0.0.0 zrwhartongroup.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 24.02.2020
-# Total Domains - 18572
+# Total Domains - 18581
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4551,6 +4551,7 @@
 0.0.0.0 dcqthcwm.com
 0.0.0.0 dcreatssculpabl.info
 0.0.0.0 dcxitlzzmyxbwn.com
+0.0.0.0 dcxtvftrdd.com
 0.0.0.0 dcyeufoq.com
 0.0.0.0 dddgndcqajr.com
 0.0.0.0 dddomainccc.com
@@ -8609,6 +8610,7 @@
 0.0.0.0 kecmuhot.net
 0.0.0.0 keechavy.com
 0.0.0.0 keepaira.net
+0.0.0.0 kegpoihat.club
 0.0.0.0 kehalim.com
 0.0.0.0 kelris.pw
 0.0.0.0 kemdckufiw.com
@@ -11239,6 +11241,7 @@
 0.0.0.0 olfkptkfop.com
 0.0.0.0 olgjzpgp.com
 0.0.0.0 olhupniause.com
+0.0.0.0 olicyconsendsi.info
 0.0.0.0 oligan.info
 0.0.0.0 olineman.pro
 0.0.0.0 oljpsldr.bid
@@ -11673,6 +11676,7 @@
 0.0.0.0 ozonemedia.com
 0.0.0.0 ozpigvtnn.bid
 0.0.0.0 ozrdgjalmch.com
+0.0.0.0 ozrmnwplx.com
 0.0.0.0 ozsriqitazi.com
 0.0.0.0 ozssctuyet.com
 0.0.0.0 oztzipze.com
@@ -13795,6 +13799,7 @@
 0.0.0.0 retiremely.com
 0.0.0.0 retono42.us
 0.0.0.0 retoxo.com
+0.0.0.0 returnessety.site
 0.0.0.0 reundcwkqvctq.com
 0.0.0.0 rev-stripe.com
 0.0.0.0 rev2pub.com
@@ -14162,6 +14167,7 @@
 0.0.0.0 rxsptuki.com
 0.0.0.0 rxthdr.com
 0.0.0.0 rxysradiyvcp.com
+0.0.0.0 ryaqdetppzpw.com
 0.0.0.0 rydresa.info
 0.0.0.0 ryestionsacticefr.info
 0.0.0.0 rygiukfvtos.com
@@ -17302,6 +17308,7 @@
 0.0.0.0 wrierville.com
 0.0.0.0 wrmcfyzl.com
 0.0.0.0 wrnrxzstxtjsn.com
+0.0.0.0 wrongerababan.info
 0.0.0.0 wrpmyymqowytz.com
 0.0.0.0 wrrytjtsyhrnfg.com
 0.0.0.0 wrwwvymy.com
@@ -17389,6 +17396,7 @@
 0.0.0.0 wyjdunwcqnetus.com
 0.0.0.0 wyjtscdjfcmsy.com
 0.0.0.0 wykskkpplgfi.com
+0.0.0.0 wylblxhn.com
 0.0.0.0 wymoviciyvj.com
 0.0.0.0 wynather.com
 0.0.0.0 wysara.pw
@@ -18482,6 +18490,7 @@
 0.0.0.0 zrgssannk.com
 0.0.0.0 zridsfev.com
 0.0.0.0 zrlxjcsvib.com
+0.0.0.0 zrnedsainsteady.info
 0.0.0.0 zrosbqwecw.com
 0.0.0.0 zryydi.com
 0.0.0.0 zrzeewya.com

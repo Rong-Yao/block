@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 # Last Converted - 24.02.2020
-# Total Domains - 860
+# Total Domains - 863
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -273,6 +273,7 @@
 0.0.0.0 dirdamid.com
 0.0.0.0 direct-link.net
 0.0.0.0 ditwrite.com
+0.0.0.0 dmvbdfblevxvx.com
 0.0.0.0 doathair.com
 0.0.0.0 doghoust.net
 0.0.0.0 domnovrek.com
@@ -613,6 +614,7 @@
 0.0.0.0 popruexo.com
 0.0.0.0 poptival.com
 0.0.0.0 pornoid.com
+0.0.0.0 pornoman.pl
 0.0.0.0 postlnk.com
 0.0.0.0 powerapp.download
 0.0.0.0 poweredbyliquidfire.mobi
@@ -722,6 +724,7 @@
 0.0.0.0 ssl2anyone2.com
 0.0.0.0 static.clmbtech.com
 0.0.0.0 static.tellerium.com
+0.0.0.0 static.twincdn.com
 0.0.0.0 steptaik.net
 0.0.0.0 stilfb.com
 0.0.0.0 stmentaustr.info

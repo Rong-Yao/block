@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.055
 ; Release: 055
-; Entries: 61,324
+; Entries: 61,338
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 00:10:19
+; Updated: Mon, 24 Feb 20 06:10:14
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9783,6 +9783,7 @@ arkyn.es CNAME .
 arllvzkoh.com CNAME .
 armaimapt.club CNAME .
 armantark.com CNAME .
+armashair.site CNAME .
 armbadare.site CNAME .
 armoneandwa.pro CNAME .
 armsart.com CNAME .
@@ -17911,6 +17912,7 @@ dcs.adgear.com CNAME .
 dcsbdmarket.com CNAME .
 dctracking.com CNAME .
 dcxitlzzmyxbwn.com CNAME .
+dcxtvftrdd.com CNAME .
 dcyeufoq.com CNAME .
 dcznhkojghrl.com CNAME .
 dd.smaxdn.com CNAME .
@@ -18787,6 +18789,7 @@ dmtracker.com CNAME .
 dmu20vut.com CNAME .
 dmv-org-d.openx.net CNAME .
 dmv-written-test.h-bid.com CNAME .
+dmvbdfblevxvx.com CNAME .
 dmvguidecom.112.2o7.net CNAME .
 dmxleo.com CNAME .
 dmxoedcqcb.com CNAME .
@@ -29208,6 +29211,7 @@ keepass.com CNAME .
 keepass.fr CNAME .
 keepload.online CNAME .
 keepyoungphone.bid CNAME .
+kegpoihat.club CNAME .
 kehalim.com CNAME .
 kei.su CNAME .
 kejet.net CNAME .
@@ -36594,6 +36598,7 @@ olgjzpgp.com CNAME .
 olgtex.com CNAME .
 olhjdf.com CNAME .
 olhupniause.com CNAME .
+olicyconsendsi.info CNAME .
 olineman.pro CNAME .
 oliva.specialtoprice.com CNAME .
 olivebrandresponse.com CNAME .
@@ -37552,6 +37557,7 @@ ozonemedia.com CNAME .
 ozpigvtnn.bid CNAME .
 ozqbyd.gdn CNAME .
 ozrdgjalmch.com CNAME .
+ozrmnwplx.com CNAME .
 ozsriqitazi.com CNAME .
 ozssctuyet.com CNAME .
 oztzipze.com CNAME .
@@ -39854,6 +39860,7 @@ pornobomba.cc CNAME .
 pornoh.info CNAME .
 pornohub.cc CNAME .
 pornoid.com CNAME .
+pornoman.pl CNAME .
 pornomovies.com CNAME .
 pornoow.com CNAME .
 pornoplay.online CNAME .
@@ -42781,6 +42788,7 @@ retrotaft.com CNAME .
 return.bs.domainnamesales.com CNAME .
 return.domainnamesales.com CNAME .
 return.uk.domainnamesales.com CNAME .
+returnessety.site CNAME .
 reundcwkqvctq.com CNAME .
 reunion.crwdcntrl.net CNAME .
 reunioncom.112.2o7.net CNAME .
@@ -43643,6 +43651,7 @@ rxtun.bemobtrk.com CNAME .
 rxuqpktyqixa.com CNAME .
 rxysradiyvcp.com CNAME .
 ryadqsgyfwx.cinci.rr.com CNAME .
+ryaqdetppzpw.com CNAME .
 rydohimowa.info CNAME .
 rydresa.info CNAME .
 ryestionsacticefr.info CNAME .
@@ -47333,6 +47342,7 @@ static.trafficjunky.com CNAME .
 static.trafficjunky.net CNAME .
 static.trafficstars.com CNAME .
 static.tubeadvertising.eu CNAME .
+static.twincdn.com CNAME .
 static.twinpine.adatrix.com CNAME .
 static.ucgc.ucfly.com CNAME .
 static.umbel.com CNAME .
@@ -48718,6 +48728,7 @@ taptica.com CNAME .
 taptun-handler.info CNAME .
 taqesyqne.com CNAME .
 tar.tradedoubler.com CNAME .
+tarawerap.com CNAME .
 tardangro.com CNAME .
 tardishomecompanion.com CNAME .
 targad.de CNAME .
@@ -55605,6 +55616,7 @@ wrmcfyzl.com CNAME .
 wrnrxzstxtjsn.com CNAME .
 wroclawski.com.pl CNAME .
 wronbouldrettons.pro CNAME .
+wrongerababan.info CNAME .
 wrongpotato.com CNAME .
 wronresthatmedidn.pro CNAME .
 wrontonshatbona.pro CNAME .
@@ -59523,6 +59535,7 @@ wykskkpplgfi.com CNAME .
 wyl1ccan.com CNAME .
 wyl1ccany.com CNAME .
 wyl1kkany.com CNAME .
+wylblxhn.com CNAME .
 wymoviciyvj.com CNAME .
 wynather.com CNAME .
 wyont.queensiteforapp.com CNAME .
@@ -61250,6 +61263,7 @@ zrh.bewilderinglyalbumin.com CNAME .
 zrhskqzfh.com CNAME .
 zridsfev.com CNAME .
 zrlxjcsvib.com CNAME .
+zrnedsainsteady.info CNAME .
 zrosbqwecw.com CNAME .
 zrrat.31772.club CNAME .
 zry8181.com CNAME .

@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.055
 # Release: 055
-# Entries: 61,324
+# Entries: 61,338
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 00:10:19
+# Updated: Mon, 24 Feb 20 06:10:14
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -9794,6 +9794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arllvzkoh.com
 0.0.0.0 armaimapt.club
 0.0.0.0 armantark.com
+0.0.0.0 armashair.site
 0.0.0.0 armbadare.site
 0.0.0.0 armoneandwa.pro
 0.0.0.0 armsart.com
@@ -17922,6 +17923,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dcsbdmarket.com
 0.0.0.0 dctracking.com
 0.0.0.0 dcxitlzzmyxbwn.com
+0.0.0.0 dcxtvftrdd.com
 0.0.0.0 dcyeufoq.com
 0.0.0.0 dcznhkojghrl.com
 0.0.0.0 dd.smaxdn.com
@@ -18798,6 +18800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dmu20vut.com
 0.0.0.0 dmv-org-d.openx.net
 0.0.0.0 dmv-written-test.h-bid.com
+0.0.0.0 dmvbdfblevxvx.com
 0.0.0.0 dmvguidecom.112.2o7.net
 0.0.0.0 dmxleo.com
 0.0.0.0 dmxoedcqcb.com
@@ -29219,6 +29222,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 keepass.fr
 0.0.0.0 keepload.online
 0.0.0.0 keepyoungphone.bid
+0.0.0.0 kegpoihat.club
 0.0.0.0 kehalim.com
 0.0.0.0 kei.su
 0.0.0.0 kejet.net
@@ -36605,6 +36609,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 olgtex.com
 0.0.0.0 olhjdf.com
 0.0.0.0 olhupniause.com
+0.0.0.0 olicyconsendsi.info
 0.0.0.0 olineman.pro
 0.0.0.0 oliva.specialtoprice.com
 0.0.0.0 olivebrandresponse.com
@@ -37563,6 +37568,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ozpigvtnn.bid
 0.0.0.0 ozqbyd.gdn
 0.0.0.0 ozrdgjalmch.com
+0.0.0.0 ozrmnwplx.com
 0.0.0.0 ozsriqitazi.com
 0.0.0.0 ozssctuyet.com
 0.0.0.0 oztzipze.com
@@ -39865,6 +39871,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pornoh.info
 0.0.0.0 pornohub.cc
 0.0.0.0 pornoid.com
+0.0.0.0 pornoman.pl
 0.0.0.0 pornomovies.com
 0.0.0.0 pornoow.com
 0.0.0.0 pornoplay.online
@@ -42792,6 +42799,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 return.bs.domainnamesales.com
 0.0.0.0 return.domainnamesales.com
 0.0.0.0 return.uk.domainnamesales.com
+0.0.0.0 returnessety.site
 0.0.0.0 reundcwkqvctq.com
 0.0.0.0 reunion.crwdcntrl.net
 0.0.0.0 reunioncom.112.2o7.net
@@ -43654,6 +43662,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rxuqpktyqixa.com
 0.0.0.0 rxysradiyvcp.com
 0.0.0.0 ryadqsgyfwx.cinci.rr.com
+0.0.0.0 ryaqdetppzpw.com
 0.0.0.0 rydohimowa.info
 0.0.0.0 rydresa.info
 0.0.0.0 ryestionsacticefr.info
@@ -47344,6 +47353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.trafficjunky.net
 0.0.0.0 static.trafficstars.com
 0.0.0.0 static.tubeadvertising.eu
+0.0.0.0 static.twincdn.com
 0.0.0.0 static.twinpine.adatrix.com
 0.0.0.0 static.ucgc.ucfly.com
 0.0.0.0 static.umbel.com
@@ -48729,6 +48739,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 taptun-handler.info
 0.0.0.0 taqesyqne.com
 0.0.0.0 tar.tradedoubler.com
+0.0.0.0 tarawerap.com
 0.0.0.0 tardangro.com
 0.0.0.0 tardishomecompanion.com
 0.0.0.0 targad.de
@@ -55616,6 +55627,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wrnrxzstxtjsn.com
 0.0.0.0 wroclawski.com.pl
 0.0.0.0 wronbouldrettons.pro
+0.0.0.0 wrongerababan.info
 0.0.0.0 wrongpotato.com
 0.0.0.0 wronresthatmedidn.pro
 0.0.0.0 wrontonshatbona.pro
@@ -59534,6 +59546,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wyl1ccan.com
 0.0.0.0 wyl1ccany.com
 0.0.0.0 wyl1kkany.com
+0.0.0.0 wylblxhn.com
 0.0.0.0 wymoviciyvj.com
 0.0.0.0 wynather.com
 0.0.0.0 wyont.queensiteforapp.com
@@ -61261,6 +61274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zrhskqzfh.com
 0.0.0.0 zridsfev.com
 0.0.0.0 zrlxjcsvib.com
+0.0.0.0 zrnedsainsteady.info
 0.0.0.0 zrosbqwecw.com
 0.0.0.0 zrrat.31772.club
 0.0.0.0 zry8181.com

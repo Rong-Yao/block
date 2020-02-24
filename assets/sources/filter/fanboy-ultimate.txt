@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
 # Last Converted - 24.02.2020
-# Total Domains - 23293
+# Total Domains - 23305
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2494,6 +2494,7 @@
 0.0.0.0 arkhamxojvr.com
 0.0.0.0 arlime.com
 0.0.0.0 arlitasite.pro
+0.0.0.0 armashair.site
 0.0.0.0 armbadare.site
 0.0.0.0 arolrurt.uk
 0.0.0.0 arpucyhlmes.com
@@ -5677,6 +5678,7 @@
 0.0.0.0 dcqthcwm.com
 0.0.0.0 dcreatssculpabl.info
 0.0.0.0 dcxitlzzmyxbwn.com
+0.0.0.0 dcxtvftrdd.com
 0.0.0.0 dcyeufoq.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 dddgndcqajr.com
@@ -10645,6 +10647,7 @@
 0.0.0.0 keen.io
 0.0.0.0 keepaira.net
 0.0.0.0 keet1liod.com
+0.0.0.0 kegpoihat.club
 0.0.0.0 kehalim.com
 0.0.0.0 kelris.pw
 0.0.0.0 kemdckufiw.com
@@ -13819,6 +13822,7 @@
 0.0.0.0 olgjzpgp.com
 0.0.0.0 olgtex.com
 0.0.0.0 olhupniause.com
+0.0.0.0 olicyconsendsi.info
 0.0.0.0 oljpsldr.bid
 0.0.0.0 olkxzkbonvau.bid
 0.0.0.0 olkzcdihiewe.com
@@ -14318,6 +14322,7 @@
 0.0.0.0 ozonemedia.com
 0.0.0.0 ozpigvtnn.bid
 0.0.0.0 ozrdgjalmch.com
+0.0.0.0 ozrmnwplx.com
 0.0.0.0 ozsriqitazi.com
 0.0.0.0 ozssctuyet.com
 0.0.0.0 oztzipze.com
@@ -16841,6 +16846,7 @@
 0.0.0.0 retoxo.com
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 rettica.com
+0.0.0.0 returnessety.site
 0.0.0.0 reundcwkqvctq.com
 0.0.0.0 reussissonsensemble.fr
 0.0.0.0 rev-stripe.com
@@ -17276,6 +17282,7 @@
 0.0.0.0 rxsptuki.com
 0.0.0.0 rxthdr.com
 0.0.0.0 rxysradiyvcp.com
+0.0.0.0 ryaqdetppzpw.com
 0.0.0.0 rydresa.info
 0.0.0.0 ryestionsacticefr.info
 0.0.0.0 rygiukfvtos.com
@@ -19148,6 +19155,7 @@
 0.0.0.0 taps.io
 0.0.0.0 tapstream.com
 0.0.0.0 taqesyqne.com
+0.0.0.0 tarawerap.com
 0.0.0.0 tardangro.com
 0.0.0.0 targaubs.com
 0.0.0.0 target.mirtesen.ru
@@ -21112,6 +21120,7 @@
 0.0.0.0 vidpay.com
 0.0.0.0 vidsdelivery.com
 0.0.0.0 vidz7.pro
+0.0.0.0 viebitgreasy.email
 0.0.0.0 view-ads.de
 0.0.0.0 viewablemedia.net
 0.0.0.0 viewar.org
@@ -21993,6 +22002,7 @@
 0.0.0.0 wrierville.com
 0.0.0.0 wrmcfyzl.com
 0.0.0.0 wrnrxzstxtjsn.com
+0.0.0.0 wrongerababan.info
 0.0.0.0 wrpmyymqowytz.com
 0.0.0.0 wrrytjtsyhrnfg.com
 0.0.0.0 wrwwvymy.com
@@ -22092,6 +22102,7 @@
 0.0.0.0 wyjdunwcqnetus.com
 0.0.0.0 wyjtscdjfcmsy.com
 0.0.0.0 wykskkpplgfi.com
+0.0.0.0 wylblxhn.com
 0.0.0.0 wymoviciyvj.com
 0.0.0.0 wynather.com
 0.0.0.0 wysara.pw
@@ -23200,6 +23211,7 @@
 0.0.0.0 zrgssannk.com
 0.0.0.0 zridsfev.com
 0.0.0.0 zrlxjcsvib.com
+0.0.0.0 zrnedsainsteady.info
 0.0.0.0 zroitracker.com
 0.0.0.0 zrosbqwecw.com
 0.0.0.0 zrw1.destinia.jp

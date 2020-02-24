@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # Last Converted - 24.02.2020
-# Total Domains - 3308
+# Total Domains - 3307
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2486,7 +2486,6 @@
 0.0.0.0 pubg.ru.com
 0.0.0.0 pubgerro.club
 0.0.0.0 pufexedu.ru
-0.0.0.0 puhlu.com
 0.0.0.0 pulfa.com
 0.0.0.0 purafuv.ru
 0.0.0.0 purebits.net

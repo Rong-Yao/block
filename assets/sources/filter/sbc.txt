@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 24.02.2020
-# Total Domains - 35897
+# Total Domains - 35895
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -14827,7 +14827,6 @@
 0.0.0.0 hornytraffic.com
 0.0.0.0 horologium.iad.appboy.com
 0.0.0.0 host-it.co.uk
-0.0.0.0 host1.5v.pl
 0.0.0.0 hostalelcandil.com
 0.0.0.0 hostdomainpeople.112.2o7.net
 0.0.0.0 hostdomainpeopleca.112.2o7.net
@@ -33406,7 +33405,6 @@
 0.0.0.0 www.oz-offers.com
 0.0.0.0 www.ozebox.pl
 0.0.0.0 www.pacyfka99.pl
-0.0.0.0 www.paczka.poczta-pay.com
 0.0.0.0 www.pagepeel.ero-advertising.com
 0.0.0.0 www.pagerank10.co.uk
 0.0.0.0 www.paifi.net

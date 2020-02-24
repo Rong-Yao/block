@@ -1,8 +1,8 @@
 # Title: 1hosts.cf Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
-# Last Converted - 24.02.2020
-# Total Domains - 60190
+# Last Converted - 25.02.2020
+# Total Domains - 60189
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -56153,7 +56153,6 @@
 0.0.0.0 www.cityadspix.com
 0.0.0.0 www.citysearch.com
 0.0.0.0 www.cityviplink.com
-0.0.0.0 www.ciusqhujddbggb.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.cj.com
 0.0.0.0 www.cjb.net

@@ -1,8 +1,8 @@
 # Title: spam404.com-adblocklist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# Last Converted - 24.02.2020
-# Total Domains - 3305
+# Last Converted - 25.02.2020
+# Total Domains - 3303
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -965,7 +965,6 @@
 0.0.0.0 filedictation.com
 0.0.0.0 filedirection.com
 0.0.0.0 filedtransfer.com
-0.0.0.0 filee.org
 0.0.0.0 filefirst.net
 0.0.0.0 filefordownload.com
 0.0.0.0 filefreehost.com
@@ -1393,7 +1392,6 @@
 0.0.0.0 get-bitcoin.website
 0.0.0.0 get-cracked.com
 0.0.0.0 get-hack.com
-0.0.0.0 get1000followers.com
 0.0.0.0 get4games.com
 0.0.0.0 getallforgames.com
 0.0.0.0 getbillsdocumentation.com

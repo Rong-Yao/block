@@ -1,8 +1,8 @@
 # Title: winhelp2002.mvps.org Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
-# Last Converted - 24.02.2020
-# Total Domains - 7022
+# Last Converted - 25.02.2020
+# Total Domains - 7021
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -17,7 +17,6 @@
 0.0.0.0 064bdf.r.axf8.net
 0.0.0.0 090906042103.c.mystat-in.net
 0.0.0.0 0d7292.r.axf8.net
-0.0.0.0 0f36f3.r.axf8.net
 0.0.0.0 0iecfobt.com
 0.0.0.0 10006.hittail.com
 0.0.0.0 100065.hittail.com

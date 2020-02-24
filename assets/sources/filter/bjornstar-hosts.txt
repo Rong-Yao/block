@@ -1,8 +1,8 @@
 # Title: bjornstar-hosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-# Last Converted - 24.02.2020
-# Total Domains - 5206
+# Last Converted - 25.02.2020
+# Total Domains - 5205
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4614,7 +4614,6 @@
 0.0.0.0 www.chicoryapp.com
 0.0.0.0 www.chinawomendating.asia
 0.0.0.0 www.chinesean.com
-0.0.0.0 www.ciusqhujddbggb.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clclckck.com
 0.0.0.0 www.click-vdo.com

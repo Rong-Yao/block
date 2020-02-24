@@ -1,8 +1,8 @@
 # Title: ador-energized Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts
-# Last Converted - 24.02.2020
-# Total Domains - 27771
+# Last Converted - 25.02.2020
+# Total Domains - 27773
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -853,6 +853,7 @@
 0.0.0.0 a.dlx.addthis.com
 0.0.0.0 a.dtprofit.com
 0.0.0.0 a.ero-advertising.com
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 a.exoclick.com
 0.0.0.0 a.exosrv.com
@@ -873,6 +874,7 @@
 0.0.0.0 a.mp.uc.cn
 0.0.0.0 a.net-c61.stream
 0.0.0.0 a.ns.ish.atdmt.com
+0.0.0.0 a.nytimes.com
 0.0.0.0 a.o333o.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optmstr.com

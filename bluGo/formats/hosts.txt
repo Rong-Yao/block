@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.02.055
-# Release: 055
-# Entries: 121,995
+# Version: 20.02.056
+# Release: 056
+# Entries: 121,991
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:10:20
+# Updated: Tue, 25 Feb 20 00:10:33
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts.txt
 # --------------------------------------------
 #
@@ -235,7 +235,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
 0.0.0.0 0emm.com
 0.0.0.0 0emn.com
-0.0.0.0 0f36f3.r.axf8.net
 0.0.0.0 0f461325bf56c3e1b9.com
 0.0.0.0 0fe90004-9edb-4596-a397-f476b01eeea6.htmlpasta.com
 0.0.0.0 0fmm.com
@@ -633,7 +632,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 13895df59d98cc.com
 0.0.0.0 138d.btcc.com
 0.0.0.0 138shenbosbo.com
-0.0.0.0 139-61.btcc.com
 0.0.0.0 13903825045.com
 0.0.0.0 13ce9.btcc.com
 0.0.0.0 13tabs.com
@@ -1282,7 +1280,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 24-tabs.ru
 0.0.0.0 24-xxx.biz
 0.0.0.0 24.video-ak.cdn.spotify.com
-0.0.0.0 240-9.btcc.com
 0.0.0.0 2405.api.swrve.com
 0.0.0.0 2405.content.swrve.com
 0.0.0.0 241-191.btcc.com
@@ -3276,7 +3273,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 922.hittail.com
 0.0.0.0 924e60106cd9d0e.com
 0.0.0.0 927a8dd1afec73.com
-0.0.0.0 929-240.btcc.com
 0.0.0.0 929a6f82280b7f.com
 0.0.0.0 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0.0.0.0 93.tityx.com
@@ -3573,6 +3569,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.epinv.com
 0.0.0.0 a.eporner.com
 0.0.0.0 a.ero-advertising.com
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.exam58.com
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 a.exoclick.com
@@ -3650,6 +3647,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.netmng.com
 0.0.0.0 a.nowscore.com
 0.0.0.0 a.ns.ish.atdmt.com
+0.0.0.0 a.nytimes.com
 0.0.0.0 a.o333o.com
 0.0.0.0 a.oh100.com
 0.0.0.0 a.one.impact-ad.jp
@@ -10490,6 +10488,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ahash.io
 0.0.0.0 ahash.ru
 0.0.0.0 ahashpool.com
+0.0.0.0 ahbcagaazvtuh.com
 0.0.0.0 ahbddp.com
 0.0.0.0 ahcnxuepput.com
 0.0.0.0 ahczwz.com
@@ -15168,6 +15167,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 arianelab.com
 0.0.0.0 ariba.112.2o7.net
+0.0.0.0 aribcosw.com
 0.0.0.0 ariboo.com
 0.0.0.0 aricoin.miningpoolhub.com
 0.0.0.0 aricoin.securepayment.cc
@@ -40314,7 +40314,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 filedownloader.pl
 0.0.0.0 filedownloads.pl
 0.0.0.0 filedtransfer.com
-0.0.0.0 filee.org
 0.0.0.0 fileengine.org
 0.0.0.0 filefirst.net
 0.0.0.0 filefordownload.com
@@ -43792,7 +43791,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 get.slotocash.com
 0.0.0.0 get.whitesmoke.com
 0.0.0.0 get.x-link.pl
-0.0.0.0 get1000followers.com
 0.0.0.0 get1trightn0w.com
 0.0.0.0 get3.ethosdistro.com
 0.0.0.0 get4.ethosdistro.com
@@ -50215,6 +50213,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 houdini.haaretz.co.il
 0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
+0.0.0.0 housandady.site
 0.0.0.0 house.addapptr.com
 0.0.0.0 housead.umeng.com
 0.0.0.0 housead.xofapp.xyz
@@ -60220,7 +60219,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lnxsrmsebsd.com
 0.0.0.0 lnyhnpwjviyn.com
 0.0.0.0 lnyypjocad.com
-0.0.0.0 lo-7.btcc.com
 0.0.0.0 lo.marketer.lpsnmedia.net
 0.0.0.0 lo2.me
 0.0.0.0 load.ams1.exelator.com
@@ -66738,6 +66736,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mopub.appgrowth.com
 0.0.0.0 mopub.com
 0.0.0.0 mopubrtb23.lfstmedia.com
+0.0.0.0 mopushy.com
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moqs2.neoleads.net.my
 0.0.0.0 moquxotvyuoo.com
@@ -71325,6 +71324,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntrb.qc.coccoc.com
 0.0.0.0 ntryonoxojiyya.com
 0.0.0.0 ntsartingaccura.info
+0.0.0.0 ntsimprovide.info
 0.0.0.0 nttdocomo-service.com
 0.0.0.0 ntv.bidvertiser.com
 0.0.0.0 ntv.io
@@ -80275,7 +80275,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.at.atwola.com
 0.0.0.0 px.boundhub.com
-0.0.0.0 px.btcc.com
 0.0.0.0 px.cdn.creative.medialytics.com
 0.0.0.0 px.dpmsrv.com
 0.0.0.0 px.dynamicyield.com
@@ -89431,7 +89430,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 smzxkkyuinecwa.com
 0.0.0.0 sn-gate.com
 0.0.0.0 sn-gzzx.com
-0.0.0.0 sn.btcc.com
 0.0.0.0 sn.moatads.com
 0.0.0.0 sn.nanopool.org
 0.0.0.0 sn.wafflepool.com
@@ -93918,7 +93916,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sy-v1.prod.cloud.ogury.io
 0.0.0.0 sy.amebame.com
 0.0.0.0 sy.ameblo.jp
-0.0.0.0 sy.btcc.com
 0.0.0.0 sy.code.mytanwan.com
 0.0.0.0 sy.flash.mytanwan.com
 0.0.0.0 sy.nanopool.org
@@ -107382,7 +107379,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ww38.s4.webmine.pro
 0.0.0.0 ww38.simplecoin.us
 0.0.0.0 ww38.smartadserver.com
-0.0.0.0 ww38.webmine.pro
 0.0.0.0 ww381.smartadserver.com
 0.0.0.0 ww392.smartadserver.com
 0.0.0.0 ww4.coinsolver.com

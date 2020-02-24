@@ -1,8 +1,8 @@
 # Title: lightswitch-hosts-extended Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
-# Last Converted - 24.02.2020
-# Total Domains - 95311
+# Last Converted - 25.02.2020
+# Total Domains - 95375
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -9378,6 +9378,7 @@
 0.0.0.0 a.erwinmueller.com
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.everesttech.net
+0.0.0.0 a.exoclick.com
 0.0.0.0 a.exosrv.com
 0.0.0.0 a.flashtalking.com
 0.0.0.0 a.fqtag.com
@@ -13800,10 +13801,13 @@
 0.0.0.0 admin-tet.bluekai.com
 0.0.0.0 admin-thetradedesk.grapeshot.co.uk
 0.0.0.0 admin-turn.grapeshot.co.uk
+0.0.0.0 admin-v1.exoclick.com
 0.0.0.0 admin-vpn.monetate.net
+0.0.0.0 admin1.exoclick.com
 0.0.0.0 admin1.firstimpression.io
 0.0.0.0 admin2.adserver01.de
 0.0.0.0 admin2.df-srv.de
+0.0.0.0 admin2.exoclick.com
 0.0.0.0 admin2.jsrdn.com
 0.0.0.0 admin2.trendmd.com
 0.0.0.0 admin2.udmserve.net
@@ -14028,6 +14032,7 @@
 0.0.0.0 adrta.com
 0.0.0.0 adru-sync.rutarget.ru
 0.0.0.0 ads-4entertainment.adhese.com
+0.0.0.0 ads-a.juicyads.com
 0.0.0.0 ads-accu.aws.amobee.com
 0.0.0.0 ads-adnxs.tradedoubler.com
 0.0.0.0 ads-adsomenoise.adhese.com
@@ -14190,6 +14195,7 @@
 0.0.0.0 ads.everesttech.net
 0.0.0.0 ads.evidon.com
 0.0.0.0 ads.exdynsrv.com
+0.0.0.0 ads.exoclick.com
 0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.extremereach.com
 0.0.0.0 ads.feathr.co
@@ -14213,6 +14219,7 @@
 0.0.0.0 ads.ioam.de
 0.0.0.0 ads.jivox.com
 0.0.0.0 ads.jp.as.criteo.com
+0.0.0.0 ads.juicyads.com
 0.0.0.0 ads.justpremium.com
 0.0.0.0 ads.keywordblocks.com
 0.0.0.0 ads.kwanzoo.com
@@ -14474,9 +14481,12 @@
 0.0.0.0 adserve.video
 0.0.0.0 adserver-a-northeast-1.adtechjp.com
 0.0.0.0 adserver-a-southeast-1.adtechjp.com
+0.0.0.0 adserver-a.juicyads.com
+0.0.0.0 adserver-api-dev.juicyads.com
 0.0.0.0 adserver-apne.tidaltv.com
 0.0.0.0 adserver-apse.tidaltv.com
 0.0.0.0 adserver-as.adtech.advertising.com
+0.0.0.0 adserver-b.juicyads.com
 0.0.0.0 adserver-cdn.sitescout.com
 0.0.0.0 adserver-cdn.sitescoutadserver.com
 0.0.0.0 adserver-clarium-446793891.us-east-1.elb.amazonaws.com
@@ -14486,6 +14496,8 @@
 0.0.0.0 adserver-east.extend.tv
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-euwest.tidaltv.com
+0.0.0.0 adserver-g.juicyads.com
+0.0.0.0 adserver-h.juicyads.com
 0.0.0.0 adserver-hk.admaxim.com
 0.0.0.0 adserver-nbfrr.adtech.de
 0.0.0.0 adserver-origin-ap-northeast-1.adtechjp.com
@@ -14542,6 +14554,7 @@
 0.0.0.0 adserver.innovativemetrics.com
 0.0.0.0 adserver.installfarm.com
 0.0.0.0 adserver.intentiq.com
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 adserver.justpremium.com
 0.0.0.0 adserver.kdata.fr
 0.0.0.0 adserver.khingtracking.com
@@ -14581,6 +14594,7 @@
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver01.de
 0.0.0.0 adserver1.kdata.fr
+0.0.0.0 adserver2.juicyads.com
 0.0.0.0 adserver2.kdata.fr
 0.0.0.0 adserver3.kdata.fr
 0.0.0.0 adserver4.kdata.fr
@@ -17539,6 +17553,7 @@
 0.0.0.0 api.eu.newrelic.com
 0.0.0.0 api.eu1.oracleinfinity.io
 0.0.0.0 api.eum-appdynamics.com
+0.0.0.0 api.exoclick.com
 0.0.0.0 api.exponential.com
 0.0.0.0 api.extole.io
 0.0.0.0 api.extremereach.com
@@ -17610,6 +17625,7 @@
 0.0.0.0 api.iwifi.360.cn
 0.0.0.0 api.jetlore.com
 0.0.0.0 api.jivox.com
+0.0.0.0 api.juicyads.com
 0.0.0.0 api.kdata.fr
 0.0.0.0 api.kissmetrics.com
 0.0.0.0 api.kkzs.dev.webapp.163.com
@@ -21139,6 +21155,7 @@
 0.0.0.0 backcountry.com.112.207.net
 0.0.0.0 backcountry.com.ssl.sc.omtrdc.net
 0.0.0.0 backcountry.demdex.net
+0.0.0.0 backend.exoclick.com
 0.0.0.0 backend.slickstream.com
 0.0.0.0 backend.tapfiliate.com
 0.0.0.0 backend1.sekindo.com
@@ -26571,6 +26588,8 @@
 0.0.0.0 ck.boostadvtrack.com
 0.0.0.0 ck.bucksense.com
 0.0.0.0 ck.demdex.net
+0.0.0.0 ck.jads.co
+0.0.0.0 ck.juicyads.com
 0.0.0.0 ck.mndtrk.com
 0.0.0.0 ck.mynativeplatform.com
 0.0.0.0 ck.ny.us.criteo.com
@@ -30240,6 +30259,7 @@
 0.0.0.0 d3.moatads.com
 0.0.0.0 d3.sc.omtrdc.net
 0.0.0.0 d3038485480345999776-t8528885983875908846.id.amgdgt.com
+0.0.0.0 d31vxm9ubutrmw.cloudfront.net
 0.0.0.0 d32c6669.hullapp.io
 0.0.0.0 d3303141384268617735-t8224820027235972397.id.amgdgt.com
 0.0.0.0 d330aiyvva2oww.cloudfront.net
@@ -31598,6 +31618,7 @@
 0.0.0.0 demos.airpr.com
 0.0.0.0 demos.demandbase.com
 0.0.0.0 demos.e-planning.net
+0.0.0.0 demos.exoclick.com
 0.0.0.0 demos.gumgum.com
 0.0.0.0 demos.intercom.io
 0.0.0.0 demos.interpolls.com
@@ -36097,6 +36118,7 @@
 0.0.0.0 es.bucksense.com
 0.0.0.0 es.clickpoint.com
 0.0.0.0 es.dynadmic.com
+0.0.0.0 es.exoclick.com
 0.0.0.0 es.info.lgsmartad.com
 0.0.0.0 es.jia.360.cn
 0.0.0.0 es.justpremium.com
@@ -37187,6 +37209,7 @@
 0.0.0.0 exito.onesignal.com
 0.0.0.0 exitpop.admedia.com
 0.0.0.0 exlead.adapf.com
+0.0.0.0 exoclick.com
 0.0.0.0 exosrv.com
 0.0.0.0 exotictechnews.pushengage.com
 0.0.0.0 exp-measurement.staging.paperg.com
@@ -38112,6 +38135,7 @@
 0.0.0.0 fileshare.247realmedia.com
 0.0.0.0 fileupload.cbsi.com
 0.0.0.0 fileviewerplus.sjv.io
+0.0.0.0 fill.juicyads.com
 0.0.0.0 film1.mobpro.com
 0.0.0.0 film4u.7p.com
 0.0.0.0 filmbizdeizlenircom.adhood.com
@@ -39408,6 +39432,7 @@
 0.0.0.0 fr.clickpoint.com
 0.0.0.0 fr.districtm.ca
 0.0.0.0 fr.eu.preprod.criteo.com
+0.0.0.0 fr.exoclick.com
 0.0.0.0 fr.fc.yahoo.com
 0.0.0.0 fr.gmads.mookie1.com
 0.0.0.0 fr.info.lgsmartad.com
@@ -44373,6 +44398,7 @@
 0.0.0.0 huochepiao.360.cn
 0.0.0.0 huomdgde.adocean.pl
 0.0.0.0 huomdgde.hit.gemius.pl
+0.0.0.0 hurdleyreer.info
 0.0.0.0 huron.qualtrics.com
 0.0.0.0 hurra-bud.gravityrd-services.com
 0.0.0.0 hurra.com
@@ -44566,6 +44592,7 @@
 0.0.0.0 i.haloapps.com
 0.0.0.0 i.idio.co
 0.0.0.0 i.ipromote.com
+0.0.0.0 i.jads.co
 0.0.0.0 i.jsrdn.com
 0.0.0.0 i.jwpltx.com
 0.0.0.0 i.kissmetrics.com
@@ -44848,6 +44875,7 @@
 0.0.0.0 iap.unityads.unity3d.com
 0.0.0.0 iapadmin.inmobi.com
 0.0.0.0 iapclick.wadogo.avi.ams1.inmobi.com
+0.0.0.0 iapi.juicyads.com
 0.0.0.0 iapp.mktoweb.com
 0.0.0.0 ias.altitude-arena.com
 0.0.0.0 iasprime.pushengage.com
@@ -45709,6 +45737,8 @@
 0.0.0.0 imgorigin.linkstorm.net
 0.0.0.0 imgproxy.playhaven.com
 0.0.0.0 imgs.abtasty.com
+0.0.0.0 imgs.jads.co
+0.0.0.0 imgs.juicyads.com
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 imgsniper.com
 0.0.0.0 imgsynd.com
@@ -47718,6 +47748,7 @@
 0.0.0.0 jacquielawson.sjv.io
 0.0.0.0 jact.atdmt.com
 0.0.0.0 jacuzzi.ecorebates.com
+0.0.0.0 jads.co
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 jaeci.tapfiliate.com
 0.0.0.0 jaeger-query.production.us-west-1.kops.kargo.com
@@ -48334,6 +48365,7 @@
 0.0.0.0 js.hull.io
 0.0.0.0 js.idio.co
 0.0.0.0 js.iodo.com
+0.0.0.0 js.juicyads.com
 0.0.0.0 js.miaozhen.com
 0.0.0.0 js.mixmarket.biz
 0.0.0.0 js.moatads.com
@@ -48438,6 +48470,7 @@
 0.0.0.0 juggernaut.bluekai.com
 0.0.0.0 juggernaut.clickfunnels.com
 0.0.0.0 juicemobile.com
+0.0.0.0 juicyads.com
 0.0.0.0 juke.mmi.tns-ua.com
 0.0.0.0 jukebox.lookbookhq.com
 0.0.0.0 jula-product-images.bannerflow.com
@@ -52944,6 +52977,7 @@
 0.0.0.0 mail.evowise.com
 0.0.0.0 mail.ex.360.cn
 0.0.0.0 mail.exacttarget.com
+0.0.0.0 mail.exoclick.com
 0.0.0.0 mail.eyewonder.com
 0.0.0.0 mail.ezwebsitetraffic.com
 0.0.0.0 mail.fluxloop.com
@@ -53137,6 +53171,7 @@
 0.0.0.0 mailua.hit.gemius.pl
 0.0.0.0 main.adx1.com
 0.0.0.0 main.atdmt.com
+0.0.0.0 main.exoclick.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 main.js.agkn.com
 0.0.0.0 main.pubexchange.com
@@ -53207,9 +53242,11 @@
 0.0.0.0 mamonde.links.channelintelligence.com
 0.0.0.0 man-v4.pops.fastly-insights.com
 0.0.0.0 manage-api.s50.exacttarget.com
+0.0.0.0 manage-test.juicyads.com
 0.0.0.0 manage-v54.smartadserver.com
 0.0.0.0 manageapps.app.link
 0.0.0.0 management-api.agkn.com
+0.0.0.0 management.exoclick.com
 0.0.0.0 managementcircleag.122.2o7.net
 0.0.0.0 manager.adition.com
 0.0.0.0 manager.commander1.com
@@ -55351,6 +55388,7 @@
 0.0.0.0 mobile.help.ensighten.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 mobile.intercomcdn.com
+0.0.0.0 mobile.juicyads.com
 0.0.0.0 mobile.lc.wix.com
 0.0.0.0 mobile.lfstmedia.com
 0.0.0.0 mobile.linksynergy.com
@@ -58806,6 +58844,7 @@
 0.0.0.0 ns1.erne.co
 0.0.0.0 ns1.eu.acxiom.com
 0.0.0.0 ns1.exacttarget.com
+0.0.0.0 ns1.exoclick.com
 0.0.0.0 ns1.exponential.com
 0.0.0.0 ns1.footprintdns.com
 0.0.0.0 ns1.gemius.pl
@@ -60945,6 +60984,7 @@
 0.0.0.0 origin-7.qa.extole.io
 0.0.0.0 origin-7.st.extole.io
 0.0.0.0 origin-abrtp2-cdn.marketo.com
+0.0.0.0 origin-ads.exoclick.com
 0.0.0.0 origin-ads.exosrv.com
 0.0.0.0 origin-ads.undertone.com
 0.0.0.0 origin-akamai-auth.s1.exacttarget.com
@@ -64389,6 +64429,7 @@
 0.0.0.0 powerade.rpxnow.com
 0.0.0.0 powerbi.com
 0.0.0.0 powercobrand.7eer.net
+0.0.0.0 poweredby.jads.co
 0.0.0.0 poweredbylooker.yieldmo.com
 0.0.0.0 powerfulemail.aweber.com
 0.0.0.0 powerpoint-ar.onesignal.com
@@ -66175,6 +66216,7 @@
 0.0.0.0 px.greatviews.de
 0.0.0.0 px.gumgum.com
 0.0.0.0 px.instabid.tech
+0.0.0.0 px.juicyads.com
 0.0.0.0 px.ladsp.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.moatads.com
@@ -67672,6 +67714,8 @@
 0.0.0.0 redheadventures.leadpages.co
 0.0.0.0 rediff-w3.scorecardresearch.com
 0.0.0.0 rediff.scorecardresearch.com
+0.0.0.0 redir.jads.co
+0.0.0.0 redir.juicyads.com
 0.0.0.0 redir.tradedoubler.com
 0.0.0.0 redirect.adconion.com
 0.0.0.0 redirect.adkmob.com
@@ -69206,6 +69250,7 @@
 0.0.0.0 rtb.d5p.de17a.com
 0.0.0.0 rtb.dashbida.com.admedia.com
 0.0.0.0 rtb.dstillery.com
+0.0.0.0 rtb.exoclick.com
 0.0.0.0 rtb.eyedemand.com
 0.0.0.0 rtb.eyereturn.com
 0.0.0.0 rtb.fingereach.com
@@ -71805,6 +71850,7 @@
 0.0.0.0 secure.dtmpub.com
 0.0.0.0 secure.eastftp.extremereach.com
 0.0.0.0 secure.ebis.ne.jp
+0.0.0.0 secure.exoclick.com
 0.0.0.0 secure.eyereturn.com
 0.0.0.0 secure.fastclick.net
 0.0.0.0 secure.firstimpression.io
@@ -71820,6 +71866,7 @@
 0.0.0.0 secure.imrworldwide.com
 0.0.0.0 secure.insightexpressai.com
 0.0.0.0 secure.instantcheckmate.com
+0.0.0.0 secure.juicyads.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.linksynergy.com
 0.0.0.0 secure.marketplaceadvisor.channeladvisor.com
@@ -76153,6 +76200,7 @@
 0.0.0.0 static-fi.ad4mat.net
 0.0.0.0 static-fr.ad4mat.net
 0.0.0.0 static-hibernia.adserver.pm
+0.0.0.0 static-hwcdn.exoclick.com
 0.0.0.0 static-infra-api.newrelic.com
 0.0.0.0 static-it.ad4mat.net
 0.0.0.0 static-leaseweb.adserver.pm
@@ -76265,6 +76313,7 @@
 0.0.0.0 static.emerse.com
 0.0.0.0 static.engage.send.microad.jp
 0.0.0.0 static.exelator.com
+0.0.0.0 static.exoclick.com
 0.0.0.0 static.exosrv.com
 0.0.0.0 static.fbot.me
 0.0.0.0 static.foresee.com
@@ -76284,6 +76333,7 @@
 0.0.0.0 static.ipfind.co
 0.0.0.0 static.itest.propellerads.com
 0.0.0.0 static.ju.mediav.com
+0.0.0.0 static.juicyads.com
 0.0.0.0 static.kdata.fr
 0.0.0.0 static.kissmetrics.com
 0.0.0.0 static.kochava.com
@@ -77705,10 +77755,16 @@
 0.0.0.0 synd.netseer.com
 0.0.0.0 syndicaster.wpengine.com
 0.0.0.0 syndicate.sellpoint.net
+0.0.0.0 syndication-adblock.exoclick.com
+0.0.0.0 syndication-evo.exoclick.com
+0.0.0.0 syndication-p.exoclick.com
+0.0.0.0 syndication-whk1.exoclick.com
+0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.extremereach.com
 0.0.0.0 syndication.kbb.com
 0.0.0.0 syndication.site.yahoo.net
+0.0.0.0 syndication0.exoclick.com
 0.0.0.0 syndicator.linkstorm.net
 0.0.0.0 syneoshealth.az1.qualtrics.com
 0.0.0.0 synergis-cdn.clarivoy.com
@@ -88758,6 +88814,7 @@
 0.0.0.0 www-cdn1.pardot.com
 0.0.0.0 www-cdn2.pardot.com
 0.0.0.0 www-cdn3.pardot.com
+0.0.0.0 www-corp.exoclick.com
 0.0.0.0 www-cosmeticcapital.pushengage.com
 0.0.0.0 www-cultofmac-com.ezoic.net
 0.0.0.0 www-dailyrecord-co-uk.api.omnitagjs.com
@@ -90293,6 +90350,7 @@
 0.0.0.0 www.excelcampus.leadpages.co
 0.0.0.0 www.exct.net
 0.0.0.0 www.exelator.com
+0.0.0.0 www.exoclick.com
 0.0.0.0 www.exp1311.truconversion.com
 0.0.0.0 www.explore.singular.net
 0.0.0.0 www.explorer.api.canarybay.innovation.abtasty.com
@@ -90759,6 +90817,7 @@
 0.0.0.0 www.ix.de
 0.0.0.0 www.ja.advertisercommunity.com
 0.0.0.0 www.ja.xhamser.com
+0.0.0.0 www.jads.co
 0.0.0.0 www.jagi.buypixelads.com
 0.0.0.0 www.jameswedmore.leadpages.co
 0.0.0.0 www.jane-frankland.leadpages.co
@@ -90797,6 +90856,7 @@
 0.0.0.0 www.jss.aweber.com
 0.0.0.0 www.jssdks.mparticle.com
 0.0.0.0 www.juicemobile.com
+0.0.0.0 www.juicyads.com
 0.0.0.0 www.jumboquiz.com
 0.0.0.0 www.jumpstarttaggingsolutions.com
 0.0.0.0 www.junntarapp.facebook-ads.adtz.com
@@ -92962,6 +93022,7 @@
 0.0.0.0 www2.instartlogic.com
 0.0.0.0 www2.iris.tv
 0.0.0.0 www2.ispot.tv
+0.0.0.0 www2.juicyads.com
 0.0.0.0 www2.kampyle.com
 0.0.0.0 www2.loggly.com
 0.0.0.0 www2.logrocket.com
@@ -93180,6 +93241,8 @@
 0.0.0.0 xameleon-sync.rutarget.ru
 0.0.0.0 xapads.adspirit.net
 0.0.0.0 xapads.rtb.adx1.com
+0.0.0.0 xapi.jads.co
+0.0.0.0 xapi.juicyads.com
 0.0.0.0 xapi.reader.m.so.com
 0.0.0.0 xapi.xfinity.com
 0.0.0.0 xapi.xfinity.com.edgekey.net
@@ -94236,6 +94299,7 @@
 0.0.0.0 z.cdn4.eyewonder.com
 0.0.0.0 z.cnzz.com
 0.0.0.0 z.deadlinefunnel.com
+0.0.0.0 z.exoclick.com
 0.0.0.0 z.moatads.com
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z.optmnstr.com

@@ -1,8 +1,8 @@
 # Title: cameleon Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sysctl.org/cameleon/hosts
-# Last Converted - 24.02.2020
-# Total Domains - 13553
+# Last Converted - 25.02.2020
+# Total Domains - 13552
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -35,7 +35,6 @@
 0.0.0.0 0cj.net
 0.0.0.0 0d7292.r.axf8.net
 0.0.0.0 0dax.com
-0.0.0.0 0f36f3.r.axf8.net
 0.0.0.0 0iecfobt.com
 0.0.0.0 0ki.ru
 0.0.0.0 0ml.net

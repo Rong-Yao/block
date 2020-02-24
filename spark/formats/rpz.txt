@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.02.055
-; Release: 055
-; Entries: 61,358
+; Version: 20.02.056
+; Release: 056
+; Entries: 61,364
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 18:10:16
+; Updated: Tue, 25 Feb 20 00:10:29
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -143,7 +143,6 @@ $TTL 2h
 0e.video-ak.cdn.spotify.com CNAME .
 0e6fc55ed3d4c2c2ba0.com CNAME .
 0emn.com CNAME .
-0f36f3.r.axf8.net CNAME .
 0f461325bf56c3e1b9.com CNAME .
 0fmm.com CNAME .
 0gctp5ht.top CNAME .
@@ -2226,6 +2225,7 @@ a.dpmsrv.com CNAME .
 a.dtprofit.com CNAME .
 a.dynad.net CNAME .
 a.ero-advertising.com CNAME .
+a.et.nytimes.com CNAME .
 a.exdynsrv.com CNAME .
 a.exoclick.com CNAME .
 a.exosrv.com CNAME .
@@ -2268,6 +2268,7 @@ a.net-bt32.stream CNAME .
 a.net-c61.stream CNAME .
 a.netmng.com CNAME .
 a.ns.ish.atdmt.com CNAME .
+a.nytimes.com CNAME .
 a.o333o.com CNAME .
 a.opmnstr.com CNAME .
 a.optinmonster.com CNAME .
@@ -7024,6 +7025,7 @@ ah-ha.com CNAME .
 ah.goodsblock.mgid.com CNAME .
 ahalogy.com CNAME .
 ahashpool.com CNAME .
+ahbcagaazvtuh.com CNAME .
 ahcnxuepput.com CNAME .
 aheadday.com CNAME .
 ahf.bugly.qq.com CNAME .
@@ -25645,6 +25647,7 @@ hotwords.com CNAME .
 houchosi.net CNAME .
 hounicuy.com CNAME .
 hourakob.net CNAME .
+housandady.site CNAME .
 house.addapptr.com CNAME .
 housead.umeng.com CNAME .
 houseads-prod.elasticbeanstalk.com CNAME .
@@ -33830,6 +33833,7 @@ mopub-win-us-east.bkswin.com CNAME .
 mopub.appgrowth.com CNAME .
 mopub.com CNAME .
 mopubrtb23.lfstmedia.com CNAME .
+mopushy.com CNAME .
 mopxhrgiyybr.com CNAME .
 moradu.com CNAME .
 morbitempus.com CNAME .
@@ -35867,6 +35871,7 @@ ntpmhryl.com CNAME .
 ntrb.qc.coccoc.com CNAME .
 ntryonoxojiyya.com CNAME .
 ntsartingaccura.info CNAME .
+ntsimprovide.info CNAME .
 ntv.bidvertiser.com CNAME .
 ntv.io CNAME .
 ntvcld-a.akamaihd.net CNAME .
@@ -41515,6 +41520,7 @@ qmiypgoukkl.com CNAME .
 qmjjvpoqhb.com CNAME .
 qmkr7isp3o.com CNAME .
 qmmdvzsebi.com CNAME .
+qmokxgfz.com CNAME .
 qmotkiltrim.com CNAME .
 qmotmcwz.com CNAME .
 qmouzhzz.com CNAME .

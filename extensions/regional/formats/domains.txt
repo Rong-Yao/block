@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: domain list
-# Version: 20.02.055
-# Release: 055
-# Entries: 63,668
+# Version: 20.02.056
+# Release: 056
+# Entries: 63,676
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:14:22
+# Updated: Tue, 25 Feb 20 00:14:30
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -4877,6 +4877,7 @@ agyak.com
 agzfxovg.com
 agzxj8990.com
 ah8asl94hs.com
+ahbcagaazvtuh.com
 ahcnxuepput.com
 ahdilem.info
 ahgekvzwjn.com
@@ -11188,6 +11189,7 @@ d2bgg7rjywcwsy.cloudfront.net
 d2c4ylitp1qu24.cloudfront.net
 d2cgumzzqhgmdu.cloudfront.net
 d2d8qsxiai9qwj.cloudfront.net
+d2e30rravz97d4.cloudfront.net
 d2eb561c06fa6.com
 d2edfzx4ay42og.cloudfront.net
 d2ergeh3ul.com
@@ -11334,6 +11336,7 @@ d3f2a916f05.com
 d3f4u3khr0ycep.cloudfront.net
 d3fqhkmofpujs3.cloudfront.net
 d3hitamb7drqut.cloudfront.net
+d3hj4iyx6t1waz.cloudfront.net
 d3hs51abvkuanv.cloudfront.net
 d3hwh14livah35.cloudfront.net
 d3id4jppiyyek8.cloudfront.net
@@ -18151,6 +18154,7 @@ houdini.haaretz.co.il
 houmekredit.ru
 hounicuy.com
 hourakob.net
+housandady.site
 house-rent.us
 houseads-prod.elasticbeanstalk.com
 houseads.ttpsdk.info
@@ -23271,6 +23275,7 @@ m.yanglaopt.net
 m.yap.yahoo.com
 m.zwsteel.cn
 m0zdeb.ru
+m1.100how.com
 m1.27com.com
 m1.51kaowang.com
 m1.81312.com
@@ -24804,6 +24809,7 @@ mooxar.com
 mopedisods.com
 mopo.jp
 mopub-win-us-east.bksn.se
+mopushy.com
 mopxhrgiyybr.com
 moradu.com
 morbitempus.com
@@ -26503,6 +26509,7 @@ ntpmhryl.com
 ntrb.qc.coccoc.com
 ntryonoxojiyya.com
 ntsartingaccura.info
+ntsimprovide.info
 nturveev.com
 ntv.io
 ntvbd.com
@@ -30900,6 +30907,7 @@ qmkdy.com
 qmkr7isp3o.com
 qmmdvzsebi.com
 qmname.com
+qmokxgfz.com
 qmotkiltrim.com
 qmotmcwz.com
 qmouzhzz.com

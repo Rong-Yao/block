@@ -24,12 +24,12 @@
 ; Title: Energized Regional Extension
 ; Description: An Extension to Block Regional Annoyances.
 ; Format: rpz
-; Version: 20.02.055
-; Release: 055
-; Entries: 63,668
+; Version: 20.02.056
+; Release: 056
+; Entries: 63,676
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 18:14:22
+; Updated: Tue, 25 Feb 20 00:14:30
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4885,6 +4885,7 @@ agyak.com CNAME .
 agzfxovg.com CNAME .
 agzxj8990.com CNAME .
 ah8asl94hs.com CNAME .
+ahbcagaazvtuh.com CNAME .
 ahcnxuepput.com CNAME .
 ahdilem.info CNAME .
 ahgekvzwjn.com CNAME .
@@ -11196,6 +11197,7 @@ d2bgg7rjywcwsy.cloudfront.net CNAME .
 d2c4ylitp1qu24.cloudfront.net CNAME .
 d2cgumzzqhgmdu.cloudfront.net CNAME .
 d2d8qsxiai9qwj.cloudfront.net CNAME .
+d2e30rravz97d4.cloudfront.net CNAME .
 d2eb561c06fa6.com CNAME .
 d2edfzx4ay42og.cloudfront.net CNAME .
 d2ergeh3ul.com CNAME .
@@ -11342,6 +11344,7 @@ d3f2a916f05.com CNAME .
 d3f4u3khr0ycep.cloudfront.net CNAME .
 d3fqhkmofpujs3.cloudfront.net CNAME .
 d3hitamb7drqut.cloudfront.net CNAME .
+d3hj4iyx6t1waz.cloudfront.net CNAME .
 d3hs51abvkuanv.cloudfront.net CNAME .
 d3hwh14livah35.cloudfront.net CNAME .
 d3id4jppiyyek8.cloudfront.net CNAME .
@@ -18159,6 +18162,7 @@ houdini.haaretz.co.il CNAME .
 houmekredit.ru CNAME .
 hounicuy.com CNAME .
 hourakob.net CNAME .
+housandady.site CNAME .
 house-rent.us CNAME .
 houseads-prod.elasticbeanstalk.com CNAME .
 houseads.ttpsdk.info CNAME .
@@ -23279,6 +23283,7 @@ m.yanglaopt.net CNAME .
 m.yap.yahoo.com CNAME .
 m.zwsteel.cn CNAME .
 m0zdeb.ru CNAME .
+m1.100how.com CNAME .
 m1.27com.com CNAME .
 m1.51kaowang.com CNAME .
 m1.81312.com CNAME .
@@ -24812,6 +24817,7 @@ mooxar.com CNAME .
 mopedisods.com CNAME .
 mopo.jp CNAME .
 mopub-win-us-east.bksn.se CNAME .
+mopushy.com CNAME .
 mopxhrgiyybr.com CNAME .
 moradu.com CNAME .
 morbitempus.com CNAME .
@@ -26511,6 +26517,7 @@ ntpmhryl.com CNAME .
 ntrb.qc.coccoc.com CNAME .
 ntryonoxojiyya.com CNAME .
 ntsartingaccura.info CNAME .
+ntsimprovide.info CNAME .
 nturveev.com CNAME .
 ntv.io CNAME .
 ntvbd.com CNAME .
@@ -30908,6 +30915,7 @@ qmkdy.com CNAME .
 qmkr7isp3o.com CNAME .
 qmmdvzsebi.com CNAME .
 qmname.com CNAME .
+qmokxgfz.com CNAME .
 qmotkiltrim.com CNAME .
 qmotmcwz.com CNAME .
 qmouzhzz.com CNAME .

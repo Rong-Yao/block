@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.055
-# Release: 055
-# Entries: 121,995
+# Version: 20.02.056
+# Release: 056
+# Entries: 121,991
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:10:20
+# Updated: Tue, 25 Feb 20 00:10:33
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -235,7 +235,6 @@ ff02::3 ip6-allhosts
 :: 0e6fc55ed3d4c2c2ba0.com
 :: 0emm.com
 :: 0emn.com
-:: 0f36f3.r.axf8.net
 :: 0f461325bf56c3e1b9.com
 :: 0fe90004-9edb-4596-a397-f476b01eeea6.htmlpasta.com
 :: 0fmm.com
@@ -633,7 +632,6 @@ ff02::3 ip6-allhosts
 :: 13895df59d98cc.com
 :: 138d.btcc.com
 :: 138shenbosbo.com
-:: 139-61.btcc.com
 :: 13903825045.com
 :: 13ce9.btcc.com
 :: 13tabs.com
@@ -1282,7 +1280,6 @@ ff02::3 ip6-allhosts
 :: 24-tabs.ru
 :: 24-xxx.biz
 :: 24.video-ak.cdn.spotify.com
-:: 240-9.btcc.com
 :: 2405.api.swrve.com
 :: 2405.content.swrve.com
 :: 241-191.btcc.com
@@ -3276,7 +3273,6 @@ ff02::3 ip6-allhosts
 :: 922.hittail.com
 :: 924e60106cd9d0e.com
 :: 927a8dd1afec73.com
-:: 929-240.btcc.com
 :: 929a6f82280b7f.com
 :: 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 :: 93.tityx.com
@@ -3573,6 +3569,7 @@ ff02::3 ip6-allhosts
 :: a.epinv.com
 :: a.eporner.com
 :: a.ero-advertising.com
+:: a.et.nytimes.com
 :: a.exam58.com
 :: a.exdynsrv.com
 :: a.exoclick.com
@@ -3650,6 +3647,7 @@ ff02::3 ip6-allhosts
 :: a.netmng.com
 :: a.nowscore.com
 :: a.ns.ish.atdmt.com
+:: a.nytimes.com
 :: a.o333o.com
 :: a.oh100.com
 :: a.one.impact-ad.jp
@@ -10490,6 +10488,7 @@ ff02::3 ip6-allhosts
 :: ahash.io
 :: ahash.ru
 :: ahashpool.com
+:: ahbcagaazvtuh.com
 :: ahbddp.com
 :: ahcnxuepput.com
 :: ahczwz.com
@@ -15168,6 +15167,7 @@ ff02::3 ip6-allhosts
 :: ariane.abtasty.com
 :: arianelab.com
 :: ariba.112.2o7.net
+:: aribcosw.com
 :: ariboo.com
 :: aricoin.miningpoolhub.com
 :: aricoin.securepayment.cc
@@ -40314,7 +40314,6 @@ ff02::3 ip6-allhosts
 :: filedownloader.pl
 :: filedownloads.pl
 :: filedtransfer.com
-:: filee.org
 :: fileengine.org
 :: filefirst.net
 :: filefordownload.com
@@ -43792,7 +43791,6 @@ ff02::3 ip6-allhosts
 :: get.slotocash.com
 :: get.whitesmoke.com
 :: get.x-link.pl
-:: get1000followers.com
 :: get1trightn0w.com
 :: get3.ethosdistro.com
 :: get4.ethosdistro.com
@@ -50215,6 +50213,7 @@ ff02::3 ip6-allhosts
 :: houdini.haaretz.co.il
 :: hounicuy.com
 :: hourakob.net
+:: housandady.site
 :: house.addapptr.com
 :: housead.umeng.com
 :: housead.xofapp.xyz
@@ -60220,7 +60219,6 @@ ff02::3 ip6-allhosts
 :: lnxsrmsebsd.com
 :: lnyhnpwjviyn.com
 :: lnyypjocad.com
-:: lo-7.btcc.com
 :: lo.marketer.lpsnmedia.net
 :: lo2.me
 :: load.ams1.exelator.com
@@ -66738,6 +66736,7 @@ ff02::3 ip6-allhosts
 :: mopub.appgrowth.com
 :: mopub.com
 :: mopubrtb23.lfstmedia.com
+:: mopushy.com
 :: mopxhrgiyybr.com
 :: moqs2.neoleads.net.my
 :: moquxotvyuoo.com
@@ -71325,6 +71324,7 @@ ff02::3 ip6-allhosts
 :: ntrb.qc.coccoc.com
 :: ntryonoxojiyya.com
 :: ntsartingaccura.info
+:: ntsimprovide.info
 :: nttdocomo-service.com
 :: ntv.bidvertiser.com
 :: ntv.io
@@ -80275,7 +80275,6 @@ ff02::3 ip6-allhosts
 :: px.ads.linkedin.com
 :: px.at.atwola.com
 :: px.boundhub.com
-:: px.btcc.com
 :: px.cdn.creative.medialytics.com
 :: px.dpmsrv.com
 :: px.dynamicyield.com
@@ -89431,7 +89430,6 @@ ff02::3 ip6-allhosts
 :: smzxkkyuinecwa.com
 :: sn-gate.com
 :: sn-gzzx.com
-:: sn.btcc.com
 :: sn.moatads.com
 :: sn.nanopool.org
 :: sn.wafflepool.com
@@ -93918,7 +93916,6 @@ ff02::3 ip6-allhosts
 :: sy-v1.prod.cloud.ogury.io
 :: sy.amebame.com
 :: sy.ameblo.jp
-:: sy.btcc.com
 :: sy.code.mytanwan.com
 :: sy.flash.mytanwan.com
 :: sy.nanopool.org
@@ -107382,7 +107379,6 @@ ff02::3 ip6-allhosts
 :: ww38.s4.webmine.pro
 :: ww38.simplecoin.us
 :: ww38.smartadserver.com
-:: ww38.webmine.pro
 :: ww381.smartadserver.com
 :: ww392.smartadserver.com
 :: ww4.coinsolver.com

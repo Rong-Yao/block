@@ -1,8 +1,8 @@
 # Title: zerodot1-coinblockerlists Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
-# Last Converted - 24.02.2020
-# Total Domains - 16113
+# Last Converted - 25.02.2020
+# Total Domains - 16105
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -90,7 +90,6 @@
 0.0.0.0 1370.btcc.com
 0.0.0.0 138-98.btcc.com
 0.0.0.0 138d.btcc.com
-0.0.0.0 139-61.btcc.com
 0.0.0.0 13ce9.btcc.com
 0.0.0.0 13xbtc.com
 0.0.0.0 14-84.btcc.com
@@ -193,7 +192,6 @@
 0.0.0.0 233-7.btcc.com
 0.0.0.0 235-32.btcc.com
 0.0.0.0 238-78.btcc.com
-0.0.0.0 240-9.btcc.com
 0.0.0.0 241-191.btcc.com
 0.0.0.0 242-204.btcc.com
 0.0.0.0 247bitcoins.net
@@ -304,7 +302,6 @@
 0.0.0.0 8ncelueluntan.btcc.com
 0.0.0.0 9.minercircle.com
 0.0.0.0 91pool.com
-0.0.0.0 929-240.btcc.com
 0.0.0.0 95d17.btcc.com
 0.0.0.0 96.114.157.78.cryptopool.eu
 0.0.0.0 96.114.157.78.hpool.com
@@ -7626,7 +7623,6 @@
 0.0.0.0 ln2.v2.dedicatedpool.com
 0.0.0.0 lnc.cryptopool.eu
 0.0.0.0 lnc.v2.dedicatedpool.com
-0.0.0.0 lo-7.btcc.com
 0.0.0.0 load.jsecoin.com
 0.0.0.0 load.nimiqpool.com
 0.0.0.0 load1.jsecoin.com
@@ -10693,7 +10689,6 @@
 0.0.0.0 puzzle.ryoblocks.com
 0.0.0.0 puzzles.ryoblocks.com
 0.0.0.0 pw.btcc.com
-0.0.0.0 px.btcc.com
 0.0.0.0 pxc.cryptominer.net
 0.0.0.0 pxc.hashlink.eu
 0.0.0.0 pxi.hashlink.eu
@@ -11466,7 +11461,6 @@
 0.0.0.0 smtp1.stex.com
 0.0.0.0 smtp2.bitcoin.cz
 0.0.0.0 smtp2.cryptopoolmining.com
-0.0.0.0 sn.btcc.com
 0.0.0.0 sn.nanopool.org
 0.0.0.0 sn.wafflepool.com
 0.0.0.0 sn1.graft.community
@@ -12214,7 +12208,6 @@
 0.0.0.0 sxc.cryptominer.net
 0.0.0.0 sxc.e-pool.net
 0.0.0.0 sxc.thecoin.pw
-0.0.0.0 sy.btcc.com
 0.0.0.0 sy.nanopool.org
 0.0.0.0 sync.cryptopool.eu
 0.0.0.0 sync.dedicatedpool.com
@@ -13679,7 +13672,6 @@
 0.0.0.0 ww38.pool.simplecoin.us
 0.0.0.0 ww38.s4.webmine.pro
 0.0.0.0 ww38.simplecoin.us
-0.0.0.0 ww38.webmine.pro
 0.0.0.0 ww4.coinsolver.com
 0.0.0.0 ww42.dedicatedpool.com
 0.0.0.0 ww43.brofist.online

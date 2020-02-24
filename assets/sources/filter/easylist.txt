@@ -1,8 +1,8 @@
 # Title: easylist Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
-# Last Converted - 24.02.2020
-# Total Domains - 16756
+# Last Converted - 25.02.2020
+# Total Domains - 16762
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1574,6 +1574,7 @@
 0.0.0.0 agvinhvex.com
 0.0.0.0 agvzvwof.com
 0.0.0.0 agzfxovg.com
+0.0.0.0 ahbcagaazvtuh.com
 0.0.0.0 ahcnxuepput.com
 0.0.0.0 ahgekvzwjn.com
 0.0.0.0 ahjwkwugxvznxv.com
@@ -3794,6 +3795,7 @@
 0.0.0.0 d2c4ylitp1qu24.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
+0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2edfzx4ay42og.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
@@ -6519,6 +6521,7 @@
 0.0.0.0 houchosi.net
 0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
+0.0.0.0 housandady.site
 0.0.0.0 housopsi.net
 0.0.0.0 hover.in
 0.0.0.0 hovernottaked.info
@@ -9017,6 +9020,7 @@
 0.0.0.0 mootermedia.com
 0.0.0.0 moowouzy.net
 0.0.0.0 mooxar.com
+0.0.0.0 mopushy.com
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moradu.com
 0.0.0.0 morbitempus.com
@@ -9677,6 +9681,7 @@
 0.0.0.0 ntpmhryl.com
 0.0.0.0 ntryonoxojiyya.com
 0.0.0.0 ntsartingaccura.info
+0.0.0.0 ntsimprovide.info
 0.0.0.0 ntv.io
 0.0.0.0 ntvcld-a.akamaihd.net
 0.0.0.0 ntvk1.ru
@@ -11905,6 +11910,7 @@
 0.0.0.0 qmjjvpoqhb.com
 0.0.0.0 qmkr7isp3o.com
 0.0.0.0 qmmdvzsebi.com
+0.0.0.0 qmokxgfz.com
 0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com

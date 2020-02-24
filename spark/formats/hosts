@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.02.055
-# Release: 055
-# Entries: 61,358
+# Version: 20.02.056
+# Release: 056
+# Entries: 61,364
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:10:16
+# Updated: Tue, 25 Feb 20 00:10:29
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -154,7 +154,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0e.video-ak.cdn.spotify.com
 0.0.0.0 0e6fc55ed3d4c2c2ba0.com
 0.0.0.0 0emn.com
-0.0.0.0 0f36f3.r.axf8.net
 0.0.0.0 0f461325bf56c3e1b9.com
 0.0.0.0 0fmm.com
 0.0.0.0 0gctp5ht.top
@@ -2237,6 +2236,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.dtprofit.com
 0.0.0.0 a.dynad.net
 0.0.0.0 a.ero-advertising.com
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.exdynsrv.com
 0.0.0.0 a.exoclick.com
 0.0.0.0 a.exosrv.com
@@ -2279,6 +2279,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.net-c61.stream
 0.0.0.0 a.netmng.com
 0.0.0.0 a.ns.ish.atdmt.com
+0.0.0.0 a.nytimes.com
 0.0.0.0 a.o333o.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optinmonster.com
@@ -7035,6 +7036,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ah.goodsblock.mgid.com
 0.0.0.0 ahalogy.com
 0.0.0.0 ahashpool.com
+0.0.0.0 ahbcagaazvtuh.com
 0.0.0.0 ahcnxuepput.com
 0.0.0.0 aheadday.com
 0.0.0.0 ahf.bugly.qq.com
@@ -25656,6 +25658,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 houchosi.net
 0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
+0.0.0.0 housandady.site
 0.0.0.0 house.addapptr.com
 0.0.0.0 housead.umeng.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
@@ -33841,6 +33844,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mopub.appgrowth.com
 0.0.0.0 mopub.com
 0.0.0.0 mopubrtb23.lfstmedia.com
+0.0.0.0 mopushy.com
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moradu.com
 0.0.0.0 morbitempus.com
@@ -35878,6 +35882,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntrb.qc.coccoc.com
 0.0.0.0 ntryonoxojiyya.com
 0.0.0.0 ntsartingaccura.info
+0.0.0.0 ntsimprovide.info
 0.0.0.0 ntv.bidvertiser.com
 0.0.0.0 ntv.io
 0.0.0.0 ntvcld-a.akamaihd.net
@@ -41526,6 +41531,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmjjvpoqhb.com
 0.0.0.0 qmkr7isp3o.com
 0.0.0.0 qmmdvzsebi.com
+0.0.0.0 qmokxgfz.com
 0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com

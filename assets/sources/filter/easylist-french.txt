@@ -1,8 +1,8 @@
 # Title: easylist-french Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/liste_fr.txt
-# Last Converted - 24.02.2020
-# Total Domains - 5500
+# Last Converted - 25.02.2020
+# Total Domains - 5499
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3286,7 +3286,6 @@
 0.0.0.0 mmtrkpy.com
 0.0.0.0 mmtrkvk.com
 0.0.0.0 mmtrkyv.com
-0.0.0.0 mmtro.com
 0.0.0.0 mnoa6ez1eq.com
 0.0.0.0 moavoara.net
 0.0.0.0 mobappcenter2.com

@@ -24,12 +24,12 @@
 # Title: Energized Regional Extension
 # Description: An Extension to Block Regional Annoyances.
 # Format: hosts
-# Version: 20.02.055
-# Release: 055
-# Entries: 63,668
+# Version: 20.02.056
+# Release: 056
+# Entries: 63,676
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:14:22
+# Updated: Tue, 25 Feb 20 00:14:30
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -4896,6 +4896,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 agzfxovg.com
 0.0.0.0 agzxj8990.com
 0.0.0.0 ah8asl94hs.com
+0.0.0.0 ahbcagaazvtuh.com
 0.0.0.0 ahcnxuepput.com
 0.0.0.0 ahdilem.info
 0.0.0.0 ahgekvzwjn.com
@@ -11207,6 +11208,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d2c4ylitp1qu24.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
+0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2eb561c06fa6.com
 0.0.0.0 d2edfzx4ay42og.cloudfront.net
 0.0.0.0 d2ergeh3ul.com
@@ -11353,6 +11355,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3f4u3khr0ycep.cloudfront.net
 0.0.0.0 d3fqhkmofpujs3.cloudfront.net
 0.0.0.0 d3hitamb7drqut.cloudfront.net
+0.0.0.0 d3hj4iyx6t1waz.cloudfront.net
 0.0.0.0 d3hs51abvkuanv.cloudfront.net
 0.0.0.0 d3hwh14livah35.cloudfront.net
 0.0.0.0 d3id4jppiyyek8.cloudfront.net
@@ -18170,6 +18173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 houmekredit.ru
 0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
+0.0.0.0 housandady.site
 0.0.0.0 house-rent.us
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
@@ -23290,6 +23294,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 m.zwsteel.cn
 0.0.0.0 m0zdeb.ru
+0.0.0.0 m1.100how.com
 0.0.0.0 m1.27com.com
 0.0.0.0 m1.51kaowang.com
 0.0.0.0 m1.81312.com
@@ -24823,6 +24828,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mopedisods.com
 0.0.0.0 mopo.jp
 0.0.0.0 mopub-win-us-east.bksn.se
+0.0.0.0 mopushy.com
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moradu.com
 0.0.0.0 morbitempus.com
@@ -26522,6 +26528,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ntrb.qc.coccoc.com
 0.0.0.0 ntryonoxojiyya.com
 0.0.0.0 ntsartingaccura.info
+0.0.0.0 ntsimprovide.info
 0.0.0.0 nturveev.com
 0.0.0.0 ntv.io
 0.0.0.0 ntvbd.com
@@ -30919,6 +30926,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmkr7isp3o.com
 0.0.0.0 qmmdvzsebi.com
 0.0.0.0 qmname.com
+0.0.0.0 qmokxgfz.com
 0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com

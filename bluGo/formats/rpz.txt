@@ -24,12 +24,12 @@
 ; Title: Energized Blu Go Protection
 ; Description: A Lightweight Mid Ranger Protection Pack.
 ; Format: rpz
-; Version: 20.02.055
-; Release: 055
-; Entries: 121,995
+; Version: 20.02.056
+; Release: 056
+; Entries: 121,991
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Mon, 24 Feb 20 18:10:20
+; Updated: Tue, 25 Feb 20 00:10:33
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -224,7 +224,6 @@ $TTL 2h
 0e6fc55ed3d4c2c2ba0.com CNAME .
 0emm.com CNAME .
 0emn.com CNAME .
-0f36f3.r.axf8.net CNAME .
 0f461325bf56c3e1b9.com CNAME .
 0fe90004-9edb-4596-a397-f476b01eeea6.htmlpasta.com CNAME .
 0fmm.com CNAME .
@@ -622,7 +621,6 @@ $TTL 2h
 13895df59d98cc.com CNAME .
 138d.btcc.com CNAME .
 138shenbosbo.com CNAME .
-139-61.btcc.com CNAME .
 13903825045.com CNAME .
 13ce9.btcc.com CNAME .
 13tabs.com CNAME .
@@ -1271,7 +1269,6 @@ $TTL 2h
 24-tabs.ru CNAME .
 24-xxx.biz CNAME .
 24.video-ak.cdn.spotify.com CNAME .
-240-9.btcc.com CNAME .
 2405.api.swrve.com CNAME .
 2405.content.swrve.com CNAME .
 241-191.btcc.com CNAME .
@@ -3265,7 +3262,6 @@ $TTL 2h
 922.hittail.com CNAME .
 924e60106cd9d0e.com CNAME .
 927a8dd1afec73.com CNAME .
-929-240.btcc.com CNAME .
 929a6f82280b7f.com CNAME .
 92kyxiz5xg.execute-api.us-west-2.amazonaws.com CNAME .
 93.tityx.com CNAME .
@@ -3562,6 +3558,7 @@ a.ecook.cn CNAME .
 a.epinv.com CNAME .
 a.eporner.com CNAME .
 a.ero-advertising.com CNAME .
+a.et.nytimes.com CNAME .
 a.exam58.com CNAME .
 a.exdynsrv.com CNAME .
 a.exoclick.com CNAME .
@@ -3639,6 +3636,7 @@ a.net-c61.stream CNAME .
 a.netmng.com CNAME .
 a.nowscore.com CNAME .
 a.ns.ish.atdmt.com CNAME .
+a.nytimes.com CNAME .
 a.o333o.com CNAME .
 a.oh100.com CNAME .
 a.one.impact-ad.jp CNAME .
@@ -10479,6 +10477,7 @@ ahash.com CNAME .
 ahash.io CNAME .
 ahash.ru CNAME .
 ahashpool.com CNAME .
+ahbcagaazvtuh.com CNAME .
 ahbddp.com CNAME .
 ahcnxuepput.com CNAME .
 ahczwz.com CNAME .
@@ -15157,6 +15156,7 @@ arianagrandenude.com CNAME .
 ariane.abtasty.com CNAME .
 arianelab.com CNAME .
 ariba.112.2o7.net CNAME .
+aribcosw.com CNAME .
 ariboo.com CNAME .
 aricoin.miningpoolhub.com CNAME .
 aricoin.securepayment.cc CNAME .
@@ -40303,7 +40303,6 @@ filedirection.com CNAME .
 filedownloader.pl CNAME .
 filedownloads.pl CNAME .
 filedtransfer.com CNAME .
-filee.org CNAME .
 fileengine.org CNAME .
 filefirst.net CNAME .
 filefordownload.com CNAME .
@@ -43781,7 +43780,6 @@ get.prizes-mobi.stream CNAME .
 get.slotocash.com CNAME .
 get.whitesmoke.com CNAME .
 get.x-link.pl CNAME .
-get1000followers.com CNAME .
 get1trightn0w.com CNAME .
 get3.ethosdistro.com CNAME .
 get4.ethosdistro.com CNAME .
@@ -50204,6 +50202,7 @@ houdebert.com CNAME .
 houdini.haaretz.co.il CNAME .
 hounicuy.com CNAME .
 hourakob.net CNAME .
+housandady.site CNAME .
 house.addapptr.com CNAME .
 housead.umeng.com CNAME .
 housead.xofapp.xyz CNAME .
@@ -60209,7 +60208,6 @@ lnwqvhcqw.com CNAME .
 lnxsrmsebsd.com CNAME .
 lnyhnpwjviyn.com CNAME .
 lnyypjocad.com CNAME .
-lo-7.btcc.com CNAME .
 lo.marketer.lpsnmedia.net CNAME .
 lo2.me CNAME .
 load.ams1.exelator.com CNAME .
@@ -66727,6 +66725,7 @@ mopub-win-us-east.bkswin.com CNAME .
 mopub.appgrowth.com CNAME .
 mopub.com CNAME .
 mopubrtb23.lfstmedia.com CNAME .
+mopushy.com CNAME .
 mopxhrgiyybr.com CNAME .
 moqs2.neoleads.net.my CNAME .
 moquxotvyuoo.com CNAME .
@@ -71314,6 +71313,7 @@ ntpmhryl.com CNAME .
 ntrb.qc.coccoc.com CNAME .
 ntryonoxojiyya.com CNAME .
 ntsartingaccura.info CNAME .
+ntsimprovide.info CNAME .
 nttdocomo-service.com CNAME .
 ntv.bidvertiser.com CNAME .
 ntv.io CNAME .
@@ -80264,7 +80264,6 @@ px.adhigh.net CNAME .
 px.ads.linkedin.com CNAME .
 px.at.atwola.com CNAME .
 px.boundhub.com CNAME .
-px.btcc.com CNAME .
 px.cdn.creative.medialytics.com CNAME .
 px.dpmsrv.com CNAME .
 px.dynamicyield.com CNAME .
@@ -89420,7 +89419,6 @@ smzvvqztihof.com CNAME .
 smzxkkyuinecwa.com CNAME .
 sn-gate.com CNAME .
 sn-gzzx.com CNAME .
-sn.btcc.com CNAME .
 sn.moatads.com CNAME .
 sn.nanopool.org CNAME .
 sn.wafflepool.com CNAME .
@@ -93907,7 +93905,6 @@ sy-cdnres.unionsy.com CNAME .
 sy-v1.prod.cloud.ogury.io CNAME .
 sy.amebame.com CNAME .
 sy.ameblo.jp CNAME .
-sy.btcc.com CNAME .
 sy.code.mytanwan.com CNAME .
 sy.flash.mytanwan.com CNAME .
 sy.nanopool.org CNAME .
@@ -107371,7 +107368,6 @@ ww38.pool.simplecoin.us CNAME .
 ww38.s4.webmine.pro CNAME .
 ww38.simplecoin.us CNAME .
 ww38.smartadserver.com CNAME .
-ww38.webmine.pro CNAME .
 ww381.smartadserver.com CNAME .
 ww392.smartadserver.com CNAME .
 ww4.coinsolver.com CNAME .

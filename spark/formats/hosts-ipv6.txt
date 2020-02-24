@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.055
-# Release: 055
-# Entries: 61,358
+# Version: 20.02.056
+# Release: 056
+# Entries: 61,364
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Mon, 24 Feb 20 18:10:16
+# Updated: Tue, 25 Feb 20 00:10:29
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -154,7 +154,6 @@ ff02::3 ip6-allhosts
 :: 0e.video-ak.cdn.spotify.com
 :: 0e6fc55ed3d4c2c2ba0.com
 :: 0emn.com
-:: 0f36f3.r.axf8.net
 :: 0f461325bf56c3e1b9.com
 :: 0fmm.com
 :: 0gctp5ht.top
@@ -2237,6 +2236,7 @@ ff02::3 ip6-allhosts
 :: a.dtprofit.com
 :: a.dynad.net
 :: a.ero-advertising.com
+:: a.et.nytimes.com
 :: a.exdynsrv.com
 :: a.exoclick.com
 :: a.exosrv.com
@@ -2279,6 +2279,7 @@ ff02::3 ip6-allhosts
 :: a.net-c61.stream
 :: a.netmng.com
 :: a.ns.ish.atdmt.com
+:: a.nytimes.com
 :: a.o333o.com
 :: a.opmnstr.com
 :: a.optinmonster.com
@@ -7035,6 +7036,7 @@ ff02::3 ip6-allhosts
 :: ah.goodsblock.mgid.com
 :: ahalogy.com
 :: ahashpool.com
+:: ahbcagaazvtuh.com
 :: ahcnxuepput.com
 :: aheadday.com
 :: ahf.bugly.qq.com
@@ -25656,6 +25658,7 @@ ff02::3 ip6-allhosts
 :: houchosi.net
 :: hounicuy.com
 :: hourakob.net
+:: housandady.site
 :: house.addapptr.com
 :: housead.umeng.com
 :: houseads-prod.elasticbeanstalk.com
@@ -33841,6 +33844,7 @@ ff02::3 ip6-allhosts
 :: mopub.appgrowth.com
 :: mopub.com
 :: mopubrtb23.lfstmedia.com
+:: mopushy.com
 :: mopxhrgiyybr.com
 :: moradu.com
 :: morbitempus.com
@@ -35878,6 +35882,7 @@ ff02::3 ip6-allhosts
 :: ntrb.qc.coccoc.com
 :: ntryonoxojiyya.com
 :: ntsartingaccura.info
+:: ntsimprovide.info
 :: ntv.bidvertiser.com
 :: ntv.io
 :: ntvcld-a.akamaihd.net
@@ -41526,6 +41531,7 @@ ff02::3 ip6-allhosts
 :: qmjjvpoqhb.com
 :: qmkr7isp3o.com
 :: qmmdvzsebi.com
+:: qmokxgfz.com
 :: qmotkiltrim.com
 :: qmotmcwz.com
 :: qmouzhzz.com

@@ -1,8 +1,8 @@
 # Title: uassets-filters Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
-# Last Converted - 24.02.2020
-# Total Domains - 863
+# Last Converted - 25.02.2020
+# Total Domains - 862
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -782,7 +782,6 @@
 0.0.0.0 trcklks.com
 0.0.0.0 trislee.xyz
 0.0.0.0 trourted.pro
-0.0.0.0 truepush.com
 0.0.0.0 trufus.ovh
 0.0.0.0 trynull.ga
 0.0.0.0 tssandycateup.com

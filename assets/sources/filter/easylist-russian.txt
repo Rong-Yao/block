@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/advblock.txt
 # Last Converted - 25.02.2020
-# Total Domains - 7369
+# Total Domains - 7371
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3812,6 +3812,7 @@
 0.0.0.0 mama.land
 0.0.0.0 mamavika.com
 0.0.0.0 mambo.kiev.ua
+0.0.0.0 mamydirect.com
 0.0.0.0 managedcollapsed.in
 0.0.0.0 managermest.ru
 0.0.0.0 manuelu.com
@@ -5614,6 +5615,7 @@
 0.0.0.0 seeliner.com
 0.0.0.0 seertul.com
 0.0.0.0 segamen.ru
+0.0.0.0 segodnia.space
 0.0.0.0 seilope.com
 0.0.0.0 selectornews.com
 0.0.0.0 selectroduced.com

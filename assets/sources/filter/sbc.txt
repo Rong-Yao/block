@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 25.02.2020
-# Total Domains - 35890
+# Total Domains - 35889
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10383,7 +10383,6 @@
 0.0.0.0 crystalslot.com
 0.0.0.0 cs-bosman.pl
 0.0.0.0 cs-fpg.pl
-0.0.0.0 cs-mentos.pl
 0.0.0.0 cs-podhale.pl
 0.0.0.0 cs-postrzelaj.pl
 0.0.0.0 cs.adingo.jp

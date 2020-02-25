@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
 # Last Converted - 25.02.2020
-# Total Domains - 23347
+# Total Domains - 23350
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -7574,6 +7574,7 @@
 0.0.0.0 flixfacts.co.uk
 0.0.0.0 flixsyndication.net
 0.0.0.0 fljozww19f.com
+0.0.0.0 flloczhqdkn.com
 0.0.0.0 flmyidbnljphko.com
 0.0.0.0 flnfbaoozuib.com
 0.0.0.0 flnqkhnqjcmvp.com
@@ -9592,6 +9593,7 @@
 0.0.0.0 ijriehir.com
 0.0.0.0 ijterttmus.com
 0.0.0.0 ijugatdyiuwxq.com
+0.0.0.0 ijxfkfsvzvnyk.com
 0.0.0.0 ikbwvphztgkiq.com
 0.0.0.0 ikhdsnufzzj.com
 0.0.0.0 iklmgdsfnajmoy.com
@@ -16213,6 +16215,7 @@
 0.0.0.0 qmxpttxjv.com
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qndqwtrwguhv.com
+0.0.0.0 qnemxzckwx.com
 0.0.0.0 qnfarzjp.bid
 0.0.0.0 qnfpskgtzkw.com
 0.0.0.0 qnhwhedcrzeodd.com

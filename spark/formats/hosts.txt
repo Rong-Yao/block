@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 61,367
+# Entries: 61,370
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 06:10:28
+# Updated: Tue, 25 Feb 20 12:10:19
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -157,6 +157,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0f461325bf56c3e1b9.com
 0.0.0.0 0fmm.com
 0.0.0.0 0gctp5ht.top
+0.0.0.0 0h6djpk8fn.com
 0.0.0.0 0icep80f.com
 0.0.0.0 0iecfobt.com
 0.0.0.0 0if1nl6.org
@@ -26759,6 +26760,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ijterttmus.com
 0.0.0.0 ijugatdyiuwxq.com
 0.0.0.0 ijvolcqtnxohl.com
+0.0.0.0 ijxfkfsvzvnyk.com
 0.0.0.0 ik1.services
 0.0.0.0 ik54l.bemobtrk.com
 0.0.0.0 ikaben.com
@@ -41545,6 +41547,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qncjellygamat1.com
 0.0.0.0 qndqwtrwguhv.com
+0.0.0.0 qnemxzckwx.com
 0.0.0.0 qnfarzjp.bid
 0.0.0.0 qnfpskgtzkw.com
 0.0.0.0 qnhwhedcrzeodd.com

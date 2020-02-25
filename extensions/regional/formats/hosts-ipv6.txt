@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.056
 # Release: 056
-# Entries: 63,683
+# Entries: 63,691
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 06:14:36
+# Updated: Tue, 25 Feb 20 12:14:11
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -2678,6 +2678,7 @@ ff02::3 ip6-allhosts
 :: ad.9animes.ru
 :: ad.a-ads.com
 :: ad.about.co.kr
+:: ad.accesstrade.vn
 :: ad.activaweb.fr
 :: ad.adapter.kaffnet.com
 :: ad.admitad.com
@@ -15104,6 +15105,7 @@ ff02::3 ip6-allhosts
 :: flix16.com
 :: flixlnk.top
 :: fljozww19f.com
+:: flloczhqdkn.com
 :: flmyidbnljphko.com
 :: flnfbaoozuib.com
 :: flnqkhnqjcmvp.com
@@ -18901,6 +18903,7 @@ ff02::3 ip6-allhosts
 :: ijugatdyiuwxq.com
 :: ijuns.com
 :: ijuny.com
+:: ijxfkfsvzvnyk.com
 :: ikbwvphztgkiq.com
 :: ikersont.com
 :: ikhdsnufzzj.com
@@ -20348,6 +20351,7 @@ ff02::3 ip6-allhosts
 :: jnu1euxlnems.pro
 :: jnu1usxpndz0.pro
 :: jnu9uwxlprf.online
+:: jnxz88.cn
 :: jnyngg.cn
 :: jo0kfb10xr.ru
 :: jo7cofh3.com
@@ -30913,6 +30917,7 @@ ff02::3 ip6-allhosts
 :: qlonglong.com
 :: qlqscuseoyrdv.com
 :: qlqvzzcaxto.com
+:: qlssbq.cn
 :: qlugrmjsncbe.com
 :: qluowqzbbukldb.bid
 :: qlvgvehwzj.com
@@ -30947,6 +30952,7 @@ ff02::3 ip6-allhosts
 :: qnageoh3ns.com
 :: qndqwtrwguhv.com
 :: qneit.com
+:: qnemxzckwx.com
 :: qnfarzjp.bid
 :: qnfpskgtzkw.com
 :: qnhwhedcrzeodd.com
@@ -33396,6 +33402,7 @@ ff02::3 ip6-allhosts
 :: sefortme.pro
 :: segamen.ru
 :: segmentify.com
+:: segodnia.space
 :: seguro.via-rs.net
 :: sehiba.com
 :: seilope.com
@@ -37021,6 +37028,7 @@ ff02::3 ip6-allhosts
 :: tracer.jp
 :: traceybell.co.uk
 :: track-srv.vietnamnet.vn
+:: track.accesstrade.vn
 :: track.adform.net
 :: track.adnetwork.vn
 :: track.adsota.com

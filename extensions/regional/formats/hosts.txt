@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 63,683
+# Entries: 63,691
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 06:14:36
+# Updated: Tue, 25 Feb 20 12:14:11
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -2678,6 +2678,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.9animes.ru
 0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.about.co.kr
+0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.activaweb.fr
 0.0.0.0 ad.adapter.kaffnet.com
 0.0.0.0 ad.admitad.com
@@ -15104,6 +15105,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 flix16.com
 0.0.0.0 flixlnk.top
 0.0.0.0 fljozww19f.com
+0.0.0.0 flloczhqdkn.com
 0.0.0.0 flmyidbnljphko.com
 0.0.0.0 flnfbaoozuib.com
 0.0.0.0 flnqkhnqjcmvp.com
@@ -18901,6 +18903,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ijugatdyiuwxq.com
 0.0.0.0 ijuns.com
 0.0.0.0 ijuny.com
+0.0.0.0 ijxfkfsvzvnyk.com
 0.0.0.0 ikbwvphztgkiq.com
 0.0.0.0 ikersont.com
 0.0.0.0 ikhdsnufzzj.com
@@ -20348,6 +20351,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jnu1euxlnems.pro
 0.0.0.0 jnu1usxpndz0.pro
 0.0.0.0 jnu9uwxlprf.online
+0.0.0.0 jnxz88.cn
 0.0.0.0 jnyngg.cn
 0.0.0.0 jo0kfb10xr.ru
 0.0.0.0 jo7cofh3.com
@@ -30913,6 +30917,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qlonglong.com
 0.0.0.0 qlqscuseoyrdv.com
 0.0.0.0 qlqvzzcaxto.com
+0.0.0.0 qlssbq.cn
 0.0.0.0 qlugrmjsncbe.com
 0.0.0.0 qluowqzbbukldb.bid
 0.0.0.0 qlvgvehwzj.com
@@ -30947,6 +30952,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qnageoh3ns.com
 0.0.0.0 qndqwtrwguhv.com
 0.0.0.0 qneit.com
+0.0.0.0 qnemxzckwx.com
 0.0.0.0 qnfarzjp.bid
 0.0.0.0 qnfpskgtzkw.com
 0.0.0.0 qnhwhedcrzeodd.com
@@ -33396,6 +33402,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sefortme.pro
 0.0.0.0 segamen.ru
 0.0.0.0 segmentify.com
+0.0.0.0 segodnia.space
 0.0.0.0 seguro.via-rs.net
 0.0.0.0 sehiba.com
 0.0.0.0 seilope.com
@@ -37021,6 +37028,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracer.jp
 0.0.0.0 traceybell.co.uk
 0.0.0.0 track-srv.vietnamnet.vn
+0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.adform.net
 0.0.0.0 track.adnetwork.vn
 0.0.0.0 track.adsota.com

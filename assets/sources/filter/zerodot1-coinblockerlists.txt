@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 # Last Converted - 25.02.2020
-# Total Domains - 16094
+# Total Domains - 16084
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -40,7 +40,6 @@
 0.0.0.0 100-0-bhd.foxypool.cf
 0.0.0.0 100-0-lhd.foxypool.cf
 0.0.0.0 100-0-pool.burst-alliance.org
-0.0.0.0 100-164.btcc.com
 0.0.0.0 100-185.btcc.com
 0.0.0.0 100-btc.com
 0.0.0.0 1000expert.com
@@ -189,7 +188,6 @@
 0.0.0.0 233-7.btcc.com
 0.0.0.0 235-32.btcc.com
 0.0.0.0 238-78.btcc.com
-0.0.0.0 241-191.btcc.com
 0.0.0.0 242-204.btcc.com
 0.0.0.0 247bitcoins.net
 0.0.0.0 24bitdeposit.com
@@ -317,7 +315,6 @@
 0.0.0.0 a.minerpool.net
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
-0.0.0.0 a247.btcc.com
 0.0.0.0 a4.ltc.top
 0.0.0.0 a7.btcc.com
 0.0.0.0 aapool.org
@@ -2314,7 +2311,6 @@
 0.0.0.0 cnpool.vip
 0.0.0.0 cnpools.space
 0.0.0.0 cnt.st
-0.0.0.0 cnu.btcc.com
 0.0.0.0 co.leetpools.net
 0.0.0.0 co.nanopool.org
 0.0.0.0 coaf.btcc.com
@@ -4775,7 +4771,6 @@
 0.0.0.0 gol.pool.sexy
 0.0.0.0 goldendoge.m2pool.eu
 0.0.0.0 goldennoncepool.com
-0.0.0.0 goldiam.org
 0.0.0.0 goldmine.actinium.org
 0.0.0.0 goldoffer.online
 0.0.0.0 goldpool.nimuecrypto.com
@@ -8450,7 +8445,6 @@
 0.0.0.0 minung.bitcoin.cz
 0.0.0.0 minzpool.ml
 0.0.0.0 mip.btcc.com
-0.0.0.0 miq.btcc.com
 0.0.0.0 miror.bsod.pw
 0.0.0.0 mirror.bsod.pw
 0.0.0.0 mirror.coinfoundry.org
@@ -9587,7 +9581,6 @@
 0.0.0.0 ns.lycheebit.com.lycheebit.com
 0.0.0.0 ns.minerpool.net
 0.0.0.0 ns.shscrypto.net
-0.0.0.0 ns0.btcc.com
 0.0.0.0 ns01.coinfoundry.org
 0.0.0.0 ns01.geekcash.org
 0.0.0.0 ns08.geekcash.org
@@ -10970,7 +10963,6 @@
 0.0.0.0 rvn.virginia.elitehash.net
 0.0.0.0 rvn.zellabs.net
 0.0.0.0 rx.minexmr.com
-0.0.0.0 ry1.btcc.com
 0.0.0.0 ryfm.ethosdistro.com
 0.0.0.0 ryo-coin.crypto4you.ch
 0.0.0.0 ryo-currency.com
@@ -11024,11 +11016,9 @@
 0.0.0.0 s2.theblocksfactory.com
 0.0.0.0 s2.webmine.pro
 0.0.0.0 s3.minexmr.com
-0.0.0.0 s3.webmine.pro
 0.0.0.0 s4.btcc.com
 0.0.0.0 s4.minexmr.com
 0.0.0.0 s4.webmine.pro
-0.0.0.0 s5.webmine.pro
 0.0.0.0 s7ven.com
 0.0.0.0 saascoin.cryptomineros.com
 0.0.0.0 sadmin.wlink-net.com

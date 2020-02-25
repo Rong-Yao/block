@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 25.02.2020
-# Total Domains - 44493
+# Total Domains - 44491
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -16793,7 +16793,6 @@
 0.0.0.0 huelladigital.com
 0.0.0.0 huev.net
 0.0.0.0 huffingtonpost.crwdcntrl.net
-0.0.0.0 huge-search-base.com
 0.0.0.0 hugecumshot.net
 0.0.0.0 hugesearch.com
 0.0.0.0 hughes.112.2o7.net
@@ -43087,7 +43086,6 @@
 0.0.0.0 www.wwwthesharperimage.com
 0.0.0.0 www.wwwthestreet.com
 0.0.0.0 www.wwwtravelosity.com
-0.0.0.0 www.wwwtrip.com
 0.0.0.0 www.wwwtripod.com
 0.0.0.0 www.wwwty.com
 0.0.0.0 www.wwwusps.com

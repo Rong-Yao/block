@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://block.energized.pro/assets/mirror/ut1-cryptojacking.txt
 # Last Converted - 25.02.2020
-# Total Domains - 5197
+# Total Domains - 5179
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -685,7 +685,6 @@
 0.0.0.0 blockminer.me
 0.0.0.0 blockmunch.club
 0.0.0.0 blockwarepool.com
-0.0.0.0 blog.bitcoin.de
 0.0.0.0 blorgkjhbhoqr.bid
 0.0.0.0 blrdumgvqkmq.com
 0.0.0.0 blue-js.github.io
@@ -958,7 +957,6 @@
 0.0.0.0 cnt.st
 0.0.0.0 cnygzgurqpwop.bid
 0.0.0.0 coandroid.ru
-0.0.0.0 cockpit.bitcoin.de
 0.0.0.0 code.ws
 0.0.0.0 codpool.com
 0.0.0.0 coffeandcigarets.asyx.ru
@@ -1754,7 +1752,6 @@
 0.0.0.0 forrealzpiratebay.org
 0.0.0.0 fortpush.com
 0.0.0.0 fortrader.ru
-0.0.0.0 forum.bitcoin.de
 0.0.0.0 foxypool.cf
 0.0.0.0 fpbmjwoebzby.com
 0.0.0.0 fpguuwnpkvqsq.bid
@@ -1913,7 +1910,6 @@
 0.0.0.0 giphylee.com
 0.0.0.0 gitgrub.pro
 0.0.0.0 gitopazeaamdkm.bid
-0.0.0.0 gitty.bitcoin.de
 0.0.0.0 give-me-coins.com
 0.0.0.0 give-me-ltc.com
 0.0.0.0 givmuvbacwui.com
@@ -1960,7 +1956,6 @@
 0.0.0.0 gofgfsvnfnfw.com
 0.0.0.0 gohashme.com
 0.0.0.0 goldennoncepool.com
-0.0.0.0 goldiam.org
 0.0.0.0 goldoffer.online
 0.0.0.0 gonsmine.com
 0.0.0.0 gonspool.com
@@ -2254,7 +2249,6 @@
 0.0.0.0 htonrwegnifw.com
 0.0.0.0 htrprrrtrwrc.com
 0.0.0.0 huayucnblhgy.com
-0.0.0.0 hub.bitcoin.de
 0.0.0.0 hubvotrpjios.com
 0.0.0.0 huewmezzodzdv.com
 0.0.0.0 humcyddkxxm.bid
@@ -3017,15 +3011,6 @@
 0.0.0.0 magnificentpool.com
 0.0.0.0 magwfymjhils.com
 0.0.0.0 mail.skypool.ca
-0.0.0.0 mailout-0.bitcoin.de
-0.0.0.0 mailout-2.bitcoin.de
-0.0.0.0 mailout-3.bitcoin.de
-0.0.0.0 mailout-4.bitcoin.de
-0.0.0.0 mailout-5.bitcoin.de
-0.0.0.0 mailout-6.bitcoin.de
-0.0.0.0 mailout-7.bitcoin.de
-0.0.0.0 mailout-8.bitcoin.de
-0.0.0.0 mailout-9.bitcoin.de
 0.0.0.0 mainnet.eosamsterdam.net
 0.0.0.0 majanetwork.com
 0.0.0.0 majorminers.com
@@ -4511,7 +4496,6 @@
 0.0.0.0 skoyuoqhcpxol.bid
 0.0.0.0 sktmonpbfgxamj.bid
 0.0.0.0 skunz.ru
-0.0.0.0 skynet.bitcoin.de
 0.0.0.0 skypool.co
 0.0.0.0 skypool.org
 0.0.0.0 skzhfyqozkic.com
@@ -5084,7 +5068,6 @@
 0.0.0.0 whgsyczcofwf.com
 0.0.0.0 whibbit.cn
 0.0.0.0 wickedmine.com
-0.0.0.0 wiki.bitcoin.de
 0.0.0.0 wilf.cn
 0.0.0.0 wk.8686dy.com
 0.0.0.0 wlink-net.com
@@ -5154,7 +5137,6 @@
 0.0.0.0 ynewcdjtop.com
 0.0.0.0 yobapool.net
 0.0.0.0 yobit.net
-0.0.0.0 yoda.bitcoin.de
 0.0.0.0 youbit.co.kr
 0.0.0.0 youcrazy.me
 0.0.0.0 youpool.io

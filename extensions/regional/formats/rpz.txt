@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 63,683
+; Entries: 63,691
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 06:14:36
+; Updated: Tue, 25 Feb 20 12:14:11
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2667,6 +2667,7 @@ ad.71i.de CNAME .
 ad.9animes.ru CNAME .
 ad.a-ads.com CNAME .
 ad.about.co.kr CNAME .
+ad.accesstrade.vn CNAME .
 ad.activaweb.fr CNAME .
 ad.adapter.kaffnet.com CNAME .
 ad.admitad.com CNAME .
@@ -15093,6 +15094,7 @@ flite.com CNAME .
 flix16.com CNAME .
 flixlnk.top CNAME .
 fljozww19f.com CNAME .
+flloczhqdkn.com CNAME .
 flmyidbnljphko.com CNAME .
 flnfbaoozuib.com CNAME .
 flnqkhnqjcmvp.com CNAME .
@@ -18890,6 +18892,7 @@ ijterttmus.com CNAME .
 ijugatdyiuwxq.com CNAME .
 ijuns.com CNAME .
 ijuny.com CNAME .
+ijxfkfsvzvnyk.com CNAME .
 ikbwvphztgkiq.com CNAME .
 ikersont.com CNAME .
 ikhdsnufzzj.com CNAME .
@@ -20337,6 +20340,7 @@ jnu16azvozz0.pro CNAME .
 jnu1euxlnems.pro CNAME .
 jnu1usxpndz0.pro CNAME .
 jnu9uwxlprf.online CNAME .
+jnxz88.cn CNAME .
 jnyngg.cn CNAME .
 jo0kfb10xr.ru CNAME .
 jo7cofh3.com CNAME .
@@ -30902,6 +30906,7 @@ qloer.com CNAME .
 qlonglong.com CNAME .
 qlqscuseoyrdv.com CNAME .
 qlqvzzcaxto.com CNAME .
+qlssbq.cn CNAME .
 qlugrmjsncbe.com CNAME .
 qluowqzbbukldb.bid CNAME .
 qlvgvehwzj.com CNAME .
@@ -30936,6 +30941,7 @@ qn.bejson.com CNAME .
 qnageoh3ns.com CNAME .
 qndqwtrwguhv.com CNAME .
 qneit.com CNAME .
+qnemxzckwx.com CNAME .
 qnfarzjp.bid CNAME .
 qnfpskgtzkw.com CNAME .
 qnhwhedcrzeodd.com CNAME .
@@ -33385,6 +33391,7 @@ sefire.eu CNAME .
 sefortme.pro CNAME .
 segamen.ru CNAME .
 segmentify.com CNAME .
+segodnia.space CNAME .
 seguro.via-rs.net CNAME .
 sehiba.com CNAME .
 seilope.com CNAME .
@@ -37010,6 +37017,7 @@ tracelive.ru CNAME .
 tracer.jp CNAME .
 traceybell.co.uk CNAME .
 track-srv.vietnamnet.vn CNAME .
+track.accesstrade.vn CNAME .
 track.adform.net CNAME .
 track.adnetwork.vn CNAME .
 track.adsota.com CNAME .

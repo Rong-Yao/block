@@ -1,8 +1,8 @@
 # Title: easylist-french Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/liste_fr.txt
-# Last Converted - 25.02.2020
-# Total Domains - 5499
+# Last Converted - 26.02.2020
+# Total Domains - 5501
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2819,6 +2819,7 @@
 0.0.0.0 jiwvbck.com
 0.0.0.0 jixing8.com
 0.0.0.0 jjmdavj.com
+0.0.0.0 jload01.info
 0.0.0.0 jobdjrurl.com
 0.0.0.0 jobtransport.com
 0.0.0.0 joheeptaicat.com
@@ -3074,6 +3075,7 @@
 0.0.0.0 loasdfn.xyz
 0.0.0.0 loaxuflhen.com
 0.0.0.0 local-finders.com
+0.0.0.0 lodddd01.info
 0.0.0.0 logfrochi.site
 0.0.0.0 login.meexy.com
 0.0.0.0 loktrk.com
@@ -4264,6 +4266,7 @@
 0.0.0.0 rickettsharrell.com
 0.0.0.0 ridgedaletecopa.com
 0.0.0.0 ridingintractable.com
+0.0.0.0 rifat01.info
 0.0.0.0 rigfoxcup.site
 0.0.0.0 rilnali.ru
 0.0.0.0 ringier.hu
@@ -4969,7 +4972,6 @@
 0.0.0.0 ubeestis.net
 0.0.0.0 ublock.pw
 0.0.0.0 ucheephu.com
-0.0.0.0 udncoeln.com
 0.0.0.0 udockoan.net
 0.0.0.0 udrivemyr54.com
 0.0.0.0 ue696vbd9l.bid

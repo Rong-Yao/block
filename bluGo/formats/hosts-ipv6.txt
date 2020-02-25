@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.056
-# Release: 056
-# Entries: 121,828
+# Version: 20.02.057
+# Release: 057
+# Entries: 121,844
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 18:09:50
+# Updated: Wed, 26 Feb 20 00:11:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -4840,6 +4840,7 @@ ff02::3 ip6-allhosts
 :: ad.aboutwebservices.com
 :: ad.abum.com
 :: ad.accelerator-media.com
+:: ad.accesstrade.vn
 :: ad.activesolutions.cz
 :: ad.ad-rider.com
 :: ad.ad-srv.net
@@ -10570,6 +10571,7 @@ ff02::3 ip6-allhosts
 :: aigneloa.com
 :: aigysycrmuoetk.com
 :: aii-vrify.com
+:: aii.sh
 :: aiiaqehoqgrj.com
 :: aiidbowoj.com
 :: aiiukvzjtsc.com
@@ -17274,6 +17276,8 @@ ff02::3 ip6-allhosts
 :: bankhapoalim-online.com
 :: banking.bancofalabella-clientes.com.pe.lafarmed.com
 :: bankivsamare.ru
+:: bankmillennium.fun
+:: bankmillennium.site
 :: bankofamerica.cob-eg.com
 :: bankofamerica.online.banking.services.alert.landscapearchitecture.net.nz
 :: bankofamerica.trust11.com
@@ -24127,6 +24131,7 @@ ff02::3 ip6-allhosts
 :: ceotto.fr
 :: cepac.edu.jalisco.gob.mx
 :: cepailru.com
+:: ceparateauab.info
 :: cepheus.iad.appboy.com
 :: cepis.escoladiamante.com
 :: cepmuzikindir.me
@@ -31803,6 +31808,7 @@ ff02::3 ip6-allhosts
 :: denni.positiveparentology.com
 :: dennispearsondesign.com
 :: dennispublishing.112.2o7.net
+:: denotatorum.site
 :: densest-mistakes.000webhostapp.com
 :: denswear.com
 :: dentalcarecenterpv.com
@@ -40673,6 +40679,7 @@ ff02::3 ip6-allhosts
 :: fkey.s.xoxknct.com
 :: fkfmujcudpwdn.com
 :: fkfpkhijf.com
+:: fkgbxlgcnzf.com
 :: fkhate.wz.cz
 :: fkianrxjfumm.com
 :: fkii.org
@@ -41179,6 +41186,7 @@ ff02::3 ip6-allhosts
 :: fortpush.com
 :: fortrader.ru
 :: forttantontherdown.info
+:: fortunatetime.xyz
 :: fortunefiles.org
 :: fortvision.com
 :: fortyna-plus.ru
@@ -45608,6 +45616,7 @@ ff02::3 ip6-allhosts
 :: groenesmoothierecepten.net
 :: groestlcoin.miningpoolhub.com
 :: gromairt.net
+:: gromka.host
 :: gronalund.dev.pool.se
 :: gronan.dev.pool.se
 :: gronan.pool.se
@@ -45634,6 +45643,7 @@ ff02::3 ip6-allhosts
 :: groupesda.com
 :: groupevl.ca
 :: groupfabric.com
+:: groupian.io
 :: grouploot.co.uk
 :: groupm.com
 :: groupmarketing.ru
@@ -52863,7 +52873,6 @@ ff02::3 ip6-allhosts
 :: in.analytics.glance.inmobi.com
 :: in.api.clevertap.com
 :: in.api.glance.inmobi.com
-:: in.appcenter.ms
 :: in.appserver-ap.com
 :: in.appserver-cp.com
 :: in.cuebiq.com
@@ -55487,6 +55496,7 @@ ff02::3 ip6-allhosts
 :: jmtitdorwfxe.com
 :: jmvjmgofvxnu.com
 :: jmxecxpqq.com
+:: jmxjqlagfwz.com
 :: jmxjwyqnelvzwu.com
 :: jmxphjxsxd.com
 :: jn.pl.thefiodssd.com
@@ -57395,7 +57405,6 @@ ff02::3 ip6-allhosts
 :: kkplegals.com
 :: kkscoephxrum.com
 :: kksoyysmpp.com
-:: kktgi.company
 :: kkthx.ac.ug
 :: kkvsvznavqkl.bid
 :: kkxrizpdh.com
@@ -66606,6 +66615,7 @@ ff02::3 ip6-allhosts
 :: moon.coinium.org
 :: moon.dedicatedpool.com
 :: moon.holeanimal.xyz
+:: moonads.net
 :: moonbit.co.in
 :: mooncoin.securepayment.cc
 :: moondash.co.in
@@ -70441,7 +70451,6 @@ ff02::3 ip6-allhosts
 :: nocentral.net
 :: noclef.com
 :: noclegi-insko.pl
-:: noclegikukulka.pl
 :: noclegipodbabia.pl
 :: noclick.connexity.com
 :: nocroom.com
@@ -71767,7 +71776,6 @@ ff02::3 ip6-allhosts
 :: obonkybillions.duckdns.org
 :: obos-ankiety.pl
 :: oboxads.com
-:: obozybrydzowe.pl
 :: obpzuctfozram.com
 :: obqtccxcfjmd.com
 :: obrayxknu.com
@@ -72240,7 +72248,6 @@ ff02::3 ip6-allhosts
 :: okayfiles.com
 :: okazaki.cc
 :: okazjeinternetowe.pl
-:: okazyjnie.net
 :: okbiafbcvoqo.com
 :: okblockmachine.com
 :: okboobs.com
@@ -74371,6 +74378,7 @@ ff02::3 ip6-allhosts
 :: pact.thecon.com
 :: pacyfka99.pl
 :: pacyna2.republika.pl
+:: paczka-48.com
 :: paczka.epocztex.link
 :: paczkadhl.info
 :: pad-v3.prod.cloud.ogury.io
@@ -76977,6 +76985,7 @@ ff02::3 ip6-allhosts
 :: platinumindustrialcoatings.com
 :: platinummotionmedia.com
 :: platinumprestige.pl
+:: platnosc.paczka-48.com
 :: plattform.deruwia.de
 :: plavix.shengen.ru
 :: play-baidu.rayjump.com
@@ -77160,6 +77169,7 @@ ff02::3 ip6-allhosts
 :: ploumanach-village-prefere.fr
 :: ploy.batmobi.net
 :: plpanaifheaighai.com
+:: plpocztex.org
 :: plpool.org
 :: plqakqvku.com
 :: plquutxxewil.com
@@ -88975,7 +88985,6 @@ ff02::3 ip6-allhosts
 :: slt.hit.gemius.pl
 :: sltravelcom.112.2o7.net
 :: sltrib-d.openx.net
-:: slub2serc.pl
 :: slughtessing.info
 :: slurolen.com
 :: slushpool.com
@@ -95984,6 +95993,7 @@ ff02::3 ip6-allhosts
 :: thelulusband.com
 :: themacuser.org
 :: themaplemethod.com
+:: themarketriser.com
 :: theme.ladipage.vn
 :: themecounter.com
 :: themediafire.com
@@ -108653,6 +108663,8 @@ ff02::3 ip6-allhosts
 :: www.bangbuddy.com
 :: www.bangbuzz.fr
 :: www.banjers.ero-advertising.com
+:: www.bankmillennium.fun
+:: www.bankmillennium.site
 :: www.bankofamerica.com.hongyen.vn
 :: www.bankofamerica.com.interlogs.com.vn
 :: www.bankofamerica.com.langtranxa.vn
@@ -111132,6 +111144,7 @@ ff02::3 ip6-allhosts
 :: www.freewebtown.com
 :: www.frequencyaccess.com
 :: www.frequencyscheduler.com
+:: www.fres-news.com
 :: www.fresh-js.bitbucket.io
 :: www.freshcoffeenetwork.com
 :: www.freshiuz.com
@@ -114279,6 +114292,7 @@ ff02::3 ip6-allhosts
 :: www.p3322.com
 :: www.p33844.clksite.com
 :: www.pacyfka99.pl
+:: www.paczka-48.com
 :: www.padirsaze.com
 :: www.pagechoice.net
 :: www.pagefair.com
@@ -114540,6 +114554,7 @@ ff02::3 ip6-allhosts
 :: www.plantengineer.biz
 :: www.plarium.com
 :: www.plastic-wiremesh.com
+:: www.platnosc.paczka-48.com
 :: www.play-top.mobi
 :: www.play-tube.pl
 :: www.play.leadzu.com
@@ -114575,6 +114590,7 @@ ff02::3 ip6-allhosts
 :: www.pljestnaj.pl
 :: www.ploskas.gr
 :: www.ploskonax.com
+:: www.plpocztex.org
 :: www.plpool.org
 :: www.plt.cryptominer.net
 :: www.plumbntile.talktalk.net
@@ -116550,6 +116566,7 @@ ff02::3 ip6-allhosts
 :: www.thejazzyjewelzstudio.co.uk
 :: www.thelifeness.pl
 :: www.thelogo.pl
+:: www.themarketriser.com
 :: www.themediafire.com
 :: www.themillionaireinpjs.net
 :: www.theminerspond.com
@@ -120802,7 +120819,6 @@ ff02::3 ip6-allhosts
 :: zajshoeses.site
 :: zakelijk.happytruffel.nl
 :: zaksiazke.pl
-:: zakupeo.com
 :: zakupymax.net
 :: zalanmanbuege.com
 :: zalkrjkruyzh.com

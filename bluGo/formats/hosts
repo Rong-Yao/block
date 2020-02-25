@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: hosts
-# Version: 20.02.056
-# Release: 056
-# Entries: 121,828
+# Version: 20.02.057
+# Release: 057
+# Entries: 121,844
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 18:09:50
+# Updated: Wed, 26 Feb 20 00:11:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -4840,6 +4840,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
 0.0.0.0 ad.accelerator-media.com
+0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.activesolutions.cz
 0.0.0.0 ad.ad-rider.com
 0.0.0.0 ad.ad-srv.net
@@ -10570,6 +10571,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aigneloa.com
 0.0.0.0 aigysycrmuoetk.com
 0.0.0.0 aii-vrify.com
+0.0.0.0 aii.sh
 0.0.0.0 aiiaqehoqgrj.com
 0.0.0.0 aiidbowoj.com
 0.0.0.0 aiiukvzjtsc.com
@@ -17274,6 +17276,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 bankhapoalim-online.com
 0.0.0.0 banking.bancofalabella-clientes.com.pe.lafarmed.com
 0.0.0.0 bankivsamare.ru
+0.0.0.0 bankmillennium.fun
+0.0.0.0 bankmillennium.site
 0.0.0.0 bankofamerica.cob-eg.com
 0.0.0.0 bankofamerica.online.banking.services.alert.landscapearchitecture.net.nz
 0.0.0.0 bankofamerica.trust11.com
@@ -24127,6 +24131,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ceotto.fr
 0.0.0.0 cepac.edu.jalisco.gob.mx
 0.0.0.0 cepailru.com
+0.0.0.0 ceparateauab.info
 0.0.0.0 cepheus.iad.appboy.com
 0.0.0.0 cepis.escoladiamante.com
 0.0.0.0 cepmuzikindir.me
@@ -31803,6 +31808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 denni.positiveparentology.com
 0.0.0.0 dennispearsondesign.com
 0.0.0.0 dennispublishing.112.2o7.net
+0.0.0.0 denotatorum.site
 0.0.0.0 densest-mistakes.000webhostapp.com
 0.0.0.0 denswear.com
 0.0.0.0 dentalcarecenterpv.com
@@ -40673,6 +40679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fkey.s.xoxknct.com
 0.0.0.0 fkfmujcudpwdn.com
 0.0.0.0 fkfpkhijf.com
+0.0.0.0 fkgbxlgcnzf.com
 0.0.0.0 fkhate.wz.cz
 0.0.0.0 fkianrxjfumm.com
 0.0.0.0 fkii.org
@@ -41179,6 +41186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fortpush.com
 0.0.0.0 fortrader.ru
 0.0.0.0 forttantontherdown.info
+0.0.0.0 fortunatetime.xyz
 0.0.0.0 fortunefiles.org
 0.0.0.0 fortvision.com
 0.0.0.0 fortyna-plus.ru
@@ -45608,6 +45616,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 groenesmoothierecepten.net
 0.0.0.0 groestlcoin.miningpoolhub.com
 0.0.0.0 gromairt.net
+0.0.0.0 gromka.host
 0.0.0.0 gronalund.dev.pool.se
 0.0.0.0 gronan.dev.pool.se
 0.0.0.0 gronan.pool.se
@@ -45634,6 +45643,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 groupesda.com
 0.0.0.0 groupevl.ca
 0.0.0.0 groupfabric.com
+0.0.0.0 groupian.io
 0.0.0.0 grouploot.co.uk
 0.0.0.0 groupm.com
 0.0.0.0 groupmarketing.ru
@@ -52863,7 +52873,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.clevertap.com
 0.0.0.0 in.api.glance.inmobi.com
-0.0.0.0 in.appcenter.ms
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
 0.0.0.0 in.cuebiq.com
@@ -55487,6 +55496,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jmtitdorwfxe.com
 0.0.0.0 jmvjmgofvxnu.com
 0.0.0.0 jmxecxpqq.com
+0.0.0.0 jmxjqlagfwz.com
 0.0.0.0 jmxjwyqnelvzwu.com
 0.0.0.0 jmxphjxsxd.com
 0.0.0.0 jn.pl.thefiodssd.com
@@ -57395,7 +57405,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kkplegals.com
 0.0.0.0 kkscoephxrum.com
 0.0.0.0 kksoyysmpp.com
-0.0.0.0 kktgi.company
 0.0.0.0 kkthx.ac.ug
 0.0.0.0 kkvsvznavqkl.bid
 0.0.0.0 kkxrizpdh.com
@@ -66606,6 +66615,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moon.coinium.org
 0.0.0.0 moon.dedicatedpool.com
 0.0.0.0 moon.holeanimal.xyz
+0.0.0.0 moonads.net
 0.0.0.0 moonbit.co.in
 0.0.0.0 mooncoin.securepayment.cc
 0.0.0.0 moondash.co.in
@@ -70441,7 +70451,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nocentral.net
 0.0.0.0 noclef.com
 0.0.0.0 noclegi-insko.pl
-0.0.0.0 noclegikukulka.pl
 0.0.0.0 noclegipodbabia.pl
 0.0.0.0 noclick.connexity.com
 0.0.0.0 nocroom.com
@@ -71767,7 +71776,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 obonkybillions.duckdns.org
 0.0.0.0 obos-ankiety.pl
 0.0.0.0 oboxads.com
-0.0.0.0 obozybrydzowe.pl
 0.0.0.0 obpzuctfozram.com
 0.0.0.0 obqtccxcfjmd.com
 0.0.0.0 obrayxknu.com
@@ -72240,7 +72248,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 okayfiles.com
 0.0.0.0 okazaki.cc
 0.0.0.0 okazjeinternetowe.pl
-0.0.0.0 okazyjnie.net
 0.0.0.0 okbiafbcvoqo.com
 0.0.0.0 okblockmachine.com
 0.0.0.0 okboobs.com
@@ -74371,6 +74378,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pact.thecon.com
 0.0.0.0 pacyfka99.pl
 0.0.0.0 pacyna2.republika.pl
+0.0.0.0 paczka-48.com
 0.0.0.0 paczka.epocztex.link
 0.0.0.0 paczkadhl.info
 0.0.0.0 pad-v3.prod.cloud.ogury.io
@@ -76977,6 +76985,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 platinumindustrialcoatings.com
 0.0.0.0 platinummotionmedia.com
 0.0.0.0 platinumprestige.pl
+0.0.0.0 platnosc.paczka-48.com
 0.0.0.0 plattform.deruwia.de
 0.0.0.0 plavix.shengen.ru
 0.0.0.0 play-baidu.rayjump.com
@@ -77160,6 +77169,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ploumanach-village-prefere.fr
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 plpanaifheaighai.com
+0.0.0.0 plpocztex.org
 0.0.0.0 plpool.org
 0.0.0.0 plqakqvku.com
 0.0.0.0 plquutxxewil.com
@@ -88975,7 +88985,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 slt.hit.gemius.pl
 0.0.0.0 sltravelcom.112.2o7.net
 0.0.0.0 sltrib-d.openx.net
-0.0.0.0 slub2serc.pl
 0.0.0.0 slughtessing.info
 0.0.0.0 slurolen.com
 0.0.0.0 slushpool.com
@@ -95984,6 +95993,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 thelulusband.com
 0.0.0.0 themacuser.org
 0.0.0.0 themaplemethod.com
+0.0.0.0 themarketriser.com
 0.0.0.0 theme.ladipage.vn
 0.0.0.0 themecounter.com
 0.0.0.0 themediafire.com
@@ -108653,6 +108663,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bangbuddy.com
 0.0.0.0 www.bangbuzz.fr
 0.0.0.0 www.banjers.ero-advertising.com
+0.0.0.0 www.bankmillennium.fun
+0.0.0.0 www.bankmillennium.site
 0.0.0.0 www.bankofamerica.com.hongyen.vn
 0.0.0.0 www.bankofamerica.com.interlogs.com.vn
 0.0.0.0 www.bankofamerica.com.langtranxa.vn
@@ -111132,6 +111144,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.freewebtown.com
 0.0.0.0 www.frequencyaccess.com
 0.0.0.0 www.frequencyscheduler.com
+0.0.0.0 www.fres-news.com
 0.0.0.0 www.fresh-js.bitbucket.io
 0.0.0.0 www.freshcoffeenetwork.com
 0.0.0.0 www.freshiuz.com
@@ -114279,6 +114292,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.p3322.com
 0.0.0.0 www.p33844.clksite.com
 0.0.0.0 www.pacyfka99.pl
+0.0.0.0 www.paczka-48.com
 0.0.0.0 www.padirsaze.com
 0.0.0.0 www.pagechoice.net
 0.0.0.0 www.pagefair.com
@@ -114540,6 +114554,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.plantengineer.biz
 0.0.0.0 www.plarium.com
 0.0.0.0 www.plastic-wiremesh.com
+0.0.0.0 www.platnosc.paczka-48.com
 0.0.0.0 www.play-top.mobi
 0.0.0.0 www.play-tube.pl
 0.0.0.0 www.play.leadzu.com
@@ -114575,6 +114590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pljestnaj.pl
 0.0.0.0 www.ploskas.gr
 0.0.0.0 www.ploskonax.com
+0.0.0.0 www.plpocztex.org
 0.0.0.0 www.plpool.org
 0.0.0.0 www.plt.cryptominer.net
 0.0.0.0 www.plumbntile.talktalk.net
@@ -116550,6 +116566,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.thejazzyjewelzstudio.co.uk
 0.0.0.0 www.thelifeness.pl
 0.0.0.0 www.thelogo.pl
+0.0.0.0 www.themarketriser.com
 0.0.0.0 www.themediafire.com
 0.0.0.0 www.themillionaireinpjs.net
 0.0.0.0 www.theminerspond.com
@@ -120802,7 +120819,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zajshoeses.site
 0.0.0.0 zakelijk.happytruffel.nl
 0.0.0.0 zaksiazke.pl
-0.0.0.0 zakupeo.com
 0.0.0.0 zakupymax.net
 0.0.0.0 zalanmanbuege.com
 0.0.0.0 zalkrjkruyzh.com

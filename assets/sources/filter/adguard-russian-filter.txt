@@ -1,8 +1,8 @@
 # Title: adguard-russian-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
-# Last Converted - 25.02.2020
-# Total Domains - 3219
+# Last Converted - 26.02.2020
+# Total Domains - 3221
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1017,6 +1017,7 @@
 0.0.0.0 focuscoat.com
 0.0.0.0 foganonura.com
 0.0.0.0 fogtrack.net
+0.0.0.0 foiozzs.pro
 0.0.0.0 fonarevka.ru
 0.0.0.0 for.health-net-lady.ru
 0.0.0.0 forcetraf.com
@@ -2407,6 +2408,7 @@
 0.0.0.0 sefortme.pro
 0.0.0.0 selectornews.com
 0.0.0.0 selectroduced.com
+0.0.0.0 sellaction.net
 0.0.0.0 selosin.com
 0.0.0.0 semi-cod.nnmclub.ch
 0.0.0.0 seo-sport.ru

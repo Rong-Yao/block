@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts IPV6
-# Version: 20.02.056
-# Release: 056
-# Entries: 61,377
+# Version: 20.02.057
+# Release: 057
+# Entries: 61,383
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 18:09:47
+# Updated: Wed, 26 Feb 20 00:10:54
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -7078,6 +7078,7 @@ ff02::3 ip6-allhosts
 :: aidraulreve.com
 :: aifoosty.net
 :: aigneloa.com
+:: aii.sh
 :: aiidbowoj.com
 :: aiiukvzjtsc.com
 :: aikapool.com
@@ -14365,6 +14366,7 @@ ff02::3 ip6-allhosts
 :: centwrite.com
 :: ceoillwdcc.com
 :: cepailru.com
+:: ceparateauab.info
 :: cepheus.iad.appboy.com
 :: cepmuzikindir.me
 :: ceppartner.com
@@ -18167,6 +18169,7 @@ ff02::3 ip6-allhosts
 :: denixsips.com
 :: denizunay.com
 :: dennispublishing.112.2o7.net
+:: denotatorum.site
 :: denverpost.112.2o7.net
 :: deoi3kwqhv0d5.cloudfront.net
 :: deostr.com
@@ -22029,6 +22032,7 @@ ff02::3 ip6-allhosts
 :: fkey.s.xoxknct.com
 :: fkfmujcudpwdn.com
 :: fkfpkhijf.com
+:: fkgbxlgcnzf.com
 :: fkjzz.myshopify.com
 :: fkloazpi.com
 :: fkooaee.angelcities.com
@@ -24438,6 +24442,7 @@ ff02::3 ip6-allhosts
 :: group11.iperceptions.com
 :: groupcommerce.com
 :: groupfabric.com
+:: groupian.io
 :: groupm.com
 :: groupmarketing.ru
 :: grow.kissmetrics.com
@@ -33831,6 +33836,7 @@ ff02::3 ip6-allhosts
 :: mookie1.com
 :: moolahmedia.com
 :: moon.holeanimal.xyz
+:: moonads.net
 :: moonbit.co.in
 :: moondash.co.in
 :: moonicorn.network

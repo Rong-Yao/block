@@ -1,8 +1,8 @@
 # Title: sbc Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
-# Last Converted - 25.02.2020
-# Total Domains - 35887
+# Last Converted - 26.02.2020
+# Total Domains - 35903
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1758,6 +1758,7 @@
 0.0.0.0 ad.abema.io
 0.0.0.0 ad.aboutwebservices.com
 0.0.0.0 ad.abum.com
+0.0.0.0 ad.accesstrade.vn
 0.0.0.0 ad.ad-rider.com
 0.0.0.0 ad.ad-srv.net
 0.0.0.0 ad.ad-stir.com
@@ -4575,6 +4576,7 @@
 0.0.0.0 akapiprod.netmera.com
 0.0.0.0 akar.iad.appboy.com
 0.0.0.0 akariyer.com
+0.0.0.0 akashdayalgroups.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 akcjainijob.pl
 0.0.0.0 akcr.free.fr
@@ -6747,6 +6749,8 @@
 0.0.0.0 banex.bikers-engine.com
 0.0.0.0 bango.net
 0.0.0.0 banik.redigy.cz
+0.0.0.0 bankmillennium.fun
+0.0.0.0 bankmillennium.site
 0.0.0.0 bankrate.112.2o7.net
 0.0.0.0 bankwest.112.2o7.net
 0.0.0.0 bann12s.ero-advertising.com
@@ -7119,6 +7123,7 @@
 0.0.0.0 bemydate.mobi
 0.0.0.0 ben.crxmouse.com
 0.0.0.0 benchemail.bmetrack.com
+0.0.0.0 benefitsorganic.com
 0.0.0.0 benimreklam.com
 0.0.0.0 bepolite.eu
 0.0.0.0 berkano-koty.pl
@@ -8364,6 +8369,7 @@
 0.0.0.0 cdn-1.convertexperiments.com
 0.0.0.0 cdn-a2-ncl.optimizely.com
 0.0.0.0 cdn-adn-foreign.rayjump.com
+0.0.0.0 cdn-adn-https-baidu.rayjump.com
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-adn.smardroid.com
 0.0.0.0 cdn-adspot.tfgco.com
@@ -9354,6 +9360,7 @@
 0.0.0.0 cloisteredhydrant.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
+0.0.0.0 cloud-based-service.us-south.cf.appdomain.cloud
 0.0.0.0 cloud-emea.analytics-egain.com
 0.0.0.0 cloud-graphql-live.us-east-1.elasticbeanstalk.com
 0.0.0.0 cloud-observer.ip-label.net
@@ -13148,6 +13155,7 @@
 0.0.0.0 forstriko.com
 0.0.0.0 fortnite-vbuck.com
 0.0.0.0 fortnitehack2018.com
+0.0.0.0 fortunatetime.xyz
 0.0.0.0 forum-boost.site50.net
 0.0.0.0 forum.adspaces.ero-advertising.com
 0.0.0.0 forum.ero-advertising.com
@@ -13304,6 +13312,7 @@
 0.0.0.0 freewheel.com
 0.0.0.0 freewheel.tv
 0.0.0.0 frenetikus.com
+0.0.0.0 fres-news.com
 0.0.0.0 fresh-finance.pl
 0.0.0.0 fresh-tv.biz
 0.0.0.0 freshcoffeenetwork.com
@@ -14276,6 +14285,7 @@
 0.0.0.0 grfx.mp3.com
 0.0.0.0 grmtech.net
 0.0.0.0 grnpower.io
+0.0.0.0 gromka.host
 0.0.0.0 grooveshark.fr
 0.0.0.0 groundcontrol.aroundmeapi.com
 0.0.0.0 groundtruth.com
@@ -15746,7 +15756,6 @@
 0.0.0.0 in.analytics.glance.inmobi.com
 0.0.0.0 in.api.clevertap.com
 0.0.0.0 in.api.glance.inmobi.com
-0.0.0.0 in.appcenter.ms
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
 0.0.0.0 in.cuebiq.com
@@ -16741,7 +16750,6 @@
 0.0.0.0 kixer.com
 0.0.0.0 kjbbc.net
 0.0.0.0 kjhkgh.skroc.pl
-0.0.0.0 kktgi.company
 0.0.0.0 kl21.pl
 0.0.0.0 kladovonet.com.com
 0.0.0.0 klasterbhp.pl
@@ -18790,7 +18798,6 @@
 0.0.0.0 miami.ero-advertising.com
 0.0.0.0 miaozhen-cm.admaster.com.cn
 0.0.0.0 miaozhen.com
-0.0.0.0 miarroba.com
 0.0.0.0 michal-zajac.pl
 0.0.0.0 michalfigura.pl
 0.0.0.0 michalgamrot.pl
@@ -20136,7 +20143,6 @@
 0.0.0.0 nobodyspeakstruth.narod.ru
 0.0.0.0 nobrain.dk
 0.0.0.0 noclegi-insko.pl
-0.0.0.0 noclegikukulka.pl
 0.0.0.0 noclegipodbabia.pl
 0.0.0.0 noclick.connexity.com
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
@@ -20513,7 +20519,6 @@
 0.0.0.0 objects.tremormedia.com
 0.0.0.0 obkom.net.ua
 0.0.0.0 obos-ankiety.pl
-0.0.0.0 obozybrydzowe.pl
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
 0.0.0.0 observare.de
@@ -20604,7 +20609,6 @@
 0.0.0.0 ojolink.fr
 0.0.0.0 ok-outlet.com
 0.0.0.0 okazjeinternetowe.pl
-0.0.0.0 okazyjnie.net
 0.0.0.0 okcounter.com
 0.0.0.0 okeanbg.com
 0.0.0.0 oklahomadepartmentofcommerce.112.2o7.net
@@ -21168,6 +21172,7 @@
 0.0.0.0 pacificnet.xyz
 0.0.0.0 paclitor.com
 0.0.0.0 pacyfka99.pl
+0.0.0.0 paczka-48.com
 0.0.0.0 pad-v3.prod.cloud.ogury.io
 0.0.0.0 pads.cdnads.com
 0.0.0.0 padsdel.com
@@ -21837,6 +21842,7 @@
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.openx.com
 0.0.0.0 platinumprestige.pl
+0.0.0.0 platnosc.paczka-48.com
 0.0.0.0 plavix.shengen.ru
 0.0.0.0 play-tube.pl
 0.0.0.0 play.appiq.mobi
@@ -21910,6 +21916,7 @@
 0.0.0.0 ploaz54.com
 0.0.0.0 ploskonax.com
 0.0.0.0 ploy.batmobi.net
+0.0.0.0 plpocztex.org
 0.0.0.0 pls.crispadvertising.com
 0.0.0.0 plug.plugerr.com
 0.0.0.0 plugin.mediavoice.com
@@ -25301,7 +25308,6 @@
 0.0.0.0 slt.hit.gemius.pl
 0.0.0.0 sltravelcom.112.2o7.net
 0.0.0.0 sltrib-d.openx.net
-0.0.0.0 slub2serc.pl
 0.0.0.0 slv1.lavanetwork.net
 0.0.0.0 sm-campaign.s3-us-west-2.amazonaws.com
 0.0.0.0 sm.domobcdn.com
@@ -25660,7 +25666,6 @@
 0.0.0.0 spica.iad-03.braze.com
 0.0.0.0 spiderbait.com
 0.0.0.0 spidersboats.com
-0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 spiffymachine.com
 0.0.0.0 spikemedia-d.openx.net
 0.0.0.0 spiketv.112.2o7.net
@@ -27392,6 +27397,7 @@
 0.0.0.0 thelogo.pl
 0.0.0.0 themacuser.org
 0.0.0.0 themaplemethod.com
+0.0.0.0 themarketriser.com
 0.0.0.0 theme.ladipage.vn
 0.0.0.0 themecounter.com
 0.0.0.0 themes.ladipage.vn
@@ -27617,6 +27623,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tokfb.adsrvr.org
 0.0.0.0 tokihakita.vis1.shinobi.jp
+0.0.0.0 toknowall.com
 0.0.0.0 tokokan.com.com
 0.0.0.0 tokvideo.adsrvr.org
 0.0.0.0 tomalinoalambres.com.ar
@@ -27804,6 +27811,7 @@
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track-west.mobileadtrading.com
 0.0.0.0 track.941tracking.com
+0.0.0.0 track.accesstrade.vn
 0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 track.ad4mmo.com
 0.0.0.0 track.adbooth.net
@@ -29367,6 +29375,7 @@
 0.0.0.0 vfastdownload.com
 0.0.0.0 vfbprod2.personifycloud.com
 0.0.0.0 vfs.admaster.com.cn
+0.0.0.0 vg-hb.rayjump.com
 0.0.0.0 vg-k8s-setting.rayjump.com
 0.0.0.0 vg-no.c.richmetrics.com
 0.0.0.0 vg-setting.rayjump.com
@@ -30675,6 +30684,7 @@
 0.0.0.0 www.akademiamocowania.pl
 0.0.0.0 www.akademianaukowa.pl
 0.0.0.0 www.akademiasw.pl
+0.0.0.0 www.akashdayalgroups.com
 0.0.0.0 www.akazoo.pl
 0.0.0.0 www.akcjainijob.pl
 0.0.0.0 www.akirkpatrick.com
@@ -30898,6 +30908,8 @@
 0.0.0.0 www.ban4ers.ero-advertising.com
 0.0.0.0 www.bangbuddy.com
 0.0.0.0 www.banjers.ero-advertising.com
+0.0.0.0 www.bankmillennium.fun
+0.0.0.0 www.bankmillennium.site
 0.0.0.0 www.bann12s.ero-advertising.com
 0.0.0.0 www.bann13s.ero-advertising.com
 0.0.0.0 www.bann14s.ero-advertising.com
@@ -32007,6 +32019,7 @@
 0.0.0.0 www.freewebtown.com
 0.0.0.0 www.frequencyaccess.com
 0.0.0.0 www.frequencyscheduler.com
+0.0.0.0 www.fres-news.com
 0.0.0.0 www.freshcoffeenetwork.com
 0.0.0.0 www.freshiuz.com
 0.0.0.0 www.friend-greetings.com
@@ -33397,6 +33410,7 @@
 0.0.0.0 www.oz-offers.com
 0.0.0.0 www.ozebox.pl
 0.0.0.0 www.pacyfka99.pl
+0.0.0.0 www.paczka-48.com
 0.0.0.0 www.pagepeel.ero-advertising.com
 0.0.0.0 www.pagerank10.co.uk
 0.0.0.0 www.paifi.net
@@ -33518,6 +33532,7 @@
 0.0.0.0 www.placidocn.com
 0.0.0.0 www.plainsviewfarm.com
 0.0.0.0 www.plarium.com
+0.0.0.0 www.platnosc.paczka-48.com
 0.0.0.0 www.play-tube.pl
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.playamo.com
@@ -33541,6 +33556,7 @@
 0.0.0.0 www.plikson.pl
 0.0.0.0 www.pljestnaj.pl
 0.0.0.0 www.ploskonax.com
+0.0.0.0 www.plpocztex.org
 0.0.0.0 www.plumsoftware.co.uk
 0.0.0.0 www.plustokenofficial.com
 0.0.0.0 www.plwash.pl
@@ -34487,6 +34503,7 @@
 0.0.0.0 www.thehomo.org
 0.0.0.0 www.thelifeness.pl
 0.0.0.0 www.thelogo.pl
+0.0.0.0 www.themarketriser.com
 0.0.0.0 www.themillionaireinpjs.net
 0.0.0.0 www.themovienation.com
 0.0.0.0 www.thenorthfacepl.pl
@@ -35693,7 +35710,6 @@
 0.0.0.0 zajazduzenka.pl
 0.0.0.0 zajonc.de
 0.0.0.0 zaksiazke.pl
-0.0.0.0 zakupeo.com
 0.0.0.0 zakupymax.net
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zalo-ads.mediaz.vn

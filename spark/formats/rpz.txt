@@ -24,12 +24,12 @@
 ; Title: Energized Spark Protection
 ; Description: True Lite Protection Pack.
 ; Format: rpz
-; Version: 20.02.056
-; Release: 056
-; Entries: 61,377
+; Version: 20.02.057
+; Release: 057
+; Entries: 61,383
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 18:09:47
+; Updated: Wed, 26 Feb 20 00:10:54
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7067,6 +7067,7 @@ aidps.atdmt.com CNAME .
 aidraulreve.com CNAME .
 aifoosty.net CNAME .
 aigneloa.com CNAME .
+aii.sh CNAME .
 aiidbowoj.com CNAME .
 aiiukvzjtsc.com CNAME .
 aikapool.com CNAME .
@@ -14354,6 +14355,7 @@ centrumcz.hit.gemius.pl CNAME .
 centwrite.com CNAME .
 ceoillwdcc.com CNAME .
 cepailru.com CNAME .
+ceparateauab.info CNAME .
 cepheus.iad.appboy.com CNAME .
 cepmuzikindir.me CNAME .
 ceppartner.com CNAME .
@@ -18156,6 +18158,7 @@ denis-pj0823031-491201b.com CNAME .
 denixsips.com CNAME .
 denizunay.com CNAME .
 dennispublishing.112.2o7.net CNAME .
+denotatorum.site CNAME .
 denverpost.112.2o7.net CNAME .
 deoi3kwqhv0d5.cloudfront.net CNAME .
 deostr.com CNAME .
@@ -22018,6 +22021,7 @@ fkey.r.xoxknct.com CNAME .
 fkey.s.xoxknct.com CNAME .
 fkfmujcudpwdn.com CNAME .
 fkfpkhijf.com CNAME .
+fkgbxlgcnzf.com CNAME .
 fkjzz.myshopify.com CNAME .
 fkloazpi.com CNAME .
 fkooaee.angelcities.com CNAME .
@@ -24427,6 +24431,7 @@ groundtruth.com CNAME .
 group11.iperceptions.com CNAME .
 groupcommerce.com CNAME .
 groupfabric.com CNAME .
+groupian.io CNAME .
 groupm.com CNAME .
 groupmarketing.ru CNAME .
 grow.kissmetrics.com CNAME .
@@ -33820,6 +33825,7 @@ monxserver.com CNAME .
 mookie1.com CNAME .
 moolahmedia.com CNAME .
 moon.holeanimal.xyz CNAME .
+moonads.net CNAME .
 moonbit.co.in CNAME .
 moondash.co.in CNAME .
 moonicorn.network CNAME .

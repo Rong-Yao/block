@@ -24,12 +24,12 @@
 ; Title: Energized Blu Go Protection
 ; Description: A Lightweight Mid Ranger Protection Pack.
 ; Format: rpz
-; Version: 20.02.056
-; Release: 056
-; Entries: 121,828
+; Version: 20.02.057
+; Release: 057
+; Entries: 121,844
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 18:09:50
+; Updated: Wed, 26 Feb 20 00:11:00
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4829,6 +4829,7 @@ ad.about.co.kr CNAME .
 ad.aboutwebservices.com CNAME .
 ad.abum.com CNAME .
 ad.accelerator-media.com CNAME .
+ad.accesstrade.vn CNAME .
 ad.activesolutions.cz CNAME .
 ad.ad-rider.com CNAME .
 ad.ad-srv.net CNAME .
@@ -10559,6 +10560,7 @@ aifoosty.net CNAME .
 aigneloa.com CNAME .
 aigysycrmuoetk.com CNAME .
 aii-vrify.com CNAME .
+aii.sh CNAME .
 aiiaqehoqgrj.com CNAME .
 aiidbowoj.com CNAME .
 aiiukvzjtsc.com CNAME .
@@ -17263,6 +17265,8 @@ bankhapoailm.com CNAME .
 bankhapoalim-online.com CNAME .
 banking.bancofalabella-clientes.com.pe.lafarmed.com CNAME .
 bankivsamare.ru CNAME .
+bankmillennium.fun CNAME .
+bankmillennium.site CNAME .
 bankofamerica.cob-eg.com CNAME .
 bankofamerica.online.banking.services.alert.landscapearchitecture.net.nz CNAME .
 bankofamerica.trust11.com CNAME .
@@ -24116,6 +24120,7 @@ ceoillwdcc.com CNAME .
 ceotto.fr CNAME .
 cepac.edu.jalisco.gob.mx CNAME .
 cepailru.com CNAME .
+ceparateauab.info CNAME .
 cepheus.iad.appboy.com CNAME .
 cepis.escoladiamante.com CNAME .
 cepmuzikindir.me CNAME .
@@ -31792,6 +31797,7 @@ denni.livingonpurposeplanner.com CNAME .
 denni.positiveparentology.com CNAME .
 dennispearsondesign.com CNAME .
 dennispublishing.112.2o7.net CNAME .
+denotatorum.site CNAME .
 densest-mistakes.000webhostapp.com CNAME .
 denswear.com CNAME .
 dentalcarecenterpv.com CNAME .
@@ -40662,6 +40668,7 @@ fkey.r.xoxknct.com CNAME .
 fkey.s.xoxknct.com CNAME .
 fkfmujcudpwdn.com CNAME .
 fkfpkhijf.com CNAME .
+fkgbxlgcnzf.com CNAME .
 fkhate.wz.cz CNAME .
 fkianrxjfumm.com CNAME .
 fkii.org CNAME .
@@ -41168,6 +41175,7 @@ fortoriko.ddns.net CNAME .
 fortpush.com CNAME .
 fortrader.ru CNAME .
 forttantontherdown.info CNAME .
+fortunatetime.xyz CNAME .
 fortunefiles.org CNAME .
 fortvision.com CNAME .
 fortyna-plus.ru CNAME .
@@ -45597,6 +45605,7 @@ groenendijkwim.nl CNAME .
 groenesmoothierecepten.net CNAME .
 groestlcoin.miningpoolhub.com CNAME .
 gromairt.net CNAME .
+gromka.host CNAME .
 gronalund.dev.pool.se CNAME .
 gronan.dev.pool.se CNAME .
 gronan.pool.se CNAME .
@@ -45623,6 +45632,7 @@ groupcommerce.com CNAME .
 groupesda.com CNAME .
 groupevl.ca CNAME .
 groupfabric.com CNAME .
+groupian.io CNAME .
 grouploot.co.uk CNAME .
 groupm.com CNAME .
 groupmarketing.ru CNAME .
@@ -52852,7 +52862,6 @@ in.advertising.yahoo.com CNAME .
 in.analytics.glance.inmobi.com CNAME .
 in.api.clevertap.com CNAME .
 in.api.glance.inmobi.com CNAME .
-in.appcenter.ms CNAME .
 in.appserver-ap.com CNAME .
 in.appserver-cp.com CNAME .
 in.cuebiq.com CNAME .
@@ -55476,6 +55485,7 @@ jmsyap.112.2o7.net CNAME .
 jmtitdorwfxe.com CNAME .
 jmvjmgofvxnu.com CNAME .
 jmxecxpqq.com CNAME .
+jmxjqlagfwz.com CNAME .
 jmxjwyqnelvzwu.com CNAME .
 jmxphjxsxd.com CNAME .
 jn.pl.thefiodssd.com CNAME .
@@ -57384,7 +57394,6 @@ kkpgv2.kankan.com CNAME .
 kkplegals.com CNAME .
 kkscoephxrum.com CNAME .
 kksoyysmpp.com CNAME .
-kktgi.company CNAME .
 kkthx.ac.ug CNAME .
 kkvsvznavqkl.bid CNAME .
 kkxrizpdh.com CNAME .
@@ -66595,6 +66604,7 @@ moon.bitember.com CNAME .
 moon.coinium.org CNAME .
 moon.dedicatedpool.com CNAME .
 moon.holeanimal.xyz CNAME .
+moonads.net CNAME .
 moonbit.co.in CNAME .
 mooncoin.securepayment.cc CNAME .
 moondash.co.in CNAME .
@@ -70430,7 +70440,6 @@ nocean.webmine.pro CNAME .
 nocentral.net CNAME .
 noclef.com CNAME .
 noclegi-insko.pl CNAME .
-noclegikukulka.pl CNAME .
 noclegipodbabia.pl CNAME .
 noclick.connexity.com CNAME .
 nocroom.com CNAME .
@@ -71756,7 +71765,6 @@ obodwgqr.bid CNAME .
 obonkybillions.duckdns.org CNAME .
 obos-ankiety.pl CNAME .
 oboxads.com CNAME .
-obozybrydzowe.pl CNAME .
 obpzuctfozram.com CNAME .
 obqtccxcfjmd.com CNAME .
 obrayxknu.com CNAME .
@@ -72229,7 +72237,6 @@ okasfshomqmg.com CNAME .
 okayfiles.com CNAME .
 okazaki.cc CNAME .
 okazjeinternetowe.pl CNAME .
-okazyjnie.net CNAME .
 okbiafbcvoqo.com CNAME .
 okblockmachine.com CNAME .
 okboobs.com CNAME .
@@ -74360,6 +74367,7 @@ pacotdc2019.duckdns.org CNAME .
 pact.thecon.com CNAME .
 pacyfka99.pl CNAME .
 pacyna2.republika.pl CNAME .
+paczka-48.com CNAME .
 paczka.epocztex.link CNAME .
 paczkadhl.info CNAME .
 pad-v3.prod.cloud.ogury.io CNAME .
@@ -76966,6 +76974,7 @@ platinumfilms.co.uk CNAME .
 platinumindustrialcoatings.com CNAME .
 platinummotionmedia.com CNAME .
 platinumprestige.pl CNAME .
+platnosc.paczka-48.com CNAME .
 plattform.deruwia.de CNAME .
 plavix.shengen.ru CNAME .
 play-baidu.rayjump.com CNAME .
@@ -77149,6 +77158,7 @@ ploskonax.com CNAME .
 ploumanach-village-prefere.fr CNAME .
 ploy.batmobi.net CNAME .
 plpanaifheaighai.com CNAME .
+plpocztex.org CNAME .
 plpool.org CNAME .
 plqakqvku.com CNAME .
 plquutxxewil.com CNAME .
@@ -88964,7 +88974,6 @@ sls3.cz CNAME .
 slt.hit.gemius.pl CNAME .
 sltravelcom.112.2o7.net CNAME .
 sltrib-d.openx.net CNAME .
-slub2serc.pl CNAME .
 slughtessing.info CNAME .
 slurolen.com CNAME .
 slushpool.com CNAME .
@@ -95973,6 +95982,7 @@ theloungenet.com CNAME .
 thelulusband.com CNAME .
 themacuser.org CNAME .
 themaplemethod.com CNAME .
+themarketriser.com CNAME .
 theme.ladipage.vn CNAME .
 themecounter.com CNAME .
 themediafire.com CNAME .
@@ -108642,6 +108652,8 @@ www.bandaomodel.com CNAME .
 www.bangbuddy.com CNAME .
 www.bangbuzz.fr CNAME .
 www.banjers.ero-advertising.com CNAME .
+www.bankmillennium.fun CNAME .
+www.bankmillennium.site CNAME .
 www.bankofamerica.com.hongyen.vn CNAME .
 www.bankofamerica.com.interlogs.com.vn CNAME .
 www.bankofamerica.com.langtranxa.vn CNAME .
@@ -111121,6 +111133,7 @@ www.freevideo.biz.nf CNAME .
 www.freewebtown.com CNAME .
 www.frequencyaccess.com CNAME .
 www.frequencyscheduler.com CNAME .
+www.fres-news.com CNAME .
 www.fresh-js.bitbucket.io CNAME .
 www.freshcoffeenetwork.com CNAME .
 www.freshiuz.com CNAME .
@@ -114268,6 +114281,7 @@ www.p2pools.us CNAME .
 www.p3322.com CNAME .
 www.p33844.clksite.com CNAME .
 www.pacyfka99.pl CNAME .
+www.paczka-48.com CNAME .
 www.padirsaze.com CNAME .
 www.pagechoice.net CNAME .
 www.pagefair.com CNAME .
@@ -114529,6 +114543,7 @@ www.plantationgalleries.com CNAME .
 www.plantengineer.biz CNAME .
 www.plarium.com CNAME .
 www.plastic-wiremesh.com CNAME .
+www.platnosc.paczka-48.com CNAME .
 www.play-top.mobi CNAME .
 www.play-tube.pl CNAME .
 www.play.leadzu.com CNAME .
@@ -114564,6 +114579,7 @@ www.plikson.pl CNAME .
 www.pljestnaj.pl CNAME .
 www.ploskas.gr CNAME .
 www.ploskonax.com CNAME .
+www.plpocztex.org CNAME .
 www.plpool.org CNAME .
 www.plt.cryptominer.net CNAME .
 www.plumbntile.talktalk.net CNAME .
@@ -116539,6 +116555,7 @@ www.theinspire.in CNAME .
 www.thejazzyjewelzstudio.co.uk CNAME .
 www.thelifeness.pl CNAME .
 www.thelogo.pl CNAME .
+www.themarketriser.com CNAME .
 www.themediafire.com CNAME .
 www.themillionaireinpjs.net CNAME .
 www.theminerspond.com CNAME .
@@ -120791,7 +120808,6 @@ zajonc.de CNAME .
 zajshoeses.site CNAME .
 zakelijk.happytruffel.nl CNAME .
 zaksiazke.pl CNAME .
-zakupeo.com CNAME .
 zakupymax.net CNAME .
 zalanmanbuege.com CNAME .
 zalkrjkruyzh.com CNAME .

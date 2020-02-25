@@ -1,8 +1,8 @@
 # Title: kadhosts Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
-# Last Converted - 25.02.2020
-# Total Domains - 5913
+# Last Converted - 26.02.2020
+# Total Domains - 5921
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2026,6 +2026,7 @@
 0.0.0.0 ozebox.pl
 0.0.0.0 p.24-7.help
 0.0.0.0 pacyfka99.pl
+0.0.0.0 paczka-48.com
 0.0.0.0 paifemouchoa.com
 0.0.0.0 paifi.net
 0.0.0.0 pajos4.com
@@ -2134,6 +2135,7 @@
 0.0.0.0 planetazdrowia.com
 0.0.0.0 plastiquedesign.pl
 0.0.0.0 platinumprestige.pl
+0.0.0.0 platnosc.paczka-48.com
 0.0.0.0 play-tube.pl
 0.0.0.0 play.appiq.mobi
 0.0.0.0 play.leadzu.com
@@ -2158,6 +2160,7 @@
 0.0.0.0 plikson24.pl
 0.0.0.0 pljestnaj.pl
 0.0.0.0 ploskonax.com
+0.0.0.0 plpocztex.org
 0.0.0.0 plustokenofficial.com
 0.0.0.0 plwash.pl
 0.0.0.0 pm-international.com
@@ -2827,6 +2830,7 @@
 0.0.0.0 thefortunatenutrition.com
 0.0.0.0 thelifeness.pl
 0.0.0.0 thelogo.pl
+0.0.0.0 themarketriser.com
 0.0.0.0 themovienation.com
 0.0.0.0 thenorthfacepl.pl
 0.0.0.0 thenorthfaceprzeceny.pl
@@ -4777,6 +4781,7 @@
 0.0.0.0 www.owio.pl
 0.0.0.0 www.ozebox.pl
 0.0.0.0 www.pacyfka99.pl
+0.0.0.0 www.paczka-48.com
 0.0.0.0 www.paifi.net
 0.0.0.0 www.pajos4.com
 0.0.0.0 www.pakukgroup.com
@@ -4851,6 +4856,7 @@
 0.0.0.0 www.plainsviewfarm.com
 0.0.0.0 www.planet-tachyon.com
 0.0.0.0 www.planetazdrowia.com
+0.0.0.0 www.platnosc.paczka-48.com
 0.0.0.0 www.play-tube.pl
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.playasrivieramaya.com
@@ -4869,6 +4875,7 @@
 0.0.0.0 www.plikson.pl
 0.0.0.0 www.pljestnaj.pl
 0.0.0.0 www.ploskonax.com
+0.0.0.0 www.plpocztex.org
 0.0.0.0 www.plustokenofficial.com
 0.0.0.0 www.plwash.pl
 0.0.0.0 www.pmanager.pl
@@ -5426,6 +5433,7 @@
 0.0.0.0 www.thefortunatenutrition.com
 0.0.0.0 www.thelifeness.pl
 0.0.0.0 www.thelogo.pl
+0.0.0.0 www.themarketriser.com
 0.0.0.0 www.themovienation.com
 0.0.0.0 www.thenorthfacepl.pl
 0.0.0.0 www.thenorthfacesklep.pl

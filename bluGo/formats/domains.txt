@@ -24,12 +24,12 @@
 # Title: Energized Blu Go Protection
 # Description: A Lightweight Mid Ranger Protection Pack.
 # Format: domain list
-# Version: 20.02.056
-# Release: 056
-# Entries: 121,828
+# Version: 20.02.057
+# Release: 057
+# Entries: 121,844
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 18:09:50
+# Updated: Wed, 26 Feb 20 00:11:00
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -4821,6 +4821,7 @@ ad.about.co.kr
 ad.aboutwebservices.com
 ad.abum.com
 ad.accelerator-media.com
+ad.accesstrade.vn
 ad.activesolutions.cz
 ad.ad-rider.com
 ad.ad-srv.net
@@ -10551,6 +10552,7 @@ aifoosty.net
 aigneloa.com
 aigysycrmuoetk.com
 aii-vrify.com
+aii.sh
 aiiaqehoqgrj.com
 aiidbowoj.com
 aiiukvzjtsc.com
@@ -17255,6 +17257,8 @@ bankhapoailm.com
 bankhapoalim-online.com
 banking.bancofalabella-clientes.com.pe.lafarmed.com
 bankivsamare.ru
+bankmillennium.fun
+bankmillennium.site
 bankofamerica.cob-eg.com
 bankofamerica.online.banking.services.alert.landscapearchitecture.net.nz
 bankofamerica.trust11.com
@@ -24108,6 +24112,7 @@ ceoillwdcc.com
 ceotto.fr
 cepac.edu.jalisco.gob.mx
 cepailru.com
+ceparateauab.info
 cepheus.iad.appboy.com
 cepis.escoladiamante.com
 cepmuzikindir.me
@@ -31784,6 +31789,7 @@ denni.livingonpurposeplanner.com
 denni.positiveparentology.com
 dennispearsondesign.com
 dennispublishing.112.2o7.net
+denotatorum.site
 densest-mistakes.000webhostapp.com
 denswear.com
 dentalcarecenterpv.com
@@ -40654,6 +40660,7 @@ fkey.r.xoxknct.com
 fkey.s.xoxknct.com
 fkfmujcudpwdn.com
 fkfpkhijf.com
+fkgbxlgcnzf.com
 fkhate.wz.cz
 fkianrxjfumm.com
 fkii.org
@@ -41160,6 +41167,7 @@ fortoriko.ddns.net
 fortpush.com
 fortrader.ru
 forttantontherdown.info
+fortunatetime.xyz
 fortunefiles.org
 fortvision.com
 fortyna-plus.ru
@@ -45589,6 +45597,7 @@ groenendijkwim.nl
 groenesmoothierecepten.net
 groestlcoin.miningpoolhub.com
 gromairt.net
+gromka.host
 gronalund.dev.pool.se
 gronan.dev.pool.se
 gronan.pool.se
@@ -45615,6 +45624,7 @@ groupcommerce.com
 groupesda.com
 groupevl.ca
 groupfabric.com
+groupian.io
 grouploot.co.uk
 groupm.com
 groupmarketing.ru
@@ -52844,7 +52854,6 @@ in.advertising.yahoo.com
 in.analytics.glance.inmobi.com
 in.api.clevertap.com
 in.api.glance.inmobi.com
-in.appcenter.ms
 in.appserver-ap.com
 in.appserver-cp.com
 in.cuebiq.com
@@ -55468,6 +55477,7 @@ jmsyap.112.2o7.net
 jmtitdorwfxe.com
 jmvjmgofvxnu.com
 jmxecxpqq.com
+jmxjqlagfwz.com
 jmxjwyqnelvzwu.com
 jmxphjxsxd.com
 jn.pl.thefiodssd.com
@@ -57376,7 +57386,6 @@ kkpgv2.kankan.com
 kkplegals.com
 kkscoephxrum.com
 kksoyysmpp.com
-kktgi.company
 kkthx.ac.ug
 kkvsvznavqkl.bid
 kkxrizpdh.com
@@ -66587,6 +66596,7 @@ moon.bitember.com
 moon.coinium.org
 moon.dedicatedpool.com
 moon.holeanimal.xyz
+moonads.net
 moonbit.co.in
 mooncoin.securepayment.cc
 moondash.co.in
@@ -70422,7 +70432,6 @@ nocean.webmine.pro
 nocentral.net
 noclef.com
 noclegi-insko.pl
-noclegikukulka.pl
 noclegipodbabia.pl
 noclick.connexity.com
 nocroom.com
@@ -71748,7 +71757,6 @@ obodwgqr.bid
 obonkybillions.duckdns.org
 obos-ankiety.pl
 oboxads.com
-obozybrydzowe.pl
 obpzuctfozram.com
 obqtccxcfjmd.com
 obrayxknu.com
@@ -72221,7 +72229,6 @@ okasfshomqmg.com
 okayfiles.com
 okazaki.cc
 okazjeinternetowe.pl
-okazyjnie.net
 okbiafbcvoqo.com
 okblockmachine.com
 okboobs.com
@@ -74352,6 +74359,7 @@ pacotdc2019.duckdns.org
 pact.thecon.com
 pacyfka99.pl
 pacyna2.republika.pl
+paczka-48.com
 paczka.epocztex.link
 paczkadhl.info
 pad-v3.prod.cloud.ogury.io
@@ -76958,6 +76966,7 @@ platinumfilms.co.uk
 platinumindustrialcoatings.com
 platinummotionmedia.com
 platinumprestige.pl
+platnosc.paczka-48.com
 plattform.deruwia.de
 plavix.shengen.ru
 play-baidu.rayjump.com
@@ -77141,6 +77150,7 @@ ploskonax.com
 ploumanach-village-prefere.fr
 ploy.batmobi.net
 plpanaifheaighai.com
+plpocztex.org
 plpool.org
 plqakqvku.com
 plquutxxewil.com
@@ -88956,7 +88966,6 @@ sls3.cz
 slt.hit.gemius.pl
 sltravelcom.112.2o7.net
 sltrib-d.openx.net
-slub2serc.pl
 slughtessing.info
 slurolen.com
 slushpool.com
@@ -95965,6 +95974,7 @@ theloungenet.com
 thelulusband.com
 themacuser.org
 themaplemethod.com
+themarketriser.com
 theme.ladipage.vn
 themecounter.com
 themediafire.com
@@ -108634,6 +108644,8 @@ www.bandaomodel.com
 www.bangbuddy.com
 www.bangbuzz.fr
 www.banjers.ero-advertising.com
+www.bankmillennium.fun
+www.bankmillennium.site
 www.bankofamerica.com.hongyen.vn
 www.bankofamerica.com.interlogs.com.vn
 www.bankofamerica.com.langtranxa.vn
@@ -111113,6 +111125,7 @@ www.freevideo.biz.nf
 www.freewebtown.com
 www.frequencyaccess.com
 www.frequencyscheduler.com
+www.fres-news.com
 www.fresh-js.bitbucket.io
 www.freshcoffeenetwork.com
 www.freshiuz.com
@@ -114260,6 +114273,7 @@ www.p2pools.us
 www.p3322.com
 www.p33844.clksite.com
 www.pacyfka99.pl
+www.paczka-48.com
 www.padirsaze.com
 www.pagechoice.net
 www.pagefair.com
@@ -114521,6 +114535,7 @@ www.plantationgalleries.com
 www.plantengineer.biz
 www.plarium.com
 www.plastic-wiremesh.com
+www.platnosc.paczka-48.com
 www.play-top.mobi
 www.play-tube.pl
 www.play.leadzu.com
@@ -114556,6 +114571,7 @@ www.plikson.pl
 www.pljestnaj.pl
 www.ploskas.gr
 www.ploskonax.com
+www.plpocztex.org
 www.plpool.org
 www.plt.cryptominer.net
 www.plumbntile.talktalk.net
@@ -116531,6 +116547,7 @@ www.theinspire.in
 www.thejazzyjewelzstudio.co.uk
 www.thelifeness.pl
 www.thelogo.pl
+www.themarketriser.com
 www.themediafire.com
 www.themillionaireinpjs.net
 www.theminerspond.com
@@ -120783,7 +120800,6 @@ zajonc.de
 zajshoeses.site
 zakelijk.happytruffel.nl
 zaksiazke.pl
-zakupeo.com
 zakupymax.net
 zalanmanbuege.com
 zalkrjkruyzh.com

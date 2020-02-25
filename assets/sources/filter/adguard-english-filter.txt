@@ -1,8 +1,8 @@
 # Title: adguard-english-filter Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
-# Last Converted - 25.02.2020
-# Total Domains - 18625
+# Last Converted - 26.02.2020
+# Total Domains - 18631
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3477,6 +3477,7 @@
 0.0.0.0 centwrite.com
 0.0.0.0 ceoillwdcc.com
 0.0.0.0 cepailru.com
+0.0.0.0 ceparateauab.info
 0.0.0.0 ceprovidingsesse.info
 0.0.0.0 ceptavou.net
 0.0.0.0 ceraitoa.com
@@ -4627,6 +4628,7 @@
 0.0.0.0 denetsuk.com
 0.0.0.0 denis-pj0823031-491201b.com
 0.0.0.0 denixsips.com
+0.0.0.0 denotatorum.site
 0.0.0.0 dentaint.pro
 0.0.0.0 denza.pro
 0.0.0.0 deparationew.info
@@ -6011,6 +6013,7 @@
 0.0.0.0 fkcfaagktu.com
 0.0.0.0 fkfmujcudpwdn.com
 0.0.0.0 fkfpkhijf.com
+0.0.0.0 fkgbxlgcnzf.com
 0.0.0.0 fkloazpi.com
 0.0.0.0 fkqafflyjz.com
 0.0.0.0 fkrgfktdvta.com
@@ -9533,6 +9536,7 @@
 0.0.0.0 lychangxu.cn
 0.0.0.0 lycnjtuomkpgca.com
 0.0.0.0 lydgyhthfb.com
+0.0.0.0 lyehemarm.club
 0.0.0.0 lyfwpt.com.cn
 0.0.0.0 lyghoxyxohkrdk.com
 0.0.0.0 lygshgj.com
@@ -11463,6 +11467,7 @@
 0.0.0.0 optad360.io
 0.0.0.0 opteama.com
 0.0.0.0 opten.hu
+0.0.0.0 optiads.org
 0.0.0.0 optimaladbid.com
 0.0.0.0 optimatic.com
 0.0.0.0 optimizesocial.com
@@ -15232,6 +15237,7 @@
 0.0.0.0 t.mtagmonetizationb.com
 0.0.0.0 t.uc.cn
 0.0.0.0 t.yzwr588.com
+0.0.0.0 t0p0ff3rs.com
 0.0.0.0 t3q7af0z.com
 0.0.0.0 t4ft.de
 0.0.0.0 tabici.com

@@ -24,12 +24,12 @@
 # Title: Energized Spark Protection
 # Description: True Lite Protection Pack.
 # Format: hosts
-# Version: 20.02.056
-# Release: 056
-# Entries: 61,377
+# Version: 20.02.057
+# Release: 057
+# Entries: 61,383
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 18:09:47
+# Updated: Wed, 26 Feb 20 00:10:54
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -7078,6 +7078,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aidraulreve.com
 0.0.0.0 aifoosty.net
 0.0.0.0 aigneloa.com
+0.0.0.0 aii.sh
 0.0.0.0 aiidbowoj.com
 0.0.0.0 aiiukvzjtsc.com
 0.0.0.0 aikapool.com
@@ -14365,6 +14366,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 centwrite.com
 0.0.0.0 ceoillwdcc.com
 0.0.0.0 cepailru.com
+0.0.0.0 ceparateauab.info
 0.0.0.0 cepheus.iad.appboy.com
 0.0.0.0 cepmuzikindir.me
 0.0.0.0 ceppartner.com
@@ -18167,6 +18169,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 denixsips.com
 0.0.0.0 denizunay.com
 0.0.0.0 dennispublishing.112.2o7.net
+0.0.0.0 denotatorum.site
 0.0.0.0 denverpost.112.2o7.net
 0.0.0.0 deoi3kwqhv0d5.cloudfront.net
 0.0.0.0 deostr.com
@@ -22029,6 +22032,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fkey.s.xoxknct.com
 0.0.0.0 fkfmujcudpwdn.com
 0.0.0.0 fkfpkhijf.com
+0.0.0.0 fkgbxlgcnzf.com
 0.0.0.0 fkjzz.myshopify.com
 0.0.0.0 fkloazpi.com
 0.0.0.0 fkooaee.angelcities.com
@@ -24438,6 +24442,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 group11.iperceptions.com
 0.0.0.0 groupcommerce.com
 0.0.0.0 groupfabric.com
+0.0.0.0 groupian.io
 0.0.0.0 groupm.com
 0.0.0.0 groupmarketing.ru
 0.0.0.0 grow.kissmetrics.com
@@ -33831,6 +33836,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mookie1.com
 0.0.0.0 moolahmedia.com
 0.0.0.0 moon.holeanimal.xyz
+0.0.0.0 moonads.net
 0.0.0.0 moonbit.co.in
 0.0.0.0 moondash.co.in
 0.0.0.0 moonicorn.network

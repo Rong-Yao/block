@@ -1,8 +1,8 @@
 # Title: easylist-russian Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/advblock.txt
-# Last Converted - 25.02.2020
-# Total Domains - 7372
+# Last Converted - 26.02.2020
+# Total Domains - 7375
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3864,6 +3864,7 @@
 0.0.0.0 mdomata.ru
 0.0.0.0 mdvkn.com
 0.0.0.0 mdyhb.com
+0.0.0.0 meatthe.ru
 0.0.0.0 mecash.ru
 0.0.0.0 med-ecina.info
 0.0.0.0 med-rul.ru
@@ -4611,6 +4612,7 @@
 0.0.0.0 olizyr.com
 0.0.0.0 ologyro.ru
 0.0.0.0 olomara.ru
+0.0.0.0 omarti.ru
 0.0.0.0 omine.org
 0.0.0.0 omkbk.com
 0.0.0.0 omnicpa.ru
@@ -6539,6 +6541,7 @@
 0.0.0.0 ultrabit.ws
 0.0.0.0 ultrapay.net
 0.0.0.0 umgoods.com
+0.0.0.0 umwiba.com
 0.0.0.0 unads.ru
 0.0.0.0 unattepush.com
 0.0.0.0 unclic.ru

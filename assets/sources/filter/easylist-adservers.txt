@@ -1,8 +1,8 @@
 # Title: easylist-adservers Custom Hosts Build
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
-# Last Converted - 25.02.2020
-# Total Domains - 14368
+# Last Converted - 26.02.2020
+# Total Domains - 14371
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2578,6 +2578,7 @@
 0.0.0.0 centralnervous.net
 0.0.0.0 centwrite.com
 0.0.0.0 ceoillwdcc.com
+0.0.0.0 ceparateauab.info
 0.0.0.0 ceprovidingsesse.info
 0.0.0.0 ceraitoa.com
 0.0.0.0 cerotop.com
@@ -3265,6 +3266,7 @@
 0.0.0.0 deloplen.com
 0.0.0.0 denis-pj0823031-491201b.com
 0.0.0.0 denixsips.com
+0.0.0.0 denotatorum.site
 0.0.0.0 deparisesamer.info
 0.0.0.0 deplayer.net
 0.0.0.0 deployads.com
@@ -4339,6 +4341,7 @@
 0.0.0.0 fkcfaagktu.com
 0.0.0.0 fkfmujcudpwdn.com
 0.0.0.0 fkfpkhijf.com
+0.0.0.0 fkgbxlgcnzf.com
 0.0.0.0 fkloazpi.com
 0.0.0.0 fkqafflyjz.com
 0.0.0.0 fkrgfktdvta.com

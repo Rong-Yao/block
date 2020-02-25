@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/mailborder.txt
 # Last Converted - 25.02.2020
-# Total Domains - 13860
+# Total Domains - 13858
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10105,7 +10105,6 @@
 0.0.0.0 uppermississippirivervalleyava.org
 0.0.0.0 upplex.de
 0.0.0.0 uproothealthcare.com
-0.0.0.0 upsidegastrobar.com.br
 0.0.0.0 upwardcall.net
 0.0.0.0 uqr.to
 0.0.0.0 ural-product.ru
@@ -11970,7 +11969,6 @@
 0.0.0.0 www.hdsports.ca
 0.0.0.0 www.healmedicaltrauma.com
 0.0.0.0 www.healthdatabytes.org
-0.0.0.0 www.heartsmatters.com
 0.0.0.0 www.heavensevenhotels.com
 0.0.0.0 www.heinzreber.net
 0.0.0.0 www.heliopotasse.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-trc.txt
 # Last Converted - 25.02.2020
-# Total Domains - 42371
+# Total Domains - 42370
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -39996,7 +39996,6 @@
 0.0.0.0 www.lazyshits.com
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.leadclick.com
-0.0.0.0 www.leadgenetwork.com
 0.0.0.0 www.leadrankings.com
 0.0.0.0 www.leadsquared.com
 0.0.0.0 www.leb.net

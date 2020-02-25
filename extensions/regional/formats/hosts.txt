@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 63,691
+# Entries: 63,701
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 12:14:11
+# Updated: Tue, 25 Feb 20 18:13:57
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -7060,6 +7060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bdbdqidkdb.com
 0.0.0.0 bdbdqixkdb.com
 0.0.0.0 bdbdqkxkdb.com
+0.0.0.0 bdbdqndkdb.com
 0.0.0.0 bdbdqnxkdb.com
 0.0.0.0 bdbdqqxkdb.com
 0.0.0.0 bdbdqsxkdb.com
@@ -14809,6 +14810,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fexperies.info
 0.0.0.0 fexzuf.com
 0.0.0.0 feybe.ru
+0.0.0.0 feyfjlpeexvg.com
 0.0.0.0 feyl4mh5to.com
 0.0.0.0 ff.astv.ru
 0.0.0.0 ff.doubleclick.net
@@ -16081,6 +16083,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ge95.com
 0.0.0.0 gearnews.info
 0.0.0.0 gebadu.com
+0.0.0.0 gebralefukim.site
 0.0.0.0 gebrixo.ru
 0.0.0.0 gebyarbola.org
 0.0.0.0 gecatikonstantin.ru
@@ -18757,6 +18760,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ie8q.cn
 0.0.0.0 iece1vi.top
 0.0.0.0 iedijlgkbqc.com
+0.0.0.0 iedzocfoflfgam.com
 0.0.0.0 iee5.com
 0.0.0.0 ieeagbtui.com
 0.0.0.0 ieeod0.com
@@ -20363,6 +20367,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jobtarget.com
 0.0.0.0 jobtransport.com
 0.0.0.0 jodellvideos.pro
+0.0.0.0 jodklub.online
 0.0.0.0 jofbu.com
 0.0.0.0 johays.co
 0.0.0.0 joheeptaicat.com
@@ -22267,6 +22272,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lianyicq.cn
 0.0.0.0 liaoruochen.cn
 0.0.0.0 liaotian4.com
+0.0.0.0 libanyelm.com
 0.0.0.0 libedgolart.com
 0.0.0.0 libertycdn.com
 0.0.0.0 libertystmedia.com
@@ -24722,6 +24728,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 modelatos.com
 0.0.0.0 modeles-de-lettre.com
 0.0.0.0 modelsgonebad.com
+0.0.0.0 moderningvigil.pro
 0.0.0.0 modescrips.info
 0.0.0.0 modificans.com
 0.0.0.0 modifiscans.com
@@ -27622,6 +27629,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 orangepublicite.fr
 0.0.0.0 oranhishanhem.info
 0.0.0.0 orarala.com
+0.0.0.0 oratedencourse.info
 0.0.0.0 oratess.com
 0.0.0.0 oratorsresente.info
 0.0.0.0 oratosaeron.com
@@ -30219,6 +30227,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pureadexchange.com
 0.0.0.0 purgrobi.com
 0.0.0.0 purlive.com
+0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
 0.0.0.0 purplehoodie.com
 0.0.0.0 purplepatch.online
@@ -33018,6 +33027,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sailif.com
 0.0.0.0 saillix.com
 0.0.0.0 sailznsgbygz.com
+0.0.0.0 saitef.cn
 0.0.0.0 saites.eon.lv
 0.0.0.0 saithaiy.com
 0.0.0.0 sajjadali.com

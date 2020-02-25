@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.056
 # Release: 056
-# Entries: 63,691
+# Entries: 63,701
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 12:14:11
+# Updated: Tue, 25 Feb 20 18:13:57
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -7060,6 +7060,7 @@ ff02::3 ip6-allhosts
 :: bdbdqidkdb.com
 :: bdbdqixkdb.com
 :: bdbdqkxkdb.com
+:: bdbdqndkdb.com
 :: bdbdqnxkdb.com
 :: bdbdqqxkdb.com
 :: bdbdqsxkdb.com
@@ -14809,6 +14810,7 @@ ff02::3 ip6-allhosts
 :: fexperies.info
 :: fexzuf.com
 :: feybe.ru
+:: feyfjlpeexvg.com
 :: feyl4mh5to.com
 :: ff.astv.ru
 :: ff.doubleclick.net
@@ -16081,6 +16083,7 @@ ff02::3 ip6-allhosts
 :: ge95.com
 :: gearnews.info
 :: gebadu.com
+:: gebralefukim.site
 :: gebrixo.ru
 :: gebyarbola.org
 :: gecatikonstantin.ru
@@ -18757,6 +18760,7 @@ ff02::3 ip6-allhosts
 :: ie8q.cn
 :: iece1vi.top
 :: iedijlgkbqc.com
+:: iedzocfoflfgam.com
 :: iee5.com
 :: ieeagbtui.com
 :: ieeod0.com
@@ -20363,6 +20367,7 @@ ff02::3 ip6-allhosts
 :: jobtarget.com
 :: jobtransport.com
 :: jodellvideos.pro
+:: jodklub.online
 :: jofbu.com
 :: johays.co
 :: joheeptaicat.com
@@ -22267,6 +22272,7 @@ ff02::3 ip6-allhosts
 :: lianyicq.cn
 :: liaoruochen.cn
 :: liaotian4.com
+:: libanyelm.com
 :: libedgolart.com
 :: libertycdn.com
 :: libertystmedia.com
@@ -24722,6 +24728,7 @@ ff02::3 ip6-allhosts
 :: modelatos.com
 :: modeles-de-lettre.com
 :: modelsgonebad.com
+:: moderningvigil.pro
 :: modescrips.info
 :: modificans.com
 :: modifiscans.com
@@ -27622,6 +27629,7 @@ ff02::3 ip6-allhosts
 :: orangepublicite.fr
 :: oranhishanhem.info
 :: orarala.com
+:: oratedencourse.info
 :: oratess.com
 :: oratorsresente.info
 :: oratosaeron.com
@@ -30219,6 +30227,7 @@ ff02::3 ip6-allhosts
 :: pureadexchange.com
 :: purgrobi.com
 :: purlive.com
+:: purpleads.io
 :: purpleflag.net
 :: purplehoodie.com
 :: purplepatch.online
@@ -33018,6 +33027,7 @@ ff02::3 ip6-allhosts
 :: sailif.com
 :: saillix.com
 :: sailznsgbygz.com
+:: saitef.cn
 :: saites.eon.lv
 :: saithaiy.com
 :: sajjadali.com

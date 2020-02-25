@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 25.02.2020
-# Total Domains - 39916
+# Total Domains - 39914
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -15128,7 +15128,6 @@
 0.0.0.0 cedrussauna.com
 0.0.0.0 cee238.neoplus.adsl.tpnet.pl
 0.0.0.0 ceepsmode.com
-0.0.0.0 ceewawires.org
 0.0.0.0 cef.com.br
 0.0.0.0 cefie.com
 0.0.0.0 ceh8.neoplus.adsl.tpnet.pl
@@ -38815,7 +38814,6 @@
 0.0.0.0 www.lbiero.it
 0.0.0.0 www.lbonline.net
 0.0.0.0 www.lccl.org.uk
-0.0.0.0 www.leadgenetwork.com
 0.0.0.0 www.lebensprognose.de
 0.0.0.0 www.legal-at-spybot.info
 0.0.0.0 www.legithacks.net

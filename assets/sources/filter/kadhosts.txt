@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 25.02.2020
-# Total Domains - 5914
+# Total Domains - 5913
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1996,7 +1996,6 @@
 0.0.0.0 openwrt.com
 0.0.0.0 oplac24.com
 0.0.0.0 oplanetach.pl
-0.0.0.0 oponykarbownik.pl
 0.0.0.0 oponymagcarleszno.pl
 0.0.0.0 optidee.nl
 0.0.0.0 optimask-pro.com

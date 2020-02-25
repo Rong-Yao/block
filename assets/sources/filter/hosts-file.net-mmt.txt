@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://hosts-file.net/mmt.txt
 # Last Converted - 25.02.2020
-# Total Domains - 3734
+# Total Domains - 3733
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -457,7 +457,6 @@
 0.0.0.0 cbsoftsolutions.com
 0.0.0.0 cbsurge.com
 0.0.0.0 cdcovers.com
-0.0.0.0 ceewawires.org
 0.0.0.0 ceic.com
 0.0.0.0 celebprofile.com
 0.0.0.0 celebreties.com

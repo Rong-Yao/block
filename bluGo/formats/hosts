@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 121,835
+# Entries: 121,828
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 12:10:24
+# Updated: Tue, 25 Feb 20 18:09:50
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -9996,7 +9996,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aeirhucw.com
 0.0.0.0 aeizbvtknp.com
 0.0.0.0 aejtg.voluumtrk.com
-0.0.0.0 aek.btcc.com
 0.0.0.0 aekduylxcmlevs.bid
 0.0.0.0 aemea.es
 0.0.0.0 aemediatraffic.com
@@ -37600,7 +37599,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eth-ru.nanopool.org
 0.0.0.0 eth-ru2.dwarfpool.com
 0.0.0.0 eth-ru2.nanopool.org
-0.0.0.0 eth-ru22.dwarfpool.com
 0.0.0.0 eth-sg.dwarfpool.com
 0.0.0.0 eth-sh.poolgpu.com
 0.0.0.0 eth-solo.baikalmine.com
@@ -40027,6 +40025,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fewmphbwt.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 fexiaen.com
+0.0.0.0 feyfjlpeexvg.com
 0.0.0.0 ff.astv.ru
 0.0.0.0 ff.meikanguo.com
 0.0.0.0 ff.uc.cn
@@ -43443,6 +43442,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gearinformer.com
 0.0.0.0 gearwom.de
 0.0.0.0 geazikjazoid.com
+0.0.0.0 gebralefukim.site
 0.0.0.0 gecfhfgfifefbegjaeb.ru
 0.0.0.0 geckocanoeing.com.au
 0.0.0.0 gecxceztcnhkmh.com
@@ -46742,7 +46742,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 haven.herominers.com
 0.0.0.0 haven.ingest-asia.cryptoknight.cc
 0.0.0.0 haven.ingest-us.cryptoknight.cc
-0.0.0.0 haven.ingest.cryptoknight.cc
 0.0.0.0 haven.luckypool.io
 0.0.0.0 haven.majanetwork.com
 0.0.0.0 haven.miner.rocks
@@ -51712,6 +51711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 iec56w4ibovnb4wc.onion.si
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 iedijlgkbqc.com
+0.0.0.0 iedzocfoflfgam.com
 0.0.0.0 ieeagbtui.com
 0.0.0.0 ieeawxjool.com
 0.0.0.0 iefjsqos.com
@@ -56859,7 +56859,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kdvcvkwwtbwn.com
 0.0.0.0 kdwygzatplqrao.bid
 0.0.0.0 kdyfsgpa.com
-0.0.0.0 ke.btcc.com
 0.0.0.0 keapeiros.xyz
 0.0.0.0 kearnypaving.com
 0.0.0.0 keaven.pw
@@ -60844,7 +60843,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lolrphack.sharezips.info
 0.0.0.0 lolshock.com
 0.0.0.0 loltrain.com
-0.0.0.0 lom.btcc.com
 0.0.0.0 lomaresidencial.com
 0.0.0.0 lommi.pl
 0.0.0.0 lomniczanie.pl
@@ -61703,7 +61701,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 m.8live.com
 0.0.0.0 m.91heima.cn
 0.0.0.0 m.937920.com
-0.0.0.0 m.9438k.com
 0.0.0.0 m.967nd.cn
 0.0.0.0 m.9e6zb.cn
 0.0.0.0 m.9z41f.cn
@@ -63268,7 +63265,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 masari.hashvault.pro
 0.0.0.0 masari.herominers.com
 0.0.0.0 masari.ingest-asia.cryptoknight.cc
-0.0.0.0 masari.ingest-us.cryptoknight.cc
 0.0.0.0 masari.luckypool.io
 0.0.0.0 masari.miner.rocks
 0.0.0.0 masari.net
@@ -66293,6 +66289,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 modelsgonebad.com
 0.0.0.0 modernbox-meble.pl
 0.0.0.0 moderncustomerexperience.brightcove.com
+0.0.0.0 moderningvigil.pro
 0.0.0.0 modernmarketingexperience.brightcove.com
 0.0.0.0 modernpricing.com
 0.0.0.0 modernus.is
@@ -71832,7 +71829,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ocio.leadzutw.com
 0.0.0.0 ocipbbphfszy.com
 0.0.0.0 ocixtsnyxxvyaw.com
-0.0.0.0 ock.webmine.pro
 0.0.0.0 ockoken.site
 0.0.0.0 ockorrytznnq.bid
 0.0.0.0 ockrsolo.bid
@@ -73042,7 +73038,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 opmnstr.com
 0.0.0.0 opn.ivitrack.com
 0.0.0.0 opoefqthl.bid
-0.0.0.0 oponykarbownik.pl
 0.0.0.0 oponymagcarleszno.pl
 0.0.0.0 oportunidadesunica.com
 0.0.0.0 oppcgcqytazs.com
@@ -73079,6 +73074,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 optchk.ayads.co
 0.0.0.0 opteama.com
+0.0.0.0 optiads.org
 0.0.0.0 opticalcleaner.com
 0.0.0.0 opticbit.triplemining.com
 0.0.0.0 optidee.nl
@@ -73192,6 +73188,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 orangorangbodoh.com
 0.0.0.0 oranzadaklub.pl
 0.0.0.0 orarala.com
+0.0.0.0 oratedencourse.info
 0.0.0.0 oratess.com
 0.0.0.0 oratorsresente.info
 0.0.0.0 oratosaeron.com
@@ -79904,6 +79901,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 purevideo.com
 0.0.0.0 purk.luckypool.io
 0.0.0.0 puroclean.com
+0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
 0.0.0.0 purpleoak.co.in
 0.0.0.0 purplepatch.online
@@ -92494,7 +92492,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 stellite.crypto-webminer.com
 0.0.0.0 stellite.fairhash.org
 0.0.0.0 stellite.hashvault.pro
-0.0.0.0 stellite.ingest-us.cryptoknight.cc
 0.0.0.0 stellite.ingest.cryptoknight.cc
 0.0.0.0 stellite.miner.rocks
 0.0.0.0 stellite.minercountry.com
@@ -97415,7 +97412,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tr563.com
 0.0.0.0 tr5ck.brucelead.com
 0.0.0.0 tr8ck.brucelead.com
-0.0.0.0 tra.scds.pmdstatic.net
 0.0.0.0 tra2.api.baifendian.com
 0.0.0.0 traaaack.com
 0.0.0.0 traaittplatform.com
@@ -102436,7 +102432,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 uyyimqrmxcwuo.com
 0.0.0.0 uyznjuyfyjc.com
 0.0.0.0 uyzzzeodgommgb.com
-0.0.0.0 uz.btcc.com
 0.0.0.0 uzam.duckdns.org
 0.0.0.0 uzame.duckdns.org
 0.0.0.0 uzekrs.com
@@ -106799,6 +106794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wpserve.org
 0.0.0.0 wpu.sh
 0.0.0.0 wpunkcie.pl
+0.0.0.0 wpush.org
 0.0.0.0 wpvc.nitratory.com
 0.0.0.0 wpvhiedhnzxs.myfw.us
 0.0.0.0 wpvpcuwp.com
@@ -107253,7 +107249,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ww38.nimuecrypto.com
 0.0.0.0 ww38.omegapool.cc
 0.0.0.0 ww38.pool.simplecoin.us
-0.0.0.0 ww38.s4.webmine.pro
 0.0.0.0 ww38.simplecoin.us
 0.0.0.0 ww38.smartadserver.com
 0.0.0.0 ww381.smartadserver.com
@@ -112717,7 +112712,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.leadcapitalcrp.com
 0.0.0.0 www.leaddogweb.com
 0.0.0.0 www.leaderhouse.pl
-0.0.0.0 www.leadgenetwork.com
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www.leadn.pl
 0.0.0.0 www.leadzu.com
@@ -113066,7 +113060,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mangoads.vn
 0.0.0.0 www.mania-perfum.pl
 0.0.0.0 www.manilis.com
-0.0.0.0 www.manis-pulaurakyat.desa.id
 0.0.0.0 www.mansmith.net
 0.0.0.0 www.mantalo-conseil.fr
 0.0.0.0 www.manu-forti.co.uk

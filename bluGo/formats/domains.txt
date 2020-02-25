@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.056
 # Release: 056
-# Entries: 121,835
+# Entries: 121,828
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 12:10:24
+# Updated: Tue, 25 Feb 20 18:09:50
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -9977,7 +9977,6 @@ aehistory.112.2o7.net
 aeirhucw.com
 aeizbvtknp.com
 aejtg.voluumtrk.com
-aek.btcc.com
 aekduylxcmlevs.bid
 aemea.es
 aemediatraffic.com
@@ -37581,7 +37580,6 @@ eth-ru.dwarfpool.com
 eth-ru.nanopool.org
 eth-ru2.dwarfpool.com
 eth-ru2.nanopool.org
-eth-ru22.dwarfpool.com
 eth-sg.dwarfpool.com
 eth-sh.poolgpu.com
 eth-solo.baikalmine.com
@@ -40008,6 +40006,7 @@ fevrbniqa.com
 fewmphbwt.com
 fexclick.baidu.com
 fexiaen.com
+feyfjlpeexvg.com
 ff.astv.ru
 ff.meikanguo.com
 ff.uc.cn
@@ -43424,6 +43423,7 @@ gear5.me
 gearinformer.com
 gearwom.de
 geazikjazoid.com
+gebralefukim.site
 gecfhfgfifefbegjaeb.ru
 geckocanoeing.com.au
 gecxceztcnhkmh.com
@@ -46723,7 +46723,6 @@ haven.hashvault.pro
 haven.herominers.com
 haven.ingest-asia.cryptoknight.cc
 haven.ingest-us.cryptoknight.cc
-haven.ingest.cryptoknight.cc
 haven.luckypool.io
 haven.majanetwork.com
 haven.miner.rocks
@@ -51693,6 +51692,7 @@ iebnsqfwfhl.bid
 iec56w4ibovnb4wc.onion.si
 iedc.fitbit.com
 iedijlgkbqc.com
+iedzocfoflfgam.com
 ieeagbtui.com
 ieeawxjool.com
 iefjsqos.com
@@ -56840,7 +56840,6 @@ kdv-mining.com
 kdvcvkwwtbwn.com
 kdwygzatplqrao.bid
 kdyfsgpa.com
-ke.btcc.com
 keapeiros.xyz
 kearnypaving.com
 keaven.pw
@@ -60825,7 +60824,6 @@ lolopool.com
 lolrphack.sharezips.info
 lolshock.com
 loltrain.com
-lom.btcc.com
 lomaresidencial.com
 lommi.pl
 lomniczanie.pl
@@ -61684,7 +61682,6 @@ m.89kvh.cn
 m.8live.com
 m.91heima.cn
 m.937920.com
-m.9438k.com
 m.967nd.cn
 m.9e6zb.cn
 m.9z41f.cn
@@ -63249,7 +63246,6 @@ masari.hashparty.io
 masari.hashvault.pro
 masari.herominers.com
 masari.ingest-asia.cryptoknight.cc
-masari.ingest-us.cryptoknight.cc
 masari.luckypool.io
 masari.miner.rocks
 masari.net
@@ -66274,6 +66270,7 @@ modello.co.il
 modelsgonebad.com
 modernbox-meble.pl
 moderncustomerexperience.brightcove.com
+moderningvigil.pro
 modernmarketingexperience.brightcove.com
 modernpricing.com
 modernus.is
@@ -71813,7 +71810,6 @@ ocio.leadzu.com
 ocio.leadzutw.com
 ocipbbphfszy.com
 ocixtsnyxxvyaw.com
-ock.webmine.pro
 ockoken.site
 ockorrytznnq.bid
 ockrsolo.bid
@@ -73023,7 +73019,6 @@ oplus.umeng.com
 opmnstr.com
 opn.ivitrack.com
 opoefqthl.bid
-oponykarbownik.pl
 oponymagcarleszno.pl
 oportunidadesunica.com
 oppcgcqytazs.com
@@ -73060,6 +73055,7 @@ optaim.com
 optanon.blob.core.windows.net
 optchk.ayads.co
 opteama.com
+optiads.org
 opticalcleaner.com
 opticbit.triplemining.com
 optidee.nl
@@ -73173,6 +73169,7 @@ orango.redirectme.net
 orangorangbodoh.com
 oranzadaklub.pl
 orarala.com
+oratedencourse.info
 oratess.com
 oratorsresente.info
 oratosaeron.com
@@ -79885,6 +79882,7 @@ purething.pl
 purevideo.com
 purk.luckypool.io
 puroclean.com
+purpleads.io
 purpleflag.net
 purpleoak.co.in
 purplepatch.online
@@ -92475,7 +92473,6 @@ stellite.cash
 stellite.crypto-webminer.com
 stellite.fairhash.org
 stellite.hashvault.pro
-stellite.ingest-us.cryptoknight.cc
 stellite.ingest.cryptoknight.cc
 stellite.miner.rocks
 stellite.minercountry.com
@@ -97396,7 +97393,6 @@ tr4ck.brucelead.com
 tr563.com
 tr5ck.brucelead.com
 tr8ck.brucelead.com
-tra.scds.pmdstatic.net
 tra2.api.baifendian.com
 traaaack.com
 traaittplatform.com
@@ -102417,7 +102413,6 @@ uyyalzrvkvmtiq.com
 uyyimqrmxcwuo.com
 uyznjuyfyjc.com
 uyzzzeodgommgb.com
-uz.btcc.com
 uzam.duckdns.org
 uzame.duckdns.org
 uzekrs.com
@@ -106780,6 +106775,7 @@ wpsconfig4svr.elasticbeanstalk.com
 wpserve.org
 wpu.sh
 wpunkcie.pl
+wpush.org
 wpvc.nitratory.com
 wpvhiedhnzxs.myfw.us
 wpvpcuwp.com
@@ -107234,7 +107230,6 @@ ww38.multiblockchains.com
 ww38.nimuecrypto.com
 ww38.omegapool.cc
 ww38.pool.simplecoin.us
-ww38.s4.webmine.pro
 ww38.simplecoin.us
 ww38.smartadserver.com
 ww381.smartadserver.com
@@ -112698,7 +112693,6 @@ www.lead.network
 www.leadcapitalcrp.com
 www.leaddogweb.com
 www.leaderhouse.pl
-www.leadgenetwork.com
 www.leadingedgecash.com
 www.leadn.pl
 www.leadzu.com
@@ -113047,7 +113041,6 @@ www.mango-do.com
 www.mangoads.vn
 www.mania-perfum.pl
 www.manilis.com
-www.manis-pulaurakyat.desa.id
 www.mansmith.net
 www.mantalo-conseil.fr
 www.manu-forti.co.uk

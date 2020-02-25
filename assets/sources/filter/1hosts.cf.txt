@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/badmojr/1Hosts/master/complete/domains.txt
 # Last Converted - 25.02.2020
-# Total Domains - 59439
+# Total Domains - 59438
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -56444,7 +56444,6 @@
 0.0.0.0 www.lead-alliance.net
 0.0.0.0 www.leadfeeder.com
 0.0.0.0 www.leadformix.com
-0.0.0.0 www.leadgenetwork.com
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www.legalresearchmarketing.com
 0.0.0.0 www.lemnisk.co

@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.056
 # Release: 056
-# Entries: 121,835
+# Entries: 121,828
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 12:10:24
+# Updated: Tue, 25 Feb 20 18:09:50
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -9996,7 +9996,6 @@ ff02::3 ip6-allhosts
 :: aeirhucw.com
 :: aeizbvtknp.com
 :: aejtg.voluumtrk.com
-:: aek.btcc.com
 :: aekduylxcmlevs.bid
 :: aemea.es
 :: aemediatraffic.com
@@ -37600,7 +37599,6 @@ ff02::3 ip6-allhosts
 :: eth-ru.nanopool.org
 :: eth-ru2.dwarfpool.com
 :: eth-ru2.nanopool.org
-:: eth-ru22.dwarfpool.com
 :: eth-sg.dwarfpool.com
 :: eth-sh.poolgpu.com
 :: eth-solo.baikalmine.com
@@ -40027,6 +40025,7 @@ ff02::3 ip6-allhosts
 :: fewmphbwt.com
 :: fexclick.baidu.com
 :: fexiaen.com
+:: feyfjlpeexvg.com
 :: ff.astv.ru
 :: ff.meikanguo.com
 :: ff.uc.cn
@@ -43443,6 +43442,7 @@ ff02::3 ip6-allhosts
 :: gearinformer.com
 :: gearwom.de
 :: geazikjazoid.com
+:: gebralefukim.site
 :: gecfhfgfifefbegjaeb.ru
 :: geckocanoeing.com.au
 :: gecxceztcnhkmh.com
@@ -46742,7 +46742,6 @@ ff02::3 ip6-allhosts
 :: haven.herominers.com
 :: haven.ingest-asia.cryptoknight.cc
 :: haven.ingest-us.cryptoknight.cc
-:: haven.ingest.cryptoknight.cc
 :: haven.luckypool.io
 :: haven.majanetwork.com
 :: haven.miner.rocks
@@ -51712,6 +51711,7 @@ ff02::3 ip6-allhosts
 :: iec56w4ibovnb4wc.onion.si
 :: iedc.fitbit.com
 :: iedijlgkbqc.com
+:: iedzocfoflfgam.com
 :: ieeagbtui.com
 :: ieeawxjool.com
 :: iefjsqos.com
@@ -56859,7 +56859,6 @@ ff02::3 ip6-allhosts
 :: kdvcvkwwtbwn.com
 :: kdwygzatplqrao.bid
 :: kdyfsgpa.com
-:: ke.btcc.com
 :: keapeiros.xyz
 :: kearnypaving.com
 :: keaven.pw
@@ -60844,7 +60843,6 @@ ff02::3 ip6-allhosts
 :: lolrphack.sharezips.info
 :: lolshock.com
 :: loltrain.com
-:: lom.btcc.com
 :: lomaresidencial.com
 :: lommi.pl
 :: lomniczanie.pl
@@ -61703,7 +61701,6 @@ ff02::3 ip6-allhosts
 :: m.8live.com
 :: m.91heima.cn
 :: m.937920.com
-:: m.9438k.com
 :: m.967nd.cn
 :: m.9e6zb.cn
 :: m.9z41f.cn
@@ -63268,7 +63265,6 @@ ff02::3 ip6-allhosts
 :: masari.hashvault.pro
 :: masari.herominers.com
 :: masari.ingest-asia.cryptoknight.cc
-:: masari.ingest-us.cryptoknight.cc
 :: masari.luckypool.io
 :: masari.miner.rocks
 :: masari.net
@@ -66293,6 +66289,7 @@ ff02::3 ip6-allhosts
 :: modelsgonebad.com
 :: modernbox-meble.pl
 :: moderncustomerexperience.brightcove.com
+:: moderningvigil.pro
 :: modernmarketingexperience.brightcove.com
 :: modernpricing.com
 :: modernus.is
@@ -71832,7 +71829,6 @@ ff02::3 ip6-allhosts
 :: ocio.leadzutw.com
 :: ocipbbphfszy.com
 :: ocixtsnyxxvyaw.com
-:: ock.webmine.pro
 :: ockoken.site
 :: ockorrytznnq.bid
 :: ockrsolo.bid
@@ -73042,7 +73038,6 @@ ff02::3 ip6-allhosts
 :: opmnstr.com
 :: opn.ivitrack.com
 :: opoefqthl.bid
-:: oponykarbownik.pl
 :: oponymagcarleszno.pl
 :: oportunidadesunica.com
 :: oppcgcqytazs.com
@@ -73079,6 +73074,7 @@ ff02::3 ip6-allhosts
 :: optanon.blob.core.windows.net
 :: optchk.ayads.co
 :: opteama.com
+:: optiads.org
 :: opticalcleaner.com
 :: opticbit.triplemining.com
 :: optidee.nl
@@ -73192,6 +73188,7 @@ ff02::3 ip6-allhosts
 :: orangorangbodoh.com
 :: oranzadaklub.pl
 :: orarala.com
+:: oratedencourse.info
 :: oratess.com
 :: oratorsresente.info
 :: oratosaeron.com
@@ -79904,6 +79901,7 @@ ff02::3 ip6-allhosts
 :: purevideo.com
 :: purk.luckypool.io
 :: puroclean.com
+:: purpleads.io
 :: purpleflag.net
 :: purpleoak.co.in
 :: purplepatch.online
@@ -92494,7 +92492,6 @@ ff02::3 ip6-allhosts
 :: stellite.crypto-webminer.com
 :: stellite.fairhash.org
 :: stellite.hashvault.pro
-:: stellite.ingest-us.cryptoknight.cc
 :: stellite.ingest.cryptoknight.cc
 :: stellite.miner.rocks
 :: stellite.minercountry.com
@@ -97415,7 +97412,6 @@ ff02::3 ip6-allhosts
 :: tr563.com
 :: tr5ck.brucelead.com
 :: tr8ck.brucelead.com
-:: tra.scds.pmdstatic.net
 :: tra2.api.baifendian.com
 :: traaaack.com
 :: traaittplatform.com
@@ -102436,7 +102432,6 @@ ff02::3 ip6-allhosts
 :: uyyimqrmxcwuo.com
 :: uyznjuyfyjc.com
 :: uyzzzeodgommgb.com
-:: uz.btcc.com
 :: uzam.duckdns.org
 :: uzame.duckdns.org
 :: uzekrs.com
@@ -106799,6 +106794,7 @@ ff02::3 ip6-allhosts
 :: wpserve.org
 :: wpu.sh
 :: wpunkcie.pl
+:: wpush.org
 :: wpvc.nitratory.com
 :: wpvhiedhnzxs.myfw.us
 :: wpvpcuwp.com
@@ -107253,7 +107249,6 @@ ff02::3 ip6-allhosts
 :: ww38.nimuecrypto.com
 :: ww38.omegapool.cc
 :: ww38.pool.simplecoin.us
-:: ww38.s4.webmine.pro
 :: ww38.simplecoin.us
 :: ww38.smartadserver.com
 :: ww381.smartadserver.com
@@ -112717,7 +112712,6 @@ ff02::3 ip6-allhosts
 :: www.leadcapitalcrp.com
 :: www.leaddogweb.com
 :: www.leaderhouse.pl
-:: www.leadgenetwork.com
 :: www.leadingedgecash.com
 :: www.leadn.pl
 :: www.leadzu.com
@@ -113066,7 +113060,6 @@ ff02::3 ip6-allhosts
 :: www.mangoads.vn
 :: www.mania-perfum.pl
 :: www.manilis.com
-:: www.manis-pulaurakyat.desa.id
 :: www.mansmith.net
 :: www.mantalo-conseil.fr
 :: www.manu-forti.co.uk

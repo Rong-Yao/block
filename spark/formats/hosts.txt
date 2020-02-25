@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 61,370
+# Entries: 61,377
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 12:10:19
+# Updated: Tue, 25 Feb 20 18:09:47
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -21774,6 +21774,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fewmphbwt.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 fexiaen.com
+0.0.0.0 feyfjlpeexvg.com
 0.0.0.0 ff.uc.cn
 0.0.0.0 ff.video-ak.cdn.spotify.com
 0.0.0.0 ff.win.taobao.com
@@ -23331,6 +23332,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 geannyal.com
 0.0.0.0 gearwom.de
 0.0.0.0 geazikjazoid.com
+0.0.0.0 gebralefukim.site
 0.0.0.0 gecfhfgfifefbegjaeb.ru
 0.0.0.0 gecxceztcnhkmh.com
 0.0.0.0 gedspecificano.info
@@ -26632,6 +26634,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ie.adserver.yahoo.com
 0.0.0.0 ie8eamus.com
 0.0.0.0 iedijlgkbqc.com
+0.0.0.0 iedzocfoflfgam.com
 0.0.0.0 ieeagbtui.com
 0.0.0.0 iefjsqos.com
 0.0.0.0 ieginc.com
@@ -33686,6 +33689,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 moda.newtogoods.com
 0.0.0.0 modelsgonebad.com
 0.0.0.0 moderncustomerexperience.brightcove.com
+0.0.0.0 moderningvigil.pro
 0.0.0.0 modernmarketingexperience.brightcove.com
 0.0.0.0 modernpricing.com
 0.0.0.0 modes.taboola.com
@@ -37095,6 +37099,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 optchk.ayads.co
 0.0.0.0 opteama.com
+0.0.0.0 optiads.org
 0.0.0.0 opticalcleaner.com
 0.0.0.0 optiforce.optimizely.com
 0.0.0.0 optiker-michelmann.de
@@ -37176,6 +37181,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 orangeoperation.com
 0.0.0.0 orango.redirectme.net
 0.0.0.0 orarala.com
+0.0.0.0 oratedencourse.info
 0.0.0.0 oratess.com
 0.0.0.0 oratorsresente.info
 0.0.0.0 oratosaeron.com
@@ -40909,6 +40915,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pureleads.com
 0.0.0.0 purethc.com
 0.0.0.0 puroclean.com
+0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
 0.0.0.0 purplepatch.online
 0.0.0.0 purpreine.co
@@ -55623,6 +55630,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wps.zog.link
 0.0.0.0 wpsconfig4svr.elasticbeanstalk.com
 0.0.0.0 wpu.sh
+0.0.0.0 wpush.org
 0.0.0.0 wpvc.nitratory.com
 0.0.0.0 wpvpcuwp.com
 0.0.0.0 wpwysmvy.com
@@ -57671,7 +57679,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.le1er.net
 0.0.0.0 www.leadcapitalcrp.com
-0.0.0.0 www.leadgenetwork.com
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www.leadzuaf.com
 0.0.0.0 www.lecap-services.fr

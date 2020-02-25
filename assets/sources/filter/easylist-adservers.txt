@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 # Last Converted - 25.02.2020
-# Total Domains - 14361
+# Total Domains - 14368
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4262,6 +4262,7 @@
 0.0.0.0 fevgukzwvjam.com
 0.0.0.0 fevrbniqa.com
 0.0.0.0 fewmphbwt.com
+0.0.0.0 feyfjlpeexvg.com
 0.0.0.0 ff52e77ba517.com
 0.0.0.0 ff5bd8d9f8df.com
 0.0.0.0 ffaamympgd.com
@@ -4713,6 +4714,7 @@
 0.0.0.0 gdyelbwku.com
 0.0.0.0 gdyjhclaxvqz.com
 0.0.0.0 ge-ge-force.com
+0.0.0.0 gebralefukim.site
 0.0.0.0 gecxceztcnhkmh.com
 0.0.0.0 gedspecificano.info
 0.0.0.0 geede.info
@@ -5596,6 +5598,7 @@
 0.0.0.0 idxrjpfxrqernb.com
 0.0.0.0 ie8eamus.com
 0.0.0.0 iedijlgkbqc.com
+0.0.0.0 iedzocfoflfgam.com
 0.0.0.0 ieeagbtui.com
 0.0.0.0 iefjsqos.com
 0.0.0.0 ieqbsnteuyn.com
@@ -7559,6 +7562,7 @@
 0.0.0.0 mobtrks.com
 0.0.0.0 mobytrks.com
 0.0.0.0 mocean.mobi
+0.0.0.0 moderningvigil.pro
 0.0.0.0 modescrips.info
 0.0.0.0 modulepush.com
 0.0.0.0 mofzedjmlhds.com
@@ -8693,6 +8697,7 @@
 0.0.0.0 opt-intelligence.com
 0.0.0.0 optad360.io
 0.0.0.0 opteama.com
+0.0.0.0 optiads.org
 0.0.0.0 optimatic.com
 0.0.0.0 optimizesocial.com
 0.0.0.0 optinemailpro.com
@@ -8712,6 +8717,7 @@
 0.0.0.0 oqxyzvkwso.com
 0.0.0.0 oqziwmemusftg.com
 0.0.0.0 orarala.com
+0.0.0.0 oratedencourse.info
 0.0.0.0 oratorsresente.info
 0.0.0.0 oratosaeron.com
 0.0.0.0 orbengine.com
@@ -9714,6 +9720,7 @@
 0.0.0.0 puogotzrsvtg.com
 0.0.0.0 pupwgnmakgpnrl.com
 0.0.0.0 purdewee.net
+0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
 0.0.0.0 purpreine.co
 0.0.0.0 puserving.com

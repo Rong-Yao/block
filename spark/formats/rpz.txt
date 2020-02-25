@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 61,370
+; Entries: 61,377
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 12:10:19
+; Updated: Tue, 25 Feb 20 18:09:47
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -21763,6 +21763,7 @@ fevrbniqa.com CNAME .
 fewmphbwt.com CNAME .
 fexclick.baidu.com CNAME .
 fexiaen.com CNAME .
+feyfjlpeexvg.com CNAME .
 ff.uc.cn CNAME .
 ff.video-ak.cdn.spotify.com CNAME .
 ff.win.taobao.com CNAME .
@@ -23320,6 +23321,7 @@ ge.go.zog.link CNAME .
 geannyal.com CNAME .
 gearwom.de CNAME .
 geazikjazoid.com CNAME .
+gebralefukim.site CNAME .
 gecfhfgfifefbegjaeb.ru CNAME .
 gecxceztcnhkmh.com CNAME .
 gedspecificano.info CNAME .
@@ -26621,6 +26623,7 @@ ie.ads.justpremium.com CNAME .
 ie.adserver.yahoo.com CNAME .
 ie8eamus.com CNAME .
 iedijlgkbqc.com CNAME .
+iedzocfoflfgam.com CNAME .
 ieeagbtui.com CNAME .
 iefjsqos.com CNAME .
 ieginc.com CNAME .
@@ -33675,6 +33678,7 @@ mod.nugg.ad CNAME .
 moda.newtogoods.com CNAME .
 modelsgonebad.com CNAME .
 moderncustomerexperience.brightcove.com CNAME .
+moderningvigil.pro CNAME .
 modernmarketingexperience.brightcove.com CNAME .
 modernpricing.com CNAME .
 modes.taboola.com CNAME .
@@ -37084,6 +37088,7 @@ optaim.com CNAME .
 optanon.blob.core.windows.net CNAME .
 optchk.ayads.co CNAME .
 opteama.com CNAME .
+optiads.org CNAME .
 opticalcleaner.com CNAME .
 optiforce.optimizely.com CNAME .
 optiker-michelmann.de CNAME .
@@ -37165,6 +37170,7 @@ orangegames.adhese.com	 CNAME .
 orangeoperation.com CNAME .
 orango.redirectme.net CNAME .
 orarala.com CNAME .
+oratedencourse.info CNAME .
 oratess.com CNAME .
 oratorsresente.info CNAME .
 oratosaeron.com CNAME .
@@ -40898,6 +40904,7 @@ purefuck.com CNAME .
 pureleads.com CNAME .
 purethc.com CNAME .
 puroclean.com CNAME .
+purpleads.io CNAME .
 purpleflag.net CNAME .
 purplepatch.online CNAME .
 purpreine.co CNAME .
@@ -55612,6 +55619,7 @@ wps.clickadilla.com CNAME .
 wps.zog.link CNAME .
 wpsconfig4svr.elasticbeanstalk.com CNAME .
 wpu.sh CNAME .
+wpush.org CNAME .
 wpvc.nitratory.com CNAME .
 wpvpcuwp.com CNAME .
 wpwysmvy.com CNAME .
@@ -57660,7 +57668,6 @@ www.lccl.org.uk CNAME .
 www.lduhtrp.net CNAME .
 www.le1er.net CNAME .
 www.leadcapitalcrp.com CNAME .
-www.leadgenetwork.com CNAME .
 www.leadingedgecash.com CNAME .
 www.leadzuaf.com CNAME .
 www.lecap-services.fr CNAME .

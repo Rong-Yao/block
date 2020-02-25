@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 41,619
+# Entries: 41,618
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 12:14:08
+# Updated: Tue, 25 Feb 20 18:13:53
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts.txt
 # --------------------------------------------
 #
@@ -27718,7 +27718,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 upornia.com
 0.0.0.0 uprour.com
 0.0.0.0 upscalestripper.com
-0.0.0.0 upsidegastrobar.com.br
 0.0.0.0 upskirt.tv
 0.0.0.0 upskirtporn.de
 0.0.0.0 upstore.me

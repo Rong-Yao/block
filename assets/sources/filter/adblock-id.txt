@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
 # Last Converted - 25.02.2020
-# Total Domains - 174
+# Total Domains - 176
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -105,6 +105,7 @@
 0.0.0.0 jadwaltelevisi.com
 0.0.0.0 jasaiklan.com
 0.0.0.0 jayaiklan.com
+0.0.0.0 jodklub.online
 0.0.0.0 js.digiads.co.id
 0.0.0.0 khasiat.id
 0.0.0.0 kistutch.net
@@ -115,6 +116,7 @@
 0.0.0.0 ladsanz.com
 0.0.0.0 ladsdown.com
 0.0.0.0 leoceran.pw
+0.0.0.0 libanyelm.com
 0.0.0.0 llahnch259.com
 0.0.0.0 lokeriklan.com
 0.0.0.0 loppjod.online

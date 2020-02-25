@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 25.02.2020
-# Total Domains - 35889
+# Total Domains - 35887
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -20860,7 +20860,6 @@
 0.0.0.0 oplanetach.pl
 0.0.0.0 opmnstr.com
 0.0.0.0 opn.ivitrack.com
-0.0.0.0 oponykarbownik.pl
 0.0.0.0 oponymagcarleszno.pl
 0.0.0.0 opps.taboola.com
 0.0.0.0 opr.formulas.jp
@@ -32716,7 +32715,6 @@
 0.0.0.0 www.le1er.net
 0.0.0.0 www.lead.network
 0.0.0.0 www.leaderhouse.pl
-0.0.0.0 www.leadgenetwork.com
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www.leadn.pl
 0.0.0.0 www.leadzu.com

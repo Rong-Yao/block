@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 121,835
+; Entries: 121,828
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 12:10:24
+; Updated: Tue, 25 Feb 20 18:09:50
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -9985,7 +9985,6 @@ aehistory.112.2o7.net CNAME .
 aeirhucw.com CNAME .
 aeizbvtknp.com CNAME .
 aejtg.voluumtrk.com CNAME .
-aek.btcc.com CNAME .
 aekduylxcmlevs.bid CNAME .
 aemea.es CNAME .
 aemediatraffic.com CNAME .
@@ -37589,7 +37588,6 @@ eth-ru.dwarfpool.com CNAME .
 eth-ru.nanopool.org CNAME .
 eth-ru2.dwarfpool.com CNAME .
 eth-ru2.nanopool.org CNAME .
-eth-ru22.dwarfpool.com CNAME .
 eth-sg.dwarfpool.com CNAME .
 eth-sh.poolgpu.com CNAME .
 eth-solo.baikalmine.com CNAME .
@@ -40016,6 +40014,7 @@ fevrbniqa.com CNAME .
 fewmphbwt.com CNAME .
 fexclick.baidu.com CNAME .
 fexiaen.com CNAME .
+feyfjlpeexvg.com CNAME .
 ff.astv.ru CNAME .
 ff.meikanguo.com CNAME .
 ff.uc.cn CNAME .
@@ -43432,6 +43431,7 @@ gear5.me CNAME .
 gearinformer.com CNAME .
 gearwom.de CNAME .
 geazikjazoid.com CNAME .
+gebralefukim.site CNAME .
 gecfhfgfifefbegjaeb.ru CNAME .
 geckocanoeing.com.au CNAME .
 gecxceztcnhkmh.com CNAME .
@@ -46731,7 +46731,6 @@ haven.hashvault.pro CNAME .
 haven.herominers.com CNAME .
 haven.ingest-asia.cryptoknight.cc CNAME .
 haven.ingest-us.cryptoknight.cc CNAME .
-haven.ingest.cryptoknight.cc CNAME .
 haven.luckypool.io CNAME .
 haven.majanetwork.com CNAME .
 haven.miner.rocks CNAME .
@@ -51701,6 +51700,7 @@ iebnsqfwfhl.bid CNAME .
 iec56w4ibovnb4wc.onion.si CNAME .
 iedc.fitbit.com CNAME .
 iedijlgkbqc.com CNAME .
+iedzocfoflfgam.com CNAME .
 ieeagbtui.com CNAME .
 ieeawxjool.com CNAME .
 iefjsqos.com CNAME .
@@ -56848,7 +56848,6 @@ kdv-mining.com CNAME .
 kdvcvkwwtbwn.com CNAME .
 kdwygzatplqrao.bid CNAME .
 kdyfsgpa.com CNAME .
-ke.btcc.com CNAME .
 keapeiros.xyz CNAME .
 kearnypaving.com CNAME .
 keaven.pw CNAME .
@@ -60833,7 +60832,6 @@ lolopool.com CNAME .
 lolrphack.sharezips.info CNAME .
 lolshock.com CNAME .
 loltrain.com CNAME .
-lom.btcc.com CNAME .
 lomaresidencial.com CNAME .
 lommi.pl CNAME .
 lomniczanie.pl CNAME .
@@ -61692,7 +61690,6 @@ m.89kvh.cn CNAME .
 m.8live.com CNAME .
 m.91heima.cn CNAME .
 m.937920.com CNAME .
-m.9438k.com CNAME .
 m.967nd.cn CNAME .
 m.9e6zb.cn CNAME .
 m.9z41f.cn CNAME .
@@ -63257,7 +63254,6 @@ masari.hashparty.io CNAME .
 masari.hashvault.pro CNAME .
 masari.herominers.com CNAME .
 masari.ingest-asia.cryptoknight.cc CNAME .
-masari.ingest-us.cryptoknight.cc CNAME .
 masari.luckypool.io CNAME .
 masari.miner.rocks CNAME .
 masari.net CNAME .
@@ -66282,6 +66278,7 @@ modello.co.il CNAME .
 modelsgonebad.com CNAME .
 modernbox-meble.pl CNAME .
 moderncustomerexperience.brightcove.com CNAME .
+moderningvigil.pro CNAME .
 modernmarketingexperience.brightcove.com CNAME .
 modernpricing.com CNAME .
 modernus.is CNAME .
@@ -71821,7 +71818,6 @@ ocio.leadzu.com CNAME .
 ocio.leadzutw.com CNAME .
 ocipbbphfszy.com CNAME .
 ocixtsnyxxvyaw.com CNAME .
-ock.webmine.pro CNAME .
 ockoken.site CNAME .
 ockorrytznnq.bid CNAME .
 ockrsolo.bid CNAME .
@@ -73031,7 +73027,6 @@ oplus.umeng.com CNAME .
 opmnstr.com CNAME .
 opn.ivitrack.com CNAME .
 opoefqthl.bid CNAME .
-oponykarbownik.pl CNAME .
 oponymagcarleszno.pl CNAME .
 oportunidadesunica.com CNAME .
 oppcgcqytazs.com CNAME .
@@ -73068,6 +73063,7 @@ optaim.com CNAME .
 optanon.blob.core.windows.net CNAME .
 optchk.ayads.co CNAME .
 opteama.com CNAME .
+optiads.org CNAME .
 opticalcleaner.com CNAME .
 opticbit.triplemining.com CNAME .
 optidee.nl CNAME .
@@ -73181,6 +73177,7 @@ orango.redirectme.net CNAME .
 orangorangbodoh.com CNAME .
 oranzadaklub.pl CNAME .
 orarala.com CNAME .
+oratedencourse.info CNAME .
 oratess.com CNAME .
 oratorsresente.info CNAME .
 oratosaeron.com CNAME .
@@ -79893,6 +79890,7 @@ purething.pl CNAME .
 purevideo.com CNAME .
 purk.luckypool.io CNAME .
 puroclean.com CNAME .
+purpleads.io CNAME .
 purpleflag.net CNAME .
 purpleoak.co.in CNAME .
 purplepatch.online CNAME .
@@ -92483,7 +92481,6 @@ stellite.cash CNAME .
 stellite.crypto-webminer.com CNAME .
 stellite.fairhash.org CNAME .
 stellite.hashvault.pro CNAME .
-stellite.ingest-us.cryptoknight.cc CNAME .
 stellite.ingest.cryptoknight.cc CNAME .
 stellite.miner.rocks CNAME .
 stellite.minercountry.com CNAME .
@@ -97404,7 +97401,6 @@ tr4ck.brucelead.com CNAME .
 tr563.com CNAME .
 tr5ck.brucelead.com CNAME .
 tr8ck.brucelead.com CNAME .
-tra.scds.pmdstatic.net CNAME .
 tra2.api.baifendian.com CNAME .
 traaaack.com CNAME .
 traaittplatform.com CNAME .
@@ -102425,7 +102421,6 @@ uyyalzrvkvmtiq.com CNAME .
 uyyimqrmxcwuo.com CNAME .
 uyznjuyfyjc.com CNAME .
 uyzzzeodgommgb.com CNAME .
-uz.btcc.com CNAME .
 uzam.duckdns.org CNAME .
 uzame.duckdns.org CNAME .
 uzekrs.com CNAME .
@@ -106788,6 +106783,7 @@ wpsconfig4svr.elasticbeanstalk.com CNAME .
 wpserve.org CNAME .
 wpu.sh CNAME .
 wpunkcie.pl CNAME .
+wpush.org CNAME .
 wpvc.nitratory.com CNAME .
 wpvhiedhnzxs.myfw.us CNAME .
 wpvpcuwp.com CNAME .
@@ -107242,7 +107238,6 @@ ww38.multiblockchains.com CNAME .
 ww38.nimuecrypto.com CNAME .
 ww38.omegapool.cc CNAME .
 ww38.pool.simplecoin.us CNAME .
-ww38.s4.webmine.pro CNAME .
 ww38.simplecoin.us CNAME .
 ww38.smartadserver.com CNAME .
 ww381.smartadserver.com CNAME .
@@ -112706,7 +112701,6 @@ www.lead.network CNAME .
 www.leadcapitalcrp.com CNAME .
 www.leaddogweb.com CNAME .
 www.leaderhouse.pl CNAME .
-www.leadgenetwork.com CNAME .
 www.leadingedgecash.com CNAME .
 www.leadn.pl CNAME .
 www.leadzu.com CNAME .
@@ -113055,7 +113049,6 @@ www.mango-do.com CNAME .
 www.mangoads.vn CNAME .
 www.mania-perfum.pl CNAME .
 www.manilis.com CNAME .
-www.manis-pulaurakyat.desa.id CNAME .
 www.mansmith.net CNAME .
 www.mantalo-conseil.fr CNAME .
 www.manu-forti.co.uk CNAME .

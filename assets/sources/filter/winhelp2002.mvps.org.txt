@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://winhelp2002.mvps.org/hosts.txt
 # Last Converted - 25.02.2020
-# Total Domains - 7020
+# Total Domains - 7019
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6579,7 +6579,6 @@
 0.0.0.0 www.komodia.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.lduhtrp.net
-0.0.0.0 www.leadgenetwork.com
 0.0.0.0 www.leadingedgecash.com
 0.0.0.0 www.lifeforminc.com
 0.0.0.0 www.linkconnector.com

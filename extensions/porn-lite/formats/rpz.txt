@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 41,619
+; Entries: 41,618
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 12:14:08
+; Updated: Tue, 25 Feb 20 18:13:53
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -27707,7 +27707,6 @@ uporn.plus CNAME .
 upornia.com CNAME .
 uprour.com CNAME .
 upscalestripper.com CNAME .
-upsidegastrobar.com.br CNAME .
 upskirt.tv CNAME .
 upskirtporn.de CNAME .
 upstore.me CNAME .

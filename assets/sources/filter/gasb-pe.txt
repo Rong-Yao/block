@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 25.02.2020
-# Total Domains - 44491
+# Total Domains - 44489
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -8956,7 +8956,6 @@
 0.0.0.0 cecash.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 cedarbend.112.2o7.net
-0.0.0.0 ceewawires.org
 0.0.0.0 ceic.com
 0.0.0.0 celabrex.com
 0.0.0.0 cele.sail.com
@@ -13272,7 +13271,6 @@
 0.0.0.0 euroband.net
 0.0.0.0 eurocalldialer.com
 0.0.0.0 euroclick.com
-0.0.0.0 eurocrawl.com
 0.0.0.0 eurodialer.com
 0.0.0.0 eurodownload.com
 0.0.0.0 euroexpo.ro

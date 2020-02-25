@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 25.02.2020
-# Total Domains - 22716
+# Total Domains - 22725
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -6541,6 +6541,7 @@
 0.0.0.0 elamyar.pw
 0.0.0.0 elanatality.info
 0.0.0.0 elasticad.net
+0.0.0.0 elastinabuker.site
 0.0.0.0 elastx.net
 0.0.0.0 elatsadlux.com
 0.0.0.0 elatumal.xyz
@@ -6699,6 +6700,7 @@
 0.0.0.0 eqrbfjwnmxpy.com
 0.0.0.0 equjalkngu.com
 0.0.0.0 eqzjfqkioowkle.com
+0.0.0.0 eralsstroying.info
 0.0.0.0 eraltradiansid.info
 0.0.0.0 erate.co.il
 0.0.0.0 eratqmdr.com
@@ -7386,6 +7388,7 @@
 0.0.0.0 flixfacts.co.uk
 0.0.0.0 flixsyndication.net
 0.0.0.0 fljozww19f.com
+0.0.0.0 flloczhqdkn.com
 0.0.0.0 flmyidbnljphko.com
 0.0.0.0 flnfbaoozuib.com
 0.0.0.0 flnqkhnqjcmvp.com
@@ -7838,6 +7841,7 @@
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadskis.com
 0.0.0.0 gadsokz.com
 0.0.0.0 gaftaums.com
 0.0.0.0 gagacon.com
@@ -7935,6 +7939,7 @@
 0.0.0.0 ge-ge-force.com
 0.0.0.0 gear5.me
 0.0.0.0 gebadu.com
+0.0.0.0 gebralefukim.site
 0.0.0.0 gecxceztcnhkmh.com
 0.0.0.0 gedspecificano.info
 0.0.0.0 geede.info
@@ -9277,6 +9282,7 @@
 0.0.0.0 ie8eamus.com
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 iedijlgkbqc.com
+0.0.0.0 iedzocfoflfgam.com
 0.0.0.0 ieeagbtui.com
 0.0.0.0 iefjsqos.com
 0.0.0.0 iendoo.com
@@ -9356,6 +9362,7 @@
 0.0.0.0 ijriehir.com
 0.0.0.0 ijterttmus.com
 0.0.0.0 ijugatdyiuwxq.com
+0.0.0.0 ijxfkfsvzvnyk.com
 0.0.0.0 ikbwvphztgkiq.com
 0.0.0.0 ikhdsnufzzj.com
 0.0.0.0 iklmgdsfnajmoy.com
@@ -12187,6 +12194,7 @@
 0.0.0.0 mochibot.com
 0.0.0.0 mockingfish.com
 0.0.0.0 modelsgonebad.com
+0.0.0.0 moderningvigil.pro
 0.0.0.0 modernus.is
 0.0.0.0 modescrips.info
 0.0.0.0 modulepush.com
@@ -13776,6 +13784,7 @@
 0.0.0.0 oracleinfinity.io
 0.0.0.0 oranges88.com
 0.0.0.0 orarala.com
+0.0.0.0 oratedencourse.info
 0.0.0.0 oratorsresente.info
 0.0.0.0 oratosaeron.com
 0.0.0.0 orbengine.com
@@ -15288,6 +15297,7 @@
 0.0.0.0 pureadexchange.com
 0.0.0.0 pureairhits.com
 0.0.0.0 purevideo.com
+0.0.0.0 purpleads.io
 0.0.0.0 purpleflag.net
 0.0.0.0 purpreine.co
 0.0.0.0 puserving.com
@@ -15777,6 +15787,7 @@
 0.0.0.0 qmxpttxjv.com
 0.0.0.0 qmzwcrordyc.com
 0.0.0.0 qndqwtrwguhv.com
+0.0.0.0 qnemxzckwx.com
 0.0.0.0 qnfarzjp.bid
 0.0.0.0 qnfpskgtzkw.com
 0.0.0.0 qnhwhedcrzeodd.com
@@ -19230,7 +19241,6 @@
 0.0.0.0 tr.werkenntwen.de
 0.0.0.0 tr1.mailperformance.com
 0.0.0.0 tr563.com
-0.0.0.0 tra.scds.pmdstatic.net
 0.0.0.0 tracc.it
 0.0.0.0 traccoon.intellectsoft.net
 0.0.0.0 tracdelight.com
@@ -19684,7 +19694,6 @@
 0.0.0.0 truehits.net
 0.0.0.0 truelimitinvestment.com
 0.0.0.0 truemine.org
-0.0.0.0 truepush.com
 0.0.0.0 truex.com
 0.0.0.0 trugaze.io
 0.0.0.0 truoptik.com

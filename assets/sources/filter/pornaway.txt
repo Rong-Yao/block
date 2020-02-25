@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
 # Last Converted - 25.02.2020
-# Total Domains - 19242
+# Total Domains - 19241
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -14465,7 +14465,6 @@
 0.0.0.0 upheaven.com
 0.0.0.0 upornia.com
 0.0.0.0 uprour.com
-0.0.0.0 upsidegastrobar.com.br
 0.0.0.0 upstore.me
 0.0.0.0 uptime-alpha.net
 0.0.0.0 uptimebot.net

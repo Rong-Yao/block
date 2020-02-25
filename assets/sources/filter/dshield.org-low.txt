@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
 # Last Converted - 25.02.2020
-# Total Domains - 61346
+# Total Domains - 61345
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -56383,7 +56383,6 @@
 0.0.0.0 uprec.ro
 0.0.0.0 uprightdecor.com
 0.0.0.0 upscalecanada.ca
-0.0.0.0 upsidegastrobar.com.br
 0.0.0.0 upskillsport.co.uk
 0.0.0.0 upsspdisjnwjq.pw
 0.0.0.0 upstart.88vid.com

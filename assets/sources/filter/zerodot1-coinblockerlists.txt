@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 # Last Converted - 25.02.2020
-# Total Domains - 16084
+# Total Domains - 16074
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -422,7 +422,6 @@
 0.0.0.0 ae.leafpool.com
 0.0.0.0 ae.minergate.com
 0.0.0.0 ae.nanopool.org
-0.0.0.0 aek.btcc.com
 0.0.0.0 aeon-pool.com
 0.0.0.0 aeon-pool.net
 0.0.0.0 aeon.arhash.xyz
@@ -3667,7 +3666,6 @@
 0.0.0.0 eth-ru.nanopool.org
 0.0.0.0 eth-ru2.dwarfpool.com
 0.0.0.0 eth-ru2.nanopool.org
-0.0.0.0 eth-ru22.dwarfpool.com
 0.0.0.0 eth-sg.dwarfpool.com
 0.0.0.0 eth-sh.poolgpu.com
 0.0.0.0 eth-solo.baikalmine.com
@@ -4987,7 +4985,6 @@
 0.0.0.0 haven.herominers.com
 0.0.0.0 haven.ingest-asia.cryptoknight.cc
 0.0.0.0 haven.ingest-us.cryptoknight.cc
-0.0.0.0 haven.ingest.cryptoknight.cc
 0.0.0.0 haven.luckypool.io
 0.0.0.0 haven.majanetwork.com
 0.0.0.0 haven.miner.rocks
@@ -7347,7 +7344,6 @@
 0.0.0.0 kdc.coincave.nl
 0.0.0.0 kdowqlpt.info
 0.0.0.0 kdv-mining.com
-0.0.0.0 ke.btcc.com
 0.0.0.0 ked.coincave.nl
 0.0.0.0 kedtise.com
 0.0.0.0 kedy20000gh.bitcoinwallet.com
@@ -7667,7 +7663,6 @@
 0.0.0.0 lokiturtle.luckypool.io
 0.0.0.0 lolkekss.usite.pro
 0.0.0.0 lolopool.com
-0.0.0.0 lom.btcc.com
 0.0.0.0 lonpot.ethosdistro.com
 0.0.0.0 lot.coinium.org
 0.0.0.0 lot.dedicatedpool.com
@@ -8090,7 +8085,6 @@
 0.0.0.0 masari.hashvault.pro
 0.0.0.0 masari.herominers.com
 0.0.0.0 masari.ingest-asia.cryptoknight.cc
-0.0.0.0 masari.ingest-us.cryptoknight.cc
 0.0.0.0 masari.luckypool.io
 0.0.0.0 masari.miner.rocks
 0.0.0.0 masari.net
@@ -9689,7 +9683,6 @@
 0.0.0.0 oc.dedicatedpool.com
 0.0.0.0 ocean.directprimal.com
 0.0.0.0 ocean2.authcaptcha.com
-0.0.0.0 ock.webmine.pro
 0.0.0.0 ocprotocol.com
 0.0.0.0 octele.ethosdistro.com
 0.0.0.0 octocoin.securepayment.cc
@@ -11882,7 +11875,6 @@
 0.0.0.0 stellite.crypto-webminer.com
 0.0.0.0 stellite.fairhash.org
 0.0.0.0 stellite.hashvault.pro
-0.0.0.0 stellite.ingest-us.cryptoknight.cc
 0.0.0.0 stellite.ingest.cryptoknight.cc
 0.0.0.0 stellite.miner.rocks
 0.0.0.0 stellite.minercountry.com
@@ -12915,7 +12907,6 @@
 0.0.0.0 uvc.poolerino.com
 0.0.0.0 uwe02.hackerknowledge.de
 0.0.0.0 uy.nanopool.org
-0.0.0.0 uz.btcc.com
 0.0.0.0 v.atomminer.com
 0.0.0.0 v.bitember.com
 0.0.0.0 v.easy2mine.com
@@ -13651,7 +13642,6 @@
 0.0.0.0 ww38.nimuecrypto.com
 0.0.0.0 ww38.omegapool.cc
 0.0.0.0 ww38.pool.simplecoin.us
-0.0.0.0 ww38.s4.webmine.pro
 0.0.0.0 ww38.simplecoin.us
 0.0.0.0 ww4.coinsolver.com
 0.0.0.0 ww42.dedicatedpool.com

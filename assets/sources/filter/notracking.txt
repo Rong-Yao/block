@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Last Converted - 25.02.2020
-# Total Domains - 25274
+# Total Domains - 25272
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -12541,7 +12541,6 @@
 0.0.0.0 m.89kvh.cn
 0.0.0.0 m.91heima.cn
 0.0.0.0 m.937920.com
-0.0.0.0 m.9438k.com
 0.0.0.0 m.967nd.cn
 0.0.0.0 m.9e6zb.cn
 0.0.0.0 m.9z41f.cn
@@ -23140,7 +23139,6 @@
 0.0.0.0 www.managrika.it
 0.0.0.0 www.mangayhentai.com
 0.0.0.0 www.mango-do.com
-0.0.0.0 www.manis-pulaurakyat.desa.id
 0.0.0.0 www.mantalo-conseil.fr
 0.0.0.0 www.manu-forti.co.uk
 0.0.0.0 www.marathontrack.com

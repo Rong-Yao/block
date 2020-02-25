@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 63,676
+# Entries: 63,683
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 00:14:30
+# Updated: Tue, 25 Feb 20 06:14:36
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -97,6 +97,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 0133hao.net
 0.0.0.0 017e689c749.com
 0.0.0.0 01counter.com
+0.0.0.0 01fen.com
 0.0.0.0 01jud3v55z.com
 0.0.0.0 01n2e3pac2.com
 0.0.0.0 01w47q.cn
@@ -5184,6 +5185,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aliru3.ru
 0.0.0.0 aliru4.ru
 0.0.0.0 aliru5.ru
+0.0.0.0 aliscaton.com
 0.0.0.0 alishop7.ru
 0.0.0.0 alisinak.com
 0.0.0.0 alitianxia168.com
@@ -5913,6 +5915,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 argggultrji.com
 0.0.0.0 argumenti.ru
 0.0.0.0 arianbco.ir
+0.0.0.0 aribcosw.com
 0.0.0.0 arigami.ru
 0.0.0.0 aristianewr.club
 0.0.0.0 ariyayin.com
@@ -11160,6 +11163,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 d1yhzddoi8ev99.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
+0.0.0.0 d1zk0i9yiryb1j.cloudfront.net
 0.0.0.0 d1zoiveqr7pf5b.cloudfront.net
 0.0.0.0 d2.adsplay.net
 0.0.0.0 d2.ligatus.com
@@ -13655,6 +13659,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 elasticad.com
 0.0.0.0 elasticad.net
 0.0.0.0 elasticsearch.mangoads.vn
+0.0.0.0 elastinabuker.site
 0.0.0.0 elatsadlux.com
 0.0.0.0 elatumal.xyz
 0.0.0.0 elcineencasa.com
@@ -13920,6 +13925,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eqzjfqkioowkle.com
 0.0.0.0 er.5ykj.com
 0.0.0.0 er2fl22b1w.site
+0.0.0.0 eralsstroying.info
 0.0.0.0 eraltradiansid.info
 0.0.0.0 erate.co.il
 0.0.0.0 eratqmdr.com
@@ -15841,6 +15847,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadskis.com
 0.0.0.0 gadsokz.com
 0.0.0.0 gadwhy.com
 0.0.0.0 gaftaums.com
@@ -24541,7 +24548,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mmtrkpy.com
 0.0.0.0 mmtrkvk.com
 0.0.0.0 mmtrkyv.com
-0.0.0.0 mmtro.com
 0.0.0.0 mmvid.s3.amazonaws.com
 0.0.0.0 mmwdwg.cn
 0.0.0.0 mmwebhandler.888.com
@@ -29995,6 +30001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 psourgem.com
 0.0.0.0 psozoult.net
 0.0.0.0 psrbrytujuxv.com
+0.0.0.0 pss.meizhejie.com
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 pstarv.cn
 0.0.0.0 psughooy.com
@@ -37467,7 +37474,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 truenat.bid
 0.0.0.0 truenty.com
 0.0.0.0 truepoker.com
-0.0.0.0 truepush.com
 0.0.0.0 truesteamachievements.com
 0.0.0.0 truex.com
 0.0.0.0 trufus.ovh
@@ -63296,6 +63302,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 zjncvhnkh.com
 0.0.0.0 zjnmgmidmx.com
 0.0.0.0 zjo0tjqpm1.com
+0.0.0.0 zjrtuhds.top
 0.0.0.0 zjsbdjkdtjzoxh.com
 0.0.0.0 zjsbeont.com
 0.0.0.0 zjsnrqxltqk.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 25.02.2020
-# Total Domains - 22708
+# Total Domains - 22716
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1858,6 +1858,7 @@
 0.0.0.0 agvzvwof.com
 0.0.0.0 agzfxovg.com
 0.0.0.0 ahalogy.com
+0.0.0.0 ahbcagaazvtuh.com
 0.0.0.0 ahcnxuepput.com
 0.0.0.0 aheadday.com
 0.0.0.0 ahgekvzwjn.com
@@ -2457,6 +2458,7 @@
 0.0.0.0 argggultrji.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 arianelab.com
+0.0.0.0 aribcosw.com
 0.0.0.0 arjgnqlsdo.com
 0.0.0.0 arkairbuy.site
 0.0.0.0 arkalealb.site
@@ -5261,6 +5263,7 @@
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
+0.0.0.0 d2e30rravz97d4.cloudfront.net
 0.0.0.0 d2edfzx4ay42og.cloudfront.net
 0.0.0.0 d2fbkzyicji7c4.cloudfront.net
 0.0.0.0 d2focgxak1cn74.cloudfront.net
@@ -8980,6 +8983,7 @@
 0.0.0.0 houchosi.net
 0.0.0.0 hounicuy.com
 0.0.0.0 hourakob.net
+0.0.0.0 housandady.site
 0.0.0.0 housopsi.net
 0.0.0.0 hover.in
 0.0.0.0 hovernottaked.info
@@ -12244,6 +12248,7 @@
 0.0.0.0 moowouzy.net
 0.0.0.0 mooxar.com
 0.0.0.0 mopinion.com
+0.0.0.0 mopushy.com
 0.0.0.0 mopxhrgiyybr.com
 0.0.0.0 moradu.com
 0.0.0.0 morbitempus.com
@@ -13094,6 +13099,7 @@
 0.0.0.0 ntpmhryl.com
 0.0.0.0 ntryonoxojiyya.com
 0.0.0.0 ntsartingaccura.info
+0.0.0.0 ntsimprovide.info
 0.0.0.0 ntv.io
 0.0.0.0 ntvcld-a.akamaihd.net
 0.0.0.0 ntvk1.ru
@@ -15762,6 +15768,7 @@
 0.0.0.0 qmjjvpoqhb.com
 0.0.0.0 qmkr7isp3o.com
 0.0.0.0 qmmdvzsebi.com
+0.0.0.0 qmokxgfz.com
 0.0.0.0 qmotkiltrim.com
 0.0.0.0 qmotmcwz.com
 0.0.0.0 qmouzhzz.com
@@ -19996,6 +20003,7 @@
 0.0.0.0 uimrmuoztkoia.com
 0.0.0.0 uimserv.net
 0.0.0.0 uinbjfve.com
+0.0.0.0 uinelypresse.info
 0.0.0.0 uiqwtgcp.com
 0.0.0.0 uisdjvwytl.com
 0.0.0.0 uisrihozphejjt.com

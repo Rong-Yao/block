@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://stopforumspam.com/downloads/toxic_domains_whole.txt
 # Last Converted - 25.02.2020
-# Total Domains - 10989
+# Total Domains - 10990
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -319,6 +319,7 @@
 0.0.0.0 aexd.com
 0.0.0.0 aeyl.com
 0.0.0.0 affhat.com
+0.0.0.0 affiliator.nu
 0.0.0.0 affordable.antiquerestorationwork.com
 0.0.0.0 afinilexpress.instambox.com
 0.0.0.0 afodyfocan.pro

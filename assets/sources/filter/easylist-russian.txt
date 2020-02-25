@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/advblock.txt
 # Last Converted - 25.02.2020
-# Total Domains - 7366
+# Total Domains - 7369
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -724,6 +724,7 @@
 0.0.0.0 alifenix.ru
 0.0.0.0 aliimg.com
 0.0.0.0 aliprofi.ru
+0.0.0.0 aliscaton.com
 0.0.0.0 all1ions.ru
 0.0.0.0 allbouttruth.info
 0.0.0.0 allergiya-na.ru
@@ -1793,6 +1794,7 @@
 0.0.0.0 d1uvhm532ipx9t.cloudfront.net
 0.0.0.0 d1uw69x4c2zrim.cloudfront.net
 0.0.0.0 d1zfhhmz4n1jvq.cloudfront.net
+0.0.0.0 d1zk0i9yiryb1j.cloudfront.net
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
 0.0.0.0 d2ghscazvn398x.cloudfront.net
@@ -6321,6 +6323,7 @@
 0.0.0.0 tozipoto.com
 0.0.0.0 tozitoto.com
 0.0.0.0 tozovulozi.com
+0.0.0.0 tpjsqt.com
 0.0.0.0 tptrk.ru
 0.0.0.0 tpxur.top
 0.0.0.0 tqeobp89axcn.com

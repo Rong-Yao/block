@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # Last Converted - 25.02.2020
-# Total Domains - 25427
+# Total Domains - 25425
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -566,7 +566,6 @@
 0.0.0.0 a.remarketstats.com
 0.0.0.0 a.rensheng5.com
 0.0.0.0 a.rmgserving.com
-0.0.0.0 a.rvttrack.com
 0.0.0.0 a.sakh.com
 0.0.0.0 a.servedbyivo.com
 0.0.0.0 a.shangz99991.com
@@ -23820,7 +23819,6 @@
 0.0.0.0 www.pranichealers.asn.au
 0.0.0.0 www.prayerlane.com
 0.0.0.0 www.prdirectory.biz
-0.0.0.0 www.prdsbd.org
 0.0.0.0 www.precisionfieldapp.com
 0.0.0.0 www.predictivadvertising.com
 0.0.0.0 www.premieropinion.com

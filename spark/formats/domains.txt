@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.056
 # Release: 056
-# Entries: 61,364
+# Entries: 61,367
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 00:10:29
+# Updated: Tue, 25 Feb 20 06:10:28
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -2282,7 +2282,6 @@ a.rad.atdmt.com
 a.remarketstats.com
 a.republer.com
 a.rmgserving.com
-a.rvttrack.com
 a.sakh.com
 a.scorecardresearch.com
 a.spankbang.com
@@ -9752,6 +9751,7 @@ arhash.xyz
 arheshanhedt.info
 ariane.abtasty.com
 ariba.112.2o7.net
+aribcosw.com
 ariboo.com
 aries.iad.appboy.com
 arikado.ru
@@ -20176,6 +20176,7 @@ elasticad.com
 elasticad.net
 elasticchange.com
 elasticsystems.com
+elastinabuker.site
 elatsadlux.com
 elatumal.xyz
 elb-collectors-prod.crowdtwist.com
@@ -20603,6 +20604,7 @@ eqx.smartadserver.com
 eqzjfqkioowkle.com
 er.audienceinsights.net
 eraeoggritjeo.com
+eralsstroying.info
 eraltradiansid.info
 eratqmdr.com
 erberos.xyz
@@ -22066,6 +22068,7 @@ flixlnk.top
 flixpolaroid.com
 fljozww19f.com
 flkyhwjhp.com
+flloczhqdkn.com
 flmyidbnljphko.com
 flnfbaoozuib.com
 flnqkhnqjcmvp.com
@@ -37981,6 +37984,7 @@ padsbrown.com
 padsdel.com
 padsdelivery.com
 padsecs.com
+padsecz.com
 padsimz.com
 padsips.com
 padsipz.com
@@ -51841,7 +51845,6 @@ truehits.net
 trueinfusion.com
 trueitcare.com
 truelimitinvestment.com
-truepush.com
 trueshop.store
 truevalue.d2.sc.omtrdc.net
 truevrporn.net

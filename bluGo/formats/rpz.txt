@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 121,991
+; Entries: 121,981
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 00:10:33
+; Updated: Tue, 25 Feb 20 06:10:34
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -457,7 +457,6 @@ $TTL 2h
 1147.org CNAME .
 114oldest.com CNAME .
 114study.adsame.com CNAME .
-115-42.btcc.com CNAME .
 11582.btcc.com CNAME .
 1170.api.swrve.com CNAME .
 1170.content.swrve.com CNAME .
@@ -489,7 +488,6 @@ $TTL 2h
 122.2o7.net CNAME .
 1221e236c3f8703.com CNAME .
 1224.dxsbb.com CNAME .
-122b.btcc.com CNAME .
 122uc.com CNAME .
 123-137.btcc.com CNAME .
 123-counter.de CNAME .
@@ -611,7 +609,6 @@ $TTL 2h
 13453765871837679316.googlegroups.com CNAME .
 1353.api.swrve.com CNAME .
 1353.content.swrve.com CNAME .
-1366-231.btcc.com CNAME .
 136710.txtplug.com CNAME .
 1370.btcc.com CNAME .
 1373.api.swrve.com CNAME .
@@ -2850,7 +2847,6 @@ $TTL 2h
 6h04j.bemobtrk.com CNAME .
 6inches.pl CNAME .
 6iyn6bz9.myutilitydomain.com CNAME .
-6jinbaoboyulewang.btcc.com CNAME .
 6kauqbszb9.com CNAME .
 6kup12tgxx.com CNAME .
 6l1twlw9fy.com CNAME .
@@ -3669,7 +3665,6 @@ a.rensheng5.com CNAME .
 a.republer.com CNAME .
 a.ria.ru CNAME .
 a.rmgserving.com CNAME .
-a.rvttrack.com CNAME .
 a.sakh.com CNAME .
 a.scorecardresearch.com CNAME .
 a.servedbyivo.com CNAME .
@@ -11221,7 +11216,6 @@ allegro.targi.pl CNAME .
 alleliteads.com CNAME .
 allenit.pl CNAME .
 alleone.live CNAME .
-allerainvest.com CNAME .
 allergenstestkit.com CNAME .
 allergiques.com CNAME .
 allergycenter.info CNAME .
@@ -16909,7 +16903,6 @@ b2c-feedapi.vidible.tv CNAME .
 b2c-mlm.marketo.com CNAME .
 b2c-msm.marketo.com CNAME .
 b2c.com CNAME .
-b2fa7.btcc.com CNAME .
 b2g.bylt.gq CNAME .
 b2g.clona.ru CNAME .
 b2g.crazypool.org CNAME .
@@ -36226,6 +36219,7 @@ elasticchange.com CNAME .
 elasticpool.com CNAME .
 elasticsearch.mangoads.vn CNAME .
 elasticsystems.com CNAME .
+elastinabuker.site CNAME .
 elastx.net CNAME .
 elatsadlux.com CNAME .
 elatumal.xyz CNAME .
@@ -37133,6 +37127,7 @@ er.mmi.bemobile.ua CNAME .
 eraambiente.it CNAME .
 eraeoggritjeo.com CNAME .
 erahvrtzbg.com CNAME .
+eralsstroying.info CNAME .
 eraltradiansid.info CNAME .
 erasmus-plius.tomasjs.com CNAME .
 erastio.mentono.com CNAME .
@@ -40841,6 +40836,7 @@ flixsport.co CNAME .
 flixsyndication.net CNAME .
 fljozww19f.com CNAME .
 flkyhwjhp.com CNAME .
+flloczhqdkn.com CNAME .
 flluae.com CNAME .
 flm.pickaxe.pro CNAME .
 flmditew.com CNAME .
@@ -61071,7 +61067,6 @@ lowqnzsxtmvb.bid CNAME .
 loxmetwdjrmh.com CNAME .
 loxodo-ct.ext.nile.works CNAME .
 loxtk.com CNAME .
-loy.btcc.com CNAME .
 loyalbrand.whellostudio.nl CNAME .
 lp-site.com CNAME .
 lp-wip.pl CNAME .
@@ -65157,7 +65152,6 @@ mihqbmugg.com CNAME .
 miiklaf3.beget.tech CNAME .
 miisdhpqsp.bid CNAME .
 mijnknwu.knwu.nl CNAME .
-mik.btcc.com CNAME .
 mikael99635.000webhostapp.com CNAME .
 mikarl.ru CNAME .
 mikdvucquacd.com CNAME .
@@ -66476,7 +66470,6 @@ mon.majorserving.com CNAME .
 mon.sejun.info CNAME .
 mon.toutiao.com CNAME .
 mon.xtgreat.com CNAME .
-mon7.btcc.com CNAME .
 mona.f2pool.com CNAME .
 mona.mofumofu.me CNAME .
 mona.suprnova.cc CNAME .
@@ -74473,6 +74466,7 @@ padsbrown.com CNAME .
 padsdel.com CNAME .
 padsdelivery.com CNAME .
 padsecs.com CNAME .
+padsecz.com CNAME .
 padsimz.com CNAME .
 padsips.com CNAME .
 padsipz.com CNAME .
@@ -99839,7 +99833,6 @@ trueinfusion.com CNAME .
 trueitcare.com CNAME .
 truelimitinvestment.com CNAME .
 truemine.org CNAME .
-truepush.com CNAME .
 trueshop.store CNAME .
 trueskins.fun CNAME .
 truevalue.d2.sc.omtrdc.net CNAME .
@@ -107376,7 +107369,6 @@ ww400.smartadserver.fr CNAME .
 ww42.dedicatedpool.com CNAME .
 ww43.analytic-google.com CNAME .
 ww43.brofist.online CNAME .
-ww43.citrix.webmine.pro CNAME .
 ww43.explorer.brofist.online CNAME .
 ww43.pool.brofist.online CNAME .
 ww43.saas.webmine.pro CNAME .
@@ -114898,7 +114890,6 @@ www.prawoibezprawie.pl CNAME .
 www.pray.priests.top CNAME .
 www.prayerlane.com CNAME .
 www.prdirectory.biz CNAME .
-www.prdsbd.org CNAME .
 www.prebid.adnxs.com CNAME .
 www.precisionfieldapp.com CNAME .
 www.predictad.com CNAME .
@@ -118671,7 +118662,6 @@ x16n.easyhash.de CNAME .
 x16r.easyhash.de CNAME .
 x16s.easyhash.de CNAME .
 x1qh81ukvq.ygtsbuaqsq.madpendesign.com.au CNAME .
-x2.btcc.com CNAME .
 x24hr.com CNAME .
 x2pool.com CNAME .
 x3.extreme-dm.com CNAME .

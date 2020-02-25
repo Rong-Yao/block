@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-rsk.txt
 # Last Converted - 25.02.2020
-# Total Domains - 39917
+# Total Domains - 39916
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -8545,7 +8545,6 @@
 0.0.0.0 alled.byethost13.com
 0.0.0.0 alleliteads.com
 0.0.0.0 allemailtechsupport.freshdesk.com
-0.0.0.0 allerainvest.com
 0.0.0.0 allew.com
 0.0.0.0 allfett.com
 0.0.0.0 allforlove.de

@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 63,676
+; Entries: 63,683
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 00:14:30
+; Updated: Tue, 25 Feb 20 06:14:36
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -86,6 +86,7 @@ $TTL 2h
 0133hao.net CNAME .
 017e689c749.com CNAME .
 01counter.com CNAME .
+01fen.com CNAME .
 01jud3v55z.com CNAME .
 01n2e3pac2.com CNAME .
 01w47q.cn CNAME .
@@ -5173,6 +5174,7 @@ aliru2.ru.p.pstl.live CNAME .
 aliru3.ru CNAME .
 aliru4.ru CNAME .
 aliru5.ru CNAME .
+aliscaton.com CNAME .
 alishop7.ru CNAME .
 alisinak.com CNAME .
 alitianxia168.com CNAME .
@@ -5902,6 +5904,7 @@ arganostrella.com CNAME .
 argggultrji.com CNAME .
 argumenti.ru CNAME .
 arianbco.ir CNAME .
+aribcosw.com CNAME .
 arigami.ru CNAME .
 aristianewr.club CNAME .
 ariyayin.com CNAME .
@@ -11149,6 +11152,7 @@ d1xslst46151d.cloudfront.net CNAME .
 d1yhzddoi8ev99.cloudfront.net CNAME .
 d1zfhhmz4n1jvq.cloudfront.net CNAME .
 d1zgderxoe1a.cloudfront.net CNAME .
+d1zk0i9yiryb1j.cloudfront.net CNAME .
 d1zoiveqr7pf5b.cloudfront.net CNAME .
 d2.adsplay.net CNAME .
 d2.ligatus.com CNAME .
@@ -13644,6 +13648,7 @@ elastec.info CNAME .
 elasticad.com CNAME .
 elasticad.net CNAME .
 elasticsearch.mangoads.vn CNAME .
+elastinabuker.site CNAME .
 elatsadlux.com CNAME .
 elatumal.xyz CNAME .
 elcineencasa.com CNAME .
@@ -13909,6 +13914,7 @@ equjalkngu.com CNAME .
 eqzjfqkioowkle.com CNAME .
 er.5ykj.com CNAME .
 er2fl22b1w.site CNAME .
+eralsstroying.info CNAME .
 eraltradiansid.info CNAME .
 erate.co.il CNAME .
 eratqmdr.com CNAME .
@@ -15830,6 +15836,7 @@ gadsats.com CNAME .
 gadsecz.com CNAME .
 gadsimz.com CNAME .
 gadsipz.com CNAME .
+gadskis.com CNAME .
 gadsokz.com CNAME .
 gadwhy.com CNAME .
 gaftaums.com CNAME .
@@ -24530,7 +24537,6 @@ mmtrkms.com CNAME .
 mmtrkpy.com CNAME .
 mmtrkvk.com CNAME .
 mmtrkyv.com CNAME .
-mmtro.com CNAME .
 mmvid.s3.amazonaws.com CNAME .
 mmwdwg.cn CNAME .
 mmwebhandler.888.com CNAME .
@@ -29984,6 +29990,7 @@ psourdat.com CNAME .
 psourgem.com CNAME .
 psozoult.net CNAME .
 psrbrytujuxv.com CNAME .
+pss.meizhejie.com CNAME .
 pssvc.iqzone.com CNAME .
 pstarv.cn CNAME .
 psughooy.com CNAME .
@@ -37456,7 +37463,6 @@ truemedic.ru CNAME .
 truenat.bid CNAME .
 truenty.com CNAME .
 truepoker.com CNAME .
-truepush.com CNAME .
 truesteamachievements.com CNAME .
 truex.com CNAME .
 trufus.ovh CNAME .
@@ -63285,6 +63291,7 @@ zjksgl.com CNAME .
 zjncvhnkh.com CNAME .
 zjnmgmidmx.com CNAME .
 zjo0tjqpm1.com CNAME .
+zjrtuhds.top CNAME .
 zjsbdjkdtjzoxh.com CNAME .
 zjsbeont.com CNAME .
 zjsnrqxltqk.com CNAME .

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 25.02.2020
-# Total Domains - 44495
+# Total Domains - 44493
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -20892,7 +20892,6 @@
 0.0.0.0 metrics.pennlive.com
 0.0.0.0 metrics.post-gazette.com
 0.0.0.0 metrics.premiereradio.net
-0.0.0.0 metrics.qts.vip.feedroom.com
 0.0.0.0 metrics.rcsmetrics.it
 0.0.0.0 metrics.realage.com
 0.0.0.0 metrics.roadandtrack.com
@@ -24991,7 +24990,6 @@
 0.0.0.0 playersxxx.com
 0.0.0.0 playerxxx.com
 0.0.0.0 playfulgirls.com
-0.0.0.0 playhousedinsey.com
 0.0.0.0 playhousediseny.com
 0.0.0.0 playingboy.com
 0.0.0.0 playitalia.com

@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.056
 # Release: 056
-# Entries: 63,676
+# Entries: 63,683
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 00:14:30
+# Updated: Tue, 25 Feb 20 06:14:36
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -97,6 +97,7 @@ ff02::3 ip6-allhosts
 :: 0133hao.net
 :: 017e689c749.com
 :: 01counter.com
+:: 01fen.com
 :: 01jud3v55z.com
 :: 01n2e3pac2.com
 :: 01w47q.cn
@@ -5184,6 +5185,7 @@ ff02::3 ip6-allhosts
 :: aliru3.ru
 :: aliru4.ru
 :: aliru5.ru
+:: aliscaton.com
 :: alishop7.ru
 :: alisinak.com
 :: alitianxia168.com
@@ -5913,6 +5915,7 @@ ff02::3 ip6-allhosts
 :: argggultrji.com
 :: argumenti.ru
 :: arianbco.ir
+:: aribcosw.com
 :: arigami.ru
 :: aristianewr.club
 :: ariyayin.com
@@ -11160,6 +11163,7 @@ ff02::3 ip6-allhosts
 :: d1yhzddoi8ev99.cloudfront.net
 :: d1zfhhmz4n1jvq.cloudfront.net
 :: d1zgderxoe1a.cloudfront.net
+:: d1zk0i9yiryb1j.cloudfront.net
 :: d1zoiveqr7pf5b.cloudfront.net
 :: d2.adsplay.net
 :: d2.ligatus.com
@@ -13655,6 +13659,7 @@ ff02::3 ip6-allhosts
 :: elasticad.com
 :: elasticad.net
 :: elasticsearch.mangoads.vn
+:: elastinabuker.site
 :: elatsadlux.com
 :: elatumal.xyz
 :: elcineencasa.com
@@ -13920,6 +13925,7 @@ ff02::3 ip6-allhosts
 :: eqzjfqkioowkle.com
 :: er.5ykj.com
 :: er2fl22b1w.site
+:: eralsstroying.info
 :: eraltradiansid.info
 :: erate.co.il
 :: eratqmdr.com
@@ -15841,6 +15847,7 @@ ff02::3 ip6-allhosts
 :: gadsecz.com
 :: gadsimz.com
 :: gadsipz.com
+:: gadskis.com
 :: gadsokz.com
 :: gadwhy.com
 :: gaftaums.com
@@ -24541,7 +24548,6 @@ ff02::3 ip6-allhosts
 :: mmtrkpy.com
 :: mmtrkvk.com
 :: mmtrkyv.com
-:: mmtro.com
 :: mmvid.s3.amazonaws.com
 :: mmwdwg.cn
 :: mmwebhandler.888.com
@@ -29995,6 +30001,7 @@ ff02::3 ip6-allhosts
 :: psourgem.com
 :: psozoult.net
 :: psrbrytujuxv.com
+:: pss.meizhejie.com
 :: pssvc.iqzone.com
 :: pstarv.cn
 :: psughooy.com
@@ -37467,7 +37474,6 @@ ff02::3 ip6-allhosts
 :: truenat.bid
 :: truenty.com
 :: truepoker.com
-:: truepush.com
 :: truesteamachievements.com
 :: truex.com
 :: trufus.ovh
@@ -63296,6 +63302,7 @@ ff02::3 ip6-allhosts
 :: zjncvhnkh.com
 :: zjnmgmidmx.com
 :: zjo0tjqpm1.com
+:: zjrtuhds.top
 :: zjsbdjkdtjzoxh.com
 :: zjsbeont.com
 :: zjsnrqxltqk.com

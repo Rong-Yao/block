@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 25.02.2020
-# Total Domains - 18613
+# Total Domains - 18616
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2144,6 +2144,7 @@
 0.0.0.0 arfttojxv.com
 0.0.0.0 arganostrella.com
 0.0.0.0 argggultrji.com
+0.0.0.0 aribcosw.com
 0.0.0.0 arjgnqlsdo.com
 0.0.0.0 arkairbuy.site
 0.0.0.0 arkalealb.site
@@ -5402,6 +5403,7 @@
 0.0.0.0 elamyar.pw
 0.0.0.0 elanatality.info
 0.0.0.0 elasticad.net
+0.0.0.0 elastinabuker.site
 0.0.0.0 elatsadlux.com
 0.0.0.0 elatumal.xyz
 0.0.0.0 elcolpplwua.com
@@ -5520,6 +5522,7 @@
 0.0.0.0 eqrbfjwnmxpy.com
 0.0.0.0 equjalkngu.com
 0.0.0.0 eqzjfqkioowkle.com
+0.0.0.0 eralsstroying.info
 0.0.0.0 eraltradiansid.info
 0.0.0.0 eratqmdr.com
 0.0.0.0 erberos.xyz
@@ -6401,6 +6404,7 @@
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadskis.com
 0.0.0.0 gadsokz.com
 0.0.0.0 gaftaums.com
 0.0.0.0 gagacon.com
@@ -15889,7 +15893,6 @@
 0.0.0.0 true2file.com
 0.0.0.0 truefilen32.com
 0.0.0.0 truelimitinvestment.com
-0.0.0.0 truepush.com
 0.0.0.0 truex.com
 0.0.0.0 trupir-asia.info
 0.0.0.0 trust.zone

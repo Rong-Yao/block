@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 25.02.2020
-# Total Domains - 35891
+# Total Domains - 35890
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1337,7 +1337,6 @@
 0.0.0.0 a.r10.mopub.com
 0.0.0.0 a.remarketstats.com
 0.0.0.0 a.rmgserving.com
-0.0.0.0 a.rvttrack.com
 0.0.0.0 a.sakh.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.shopserve.jp

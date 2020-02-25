@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 # Last Converted - 25.02.2020
-# Total Domains - 862
+# Total Domains - 863
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -579,6 +579,7 @@
 0.0.0.0 ousufauk.com
 0.0.0.0 padsbrown.com
 0.0.0.0 padsecs.com
+0.0.0.0 padsecz.com
 0.0.0.0 padsimz.com
 0.0.0.0 padspms.com
 0.0.0.0 padsreds.com

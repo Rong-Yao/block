@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # Last Converted - 25.02.2020
-# Total Domains - 13000
+# Total Domains - 13006
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -88,6 +88,7 @@
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-stir.com
 0.0.0.0 ad.12dt.com
+0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad2upapp.com
 0.0.0.0 ad4game.com
@@ -141,6 +142,7 @@
 0.0.0.0 adinfo.aol.com
 0.0.0.0 adinfuse.com
 0.0.0.0 adingo.jp
+0.0.0.0 adinplay.com
 0.0.0.0 adio.co
 0.0.0.0 adition.com
 0.0.0.0 adixo.com
@@ -1360,10 +1362,12 @@
 0.0.0.0 lead10.com
 0.0.0.0 leadboltmobile.net
 0.0.0.0 leadenhancer.com
+0.0.0.0 leadexpress.nl
 0.0.0.0 leadforensics.com
 0.0.0.0 leadformix.com
 0.0.0.0 leadid.com
 0.0.0.0 leadid.net
+0.0.0.0 leadinfo.net
 0.0.0.0 legolas-media.com
 0.0.0.0 leiki.com
 0.0.0.0 lemonpi.io
@@ -11939,6 +11943,7 @@
 0.0.0.0 nexusapp.com
 0.0.0.0 nexusapps.com
 0.0.0.0 nfltags.com
+0.0.0.0 nicherev.io
 0.0.0.0 ninjapd.com
 0.0.0.0 ninthdecimal.com
 0.0.0.0 nl00.net
@@ -12744,6 +12749,7 @@
 0.0.0.0 track.sublytics-5df8eec4bca66.com
 0.0.0.0 track.sublytics-5e0e3b928b4bd.com
 0.0.0.0 track.us.org
+0.0.0.0 track.wikibuy.com
 0.0.0.0 trackad.cz
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackcmp.net

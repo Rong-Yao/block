@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
 # Last Converted - 25.02.2020
-# Total Domains - 23343
+# Total Domains - 23347
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2488,6 +2488,7 @@
 0.0.0.0 argggultrji.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 arianelab.com
+0.0.0.0 aribcosw.com
 0.0.0.0 arjgnqlsdo.com
 0.0.0.0 arkairbuy.site
 0.0.0.0 arkalealb.site
@@ -6700,6 +6701,7 @@
 0.0.0.0 elamyar.pw
 0.0.0.0 elanatality.info
 0.0.0.0 elasticad.net
+0.0.0.0 elastinabuker.site
 0.0.0.0 elastx.net
 0.0.0.0 elatsadlux.com
 0.0.0.0 elatumal.xyz
@@ -6865,6 +6867,7 @@
 0.0.0.0 eqrbfjwnmxpy.com
 0.0.0.0 equjalkngu.com
 0.0.0.0 eqzjfqkioowkle.com
+0.0.0.0 eralsstroying.info
 0.0.0.0 eraltradiansid.info
 0.0.0.0 erate.co.il
 0.0.0.0 eratqmdr.com
@@ -8032,6 +8035,7 @@
 0.0.0.0 gadsecz.com
 0.0.0.0 gadsimz.com
 0.0.0.0 gadsipz.com
+0.0.0.0 gadskis.com
 0.0.0.0 gadsokz.com
 0.0.0.0 gaftaums.com
 0.0.0.0 gagacon.com

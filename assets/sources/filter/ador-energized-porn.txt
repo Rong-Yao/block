@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/EnergizedProtection/master/core/hosts-porn
 # Last Converted - 25.02.2020
-# Total Domains - 12842
+# Total Domains - 12841
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -11326,7 +11326,6 @@
 0.0.0.0 www.sexmomsex.com
 0.0.0.0 www.sexmoney.com
 0.0.0.0 www.sexmovies-free.com
-0.0.0.0 www.sexmovies.hu
 0.0.0.0 www.sexmummy.com
 0.0.0.0 www.sexo18.net
 0.0.0.0 www.sexoasis.com

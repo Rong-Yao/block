@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 41,620
+; Entries: 41,619
 ; Pack Code: EXP0R9-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 00:14:26
+; Updated: Tue, 25 Feb 20 06:14:28
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -37460,7 +37460,6 @@ www.sexmovie.co.il CNAME .
 www.sexmovieindian.com CNAME .
 www.sexmovies-free.com CNAME .
 www.sexmovies.com CNAME .
-www.sexmovies.hu CNAME .
 www.sexmummy.com CNAME .
 www.sexmuseumamsterdam.nl CNAME .
 www.sexmv.com CNAME .

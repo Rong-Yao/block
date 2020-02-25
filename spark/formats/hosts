@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 61,364
+# Entries: 61,367
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 00:10:29
+# Updated: Tue, 25 Feb 20 06:10:28
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -2301,7 +2301,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.remarketstats.com
 0.0.0.0 a.republer.com
 0.0.0.0 a.rmgserving.com
-0.0.0.0 a.rvttrack.com
 0.0.0.0 a.sakh.com
 0.0.0.0 a.scorecardresearch.com
 0.0.0.0 a.spankbang.com
@@ -9771,6 +9770,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 arheshanhedt.info
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 ariba.112.2o7.net
+0.0.0.0 aribcosw.com
 0.0.0.0 ariboo.com
 0.0.0.0 aries.iad.appboy.com
 0.0.0.0 arikado.ru
@@ -20195,6 +20195,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 elasticad.net
 0.0.0.0 elasticchange.com
 0.0.0.0 elasticsystems.com
+0.0.0.0 elastinabuker.site
 0.0.0.0 elatsadlux.com
 0.0.0.0 elatumal.xyz
 0.0.0.0 elb-collectors-prod.crowdtwist.com
@@ -20622,6 +20623,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 eqzjfqkioowkle.com
 0.0.0.0 er.audienceinsights.net
 0.0.0.0 eraeoggritjeo.com
+0.0.0.0 eralsstroying.info
 0.0.0.0 eraltradiansid.info
 0.0.0.0 eratqmdr.com
 0.0.0.0 erberos.xyz
@@ -22085,6 +22087,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 flixpolaroid.com
 0.0.0.0 fljozww19f.com
 0.0.0.0 flkyhwjhp.com
+0.0.0.0 flloczhqdkn.com
 0.0.0.0 flmyidbnljphko.com
 0.0.0.0 flnfbaoozuib.com
 0.0.0.0 flnqkhnqjcmvp.com
@@ -38000,6 +38003,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 padsdel.com
 0.0.0.0 padsdelivery.com
 0.0.0.0 padsecs.com
+0.0.0.0 padsecz.com
 0.0.0.0 padsimz.com
 0.0.0.0 padsips.com
 0.0.0.0 padsipz.com
@@ -51860,7 +51864,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 trueinfusion.com
 0.0.0.0 trueitcare.com
 0.0.0.0 truelimitinvestment.com
-0.0.0.0 truepush.com
 0.0.0.0 trueshop.store
 0.0.0.0 truevalue.d2.sc.omtrdc.net
 0.0.0.0 truevrporn.net

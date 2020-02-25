@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.056
 # Release: 056
-# Entries: 121,991
+# Entries: 121,981
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 00:10:33
+# Updated: Tue, 25 Feb 20 06:10:34
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -468,7 +468,6 @@ ff02::3 ip6-allhosts
 :: 1147.org
 :: 114oldest.com
 :: 114study.adsame.com
-:: 115-42.btcc.com
 :: 11582.btcc.com
 :: 1170.api.swrve.com
 :: 1170.content.swrve.com
@@ -500,7 +499,6 @@ ff02::3 ip6-allhosts
 :: 122.2o7.net
 :: 1221e236c3f8703.com
 :: 1224.dxsbb.com
-:: 122b.btcc.com
 :: 122uc.com
 :: 123-137.btcc.com
 :: 123-counter.de
@@ -622,7 +620,6 @@ ff02::3 ip6-allhosts
 :: 13453765871837679316.googlegroups.com
 :: 1353.api.swrve.com
 :: 1353.content.swrve.com
-:: 1366-231.btcc.com
 :: 136710.txtplug.com
 :: 1370.btcc.com
 :: 1373.api.swrve.com
@@ -2861,7 +2858,6 @@ ff02::3 ip6-allhosts
 :: 6h04j.bemobtrk.com
 :: 6inches.pl
 :: 6iyn6bz9.myutilitydomain.com
-:: 6jinbaoboyulewang.btcc.com
 :: 6kauqbszb9.com
 :: 6kup12tgxx.com
 :: 6l1twlw9fy.com
@@ -3680,7 +3676,6 @@ ff02::3 ip6-allhosts
 :: a.republer.com
 :: a.ria.ru
 :: a.rmgserving.com
-:: a.rvttrack.com
 :: a.sakh.com
 :: a.scorecardresearch.com
 :: a.servedbyivo.com
@@ -11232,7 +11227,6 @@ ff02::3 ip6-allhosts
 :: alleliteads.com
 :: allenit.pl
 :: alleone.live
-:: allerainvest.com
 :: allergenstestkit.com
 :: allergiques.com
 :: allergycenter.info
@@ -16920,7 +16914,6 @@ ff02::3 ip6-allhosts
 :: b2c-mlm.marketo.com
 :: b2c-msm.marketo.com
 :: b2c.com
-:: b2fa7.btcc.com
 :: b2g.bylt.gq
 :: b2g.clona.ru
 :: b2g.crazypool.org
@@ -36237,6 +36230,7 @@ ff02::3 ip6-allhosts
 :: elasticpool.com
 :: elasticsearch.mangoads.vn
 :: elasticsystems.com
+:: elastinabuker.site
 :: elastx.net
 :: elatsadlux.com
 :: elatumal.xyz
@@ -37144,6 +37138,7 @@ ff02::3 ip6-allhosts
 :: eraambiente.it
 :: eraeoggritjeo.com
 :: erahvrtzbg.com
+:: eralsstroying.info
 :: eraltradiansid.info
 :: erasmus-plius.tomasjs.com
 :: erastio.mentono.com
@@ -40852,6 +40847,7 @@ ff02::3 ip6-allhosts
 :: flixsyndication.net
 :: fljozww19f.com
 :: flkyhwjhp.com
+:: flloczhqdkn.com
 :: flluae.com
 :: flm.pickaxe.pro
 :: flmditew.com
@@ -61082,7 +61078,6 @@ ff02::3 ip6-allhosts
 :: loxmetwdjrmh.com
 :: loxodo-ct.ext.nile.works
 :: loxtk.com
-:: loy.btcc.com
 :: loyalbrand.whellostudio.nl
 :: lp-site.com
 :: lp-wip.pl
@@ -65168,7 +65163,6 @@ ff02::3 ip6-allhosts
 :: miiklaf3.beget.tech
 :: miisdhpqsp.bid
 :: mijnknwu.knwu.nl
-:: mik.btcc.com
 :: mikael99635.000webhostapp.com
 :: mikarl.ru
 :: mikdvucquacd.com
@@ -66487,7 +66481,6 @@ ff02::3 ip6-allhosts
 :: mon.sejun.info
 :: mon.toutiao.com
 :: mon.xtgreat.com
-:: mon7.btcc.com
 :: mona.f2pool.com
 :: mona.mofumofu.me
 :: mona.suprnova.cc
@@ -74484,6 +74477,7 @@ ff02::3 ip6-allhosts
 :: padsdel.com
 :: padsdelivery.com
 :: padsecs.com
+:: padsecz.com
 :: padsimz.com
 :: padsips.com
 :: padsipz.com
@@ -99850,7 +99844,6 @@ ff02::3 ip6-allhosts
 :: trueitcare.com
 :: truelimitinvestment.com
 :: truemine.org
-:: truepush.com
 :: trueshop.store
 :: trueskins.fun
 :: truevalue.d2.sc.omtrdc.net
@@ -107387,7 +107380,6 @@ ff02::3 ip6-allhosts
 :: ww42.dedicatedpool.com
 :: ww43.analytic-google.com
 :: ww43.brofist.online
-:: ww43.citrix.webmine.pro
 :: ww43.explorer.brofist.online
 :: ww43.pool.brofist.online
 :: ww43.saas.webmine.pro
@@ -114909,7 +114901,6 @@ ff02::3 ip6-allhosts
 :: www.pray.priests.top
 :: www.prayerlane.com
 :: www.prdirectory.biz
-:: www.prdsbd.org
 :: www.prebid.adnxs.com
 :: www.precisionfieldapp.com
 :: www.predictad.com
@@ -118682,7 +118673,6 @@ ff02::3 ip6-allhosts
 :: x16r.easyhash.de
 :: x16s.easyhash.de
 :: x1qh81ukvq.ygtsbuaqsq.madpendesign.com.au
-:: x2.btcc.com
 :: x24hr.com
 :: x2pool.com
 :: x3.extreme-dm.com

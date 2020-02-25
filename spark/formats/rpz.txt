@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.056
 ; Release: 056
-; Entries: 61,364
+; Entries: 61,367
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Tue, 25 Feb 20 00:10:29
+; Updated: Tue, 25 Feb 20 06:10:28
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -2290,7 +2290,6 @@ a.rad.atdmt.com CNAME .
 a.remarketstats.com CNAME .
 a.republer.com CNAME .
 a.rmgserving.com CNAME .
-a.rvttrack.com CNAME .
 a.sakh.com CNAME .
 a.scorecardresearch.com CNAME .
 a.spankbang.com CNAME .
@@ -9760,6 +9759,7 @@ arhash.xyz CNAME .
 arheshanhedt.info CNAME .
 ariane.abtasty.com CNAME .
 ariba.112.2o7.net CNAME .
+aribcosw.com CNAME .
 ariboo.com CNAME .
 aries.iad.appboy.com CNAME .
 arikado.ru CNAME .
@@ -20184,6 +20184,7 @@ elasticad.com CNAME .
 elasticad.net CNAME .
 elasticchange.com CNAME .
 elasticsystems.com CNAME .
+elastinabuker.site CNAME .
 elatsadlux.com CNAME .
 elatumal.xyz CNAME .
 elb-collectors-prod.crowdtwist.com CNAME .
@@ -20611,6 +20612,7 @@ eqx.smartadserver.com CNAME .
 eqzjfqkioowkle.com CNAME .
 er.audienceinsights.net CNAME .
 eraeoggritjeo.com CNAME .
+eralsstroying.info CNAME .
 eraltradiansid.info CNAME .
 eratqmdr.com CNAME .
 erberos.xyz CNAME .
@@ -22074,6 +22076,7 @@ flixlnk.top CNAME .
 flixpolaroid.com CNAME .
 fljozww19f.com CNAME .
 flkyhwjhp.com CNAME .
+flloczhqdkn.com CNAME .
 flmyidbnljphko.com CNAME .
 flnfbaoozuib.com CNAME .
 flnqkhnqjcmvp.com CNAME .
@@ -37989,6 +37992,7 @@ padsbrown.com CNAME .
 padsdel.com CNAME .
 padsdelivery.com CNAME .
 padsecs.com CNAME .
+padsecz.com CNAME .
 padsimz.com CNAME .
 padsips.com CNAME .
 padsipz.com CNAME .
@@ -51849,7 +51853,6 @@ truehits.net CNAME .
 trueinfusion.com CNAME .
 trueitcare.com CNAME .
 truelimitinvestment.com CNAME .
-truepush.com CNAME .
 trueshop.store CNAME .
 truevalue.d2.sc.omtrdc.net CNAME .
 truevrporn.net CNAME .

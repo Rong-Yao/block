@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.056
 # Release: 056
-# Entries: 41,620
+# Entries: 41,619
 # Pack Code: EXP0R9-P
 # License: MIT, https://energized.pro/license
-# Updated: Tue, 25 Feb 20 00:14:26
+# Updated: Tue, 25 Feb 20 06:14:28
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/porn-lite/formats/hosts.txt
 # --------------------------------------------
 #
@@ -37471,7 +37471,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.sexmovieindian.com
 0.0.0.0 www.sexmovies-free.com
 0.0.0.0 www.sexmovies.com
-0.0.0.0 www.sexmovies.hu
 0.0.0.0 www.sexmummy.com
 0.0.0.0 www.sexmuseumamsterdam.nl
 0.0.0.0 www.sexmv.com

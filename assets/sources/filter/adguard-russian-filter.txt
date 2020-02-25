@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/1.txt
 # Last Converted - 25.02.2020
-# Total Domains - 3218
+# Total Domains - 3219
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2491,6 +2491,7 @@
 0.0.0.0 sn00.net
 0.0.0.0 socadvnet.com
 0.0.0.0 softbn.ru
+0.0.0.0 soilebol.com
 0.0.0.0 soknm.com
 0.0.0.0 solanog.com
 0.0.0.0 solipen.pw

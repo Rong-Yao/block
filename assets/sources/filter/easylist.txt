@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist.to/easylist/easylist.txt
 # Last Converted - 26.02.2020
-# Total Domains - 16786
+# Total Domains - 16790
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1541,6 +1541,7 @@
 0.0.0.0 afgr9.com
 0.0.0.0 aflrm.com
 0.0.0.0 afnrmofoljod.com
+0.0.0.0 afqveoju.com
 0.0.0.0 afrfndbumyyt.com
 0.0.0.0 africawin.com
 0.0.0.0 afriflatry.co
@@ -2127,6 +2128,7 @@
 0.0.0.0 azoogleads.com
 0.0.0.0 azorbe.com
 0.0.0.0 azrjdlvlsxihbd.com
+0.0.0.0 azsikvmhlzuhje.com
 0.0.0.0 aztecash.com
 0.0.0.0 azwsolqpewo.com
 0.0.0.0 b-m.xyz
@@ -5341,6 +5343,7 @@
 0.0.0.0 flux16.com
 0.0.0.0 fluxads.com
 0.0.0.0 flvuylhsyg.com
+0.0.0.0 flybhyis.com
 0.0.0.0 fmcktrmnlyfjr.com
 0.0.0.0 fmecsdelxmeks.com
 0.0.0.0 fmgdzqpcaliqs.com
@@ -9802,6 +9805,7 @@
 0.0.0.0 oageeedhvyyojj.com
 0.0.0.0 oaibzaqh.com
 0.0.0.0 oainternetservices.com
+0.0.0.0 oaitcmlscwe.com
 0.0.0.0 oajujirg.net
 0.0.0.0 oakrkptc.com
 0.0.0.0 oalicqudnfhf.com

@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 26.02.2020
-# Total Domains - 35897
+# Total Domains - 35895
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -29058,7 +29058,6 @@
 0.0.0.0 usd.sierra-boa.com
 0.0.0.0 usdk.batmobi.net
 0.0.0.0 usdm.122.2o7.net
-0.0.0.0 use-application-dns.net
 0.0.0.0 use-data.adsrvr.org
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use-tr01.fuse-ad.com
@@ -32846,7 +32845,6 @@
 0.0.0.0 www.maaxmarket.com
 0.0.0.0 www.mac.com-w.net
 0.0.0.0 www.maceju.com
-0.0.0.0 www.mackeeperapp.zeobit.com
 0.0.0.0 www.madl-len.pl
 0.0.0.0 www.maendo.tv
 0.0.0.0 www.maestrokolo.pl

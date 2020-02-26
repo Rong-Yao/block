@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.057
 # Release: 057
-# Entries: 61,387
+# Entries: 61,390
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 06:10:26
+# Updated: Wed, 26 Feb 20 12:10:08
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -6948,6 +6948,7 @@ ff02::3 ip6-allhosts
 :: afp.alicdn.com
 :: afp.dotomi.com
 :: afp.iqiyi.com
+:: afqveoju.com
 :: afraidlanguage.com
 :: afrfndbumyyt.com
 :: africanstools.com
@@ -10512,6 +10513,7 @@ ff02::3 ip6-allhosts
 :: azorbe.com
 :: azrjdlvlsxihbd.com
 :: azsemkr.com
+:: azsikvmhlzuhje.com
 :: aztbeszelik.com
 :: aztracking.net
 :: azure.admixer.net
@@ -22134,6 +22136,7 @@ ff02::3 ip6-allhosts
 :: fluxads.com
 :: flvuylhsyg.com
 :: flw.ero-advertising.com
+:: flybhyis.com
 :: flycast.com
 :: flyertown.ca
 :: flygo.ru
@@ -36126,6 +36129,7 @@ ff02::3 ip6-allhosts
 :: oagwl3372h.com
 :: oaibzaqh.com
 :: oainternetservices.com
+:: oaitcmlscwe.com
 :: oajujirg.net
 :: oakmanner.ga
 :: oakpyxyea.com
@@ -57773,7 +57777,6 @@ ff02::3 ip6-allhosts
 :: www.maatch.com
 :: www.maaxmarket.com
 :: www.mac.com-w.net
-:: www.mackeeperapp.zeobit.com
 :: www.madadsmedia.com
 :: www.madcpms.com
 :: www.madvertise.com

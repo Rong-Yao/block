@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.057
 # Release: 057
-# Entries: 61,387
+# Entries: 61,390
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 06:10:26
+# Updated: Wed, 26 Feb 20 12:10:08
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts
 # --------------------------------------------
 #
@@ -6948,6 +6948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afp.alicdn.com
 0.0.0.0 afp.dotomi.com
 0.0.0.0 afp.iqiyi.com
+0.0.0.0 afqveoju.com
 0.0.0.0 afraidlanguage.com
 0.0.0.0 afrfndbumyyt.com
 0.0.0.0 africanstools.com
@@ -10512,6 +10513,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 azorbe.com
 0.0.0.0 azrjdlvlsxihbd.com
 0.0.0.0 azsemkr.com
+0.0.0.0 azsikvmhlzuhje.com
 0.0.0.0 aztbeszelik.com
 0.0.0.0 aztracking.net
 0.0.0.0 azure.admixer.net
@@ -22134,6 +22136,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fluxads.com
 0.0.0.0 flvuylhsyg.com
 0.0.0.0 flw.ero-advertising.com
+0.0.0.0 flybhyis.com
 0.0.0.0 flycast.com
 0.0.0.0 flyertown.ca
 0.0.0.0 flygo.ru
@@ -36126,6 +36129,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oagwl3372h.com
 0.0.0.0 oaibzaqh.com
 0.0.0.0 oainternetservices.com
+0.0.0.0 oaitcmlscwe.com
 0.0.0.0 oajujirg.net
 0.0.0.0 oakmanner.ga
 0.0.0.0 oakpyxyea.com
@@ -57773,7 +57777,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.maatch.com
 0.0.0.0 www.maaxmarket.com
 0.0.0.0 www.mac.com-w.net
-0.0.0.0 www.mackeeperapp.zeobit.com
 0.0.0.0 www.madadsmedia.com
 0.0.0.0 www.madcpms.com
 0.0.0.0 www.madvertise.com

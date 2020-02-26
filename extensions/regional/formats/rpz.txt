@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.057
 ; Release: 057
-; Entries: 63,740
+; Entries: 63,747
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 26 Feb 20 06:14:50
+; Updated: Wed, 26 Feb 20 12:13:53
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4797,6 +4797,7 @@ afoux.com CNAME .
 afp.admicro.vn CNAME .
 afpcreative.wasu.cn CNAME .
 afquptvqzw.biz CNAME .
+afqveoju.com CNAME .
 afqvtomlqjioeo.com CNAME .
 afrecano.ml CNAME .
 afrek.ru CNAME .
@@ -6439,6 +6440,7 @@ azol.de CNAME .
 azoogleads.com CNAME .
 azorbe.com CNAME .
 azrjdlvlsxihbd.com CNAME .
+azsikvmhlzuhje.com CNAME .
 aztecash.com CNAME .
 aztu.ynfolstw.xyz CNAME .
 azvjudwr.info CNAME .
@@ -15140,6 +15142,7 @@ flv.sales.cbs.com CNAME .
 flvuylhsyg.com CNAME .
 flx1.com CNAME .
 fly-shops.ru CNAME .
+flybhyis.com CNAME .
 flygo.ru CNAME .
 flylinks.pw CNAME .
 flymob.com CNAME .
@@ -22276,6 +22279,7 @@ lianjie.phpwind.com CNAME .
 lianle.com CNAME .
 lianmeng.360.cn CNAME .
 lianyicq.cn CNAME .
+liaoren85.com CNAME .
 liaoruochen.cn CNAME .
 liaotian4.com CNAME .
 libanyelm.com CNAME .
@@ -25045,6 +25049,7 @@ msgwxozk.com CNAME .
 msigpurubzkm.com CNAME .
 msisvvxmnpm.com CNAME .
 msk-realtor.ru CNAME .
+mskjf.com CNAME .
 msltzer.cn CNAME .
 msmaijsxlo.com CNAME .
 msntest.serving-sys.com CNAME .
@@ -26759,6 +26764,7 @@ oagudsey.uk CNAME .
 oagwl3372h.com CNAME .
 oaibzaqh.com CNAME .
 oainternetservices.com CNAME .
+oaitcmlscwe.com CNAME .
 oajujirg.net CNAME .
 oakfordshiro.com CNAME .
 oakrkptc.com CNAME .
@@ -32925,6 +32931,7 @@ s.vclick.vn CNAME .
 s.vi-serve.com CNAME .
 s.worldofmacros.net CNAME .
 s.xvideos.com CNAME .
+s.yaozui.com CNAME .
 s.zixuntop.com CNAME .
 s.zmctrack.net CNAME .
 s.zsxpx.com CNAME .

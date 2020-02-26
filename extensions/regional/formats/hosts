@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.057
 # Release: 057
-# Entries: 63,740
+# Entries: 63,747
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 06:14:50
+# Updated: Wed, 26 Feb 20 12:13:53
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts
 # --------------------------------------------
 #
@@ -4808,6 +4808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 afp.admicro.vn
 0.0.0.0 afpcreative.wasu.cn
 0.0.0.0 afquptvqzw.biz
+0.0.0.0 afqveoju.com
 0.0.0.0 afqvtomlqjioeo.com
 0.0.0.0 afrecano.ml
 0.0.0.0 afrek.ru
@@ -6450,6 +6451,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 azoogleads.com
 0.0.0.0 azorbe.com
 0.0.0.0 azrjdlvlsxihbd.com
+0.0.0.0 azsikvmhlzuhje.com
 0.0.0.0 aztecash.com
 0.0.0.0 aztu.ynfolstw.xyz
 0.0.0.0 azvjudwr.info
@@ -15151,6 +15153,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 flvuylhsyg.com
 0.0.0.0 flx1.com
 0.0.0.0 fly-shops.ru
+0.0.0.0 flybhyis.com
 0.0.0.0 flygo.ru
 0.0.0.0 flylinks.pw
 0.0.0.0 flymob.com
@@ -22287,6 +22290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lianle.com
 0.0.0.0 lianmeng.360.cn
 0.0.0.0 lianyicq.cn
+0.0.0.0 liaoren85.com
 0.0.0.0 liaoruochen.cn
 0.0.0.0 liaotian4.com
 0.0.0.0 libanyelm.com
@@ -25056,6 +25060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 msigpurubzkm.com
 0.0.0.0 msisvvxmnpm.com
 0.0.0.0 msk-realtor.ru
+0.0.0.0 mskjf.com
 0.0.0.0 msltzer.cn
 0.0.0.0 msmaijsxlo.com
 0.0.0.0 msntest.serving-sys.com
@@ -26770,6 +26775,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oagwl3372h.com
 0.0.0.0 oaibzaqh.com
 0.0.0.0 oainternetservices.com
+0.0.0.0 oaitcmlscwe.com
 0.0.0.0 oajujirg.net
 0.0.0.0 oakfordshiro.com
 0.0.0.0 oakrkptc.com
@@ -32936,6 +32942,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.vi-serve.com
 0.0.0.0 s.worldofmacros.net
 0.0.0.0 s.xvideos.com
+0.0.0.0 s.yaozui.com
 0.0.0.0 s.zixuntop.com
 0.0.0.0 s.zmctrack.net
 0.0.0.0 s.zsxpx.com

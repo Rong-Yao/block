@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://easylist-downloads.adblockplus.org/liste_fr.txt
 # Last Converted - 26.02.2020
-# Total Domains - 5521
+# Total Domains - 5522
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1314,6 +1314,7 @@
 0.0.0.0 click-fr.com
 0.0.0.0 click.besprod.com
 0.0.0.0 click2tap.com
+0.0.0.0 clickadilla.com
 0.0.0.0 clickadu.com
 0.0.0.0 clickanalyticssuite.com
 0.0.0.0 clickbank.net

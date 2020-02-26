@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # Last Converted - 26.02.2020
-# Total Domains - 800
+# Total Domains - 799
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -687,7 +687,6 @@
 0.0.0.0 www.layers.ero-advertising.com
 0.0.0.0 www.lecap-services.fr
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
-0.0.0.0 www.mackeeperapp.zeobit.com
 0.0.0.0 www.mata.ero-advertising.com
 0.0.0.0 www.matchmyip.com
 0.0.0.0 www.miami.ero-advertising.com

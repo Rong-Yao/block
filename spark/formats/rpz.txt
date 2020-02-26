@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.057
 ; Release: 057
-; Entries: 61,387
+; Entries: 61,390
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 26 Feb 20 06:10:26
+; Updated: Wed, 26 Feb 20 12:10:08
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -6937,6 +6937,7 @@ afp.admicro.vn CNAME .
 afp.alicdn.com CNAME .
 afp.dotomi.com CNAME .
 afp.iqiyi.com CNAME .
+afqveoju.com CNAME .
 afraidlanguage.com CNAME .
 afrfndbumyyt.com CNAME .
 africanstools.com CNAME .
@@ -10501,6 +10502,7 @@ azoogleads.com CNAME .
 azorbe.com CNAME .
 azrjdlvlsxihbd.com CNAME .
 azsemkr.com CNAME .
+azsikvmhlzuhje.com CNAME .
 aztbeszelik.com CNAME .
 aztracking.net CNAME .
 azure.admixer.net CNAME .
@@ -22123,6 +22125,7 @@ flux16.com CNAME .
 fluxads.com CNAME .
 flvuylhsyg.com CNAME .
 flw.ero-advertising.com CNAME .
+flybhyis.com CNAME .
 flycast.com CNAME .
 flyertown.ca CNAME .
 flygo.ru CNAME .
@@ -36115,6 +36118,7 @@ oagudsey.uk CNAME .
 oagwl3372h.com CNAME .
 oaibzaqh.com CNAME .
 oainternetservices.com CNAME .
+oaitcmlscwe.com CNAME .
 oajujirg.net CNAME .
 oakmanner.ga CNAME .
 oakpyxyea.com CNAME .
@@ -57762,7 +57766,6 @@ www.m8654.mobsweet.com CNAME .
 www.maatch.com CNAME .
 www.maaxmarket.com CNAME .
 www.mac.com-w.net CNAME .
-www.mackeeperapp.zeobit.com CNAME .
 www.madadsmedia.com CNAME .
 www.madcpms.com CNAME .
 www.madvertise.com CNAME .

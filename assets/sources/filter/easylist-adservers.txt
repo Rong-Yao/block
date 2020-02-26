@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 # Last Converted - 26.02.2020
-# Total Domains - 14383
+# Total Domains - 14389
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1411,6 +1411,7 @@
 0.0.0.0 aleaimbuy.site
 0.0.0.0 alealebag.site
 0.0.0.0 aleapeact.club
+0.0.0.0 aleilu.com
 0.0.0.0 alemon.ru
 0.0.0.0 alfynetwork.com
 0.0.0.0 algovid.com
@@ -3751,6 +3752,7 @@
 0.0.0.0 ecto-ecto-uno.com
 0.0.0.0 ectysptouy.com
 0.0.0.0 ecxgfgas.com
+0.0.0.0 ecyexjyti.com
 0.0.0.0 ecyohwpbcxdjl.com
 0.0.0.0 ed9wkbpy.com
 0.0.0.0 edchargina.pro
@@ -7841,6 +7843,7 @@
 0.0.0.0 naxrjxij.com
 0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbbqgaeqnxun.com
+0.0.0.0 nbeejafjpbm.com
 0.0.0.0 nbf9b5aurl.com
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbijjhqnzcwr.com
@@ -8687,6 +8690,7 @@
 0.0.0.0 openxadexchange.com
 0.0.0.0 openxenterprise.com
 0.0.0.0 openxmarket.asia
+0.0.0.0 operaserver.com
 0.0.0.0 operatedelivery.com
 0.0.0.0 opflriars.com
 0.0.0.0 opfrjkmmvqmm.com
@@ -8825,6 +8829,7 @@
 0.0.0.0 ounyrilukncbj.com
 0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
+0.0.0.0 ouqlhdajsaq.com
 0.0.0.0 ourbanners.net
 0.0.0.0 ourgeche.net
 0.0.0.0 oushenoo.net
@@ -13341,6 +13346,7 @@
 0.0.0.0 wvbdtcyhgwy.com
 0.0.0.0 wvesvozyuoxg.com
 0.0.0.0 wvetuwwcojfgw.com
+0.0.0.0 wvhsouzoan.com
 0.0.0.0 wvlveodsvygn.com
 0.0.0.0 wvoahyehtvj.com
 0.0.0.0 wvrmnqgmemkw.com

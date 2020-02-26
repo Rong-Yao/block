@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.057
 # Release: 057
-# Entries: 61,390
+# Entries: 61,396
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 12:10:08
+# Updated: Wed, 26 Feb 20 18:10:23
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/domains.txt
 # --------------------------------------------
 #
@@ -7263,6 +7263,7 @@ aleaimbuy.site
 alealebag.site
 aleapeact.club
 alegroup.info
+aleilu.com
 alemon.ru
 alenty.com
 alert.com.mt
@@ -19923,6 +19924,7 @@ ecto.flurry.com
 ectysptouy.com
 ecure.audienceinsights.net
 ecxgfgas.com
+ecyexjyti.com
 ecyohwpbcxdjl.com
 ed.video-ak.cdn.spotify.com
 ed9wkbpy.com
@@ -34787,6 +34789,7 @@ nbcuniversal.122.2o7.net
 nbcustr.netmng.com
 nbcuvideo.s.moatpixel.com
 nbe-api.optimizely.com
+nbeejafjpbm.com
 nbf9b5aurl.com
 nbfvybpkasjs.com
 nbhubocsduzn.com
@@ -37038,6 +37041,7 @@ opera-server.thinknearhub.com
 opera1-servedby.advertising.com
 opera3-servedby.advertising.com
 operamini-sub.osp.opera.software
+operaserver.com
 operasoftware.com
 operatedelivery.com
 operationkettle.com
@@ -37379,6 +37383,7 @@ ounyrilukncbj.com
 ouplog.umeng.com
 ouptoobe.net
 oupushee.com
+ouqlhdajsaq.com
 our.affiliatetracking.net
 ourbanners.net
 ourgeche.net
@@ -55782,6 +55787,7 @@ wvbdtcyhgwy.com
 wvesvozyuoxg.com
 wvetuwwcojfgw.com
 wvfputwcdbkoip.com
+wvhsouzoan.com
 wvlic.brightcove.com
 wvlveodsvygn.com
 wvoahyehtvj.com

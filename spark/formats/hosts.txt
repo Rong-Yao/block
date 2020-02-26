@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.057
 # Release: 057
-# Entries: 61,390
+# Entries: 61,396
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 12:10:08
+# Updated: Wed, 26 Feb 20 18:10:23
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts.txt
 # --------------------------------------------
 #
@@ -7282,6 +7282,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 alealebag.site
 0.0.0.0 aleapeact.club
 0.0.0.0 alegroup.info
+0.0.0.0 aleilu.com
 0.0.0.0 alemon.ru
 0.0.0.0 alenty.com
 0.0.0.0 alert.com.mt
@@ -19942,6 +19943,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ectysptouy.com
 0.0.0.0 ecure.audienceinsights.net
 0.0.0.0 ecxgfgas.com
+0.0.0.0 ecyexjyti.com
 0.0.0.0 ecyohwpbcxdjl.com
 0.0.0.0 ed.video-ak.cdn.spotify.com
 0.0.0.0 ed9wkbpy.com
@@ -34806,6 +34808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbcustr.netmng.com
 0.0.0.0 nbcuvideo.s.moatpixel.com
 0.0.0.0 nbe-api.optimizely.com
+0.0.0.0 nbeejafjpbm.com
 0.0.0.0 nbf9b5aurl.com
 0.0.0.0 nbfvybpkasjs.com
 0.0.0.0 nbhubocsduzn.com
@@ -37057,6 +37060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 opera1-servedby.advertising.com
 0.0.0.0 opera3-servedby.advertising.com
 0.0.0.0 operamini-sub.osp.opera.software
+0.0.0.0 operaserver.com
 0.0.0.0 operasoftware.com
 0.0.0.0 operatedelivery.com
 0.0.0.0 operationkettle.com
@@ -37398,6 +37402,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ouplog.umeng.com
 0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
+0.0.0.0 ouqlhdajsaq.com
 0.0.0.0 our.affiliatetracking.net
 0.0.0.0 ourbanners.net
 0.0.0.0 ourgeche.net
@@ -55801,6 +55806,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wvesvozyuoxg.com
 0.0.0.0 wvetuwwcojfgw.com
 0.0.0.0 wvfputwcdbkoip.com
+0.0.0.0 wvhsouzoan.com
 0.0.0.0 wvlic.brightcove.com
 0.0.0.0 wvlveodsvygn.com
 0.0.0.0 wvoahyehtvj.com

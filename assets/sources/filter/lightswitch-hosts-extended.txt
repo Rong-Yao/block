@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt
 # Last Converted - 26.02.2020
-# Total Domains - 95375
+# Total Domains - 95374
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -51222,7 +51222,6 @@
 0.0.0.0 live.spotxchange.com
 0.0.0.0 live.test.resonate.com
 0.0.0.0 live.viewsignage.com
-0.0.0.0 liveapi.yext.com
 0.0.0.0 livecandela.rtrk.com
 0.0.0.0 livecareer.7eer.net
 0.0.0.0 livecareer.sp1.convertro.com

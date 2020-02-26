@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.057
 # Release: 057
-# Entries: 63,747
+# Entries: 63,757
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 12:13:53
+# Updated: Wed, 26 Feb 20 18:14:55
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/hosts.txt
 # --------------------------------------------
 #
@@ -102,6 +102,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 01n2e3pac2.com
 0.0.0.0 01w47q.cn
 0.0.0.0 02123s.com
+0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 02194a2ede.com
 0.0.0.0 022aifang.com
 0.0.0.0 0234408.cn
@@ -2104,6 +2105,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9vds.ru
 0.0.0.0 9w1an.com
 0.0.0.0 9w39.com
+0.0.0.0 9wlm.com
 0.0.0.0 9wotuan.com
 0.0.0.0 9ws3wutazo.com
 0.0.0.0 9wushuo.com
@@ -5133,6 +5135,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aleapeapt.club
 0.0.0.0 aleba.ru
 0.0.0.0 alef.ir
+0.0.0.0 aleilu.com
 0.0.0.0 aleja.lt
 0.0.0.0 alemobile.ru
 0.0.0.0 alemon.ru
@@ -13431,6 +13434,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ecuc123.net
 0.0.0.0 ecuwa.cn
 0.0.0.0 ecxgfgas.com
+0.0.0.0 ecyexjyti.com
 0.0.0.0 ecyohwpbcxdjl.com
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 ed9wkbpy.com
@@ -21349,6 +21353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 klmsjdf.ml
 0.0.0.0 klnzalfz.com
 0.0.0.0 klonedaset.org
+0.0.0.0 klorn.cn
 0.0.0.0 klqnukgo.com
 0.0.0.0 klqwhndhm.com
 0.0.0.0 klsadm.com
@@ -25635,6 +25640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbdkorea.com
 0.0.0.0 nbdvbpzgwkfgq.com
 0.0.0.0 nbeatrk.com
+0.0.0.0 nbeejafjpbm.com
 0.0.0.0 nbf9b5aurl.com
 0.0.0.0 nbhotpo.com
 0.0.0.0 nbhubocsduzn.com
@@ -27576,6 +27582,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 openxmarket.asia
 0.0.0.0 openxt.cn
 0.0.0.0 operadistrib.ru
+0.0.0.0 operaserver.com
 0.0.0.0 operatedelivery.com
 0.0.0.0 operation-sexe.com
 0.0.0.0 opershop.ru
@@ -27835,6 +27842,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oupox.club
 0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
+0.0.0.0 ouqlhdajsaq.com
 0.0.0.0 ouradse.com
 0.0.0.0 ourbanners.net
 0.0.0.0 ourgeche.net
@@ -41034,6 +41042,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wvfputwcdbkoip.com
 0.0.0.0 wvghl.com
 0.0.0.0 wvhba6470p.com
+0.0.0.0 wvhsouzoan.com
 0.0.0.0 wvjbsdjplo.com
 0.0.0.0 wvlveodsvygn.com
 0.0.0.0 wvoahyehtvj.com
@@ -62059,6 +62068,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yangzhenpeng.top
 0.0.0.0 yanjunbo.com
 0.0.0.0 yanskweqyuma.com
+0.0.0.0 yantairuide.com
 0.0.0.0 yanudy.com
 0.0.0.0 yaohq.com
 0.0.0.0 yaoxiaoli.com

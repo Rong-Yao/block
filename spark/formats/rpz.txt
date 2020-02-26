@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.057
 ; Release: 057
-; Entries: 61,390
+; Entries: 61,396
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 26 Feb 20 12:10:08
+; Updated: Wed, 26 Feb 20 18:10:23
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7271,6 +7271,7 @@ aleaimbuy.site CNAME .
 alealebag.site CNAME .
 aleapeact.club CNAME .
 alegroup.info CNAME .
+aleilu.com CNAME .
 alemon.ru CNAME .
 alenty.com CNAME .
 alert.com.mt CNAME .
@@ -19931,6 +19932,7 @@ ecto.flurry.com CNAME .
 ectysptouy.com CNAME .
 ecure.audienceinsights.net CNAME .
 ecxgfgas.com CNAME .
+ecyexjyti.com CNAME .
 ecyohwpbcxdjl.com CNAME .
 ed.video-ak.cdn.spotify.com CNAME .
 ed9wkbpy.com CNAME .
@@ -34795,6 +34797,7 @@ nbcuniversal.122.2o7.net CNAME .
 nbcustr.netmng.com CNAME .
 nbcuvideo.s.moatpixel.com CNAME .
 nbe-api.optimizely.com CNAME .
+nbeejafjpbm.com CNAME .
 nbf9b5aurl.com CNAME .
 nbfvybpkasjs.com CNAME .
 nbhubocsduzn.com CNAME .
@@ -37046,6 +37049,7 @@ opera-server.thinknearhub.com CNAME .
 opera1-servedby.advertising.com CNAME .
 opera3-servedby.advertising.com CNAME .
 operamini-sub.osp.opera.software CNAME .
+operaserver.com CNAME .
 operasoftware.com CNAME .
 operatedelivery.com CNAME .
 operationkettle.com CNAME .
@@ -37387,6 +37391,7 @@ ounyrilukncbj.com CNAME .
 ouplog.umeng.com CNAME .
 ouptoobe.net CNAME .
 oupushee.com CNAME .
+ouqlhdajsaq.com CNAME .
 our.affiliatetracking.net CNAME .
 ourbanners.net CNAME .
 ourgeche.net CNAME .
@@ -55790,6 +55795,7 @@ wvbdtcyhgwy.com CNAME .
 wvesvozyuoxg.com CNAME .
 wvetuwwcojfgw.com CNAME .
 wvfputwcdbkoip.com CNAME .
+wvhsouzoan.com CNAME .
 wvlic.brightcove.com CNAME .
 wvlveodsvygn.com CNAME .
 wvoahyehtvj.com CNAME .

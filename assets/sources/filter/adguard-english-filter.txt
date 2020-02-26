@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://filters.adtidy.org/extension/chromium/filters/2.txt
 # Last Converted - 26.02.2020
-# Total Domains - 18643
+# Total Domains - 18651
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1878,6 +1878,7 @@
 0.0.0.0 alealebag.site
 0.0.0.0 aleapeact.club
 0.0.0.0 aleapeapt.club
+0.0.0.0 aleilu.com
 0.0.0.0 alemon.ru
 0.0.0.0 alephd.com
 0.0.0.0 alexrid.com
@@ -2212,6 +2213,7 @@
 0.0.0.0 aspanyarc.club
 0.0.0.0 asparmany.site
 0.0.0.0 aspartbus.site
+0.0.0.0 aspaskaim.club
 0.0.0.0 asperencium.com
 0.0.0.0 aspignitean.com
 0.0.0.0 aspxbwteth.com
@@ -5288,6 +5290,7 @@
 0.0.0.0 ecto-ecto-uno.com
 0.0.0.0 ectysptouy.com
 0.0.0.0 ecxgfgas.com
+0.0.0.0 ecyexjyti.com
 0.0.0.0 ecyohwpbcxdjl.com
 0.0.0.0 ed9wkbpy.com
 0.0.0.0 edchargina.pro
@@ -6094,6 +6097,7 @@
 0.0.0.0 fnytdllpzdv.com
 0.0.0.0 foagoasu.net
 0.0.0.0 foaks.com
+0.0.0.0 foastail.net
 0.0.0.0 foavistu.net
 0.0.0.0 foazasis.com
 0.0.0.0 focalex.com
@@ -10450,6 +10454,7 @@
 0.0.0.0 nb42mac.com
 0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbbqgaeqnxun.com
+0.0.0.0 nbeejafjpbm.com
 0.0.0.0 nbf9b5aurl.com
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbijjhqnzcwr.com
@@ -11446,6 +11451,7 @@
 0.0.0.0 openxadexchange.com
 0.0.0.0 openxenterprise.com
 0.0.0.0 openxmarket.asia
+0.0.0.0 operaserver.com
 0.0.0.0 operatedelivery.com
 0.0.0.0 opetation.pro
 0.0.0.0 opflriars.com
@@ -11604,6 +11610,7 @@
 0.0.0.0 ounyrilukncbj.com
 0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
+0.0.0.0 ouqlhdajsaq.com
 0.0.0.0 ourbanners.net
 0.0.0.0 ourgeche.net
 0.0.0.0 oushenoo.net
@@ -17416,6 +17423,7 @@
 0.0.0.0 wvbdtcyhgwy.com
 0.0.0.0 wvesvozyuoxg.com
 0.0.0.0 wvetuwwcojfgw.com
+0.0.0.0 wvhsouzoan.com
 0.0.0.0 wvlveodsvygn.com
 0.0.0.0 wvoahyehtvj.com
 0.0.0.0 wvrmnqgmemkw.com

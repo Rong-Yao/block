@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.057
 # Release: 057
-# Entries: 63,747
+# Entries: 63,757
 # Pack Code: EXR3G1094L-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 12:13:53
+# Updated: Wed, 26 Feb 20 18:14:55
 # RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/domains.txt
 # --------------------------------------------
 #
@@ -83,6 +83,7 @@
 01n2e3pac2.com
 01w47q.cn
 02123s.com
+0217qpineuxbcdhopswkvf.xyz
 02194a2ede.com
 022aifang.com
 0234408.cn
@@ -2085,6 +2086,7 @@
 9vds.ru
 9w1an.com
 9w39.com
+9wlm.com
 9wotuan.com
 9ws3wutazo.com
 9wushuo.com
@@ -5114,6 +5116,7 @@ aleapeact.club
 aleapeapt.club
 aleba.ru
 alef.ir
+aleilu.com
 aleja.lt
 alemobile.ru
 alemon.ru
@@ -13412,6 +13415,7 @@ ectysptouy.com
 ecuc123.net
 ecuwa.cn
 ecxgfgas.com
+ecyexjyti.com
 ecyohwpbcxdjl.com
 ed98512111bb19e5.in.net
 ed9wkbpy.com
@@ -21330,6 +21334,7 @@ klljshial.com
 klmsjdf.ml
 klnzalfz.com
 klonedaset.org
+klorn.cn
 klqnukgo.com
 klqwhndhm.com
 klsadm.com
@@ -25616,6 +25621,7 @@ nbbqgaeqnxun.com
 nbdkorea.com
 nbdvbpzgwkfgq.com
 nbeatrk.com
+nbeejafjpbm.com
 nbf9b5aurl.com
 nbhotpo.com
 nbhubocsduzn.com
@@ -27557,6 +27563,7 @@ openxenterprise.com
 openxmarket.asia
 openxt.cn
 operadistrib.ru
+operaserver.com
 operatedelivery.com
 operation-sexe.com
 opershop.ru
@@ -27816,6 +27823,7 @@ oupe71eiun.com
 oupox.club
 ouptoobe.net
 oupushee.com
+ouqlhdajsaq.com
 ouradse.com
 ourbanners.net
 ourgeche.net
@@ -41015,6 +41023,7 @@ wvetuwwcojfgw.com
 wvfputwcdbkoip.com
 wvghl.com
 wvhba6470p.com
+wvhsouzoan.com
 wvjbsdjplo.com
 wvlveodsvygn.com
 wvoahyehtvj.com
@@ -62040,6 +62049,7 @@ yanglaopt.net
 yangzhenpeng.top
 yanjunbo.com
 yanskweqyuma.com
+yantairuide.com
 yanudy.com
 yaohq.com
 yaoxiaoli.com

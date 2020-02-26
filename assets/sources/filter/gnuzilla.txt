@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 26.02.2020
-# Total Domains - 22734
+# Total Domains - 22748
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1812,6 +1812,7 @@
 0.0.0.0 aflrm.com
 0.0.0.0 afminer.com
 0.0.0.0 afnrmofoljod.com
+0.0.0.0 afqveoju.com
 0.0.0.0 afraidlanguage.com
 0.0.0.0 afrfndbumyyt.com
 0.0.0.0 africawin.com
@@ -1852,6 +1853,7 @@
 0.0.0.0 agrammemarg.info
 0.0.0.0 agreeableprice.com
 0.0.0.0 agreeabletouch.com
+0.0.0.0 agreenikeru.site
 0.0.0.0 agreensdistra.info
 0.0.0.0 agrxsdujnh.com
 0.0.0.0 agvinhvex.com
@@ -1976,6 +1978,7 @@
 0.0.0.0 aleaimbuy.site
 0.0.0.0 alealebag.site
 0.0.0.0 aleapeact.club
+0.0.0.0 aleilu.com
 0.0.0.0 alemon.ru
 0.0.0.0 alenty.com
 0.0.0.0 alexacdn.com
@@ -2777,6 +2780,7 @@
 0.0.0.0 azoogleads.com
 0.0.0.0 azorbe.com
 0.0.0.0 azrjdlvlsxihbd.com
+0.0.0.0 azsikvmhlzuhje.com
 0.0.0.0 aztecash.com
 0.0.0.0 azvjudwr.info
 0.0.0.0 azwsolqpewo.com
@@ -6417,6 +6421,7 @@
 0.0.0.0 ectysptouy.com
 0.0.0.0 ecustomeropinions.com
 0.0.0.0 ecxgfgas.com
+0.0.0.0 ecyexjyti.com
 0.0.0.0 ecyohwpbcxdjl.com
 0.0.0.0 ed9wkbpy.com
 0.0.0.0 edchargina.pro
@@ -6816,6 +6821,7 @@
 0.0.0.0 ettournalurgerap.info
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etuihxnhuxrofl.com
+0.0.0.0 etvgjkyo.com
 0.0.0.0 etxbcbdhf.com
 0.0.0.0 etyper.com
 0.0.0.0 etyxitxlvqp.com
@@ -7414,6 +7420,7 @@
 0.0.0.0 flvuylhsyg.com
 0.0.0.0 flx1.com
 0.0.0.0 flxpxl.com
+0.0.0.0 flybhyis.com
 0.0.0.0 flyingpt.com
 0.0.0.0 fmcktrmnlyfjr.com
 0.0.0.0 fmecsdelxmeks.com
@@ -12642,6 +12649,7 @@
 0.0.0.0 naytev.com
 0.0.0.0 nbasicalbuffere.info
 0.0.0.0 nbbqgaeqnxun.com
+0.0.0.0 nbeejafjpbm.com
 0.0.0.0 nbf9b5aurl.com
 0.0.0.0 nbhubocsduzn.com
 0.0.0.0 nbijjhqnzcwr.com
@@ -13226,6 +13234,7 @@
 0.0.0.0 oageeedhvyyojj.com
 0.0.0.0 oaibzaqh.com
 0.0.0.0 oainternetservices.com
+0.0.0.0 oaitcmlscwe.com
 0.0.0.0 oajujirg.net
 0.0.0.0 oakrkptc.com
 0.0.0.0 oal2.destinia.co.uk
@@ -13732,6 +13741,7 @@
 0.0.0.0 openxadexchange.com
 0.0.0.0 openxenterprise.com
 0.0.0.0 openxmarket.asia
+0.0.0.0 operaserver.com
 0.0.0.0 operatedelivery.com
 0.0.0.0 opflriars.com
 0.0.0.0 opfrjkmmvqmm.com
@@ -13904,6 +13914,7 @@
 0.0.0.0 ounyrilukncbj.com
 0.0.0.0 ouptoobe.net
 0.0.0.0 oupushee.com
+0.0.0.0 ouqlhdajsaq.com
 0.0.0.0 ourbanners.net
 0.0.0.0 ourgeche.net
 0.0.0.0 ournet-analytics.com
@@ -13955,6 +13966,7 @@
 0.0.0.0 owdligzikqqh.bid
 0.0.0.0 owdojmypl.com
 0.0.0.0 owejzckyioic.com
+0.0.0.0 oweverycanvas.info
 0.0.0.0 owjoflavzaerby.com
 0.0.0.0 owkbqoby.com
 0.0.0.0 owlads.io
@@ -15653,6 +15665,7 @@
 0.0.0.0 qgdqujzzs.com
 0.0.0.0 qgeglsnoxk.com
 0.0.0.0 qgevavwyafjf.com
+0.0.0.0 qggcjrrjvlif.com
 0.0.0.0 qgggccolqyi.bid
 0.0.0.0 qghirkrh.bid
 0.0.0.0 qghsnamd.bid
@@ -21496,6 +21509,7 @@
 0.0.0.0 wvbdtcyhgwy.com
 0.0.0.0 wvesvozyuoxg.com
 0.0.0.0 wvetuwwcojfgw.com
+0.0.0.0 wvhsouzoan.com
 0.0.0.0 wvlveodsvygn.com
 0.0.0.0 wvoahyehtvj.com
 0.0.0.0 wvrmnqgmemkw.com

@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.057
 # Release: 057
-# Entries: 61,390
+# Entries: 61,396
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 12:10:08
+# Updated: Wed, 26 Feb 20 18:10:23
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -7282,6 +7282,7 @@ ff02::3 ip6-allhosts
 :: alealebag.site
 :: aleapeact.club
 :: alegroup.info
+:: aleilu.com
 :: alemon.ru
 :: alenty.com
 :: alert.com.mt
@@ -19942,6 +19943,7 @@ ff02::3 ip6-allhosts
 :: ectysptouy.com
 :: ecure.audienceinsights.net
 :: ecxgfgas.com
+:: ecyexjyti.com
 :: ecyohwpbcxdjl.com
 :: ed.video-ak.cdn.spotify.com
 :: ed9wkbpy.com
@@ -34806,6 +34808,7 @@ ff02::3 ip6-allhosts
 :: nbcustr.netmng.com
 :: nbcuvideo.s.moatpixel.com
 :: nbe-api.optimizely.com
+:: nbeejafjpbm.com
 :: nbf9b5aurl.com
 :: nbfvybpkasjs.com
 :: nbhubocsduzn.com
@@ -37057,6 +37060,7 @@ ff02::3 ip6-allhosts
 :: opera1-servedby.advertising.com
 :: opera3-servedby.advertising.com
 :: operamini-sub.osp.opera.software
+:: operaserver.com
 :: operasoftware.com
 :: operatedelivery.com
 :: operationkettle.com
@@ -37398,6 +37402,7 @@ ff02::3 ip6-allhosts
 :: ouplog.umeng.com
 :: ouptoobe.net
 :: oupushee.com
+:: ouqlhdajsaq.com
 :: our.affiliatetracking.net
 :: ourbanners.net
 :: ourgeche.net
@@ -55801,6 +55806,7 @@ ff02::3 ip6-allhosts
 :: wvesvozyuoxg.com
 :: wvetuwwcojfgw.com
 :: wvfputwcdbkoip.com
+:: wvhsouzoan.com
 :: wvlic.brightcove.com
 :: wvlveodsvygn.com
 :: wvoahyehtvj.com

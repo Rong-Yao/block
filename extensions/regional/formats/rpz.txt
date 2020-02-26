@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.057
 ; Release: 057
-; Entries: 63,747
+; Entries: 63,757
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 26 Feb 20 12:13:53
+; Updated: Wed, 26 Feb 20 18:14:55
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -91,6 +91,7 @@ $TTL 2h
 01n2e3pac2.com CNAME .
 01w47q.cn CNAME .
 02123s.com CNAME .
+0217qpineuxbcdhopswkvf.xyz CNAME .
 02194a2ede.com CNAME .
 022aifang.com CNAME .
 0234408.cn CNAME .
@@ -2093,6 +2094,7 @@ $TTL 2h
 9vds.ru CNAME .
 9w1an.com CNAME .
 9w39.com CNAME .
+9wlm.com CNAME .
 9wotuan.com CNAME .
 9ws3wutazo.com CNAME .
 9wushuo.com CNAME .
@@ -5122,6 +5124,7 @@ aleapeact.club CNAME .
 aleapeapt.club CNAME .
 aleba.ru CNAME .
 alef.ir CNAME .
+aleilu.com CNAME .
 aleja.lt CNAME .
 alemobile.ru CNAME .
 alemon.ru CNAME .
@@ -13420,6 +13423,7 @@ ectysptouy.com CNAME .
 ecuc123.net CNAME .
 ecuwa.cn CNAME .
 ecxgfgas.com CNAME .
+ecyexjyti.com CNAME .
 ecyohwpbcxdjl.com CNAME .
 ed98512111bb19e5.in.net CNAME .
 ed9wkbpy.com CNAME .
@@ -21338,6 +21342,7 @@ klljshial.com CNAME .
 klmsjdf.ml CNAME .
 klnzalfz.com CNAME .
 klonedaset.org CNAME .
+klorn.cn CNAME .
 klqnukgo.com CNAME .
 klqwhndhm.com CNAME .
 klsadm.com CNAME .
@@ -25624,6 +25629,7 @@ nbbqgaeqnxun.com CNAME .
 nbdkorea.com CNAME .
 nbdvbpzgwkfgq.com CNAME .
 nbeatrk.com CNAME .
+nbeejafjpbm.com CNAME .
 nbf9b5aurl.com CNAME .
 nbhotpo.com CNAME .
 nbhubocsduzn.com CNAME .
@@ -27565,6 +27571,7 @@ openxenterprise.com CNAME .
 openxmarket.asia CNAME .
 openxt.cn CNAME .
 operadistrib.ru CNAME .
+operaserver.com CNAME .
 operatedelivery.com CNAME .
 operation-sexe.com CNAME .
 opershop.ru CNAME .
@@ -27824,6 +27831,7 @@ oupe71eiun.com CNAME .
 oupox.club CNAME .
 ouptoobe.net CNAME .
 oupushee.com CNAME .
+ouqlhdajsaq.com CNAME .
 ouradse.com CNAME .
 ourbanners.net CNAME .
 ourgeche.net CNAME .
@@ -41023,6 +41031,7 @@ wvetuwwcojfgw.com CNAME .
 wvfputwcdbkoip.com CNAME .
 wvghl.com CNAME .
 wvhba6470p.com CNAME .
+wvhsouzoan.com CNAME .
 wvjbsdjplo.com CNAME .
 wvlveodsvygn.com CNAME .
 wvoahyehtvj.com CNAME .
@@ -62048,6 +62057,7 @@ yanglaopt.net CNAME .
 yangzhenpeng.top CNAME .
 yanjunbo.com CNAME .
 yanskweqyuma.com CNAME .
+yantairuide.com CNAME .
 yanudy.com CNAME .
 yaohq.com CNAME .
 yaoxiaoli.com CNAME .

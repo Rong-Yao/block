@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.057
 ; Release: 057
-; Entries: 61,383
+; Entries: 61,387
 ; Pack Code: E5P4RK-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 26 Feb 20 00:10:54
+; Updated: Wed, 26 Feb 20 06:10:26
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -7005,6 +7005,7 @@ agrammemarg.info CNAME .
 agreeableprice.com CNAME .
 agreeablestew.com CNAME .
 agreemand.com CNAME .
+agreenikeru.site CNAME .
 agreensdistra.info CNAME .
 agroeconom.kz CNAME .
 agrogenera.es CNAME .
@@ -20822,6 +20823,7 @@ ets-eu-west-1.track.smaato.net CNAME .
 ettournalurgerap.info CNAME .
 etuihxnhuxrofl.com CNAME .
 eturkcell.netmera.com CNAME .
+etvgjkyo.com CNAME .
 etxbcbdhf.com CNAME .
 etyxitxlvqp.com CNAME .
 etzyzocznjd.com CNAME .
@@ -28587,6 +28589,7 @@ jmsyap.112.2o7.net CNAME .
 jmtitdorwfxe.com CNAME .
 jmvjmgofvxnu.com CNAME .
 jmxecxpqq.com CNAME .
+jmxjqlagfwz.com CNAME .
 jmxjwyqnelvzwu.com CNAME .
 jmxphjxsxd.com CNAME .
 jn.redirectme.net CNAME .
@@ -34435,7 +34438,6 @@ myfreebitcoin.com CNAME .
 myfreemp3player.com CNAME .
 myfukbuddy.com CNAME .
 myfuncards.com CNAME .
-mygiftresource.com CNAME .
 mygoodlives.com CNAME .
 mygreatrewards.com CNAME .
 myimg.bid CNAME .
@@ -37476,6 +37478,7 @@ owdligzikqqh.bid CNAME .
 owdojmypl.com CNAME .
 owebmoney.ru CNAME .
 owejzckyioic.com CNAME .
+oweverycanvas.info CNAME .
 owiink.com CNAME .
 owjoflavzaerby.com CNAME .
 owkbqoby.com CNAME .
@@ -41394,6 +41397,7 @@ qgcliwoxgdptz.com CNAME .
 qgdqujzzs.com CNAME .
 qgeglsnoxk.com CNAME .
 qgevavwyafjf.com CNAME .
+qggcjrrjvlif.com CNAME .
 qgggccolqyi.bid CNAME .
 qghirkrh.bid CNAME .
 qghsnamd.bid CNAME .
@@ -45735,7 +45739,6 @@ sinder9.com CNAME .
 sindirect.adsrvr.org CNAME .
 sinefight-skinesia.com CNAME .
 sinera.org CNAME .
-sinettrk.com CNAME .
 sinfb.adsrvr.org CNAME .
 single.upsight-api.com CNAME .
 singlesday.site CNAME .
@@ -48711,6 +48714,7 @@ tangozebra.com CNAME .
 tanieaukcje.com CNAME .
 taniezakupy.pl CNAME .
 tanio-najtaniej.com CNAME .
+tankeuro.com CNAME .
 tannelssepara.info CNAME .
 tantametinwass.pro CNAME .
 tantella.com CNAME .
@@ -52429,6 +52433,7 @@ ucoin.uc.cn CNAME .
 uconnect.tealiumiq.com CNAME .
 ucounter.ucoz.net CNAME .
 ucozssymgw.com CNAME .
+ucretius-ada.com CNAME .
 ucrsowje.com CNAME .
 ucrypto.net CNAME .
 ucs01.engageya.com CNAME .
@@ -53140,7 +53145,6 @@ usdk.batmobi.net CNAME .
 usdlgonjnzpu.com CNAME .
 usdm.122.2o7.net CNAME .
 usdpdown.game.uodoo.com CNAME .
-use-application-dns.net CNAME .
 use-data.adsrvr.org CNAME .
 use-sync.adhese.com CNAME .
 use-sync.adhese.com				 CNAME .

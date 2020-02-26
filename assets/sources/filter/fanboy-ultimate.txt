@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://fanboy.co.nz/r/fanboy-ultimate.txt
 # Last Converted - 26.02.2020
-# Total Domains - 23360
+# Total Domains - 23368
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -1864,6 +1864,7 @@
 0.0.0.0 agrammemarg.info
 0.0.0.0 agreeableprice.com
 0.0.0.0 agreeabletouch.com
+0.0.0.0 agreenikeru.site
 0.0.0.0 agreensdistra.info
 0.0.0.0 agrxsdujnh.com
 0.0.0.0 agvinhvex.com
@@ -6984,6 +6985,7 @@
 0.0.0.0 ettournalurgerap.info
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etuihxnhuxrofl.com
+0.0.0.0 etvgjkyo.com
 0.0.0.0 etxbcbdhf.com
 0.0.0.0 etyper.com
 0.0.0.0 etyxitxlvqp.com
@@ -10367,6 +10369,7 @@
 0.0.0.0 jmp9.com
 0.0.0.0 jmtitdorwfxe.com
 0.0.0.0 jmxecxpqq.com
+0.0.0.0 jmxjqlagfwz.com
 0.0.0.0 jmxphjxsxd.com
 0.0.0.0 jndnkgjqlxr.com
 0.0.0.0 jngxxwythaf.com
@@ -14291,6 +14294,7 @@
 0.0.0.0 owdligzikqqh.bid
 0.0.0.0 owdojmypl.com
 0.0.0.0 owejzckyioic.com
+0.0.0.0 oweverycanvas.info
 0.0.0.0 owjoflavzaerby.com
 0.0.0.0 owkbqoby.com
 0.0.0.0 owlads.io
@@ -16085,6 +16089,7 @@
 0.0.0.0 qgdqujzzs.com
 0.0.0.0 qgeglsnoxk.com
 0.0.0.0 qgevavwyafjf.com
+0.0.0.0 qggcjrrjvlif.com
 0.0.0.0 qgggccolqyi.bid
 0.0.0.0 qghirkrh.bid
 0.0.0.0 qghsnamd.bid
@@ -17202,6 +17207,7 @@
 0.0.0.0 rsafind.co.za
 0.0.0.0 rsalcch.com
 0.0.0.0 rsalcdp.com
+0.0.0.0 rsalchk.com
 0.0.0.0 rsasearch.co.za
 0.0.0.0 rsbblrpnjxgsk.com
 0.0.0.0 rsbvygxdsevaw.com
@@ -19185,6 +19191,7 @@
 0.0.0.0 tamgrt.com
 0.0.0.0 tamrczjeedauh.com
 0.0.0.0 tangozebra.com
+0.0.0.0 tankeuro.com
 0.0.0.0 tannelssepara.info
 0.0.0.0 tantella.com
 0.0.0.0 tantoporno.com
@@ -20520,6 +20527,7 @@
 0.0.0.0 uclylhzwg.com
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 ucozssymgw.com
+0.0.0.0 ucretius-ada.com
 0.0.0.0 ucrsowje.com
 0.0.0.0 ucvrtwfh.com
 0.0.0.0 ucxgfoqrbk.com

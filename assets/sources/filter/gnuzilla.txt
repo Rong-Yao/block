@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://gnuzilla.gnu.org/filters/blacklist.txt
 # Last Converted - 26.02.2020
-# Total Domains - 22725
+# Total Domains - 22734
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -4055,6 +4055,7 @@
 0.0.0.0 centraltag.com
 0.0.0.0 centwrite.com
 0.0.0.0 ceoillwdcc.com
+0.0.0.0 ceparateauab.info
 0.0.0.0 ceprovidingsesse.info
 0.0.0.0 ceraitoa.com
 0.0.0.0 cerotop.com
@@ -5624,6 +5625,7 @@
 0.0.0.0 denakop.com
 0.0.0.0 denis-pj0823031-491201b.com
 0.0.0.0 denixsips.com
+0.0.0.0 denotatorum.site
 0.0.0.0 denza.pro
 0.0.0.0 dep-x.com
 0.0.0.0 deparisesamer.info
@@ -7242,6 +7244,7 @@
 0.0.0.0 fevgukzwvjam.com
 0.0.0.0 fevrbniqa.com
 0.0.0.0 fewmphbwt.com
+0.0.0.0 feyfjlpeexvg.com
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 ff52e77ba517.com
 0.0.0.0 ff5bd8d9f8df.com
@@ -7345,6 +7348,7 @@
 0.0.0.0 fkcfaagktu.com
 0.0.0.0 fkfmujcudpwdn.com
 0.0.0.0 fkfpkhijf.com
+0.0.0.0 fkgbxlgcnzf.com
 0.0.0.0 fkloazpi.com
 0.0.0.0 fkqafflyjz.com
 0.0.0.0 fkrgfktdvta.com
@@ -10116,6 +10120,7 @@
 0.0.0.0 jmp9.com
 0.0.0.0 jmtitdorwfxe.com
 0.0.0.0 jmxecxpqq.com
+0.0.0.0 jmxjqlagfwz.com
 0.0.0.0 jmxphjxsxd.com
 0.0.0.0 jndnkgjqlxr.com
 0.0.0.0 jngxxwythaf.com
@@ -13752,6 +13757,7 @@
 0.0.0.0 opt-intelligence.com
 0.0.0.0 optad360.io
 0.0.0.0 opteama.com
+0.0.0.0 optiads.org
 0.0.0.0 optify.net
 0.0.0.0 optimahub.com
 0.0.0.0 optimatic.com
@@ -16739,6 +16745,7 @@
 0.0.0.0 rsafind.co.za
 0.0.0.0 rsalcch.com
 0.0.0.0 rsalcdp.com
+0.0.0.0 rsalchk.com
 0.0.0.0 rsasearch.co.za
 0.0.0.0 rsbblrpnjxgsk.com
 0.0.0.0 rsbvygxdsevaw.com
@@ -18638,6 +18645,7 @@
 0.0.0.0 tamgrt.com
 0.0.0.0 tamrczjeedauh.com
 0.0.0.0 tangozebra.com
+0.0.0.0 tankeuro.com
 0.0.0.0 tannelssepara.info
 0.0.0.0 tantella.com
 0.0.0.0 tantoporno.com
@@ -19941,6 +19949,7 @@
 0.0.0.0 uclylhzwg.com
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 ucozssymgw.com
+0.0.0.0 ucretius-ada.com
 0.0.0.0 ucrsowje.com
 0.0.0.0 ucvrtwfh.com
 0.0.0.0 ucxgfoqrbk.com

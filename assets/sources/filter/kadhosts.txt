@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/azet12/KADhosts/master/KADhosts.txt
 # Last Converted - 26.02.2020
-# Total Domains - 5921
+# Total Domains - 5917
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -2135,7 +2135,6 @@
 0.0.0.0 planetazdrowia.com
 0.0.0.0 plastiquedesign.pl
 0.0.0.0 platinumprestige.pl
-0.0.0.0 platnosc.paczka-48.com
 0.0.0.0 play-tube.pl
 0.0.0.0 play.appiq.mobi
 0.0.0.0 play.leadzu.com
@@ -4781,7 +4780,6 @@
 0.0.0.0 www.owio.pl
 0.0.0.0 www.ozebox.pl
 0.0.0.0 www.pacyfka99.pl
-0.0.0.0 www.paczka-48.com
 0.0.0.0 www.paifi.net
 0.0.0.0 www.pajos4.com
 0.0.0.0 www.pakukgroup.com
@@ -4856,7 +4854,6 @@
 0.0.0.0 www.plainsviewfarm.com
 0.0.0.0 www.planet-tachyon.com
 0.0.0.0 www.planetazdrowia.com
-0.0.0.0 www.platnosc.paczka-48.com
 0.0.0.0 www.play-tube.pl
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.playasrivieramaya.com
@@ -4875,7 +4872,6 @@
 0.0.0.0 www.plikson.pl
 0.0.0.0 www.pljestnaj.pl
 0.0.0.0 www.ploskonax.com
-0.0.0.0 www.plpocztex.org
 0.0.0.0 www.plustokenofficial.com
 0.0.0.0 www.plwash.pl
 0.0.0.0 www.pmanager.pl

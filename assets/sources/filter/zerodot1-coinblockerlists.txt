@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 # Last Converted - 26.02.2020
-# Total Domains - 16074
+# Total Domains - 16066
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -67,7 +67,6 @@
 0.0.0.0 11.minercircle.com
 0.0.0.0 11582.btcc.com
 0.0.0.0 11a19.btcc.com
-0.0.0.0 11cec.btcc.com
 0.0.0.0 11g8i3147k2123.btcc.com
 0.0.0.0 12.minercircle.com
 0.0.0.0 120bit.com
@@ -166,7 +165,6 @@
 0.0.0.0 20local.bitcoin.com
 0.0.0.0 210-167.btcc.com
 0.0.0.0 210-195.btcc.com
-0.0.0.0 211-149.btcc.com
 0.0.0.0 212-208.btcc.com
 0.0.0.0 212.227.15.154.cryptopool.eu
 0.0.0.0 212.227.15.154.hpool.com
@@ -3518,7 +3516,6 @@
 0.0.0.0 estream.nu
 0.0.0.0 et-code.ru
 0.0.0.0 et-z.btcc.com
-0.0.0.0 et.btcc.com
 0.0.0.0 et.nanopool.org
 0.0.0.0 et1.nanopool.org
 0.0.0.0 et2.btcc.com
@@ -3650,7 +3647,6 @@
 0.0.0.0 eth-eu3.nanopool.org
 0.0.0.0 eth-eu4.nanopool.org
 0.0.0.0 eth-f1108a6079a5ffeb.dwarfpool.com
-0.0.0.0 eth-f3c897eb710faa7d.dwarfpool.com
 0.0.0.0 eth-fb593c3cf9505a35.dwarfpool.com
 0.0.0.0 eth-ff6167104fbf4f91.dwarfpool.com
 0.0.0.0 eth-hk.dwarfpool.com
@@ -4898,7 +4894,6 @@
 0.0.0.0 gw.minerpool.net
 0.0.0.0 gw.nanopool.org
 0.0.0.0 gx.btcc.com
-0.0.0.0 h-8.btcc.com
 0.0.0.0 h-eu1.nanopool.org
 0.0.0.0 h.nanopool.org
 0.0.0.0 h0.btcc.com
@@ -8687,7 +8682,6 @@
 0.0.0.0 mtip.gonspool.com
 0.0.0.0 mtr.leafpool.com
 0.0.0.0 mtred.com
-0.0.0.0 mu0.btcc.com
 0.0.0.0 mue.coinmine.pw
 0.0.0.0 multi.communitypool.org
 0.0.0.0 multi.extremehash.io
@@ -10265,7 +10259,6 @@
 0.0.0.0 pool.goldennoncepool.com
 0.0.0.0 pool.gonspool.com
 0.0.0.0 pool.gpuhot.com
-0.0.0.0 pool.gpumining.ir
 0.0.0.0 pool.graft.community
 0.0.0.0 pool.graft.hashnetwork.net
 0.0.0.0 pool.gravitycoin.io
@@ -16055,7 +16048,6 @@
 0.0.0.0 zlx.com.br
 0.0.0.0 zmb.coincave.nl
 0.0.0.0 zminer.zaloapp.com
-0.0.0.0 zn.btcc.com
 0.0.0.0 znr.nanopool.org
 0.0.0.0 zny.eu.mofumofu.me
 0.0.0.0 zny.jp.mofumofu.me

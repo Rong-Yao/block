@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://sbc.io/hosts/hosts
 # Last Converted - 26.02.2020
-# Total Domains - 35903
+# Total Domains - 35897
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -19564,7 +19564,6 @@
 0.0.0.0 myfreemp3player.com
 0.0.0.0 myfukbuddy.com
 0.0.0.0 myfuncards.com
-0.0.0.0 mygiftresource.com
 0.0.0.0 mygreatrewards.com
 0.0.0.0 myinfotopia.com
 0.0.0.0 myjustyworld.pl
@@ -21842,7 +21841,6 @@
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.openx.com
 0.0.0.0 platinumprestige.pl
-0.0.0.0 platnosc.paczka-48.com
 0.0.0.0 plavix.shengen.ru
 0.0.0.0 play-tube.pl
 0.0.0.0 play.appiq.mobi
@@ -25120,7 +25118,6 @@
 0.0.0.0 sinclair-tagan.adlightning.com
 0.0.0.0 sindirect.adsrvr.org
 0.0.0.0 sinera.org
-0.0.0.0 sinettrk.com
 0.0.0.0 sinfb.adsrvr.org
 0.0.0.0 single.upsight-api.com
 0.0.0.0 singular-cy.com
@@ -33410,7 +33407,6 @@
 0.0.0.0 www.oz-offers.com
 0.0.0.0 www.ozebox.pl
 0.0.0.0 www.pacyfka99.pl
-0.0.0.0 www.paczka-48.com
 0.0.0.0 www.pagepeel.ero-advertising.com
 0.0.0.0 www.pagerank10.co.uk
 0.0.0.0 www.paifi.net
@@ -33532,7 +33528,6 @@
 0.0.0.0 www.placidocn.com
 0.0.0.0 www.plainsviewfarm.com
 0.0.0.0 www.plarium.com
-0.0.0.0 www.platnosc.paczka-48.com
 0.0.0.0 www.play-tube.pl
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.playamo.com
@@ -33556,7 +33551,6 @@
 0.0.0.0 www.plikson.pl
 0.0.0.0 www.pljestnaj.pl
 0.0.0.0 www.ploskonax.com
-0.0.0.0 www.plpocztex.org
 0.0.0.0 www.plumsoftware.co.uk
 0.0.0.0 www.plustokenofficial.com
 0.0.0.0 www.plwash.pl

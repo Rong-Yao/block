@@ -26,10 +26,10 @@
 # Format: hosts
 # Version: 20.02.057
 # Release: 057
-# Entries: 121,844
+# Entries: 121,836
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 00:11:00
+# Updated: Wed, 26 Feb 20 06:10:30
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/hosts
 # --------------------------------------------
 #
@@ -481,7 +481,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 119ye.com
 0.0.0.0 11a19.btcc.com
 0.0.0.0 11bet.com
-0.0.0.0 11cec.btcc.com
 0.0.0.0 11f976743800.com
 0.0.0.0 11g8i3147k2123.btcc.com
 0.0.0.0 11hour.com
@@ -1193,7 +1192,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 21.video-ak.cdn.spotify.com
 0.0.0.0 210-167.btcc.com
 0.0.0.0 210-195.btcc.com
-0.0.0.0 211-149.btcc.com
 0.0.0.0 21104.engine.mobileapptracking.com
 0.0.0.0 21150.com
 0.0.0.0 212-208.btcc.com
@@ -10443,6 +10441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 agreeablestew.com
 0.0.0.0 agreeabletouch.com
 0.0.0.0 agreemand.com
+0.0.0.0 agreenikeru.site
 0.0.0.0 agreensdistra.info
 0.0.0.0 agricolamarsole.com
 0.0.0.0 agricoletrade.com
@@ -37416,7 +37415,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 et-code.ru
 0.0.0.0 et-z.btcc.com
 0.0.0.0 et.asapparis.com
-0.0.0.0 et.btcc.com
 0.0.0.0 et.kissmetrics.com
 0.0.0.0 et.mobadvent.com
 0.0.0.0 et.nanopool.org
@@ -37588,7 +37586,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eth-eu3.nanopool.org
 0.0.0.0 eth-eu4.nanopool.org
 0.0.0.0 eth-f1108a6079a5ffeb.dwarfpool.com
-0.0.0.0 eth-f3c897eb710faa7d.dwarfpool.com
 0.0.0.0 eth-fb593c3cf9505a35.dwarfpool.com
 0.0.0.0 eth-ff6167104fbf4f91.dwarfpool.com
 0.0.0.0 eth-give.net
@@ -37884,6 +37881,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etuihxnhuxrofl.com
 0.0.0.0 eturkcell.netmera.com
+0.0.0.0 etvgjkyo.com
 0.0.0.0 etvtabeas.com
 0.0.0.0 etwgydlbl.bid
 0.0.0.0 etxbcbdhf.com
@@ -46180,7 +46178,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gzxxzy.com
 0.0.0.0 gzyddiyiyme.bid
 0.0.0.0 gzzctcekf.com
-0.0.0.0 h-8.btcc.com
 0.0.0.0 h-adachi.org
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
@@ -67341,7 +67338,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtysahmkqqdo.com
 0.0.0.0 mtzddtrs.com
 0.0.0.0 mtzszlpypbxjm.com
-0.0.0.0 mu0.btcc.com
 0.0.0.0 muagjoxfew.com
 0.0.0.0 muahohanghoa.com
 0.0.0.0 muamusic.com
@@ -67976,7 +67972,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 myfundeals.com
 0.0.0.0 mygamehack.com
 0.0.0.0 mygamersarena.com
-0.0.0.0 mygiftresource.com
 0.0.0.0 mygit.burstcoin.ro
 0.0.0.0 mygoodlives.com
 0.0.0.0 mygreatrewards.com
@@ -73697,6 +73692,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 owebmoney.ru
 0.0.0.0 oweborangemmssms.000webhostapp.com
 0.0.0.0 owejzckyioic.com
+0.0.0.0 oweverycanvas.info
 0.0.0.0 owhacks.com
 0.0.0.0 owiink.com
 0.0.0.0 owin.biqugego.com
@@ -76985,7 +76981,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 platinumindustrialcoatings.com
 0.0.0.0 platinummotionmedia.com
 0.0.0.0 platinumprestige.pl
-0.0.0.0 platnosc.paczka-48.com
 0.0.0.0 plattform.deruwia.de
 0.0.0.0 plavix.shengen.ru
 0.0.0.0 play-baidu.rayjump.com
@@ -77666,7 +77661,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 pool.goldennoncepool.com
 0.0.0.0 pool.gonspool.com
 0.0.0.0 pool.gpuhot.com
-0.0.0.0 pool.gpumining.ir
 0.0.0.0 pool.graft.community
 0.0.0.0 pool.graft.hashnetwork.net
 0.0.0.0 pool.gravitycoin.io
@@ -80559,6 +80553,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 qgdqujzzs.com
 0.0.0.0 qgeglsnoxk.com
 0.0.0.0 qgevavwyafjf.com
+0.0.0.0 qggcjrrjvlif.com
 0.0.0.0 qgggccolqyi.bid
 0.0.0.0 qghirkrh.bid
 0.0.0.0 qghsnamd.bid
@@ -88448,7 +88443,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sindirect.adsrvr.org
 0.0.0.0 sinefight-skinesia.com
 0.0.0.0 sinera.org
-0.0.0.0 sinettrk.com
 0.0.0.0 sinfb.adsrvr.org
 0.0.0.0 sing.v2.dedicatedpool.com
 0.0.0.0 singapore.hub.semipool.com
@@ -94668,6 +94662,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 taniobutyreebok.pl
 0.0.0.0 tanishajewels.com
 0.0.0.0 tanitimberlandbuty.pl
+0.0.0.0 tankeuro.com
 0.0.0.0 tankhoi.vn
 0.0.0.0 tanki.best-hacks.net
 0.0.0.0 tanki.burstcoin.me
@@ -100768,6 +100763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 ucozssymgw.com
 0.0.0.0 ucptqdmerltn.com
+0.0.0.0 ucretius-ada.com
 0.0.0.0 ucrsowje.com
 0.0.0.0 ucrypto.net
 0.0.0.0 ucs01.engageya.com
@@ -114292,7 +114288,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.p3322.com
 0.0.0.0 www.p33844.clksite.com
 0.0.0.0 www.pacyfka99.pl
-0.0.0.0 www.paczka-48.com
 0.0.0.0 www.padirsaze.com
 0.0.0.0 www.pagechoice.net
 0.0.0.0 www.pagefair.com
@@ -114554,7 +114549,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.plantengineer.biz
 0.0.0.0 www.plarium.com
 0.0.0.0 www.plastic-wiremesh.com
-0.0.0.0 www.platnosc.paczka-48.com
 0.0.0.0 www.play-top.mobi
 0.0.0.0 www.play-tube.pl
 0.0.0.0 www.play.leadzu.com
@@ -114590,7 +114584,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pljestnaj.pl
 0.0.0.0 www.ploskas.gr
 0.0.0.0 www.ploskonax.com
-0.0.0.0 www.plpocztex.org
 0.0.0.0 www.plpool.org
 0.0.0.0 www.plt.cryptominer.net
 0.0.0.0 www.plumbntile.talktalk.net
@@ -121501,7 +121494,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zmt100.com
 0.0.0.0 zmujsnyzujuy.com
 0.0.0.0 zmutugjqvia.com
-0.0.0.0 zn.btcc.com
 0.0.0.0 zn0gukjd7tjtqjzrh-dtts.siteintercept.qualtrics.com
 0.0.0.0 znacktv.it
 0.0.0.0 znajdz-numer.pl

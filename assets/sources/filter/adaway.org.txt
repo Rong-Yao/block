@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://adaway.org/hosts.txt
 # Last Converted - 26.02.2020
-# Total Domains - 11042
+# Total Domains - 11041
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -10442,7 +10442,6 @@
 0.0.0.0 usatodaysports-d.openx.net
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 uscollector.tealeaf.ibmcloud.com
-0.0.0.0 use-application-dns.net
 0.0.0.0 use-data.adsrvr.org
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use-tr01.fuse-ad.com

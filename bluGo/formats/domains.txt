@@ -26,10 +26,10 @@
 # Format: domain list
 # Version: 20.02.057
 # Release: 057
-# Entries: 121,844
+# Entries: 121,836
 # Pack Code: E8LUG0-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 00:11:00
+# Updated: Wed, 26 Feb 20 06:10:30
 # RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/domains.txt
 # --------------------------------------------
 #
@@ -462,7 +462,6 @@
 119ye.com
 11a19.btcc.com
 11bet.com
-11cec.btcc.com
 11f976743800.com
 11g8i3147k2123.btcc.com
 11hour.com
@@ -1174,7 +1173,6 @@
 21.video-ak.cdn.spotify.com
 210-167.btcc.com
 210-195.btcc.com
-211-149.btcc.com
 21104.engine.mobileapptracking.com
 21150.com
 212-208.btcc.com
@@ -10424,6 +10422,7 @@ agreeableprice.com
 agreeablestew.com
 agreeabletouch.com
 agreemand.com
+agreenikeru.site
 agreensdistra.info
 agricolamarsole.com
 agricoletrade.com
@@ -37397,7 +37396,6 @@ et-cod.com
 et-code.ru
 et-z.btcc.com
 et.asapparis.com
-et.btcc.com
 et.kissmetrics.com
 et.mobadvent.com
 et.nanopool.org
@@ -37569,7 +37567,6 @@ eth-eu.nanopool.org
 eth-eu3.nanopool.org
 eth-eu4.nanopool.org
 eth-f1108a6079a5ffeb.dwarfpool.com
-eth-f3c897eb710faa7d.dwarfpool.com
 eth-fb593c3cf9505a35.dwarfpool.com
 eth-ff6167104fbf4f91.dwarfpool.com
 eth-give.net
@@ -37865,6 +37862,7 @@ etuch.cn
 etui.fs.ml.com
 etuihxnhuxrofl.com
 eturkcell.netmera.com
+etvgjkyo.com
 etvtabeas.com
 etwgydlbl.bid
 etxbcbdhf.com
@@ -46161,7 +46159,6 @@ gzxjfkhwvhwfzr.com
 gzxxzy.com
 gzyddiyiyme.bid
 gzzctcekf.com
-h-8.btcc.com
 h-adachi.org
 h-adashx.ut.taobao.com
 h-adashx4ae.ut.taobao.com
@@ -67322,7 +67319,6 @@ mtyqtczr.bid
 mtysahmkqqdo.com
 mtzddtrs.com
 mtzszlpypbxjm.com
-mu0.btcc.com
 muagjoxfew.com
 muahohanghoa.com
 muamusic.com
@@ -67957,7 +67953,6 @@ myfuncards.com
 myfundeals.com
 mygamehack.com
 mygamersarena.com
-mygiftresource.com
 mygit.burstcoin.ro
 mygoodlives.com
 mygreatrewards.com
@@ -73678,6 +73673,7 @@ owdominikana.pl
 owebmoney.ru
 oweborangemmssms.000webhostapp.com
 owejzckyioic.com
+oweverycanvas.info
 owhacks.com
 owiink.com
 owin.biqugego.com
@@ -76966,7 +76962,6 @@ platinumfilms.co.uk
 platinumindustrialcoatings.com
 platinummotionmedia.com
 platinumprestige.pl
-platnosc.paczka-48.com
 plattform.deruwia.de
 plavix.shengen.ru
 play-baidu.rayjump.com
@@ -77647,7 +77642,6 @@ pool.gold
 pool.goldennoncepool.com
 pool.gonspool.com
 pool.gpuhot.com
-pool.gpumining.ir
 pool.graft.community
 pool.graft.hashnetwork.net
 pool.gravitycoin.io
@@ -80540,6 +80534,7 @@ qgcliwoxgdptz.com
 qgdqujzzs.com
 qgeglsnoxk.com
 qgevavwyafjf.com
+qggcjrrjvlif.com
 qgggccolqyi.bid
 qghirkrh.bid
 qghsnamd.bid
@@ -88429,7 +88424,6 @@ sinder9.com
 sindirect.adsrvr.org
 sinefight-skinesia.com
 sinera.org
-sinettrk.com
 sinfb.adsrvr.org
 sing.v2.dedicatedpool.com
 singapore.hub.semipool.com
@@ -94649,6 +94643,7 @@ tanio-najtaniej.com
 taniobutyreebok.pl
 tanishajewels.com
 tanitimberlandbuty.pl
+tankeuro.com
 tankhoi.vn
 tanki.best-hacks.net
 tanki.burstcoin.me
@@ -100749,6 +100744,7 @@ uconnect.tealiumiq.com
 ucounter.ucoz.net
 ucozssymgw.com
 ucptqdmerltn.com
+ucretius-ada.com
 ucrsowje.com
 ucrypto.net
 ucs01.engageya.com
@@ -114273,7 +114269,6 @@ www.p2pools.us
 www.p3322.com
 www.p33844.clksite.com
 www.pacyfka99.pl
-www.paczka-48.com
 www.padirsaze.com
 www.pagechoice.net
 www.pagefair.com
@@ -114535,7 +114530,6 @@ www.plantationgalleries.com
 www.plantengineer.biz
 www.plarium.com
 www.plastic-wiremesh.com
-www.platnosc.paczka-48.com
 www.play-top.mobi
 www.play-tube.pl
 www.play.leadzu.com
@@ -114571,7 +114565,6 @@ www.plikson.pl
 www.pljestnaj.pl
 www.ploskas.gr
 www.ploskonax.com
-www.plpocztex.org
 www.plpool.org
 www.plt.cryptominer.net
 www.plumbntile.talktalk.net
@@ -121482,7 +121475,6 @@ zmpvyyey.com
 zmt100.com
 zmujsnyzujuy.com
 zmutugjqvia.com
-zn.btcc.com
 zn0gukjd7tjtqjzrh-dtts.siteintercept.qualtrics.com
 znacktv.it
 znajdz-numer.pl

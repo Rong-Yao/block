@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.057
 ; Release: 057
-; Entries: 63,715
+; Entries: 63,740
 ; Pack Code: EXR3G1094L-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 26 Feb 20 00:15:33
+; Updated: Wed, 26 Feb 20 06:14:50
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/extensions/regional/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -4868,6 +4868,7 @@ agrammemarg.info CNAME .
 agranis.ru CNAME .
 agrantsem.com CNAME .
 agreeableprice.com CNAME .
+agreenikeru.site CNAME .
 agreensdistra.info CNAME .
 agro.net.ru CNAME .
 agroday.com.ua CNAME .
@@ -5897,6 +5898,7 @@ areasnap.com CNAME .
 areataruhan.com CNAME .
 arenajudi.com CNAME .
 arescadon.com CNAME .
+areyouabot.net CNAME .
 areyouahuman.com CNAME .
 arfeservation.info CNAME .
 arfmdqwyztn.com CNAME .
@@ -7859,6 +7861,7 @@ bo.facesbet.com CNAME .
 boaarkcam.com CNAME .
 boaawvdg.com CNAME .
 boacheeb.com CNAME .
+boafabie.com CNAME .
 boardx.huanqiu.com CNAME .
 boashesu.net CNAME .
 boat2.info CNAME .
@@ -9445,6 +9448,7 @@ choolslot.info CNAME .
 choongou.com CNAME .
 choorgiw.net CNAME .
 choose-a-lady.biz CNAME .
+chootsod.net CNAME .
 chopstick16.com CNAME .
 chordeez.net CNAME .
 chouftak.net CNAME .
@@ -10360,6 +10364,7 @@ cosmowomans.ru CNAME .
 cosoyoo.com CNAME .
 costaction.com CNAME .
 cotatii.tradeville.eu CNAME .
+cotchaug.com CNAME .
 cotlasweb.in CNAME .
 cotnr.com CNAME .
 cottawa.info CNAME .
@@ -14095,6 +14100,7 @@ ettalhap.com CNAME .
 ettamscqyvocxz.com CNAME .
 ettournalurgerap.info CNAME .
 etuihxnhuxrofl.com CNAME .
+etvgjkyo.com CNAME .
 etvtabeas.com CNAME .
 etwinternational.ru CNAME .
 etwun.com CNAME .
@@ -15182,6 +15188,7 @@ fnytdllpzdv.com CNAME .
 foagoasu.net CNAME .
 foaks.com CNAME .
 foamybox.com CNAME .
+foastail.net CNAME .
 foavistu.net CNAME .
 foazasis.com CNAME .
 fobise.ru CNAME .
@@ -15291,6 +15298,7 @@ fotoompi.com CNAME .
 fotooplata.ru CNAME .
 fotos.ua CNAME .
 fotoviagra.ru CNAME .
+fotsaulr.net CNAME .
 fotw.xyz CNAME .
 fouas.com CNAME .
 foulsa.com CNAME .
@@ -16485,6 +16493,7 @@ gleersoo.net CNAME .
 gleetait.net CNAME .
 glenoldencedarburg.com CNAME .
 glenviewexcello.com CNAME .
+glerteeb.com CNAME .
 gletaums.net CNAME .
 glfiivzom.com CNAME .
 glfqztlzebamqw.com CNAME .
@@ -18095,6 +18104,7 @@ hoood.info CNAME .
 hooraico.com CNAME .
 hoortols.org CNAME .
 hoosorie.com CNAME .
+hoozique.net CNAME .
 hopdream.com CNAME .
 hopedac.com CNAME .
 hopfeed.com CNAME .
@@ -20034,6 +20044,7 @@ jednyqbb.com CNAME .
 jee1qz.site CNAME .
 jeegopte.com CNAME .
 jeeh7eet.com CNAME .
+jeejujou.net CNAME .
 jeekeglu.net CNAME .
 jeepyy.com CNAME .
 jeeshapi.net CNAME .
@@ -20330,6 +20341,7 @@ jmu1eqxppr.space CNAME .
 jmu5qvx.com CNAME .
 jmu5qvx.info CNAME .
 jmxecxpqq.com CNAME .
+jmxjqlagfwz.com CNAME .
 jmxlaser.com CNAME .
 jmxphjxsxd.com CNAME .
 jndczg.com CNAME .
@@ -24339,6 +24351,7 @@ mieyisi.com CNAME .
 mifxolavi.com CNAME .
 might-stay.info CNAME .
 mightiger.net CNAME .
+mignoops.net CNAME .
 mignpaybmqkcy.com CNAME .
 migrandof.com CNAME .
 mihqbmugg.com CNAME .
@@ -27881,6 +27894,7 @@ owebmoney.ru CNAME .
 oweer.com CNAME .
 owejzckyioic.com CNAME .
 owensborowaltonville.com CNAME .
+oweverycanvas.info CNAME .
 owjoflavzaerby.com CNAME .
 owkbqoby.com CNAME .
 owlads.io CNAME .
@@ -28641,6 +28655,7 @@ pgymbgnabv.bid CNAME .
 phabsoun.net CNAME .
 phagia.com.vn CNAME .
 phaihoaw.net CNAME .
+phaikroo.net CNAME .
 phaimtol.net CNAME .
 phalata.info CNAME .
 phalrait.com CNAME .
@@ -30065,6 +30080,7 @@ ptlkt.ru CNAME .
 ptmzr.com CNAME .
 ptnaubegfbbtwe.com CNAME .
 pto.awecr.com CNAME .
+ptoafauz.net CNAME .
 ptocmaux.com CNAME .
 ptoflpqqqkdk.com CNAME .
 ptogheeb.net CNAME .
@@ -30269,6 +30285,7 @@ pushcentr.com CNAME .
 pushdom.co CNAME .
 pushdusk.com CNAME .
 pusheds.info CNAME .
+pushego.com CNAME .
 pusheify.com CNAME .
 pushelf.info CNAME .
 pushell.info CNAME .
@@ -30747,6 +30764,7 @@ qgdqujzzs.com CNAME .
 qgdzy.top CNAME .
 qgeglsnoxk.com CNAME .
 qgevavwyafjf.com CNAME .
+qggcjrrjvlif.com CNAME .
 qgggccolqyi.bid CNAME .
 qghirkrh.bid CNAME .
 qghsnamd.bid CNAME .
@@ -32553,6 +32571,7 @@ rs.mail.ru CNAME .
 rsafind.co.za CNAME .
 rsalcch.com CNAME .
 rsalcdp.com CNAME .
+rsalchk.com CNAME .
 rsasearch.co.za CNAME .
 rsbblrpnjxgsk.com CNAME .
 rsbvygxdsevaw.com CNAME .
@@ -33412,6 +33431,7 @@ sefire.eu CNAME .
 sefortme.pro CNAME .
 segamen.ru CNAME .
 segmentify.com CNAME .
+segodnia.club CNAME .
 segodnia.space CNAME .
 seguro.via-rs.net CNAME .
 sehiba.com CNAME .
@@ -33748,6 +33768,7 @@ shacupwelhehqc.com CNAME .
 shaexowi.com CNAME .
 shahneman.info CNAME .
 shailsie.net CNAME .
+shaimsoo.net CNAME .
 shaiptuk.net CNAME .
 shakamech.com CNAME .
 shakescash.com CNAME .
@@ -35340,6 +35361,7 @@ superrstar.services CNAME .
 superseksi.pw CNAME .
 supersitetime.com CNAME .
 supersmi.cf CNAME .
+supersmi.ga CNAME .
 supersmsoffers.com CNAME .
 supersonicads-a.akamaihd.net CNAME .
 supersonicads.com CNAME .
@@ -35759,6 +35781,7 @@ tangkaspoker.com CNAME .
 tango-deg.com CNAME .
 tangoutianxia.com CNAME .
 tangozebra.com CNAME .
+tankeuro.com CNAME .
 tanlitthisdint.ru CNAME .
 tannelssepara.info CNAME .
 tantella.com CNAME .
@@ -36328,6 +36351,7 @@ thoodsoy.net CNAME .
 thoojoub.com CNAME .
 thookour.com CNAME .
 thoonsie.click CNAME .
+thoorest.com CNAME .
 thor-media.ru CNAME .
 thor-t.com CNAME .
 thor-z.com CNAME .
@@ -37944,6 +37968,7 @@ uclo.net CNAME .
 uclylhzwg.com CNAME .
 ucounter.ucoz.net CNAME .
 ucozssymgw.com CNAME .
+ucretius-ada.com CNAME .
 ucretsiz-indirin.online CNAME .
 ucrsowje.com CNAME .
 ucrzgcs.cn CNAME .

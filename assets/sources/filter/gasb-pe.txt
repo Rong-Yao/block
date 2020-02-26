@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://energized.pro/mirror/gasb-pe.txt
 # Last Converted - 26.02.2020
-# Total Domains - 44489
+# Total Domains - 44485
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -29457,7 +29457,6 @@
 0.0.0.0 stacystaxx.com
 0.0.0.0 stael.ru
 0.0.0.0 stafsoft.com
-0.0.0.0 stage.adsnative.com
 0.0.0.0 stage.bittrex.com
 0.0.0.0 stage.bluemountain.com
 0.0.0.0 stage.breadapp.com
@@ -36040,7 +36039,6 @@
 0.0.0.0 www.coolwwwsearch.com
 0.0.0.0 www.copay.io
 0.0.0.0 www.copyop-ads.com
-0.0.0.0 www.copzilla.com
 0.0.0.0 www.coral.dk
 0.0.0.0 www.coremetrics.net
 0.0.0.0 www.cornerband.com
@@ -38275,7 +38273,6 @@
 0.0.0.0 www.instantmessagingplanet.com
 0.0.0.0 www.instantsearch.cc
 0.0.0.0 www.insticator.com
-0.0.0.0 www.insuranceall.net
 0.0.0.0 www.intelacast.com
 0.0.0.0 www.intelisearch.org
 0.0.0.0 www.intelli-direct.com
@@ -44446,7 +44443,6 @@
 0.0.0.0 zoobay.ourtoolbar.com
 0.0.0.0 zoodrawings.com
 0.0.0.0 zoofil.com
-0.0.0.0 zoogdinsy.com
 0.0.0.0 zoogdisany.com
 0.0.0.0 zoogdiseny.com
 0.0.0.0 zoogdisny.com

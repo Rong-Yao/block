@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - http://someonewhocares.org/hosts/hosts
 # Last Converted - 26.02.2020
-# Total Domains - 6156
+# Total Domains - 6155
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -3437,7 +3437,6 @@
 0.0.0.0 myfamilyancestry.112.2o7.net
 0.0.0.0 myfreemp3player.com
 0.0.0.0 myfuncards.com
-0.0.0.0 mygiftresource.com
 0.0.0.0 mygreatrewards.com
 0.0.0.0 mymediarecommendations.com
 0.0.0.0 myonline2018softwarefree.win

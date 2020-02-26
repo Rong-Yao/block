@@ -26,10 +26,10 @@
 # Format: hosts IPV6
 # Version: 20.02.057
 # Release: 057
-# Entries: 61,383
+# Entries: 61,387
 # Pack Code: E5P4RK-P
 # License: MIT, https://energized.pro/license
-# Updated: Wed, 26 Feb 20 00:10:54
+# Updated: Wed, 26 Feb 20 06:10:26
 # RAW: https://github.com/EnergizedProtection/block/raw/master/spark/formats/hosts-ipv6.txt
 # --------------------------------------------
 #
@@ -7016,6 +7016,7 @@ ff02::3 ip6-allhosts
 :: agreeableprice.com
 :: agreeablestew.com
 :: agreemand.com
+:: agreenikeru.site
 :: agreensdistra.info
 :: agroeconom.kz
 :: agrogenera.es
@@ -20833,6 +20834,7 @@ ff02::3 ip6-allhosts
 :: ettournalurgerap.info
 :: etuihxnhuxrofl.com
 :: eturkcell.netmera.com
+:: etvgjkyo.com
 :: etxbcbdhf.com
 :: etyxitxlvqp.com
 :: etzyzocznjd.com
@@ -28598,6 +28600,7 @@ ff02::3 ip6-allhosts
 :: jmtitdorwfxe.com
 :: jmvjmgofvxnu.com
 :: jmxecxpqq.com
+:: jmxjqlagfwz.com
 :: jmxjwyqnelvzwu.com
 :: jmxphjxsxd.com
 :: jn.redirectme.net
@@ -34446,7 +34449,6 @@ ff02::3 ip6-allhosts
 :: myfreemp3player.com
 :: myfukbuddy.com
 :: myfuncards.com
-:: mygiftresource.com
 :: mygoodlives.com
 :: mygreatrewards.com
 :: myimg.bid
@@ -37487,6 +37489,7 @@ ff02::3 ip6-allhosts
 :: owdojmypl.com
 :: owebmoney.ru
 :: owejzckyioic.com
+:: oweverycanvas.info
 :: owiink.com
 :: owjoflavzaerby.com
 :: owkbqoby.com
@@ -41405,6 +41408,7 @@ ff02::3 ip6-allhosts
 :: qgdqujzzs.com
 :: qgeglsnoxk.com
 :: qgevavwyafjf.com
+:: qggcjrrjvlif.com
 :: qgggccolqyi.bid
 :: qghirkrh.bid
 :: qghsnamd.bid
@@ -45746,7 +45750,6 @@ ff02::3 ip6-allhosts
 :: sindirect.adsrvr.org
 :: sinefight-skinesia.com
 :: sinera.org
-:: sinettrk.com
 :: sinfb.adsrvr.org
 :: single.upsight-api.com
 :: singlesday.site
@@ -48722,6 +48725,7 @@ ff02::3 ip6-allhosts
 :: tanieaukcje.com
 :: taniezakupy.pl
 :: tanio-najtaniej.com
+:: tankeuro.com
 :: tannelssepara.info
 :: tantametinwass.pro
 :: tantella.com
@@ -52440,6 +52444,7 @@ ff02::3 ip6-allhosts
 :: uconnect.tealiumiq.com
 :: ucounter.ucoz.net
 :: ucozssymgw.com
+:: ucretius-ada.com
 :: ucrsowje.com
 :: ucrypto.net
 :: ucs01.engageya.com
@@ -53151,7 +53156,6 @@ ff02::3 ip6-allhosts
 :: usdlgonjnzpu.com
 :: usdm.122.2o7.net
 :: usdpdown.game.uodoo.com
-:: use-application-dns.net
 :: use-data.adsrvr.org
 :: use-sync.adhese.com
 :: use-sync.adhese.com				

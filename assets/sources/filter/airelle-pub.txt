@@ -2,7 +2,7 @@
 # Builds Maintainer: Nayem Ador - nayemador.com
 # Converted From - https://raw.githubusercontent.com/EnergizedProtection/block/master/assets/mirror/airelle-pub.txt
 # Last Converted - 26.02.2020
-# Total Domains - 56488
+# Total Domains - 56487
 # Energized Protection - ad.porn.malware blocking.
 # https://energized.pro
 # License: MIT; https://energized.pro/license
@@ -38183,7 +38183,6 @@
 0.0.0.0 myfreecursors.com
 0.0.0.0 myfreepaysite.com
 0.0.0.0 mygaylinks.net
-0.0.0.0 mygiftresource.com
 0.0.0.0 mygoldenticket.com
 0.0.0.0 mygooglesearch.ourtoolbar.com
 0.0.0.0 mygreatrewards.com

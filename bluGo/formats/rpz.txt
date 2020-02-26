@@ -26,10 +26,10 @@
 ; Format: rpz
 ; Version: 20.02.057
 ; Release: 057
-; Entries: 121,844
+; Entries: 121,836
 ; Pack Code: E8LUG0-P
 ; License: MIT, https://energized.pro/license
-; Updated: Wed, 26 Feb 20 00:11:00
+; Updated: Wed, 26 Feb 20 06:10:30
 ; RAW: https://github.com/EnergizedProtection/block/raw/master/bluGo/formats/rpz.txt
 ; --------------------------------------------
 ;
@@ -470,7 +470,6 @@ $TTL 2h
 119ye.com CNAME .
 11a19.btcc.com CNAME .
 11bet.com CNAME .
-11cec.btcc.com CNAME .
 11f976743800.com CNAME .
 11g8i3147k2123.btcc.com CNAME .
 11hour.com CNAME .
@@ -1182,7 +1181,6 @@ $TTL 2h
 21.video-ak.cdn.spotify.com CNAME .
 210-167.btcc.com CNAME .
 210-195.btcc.com CNAME .
-211-149.btcc.com CNAME .
 21104.engine.mobileapptracking.com CNAME .
 21150.com CNAME .
 212-208.btcc.com CNAME .
@@ -10432,6 +10430,7 @@ agreeableprice.com CNAME .
 agreeablestew.com CNAME .
 agreeabletouch.com CNAME .
 agreemand.com CNAME .
+agreenikeru.site CNAME .
 agreensdistra.info CNAME .
 agricolamarsole.com CNAME .
 agricoletrade.com CNAME .
@@ -37405,7 +37404,6 @@ et-cod.com CNAME .
 et-code.ru CNAME .
 et-z.btcc.com CNAME .
 et.asapparis.com CNAME .
-et.btcc.com CNAME .
 et.kissmetrics.com CNAME .
 et.mobadvent.com CNAME .
 et.nanopool.org CNAME .
@@ -37577,7 +37575,6 @@ eth-eu.nanopool.org CNAME .
 eth-eu3.nanopool.org CNAME .
 eth-eu4.nanopool.org CNAME .
 eth-f1108a6079a5ffeb.dwarfpool.com CNAME .
-eth-f3c897eb710faa7d.dwarfpool.com CNAME .
 eth-fb593c3cf9505a35.dwarfpool.com CNAME .
 eth-ff6167104fbf4f91.dwarfpool.com CNAME .
 eth-give.net CNAME .
@@ -37873,6 +37870,7 @@ etuch.cn CNAME .
 etui.fs.ml.com CNAME .
 etuihxnhuxrofl.com CNAME .
 eturkcell.netmera.com CNAME .
+etvgjkyo.com CNAME .
 etvtabeas.com CNAME .
 etwgydlbl.bid CNAME .
 etxbcbdhf.com CNAME .
@@ -46169,7 +46167,6 @@ gzxjfkhwvhwfzr.com CNAME .
 gzxxzy.com CNAME .
 gzyddiyiyme.bid CNAME .
 gzzctcekf.com CNAME .
-h-8.btcc.com CNAME .
 h-adachi.org CNAME .
 h-adashx.ut.taobao.com CNAME .
 h-adashx4ae.ut.taobao.com CNAME .
@@ -67330,7 +67327,6 @@ mtyqtczr.bid CNAME .
 mtysahmkqqdo.com CNAME .
 mtzddtrs.com CNAME .
 mtzszlpypbxjm.com CNAME .
-mu0.btcc.com CNAME .
 muagjoxfew.com CNAME .
 muahohanghoa.com CNAME .
 muamusic.com CNAME .
@@ -67965,7 +67961,6 @@ myfuncards.com CNAME .
 myfundeals.com CNAME .
 mygamehack.com CNAME .
 mygamersarena.com CNAME .
-mygiftresource.com CNAME .
 mygit.burstcoin.ro CNAME .
 mygoodlives.com CNAME .
 mygreatrewards.com CNAME .
@@ -73686,6 +73681,7 @@ owdominikana.pl CNAME .
 owebmoney.ru CNAME .
 oweborangemmssms.000webhostapp.com CNAME .
 owejzckyioic.com CNAME .
+oweverycanvas.info CNAME .
 owhacks.com CNAME .
 owiink.com CNAME .
 owin.biqugego.com CNAME .
@@ -76974,7 +76970,6 @@ platinumfilms.co.uk CNAME .
 platinumindustrialcoatings.com CNAME .
 platinummotionmedia.com CNAME .
 platinumprestige.pl CNAME .
-platnosc.paczka-48.com CNAME .
 plattform.deruwia.de CNAME .
 plavix.shengen.ru CNAME .
 play-baidu.rayjump.com CNAME .
@@ -77655,7 +77650,6 @@ pool.gold CNAME .
 pool.goldennoncepool.com CNAME .
 pool.gonspool.com CNAME .
 pool.gpuhot.com CNAME .
-pool.gpumining.ir CNAME .
 pool.graft.community CNAME .
 pool.graft.hashnetwork.net CNAME .
 pool.gravitycoin.io CNAME .
@@ -80548,6 +80542,7 @@ qgcliwoxgdptz.com CNAME .
 qgdqujzzs.com CNAME .
 qgeglsnoxk.com CNAME .
 qgevavwyafjf.com CNAME .
+qggcjrrjvlif.com CNAME .
 qgggccolqyi.bid CNAME .
 qghirkrh.bid CNAME .
 qghsnamd.bid CNAME .
@@ -88437,7 +88432,6 @@ sinder9.com CNAME .
 sindirect.adsrvr.org CNAME .
 sinefight-skinesia.com CNAME .
 sinera.org CNAME .
-sinettrk.com CNAME .
 sinfb.adsrvr.org CNAME .
 sing.v2.dedicatedpool.com CNAME .
 singapore.hub.semipool.com CNAME .
@@ -94657,6 +94651,7 @@ tanio-najtaniej.com CNAME .
 taniobutyreebok.pl CNAME .
 tanishajewels.com CNAME .
 tanitimberlandbuty.pl CNAME .
+tankeuro.com CNAME .
 tankhoi.vn CNAME .
 tanki.best-hacks.net CNAME .
 tanki.burstcoin.me CNAME .
@@ -100757,6 +100752,7 @@ uconnect.tealiumiq.com CNAME .
 ucounter.ucoz.net CNAME .
 ucozssymgw.com CNAME .
 ucptqdmerltn.com CNAME .
+ucretius-ada.com CNAME .
 ucrsowje.com CNAME .
 ucrypto.net CNAME .
 ucs01.engageya.com CNAME .
@@ -114281,7 +114277,6 @@ www.p2pools.us CNAME .
 www.p3322.com CNAME .
 www.p33844.clksite.com CNAME .
 www.pacyfka99.pl CNAME .
-www.paczka-48.com CNAME .
 www.padirsaze.com CNAME .
 www.pagechoice.net CNAME .
 www.pagefair.com CNAME .
@@ -114543,7 +114538,6 @@ www.plantationgalleries.com CNAME .
 www.plantengineer.biz CNAME .
 www.plarium.com CNAME .
 www.plastic-wiremesh.com CNAME .
-www.platnosc.paczka-48.com CNAME .
 www.play-top.mobi CNAME .
 www.play-tube.pl CNAME .
 www.play.leadzu.com CNAME .
@@ -114579,7 +114573,6 @@ www.plikson.pl CNAME .
 www.pljestnaj.pl CNAME .
 www.ploskas.gr CNAME .
 www.ploskonax.com CNAME .
-www.plpocztex.org CNAME .
 www.plpool.org CNAME .
 www.plt.cryptominer.net CNAME .
 www.plumbntile.talktalk.net CNAME .
@@ -121490,7 +121483,6 @@ zmpvyyey.com CNAME .
 zmt100.com CNAME .
 zmujsnyzujuy.com CNAME .
 zmutugjqvia.com CNAME .
-zn.btcc.com CNAME .
 zn0gukjd7tjtqjzrh-dtts.siteintercept.qualtrics.com CNAME .
 znacktv.it CNAME .
 znajdz-numer.pl CNAME .
